@@ -1,0 +1,2225 @@
+[
+  {
+    "question": "Who was the first woman to sit on The United States Supreme Court?",
+    "a": "Susan B. Anthony",
+    "b": "Sally Ride",
+    "c": "Rose Bird",
+    "d": "Sandra Day O'Connor",
+    "answer": "d",
+    "id": "4iCkG0L2meu1WexN2aTH59bofQk"
+  },
+  {
+    "question": "Who invented the sewing machine?",
+    "a": "Thomas Edison",
+    "b": "Marc Singer",
+    "c": "Elias Howe",
+    "d": "Benjamin Franklin",
+    "answer": "c",
+    "id": "fGMWjh-iK57mPxfeR1DqvNGGJX8"
+  },
+  {
+    "question": "George Washington actually fathered how many children?",
+    "a": "0",
+    "b": "2",
+    "c": "6",
+    "d": "1",
+    "answer": "a",
+    "id": "3-eoh1uvOnpmBuXWKWb3xHLEpnc"
+  },
+  {
+    "question": "What is the modern name of the city once known as Constantinople?",
+    "a": "Naples",
+    "b": "Alexandria",
+    "c": "Cairo",
+    "d": "Istanbul",
+    "answer": "d",
+    "id": "ziIXy_30Agu_ffsJvSDrFQB3P2g"
+  },
+  {
+    "question": "Which of these companies has the most U.S. commercial outlets?",
+    "a": "Macy*s",
+    "b": "Radio Shack",
+    "c": "McDonald's",
+    "d": "Toys 'R' Us",
+    "answer": "b",
+    "id": "CcODIlWZT4WE19veeFppr9vM_dQ"
+  },
+  {
+    "question": "Who was the first American president actually impeached by Congress?",
+    "a": "Andrew Johnson",
+    "b": "Warren Harding",
+    "c": "Benedict Arnold",
+    "d": "Richard Nixon",
+    "answer": "a",
+    "id": "cVLV-WoMCAgaCptrjFSDJVdMbK0"
+  },
+  {
+    "question": "Who is credited with the saying, \"Tennis, anyone?\"?",
+    "a": "Humphrey Bogart",
+    "b": "Clark Gable",
+    "c": "Bill Cosby",
+    "d": "Katherine Hepburn",
+    "answer": "a",
+    "id": "aXMHqzOE4YayFP_Svu_RFdxk1Y0"
+  },
+  {
+    "question": "Before sportscasting, what was Howard Cosell's occupation?",
+    "a": "Lawyer",
+    "b": "Professional boxer",
+    "c": "Accountant",
+    "d": "Veterinarian",
+    "answer": "a",
+    "id": "Sl6TOwdtzfQRF-u6Pk1TIvEwjKI"
+  },
+  {
+    "question": "What country was the scene of the Israeli commando raid at Entebbe?",
+    "a": "Ethiopia",
+    "b": "Lebanon",
+    "c": "Uruguay",
+    "d": "Uganda",
+    "answer": "d",
+    "id": "_0-a8Mtx5xEWLL88oHeAWm4P0Hs"
+  },
+  {
+    "question": "Who covered the 1984 Democratic Convention for Playboy Magazine?",
+    "a": "Jimmy Carter",
+    "b": "Hunter S. Thompson",
+    "c": "Pierre Sallinger",
+    "d": "Ronald Reagan, Jr.",
+    "answer": "d",
+    "id": "RY-MzmOfLXdDRAxs_H_c41IZHlc"
+  },
+  {
+    "question": "Which of the following IS NOT a book written by Stephen King?",
+    "a": "Salem's Lot",
+    "b": "The Keep",
+    "c": "Carrie",
+    "d": "The Stand",
+    "answer": "b",
+    "id": "D6Lg2TP98ylj_ifM-sTzby-mkG0"
+  },
+  {
+    "question": "What's the most common name in the world?",
+    "a": "Joseph",
+    "b": "Chiang",
+    "c": "Sri",
+    "d": "Muhammad",
+    "answer": "d",
+    "id": "l7f0Y0b6vN7InBX0B_i_YrnDF70"
+  },
+  {
+    "question": "What camera was named after the sound of a clicking camera shutter",
+    "a": "Toshiba",
+    "b": "Nikon",
+    "c": "Kodak",
+    "d": "Polaroid",
+    "answer": "c",
+    "id": "0hK6cCM9PEC59YS1QkFu9GgEdJg"
+  },
+  {
+    "question": "Which U.S. president was nicknamed \"ole Rough & Ready\"?",
+    "a": "Teddy Roosevelt",
+    "b": "Warren G. Harding",
+    "c": "Zachary Taylor",
+    "d": "Millard Fillmore",
+    "answer": "c",
+    "id": "jBXJdkkoVy3YW8JSTU7-7gubTl0"
+  },
+  {
+    "question": "Who invented the \"Pet Rock\"?",
+    "a": "Nolan Bushnell",
+    "b": "Gary Dahl",
+    "c": "Alan Kay",
+    "d": "Steve Jobs",
+    "answer": "b",
+    "id": "yDnSpmKXdaWO1FfzzTjvSCch3yc"
+  },
+  {
+    "question": "Charles Manson was convicted of murdering which of these people?",
+    "a": "Roman Polanski",
+    "b": "Bianca Polanski",
+    "c": "Sharon Tate",
+    "d": "Jack Ruby",
+    "answer": "c",
+    "id": "_9EIF-vH94wxFCJPlnG_lfbrmzk"
+  },
+  {
+    "question": "Where was Bob Hope born?",
+    "a": "The United States",
+    "b": "England",
+    "c": "France",
+    "d": "New Zealand",
+    "answer": "b",
+    "id": "Us2M7L76pDsmh4npdxDXro0lkLA"
+  },
+  {
+    "question": "What was Mickey Mouse's original name?",
+    "a": "Steamboat Willie",
+    "b": "Mickey Mouse",
+    "c": "Marvin Mouse",
+    "d": "Mortimer Mouse",
+    "answer": "d",
+    "id": "2mJcSShXbR9cBGZEwm9JM7iv240"
+  },
+  {
+    "question": "U.S. Marines fought in Peking in 1900 what military campaign?",
+    "a": "The Boxer Rebellion",
+    "b": "The Boer Wars",
+    "c": "The Manchurian War",
+    "d": "The Bejing Conflict",
+    "answer": "a",
+    "id": "H7uix3n--MvheZmwW_t4gWbcVHA"
+  },
+  {
+    "question": "James Dean died as a result of...",
+    "a": "Cancer",
+    "b": "A motorcycle crash",
+    "c": "A car crash",
+    "d": "A fatal shooting",
+    "answer": "c",
+    "id": "VNQyQuQbbo3Y3xPSfcnQI0khAAY"
+  },
+  {
+    "question": "Sherlock Holmes was a fictional detective created by...",
+    "a": "Earl Stanly Gardner",
+    "b": "Edmund Dantes",
+    "c": "Agatha Christie",
+    "d": "Arthur Conan Doyle",
+    "answer": "d",
+    "id": "lQgkaivdtzXx2GM4PKs3U3MEO14"
+  },
+  {
+    "question": "Who built and flew \"The Spruce Goose\"?",
+    "a": "The Wright Brothers",
+    "b": "Charles Lindbergh",
+    "c": "Amelia Earhart",
+    "d": "Howard Hughes",
+    "answer": "d",
+    "id": "gktYQyDP-q1SwA2WTIECbnscF0w"
+  },
+  {
+    "question": "Who organized the NBC Symphony and was its first conductor?",
+    "a": "Doc Severinson",
+    "b": "Leonard Bernstein",
+    "c": "Arturo Toscannini",
+    "d": "Arthur Fiedler",
+    "answer": "c",
+    "id": "FBJbC6KkQRz79_t8pib6TZJk71I"
+  },
+  {
+    "question": "What state elected the first woman to Congress?",
+    "a": "Massachusetts",
+    "b": "California",
+    "c": "Montana",
+    "d": "West Virginia",
+    "answer": "c",
+    "id": "B0I9qw5KeEkd7qmmO_NtxHMqU-I"
+  },
+  {
+    "question": "Who was the first United States Secretary of State?",
+    "a": "Thomas Jefferson",
+    "b": "Thomas Seward",
+    "c": "Benjamin Franklin",
+    "d": "Quincy Adams",
+    "answer": "a",
+    "id": "jdJAKEwYAm9odNH0S8Gial9Vd6M"
+  },
+  {
+    "question": "What was the name of the woman who died at Chappaquiddick?",
+    "a": "Joan Kennedy",
+    "b": "Mary Jo Kopechne",
+    "c": "Sharon Tate",
+    "d": "Karen Silkwood",
+    "answer": "b",
+    "id": "qgiAFQf1xMC7QCw5KmaN5AvQco4"
+  },
+  {
+    "question": "Who was the lawyer who defended The Boston Strangler?",
+    "a": "F. Lee Bailey",
+    "b": "Melvin Bailey",
+    "c": "Gerry Spence",
+    "d": "Louis Nizer",
+    "answer": "a",
+    "id": "LW353HyN7-Nr_a77mrCIjWMBsXw"
+  },
+  {
+    "question": "The \"Simon\" of Simon & Schuster is the father of...",
+    "a": "Paul Simon",
+    "b": "Neil Simon",
+    "c": "Carly Simon",
+    "d": "William Simon",
+    "answer": "c",
+    "id": "sUqI90Q-bsod5CHSm0oPnfjWH3w"
+  },
+  {
+    "question": "Who was Woody Allen's first wife?",
+    "a": "Diane Keaton",
+    "b": "Louise Lasser",
+    "c": "Charlotte Rampling",
+    "d": "Harlene Rosen",
+    "answer": "d",
+    "id": "rlTFb7gGFCkuRjS0sqS_hLBv8DI"
+  },
+  {
+    "question": "The very first Minimum Wage law set the minimum hourly pay scale at...",
+    "a": "1.25 per hour",
+    "b": "1.00 per hour",
+    "c": "50 cents per hour",
+    "d": "25 cents per hour",
+    "answer": "d",
+    "id": "EoPqkQSlfLv2EXLsAKuCSSm1tlU"
+  },
+  {
+    "question": "When was the first Income Tax Witholding implemented?",
+    "a": "1916",
+    "b": "1943",
+    "c": "1950",
+    "d": "1936",
+    "answer": "b",
+    "id": "dDwnEOdL-s7j8riC0DRo8dkvS04"
+  },
+  {
+    "question": "Who said \"There's a sucker born every minute\"?",
+    "a": "Will Rogers",
+    "b": "Richard Nixon",
+    "c": "P.T. Barnum",
+    "d": "Henry Ford",
+    "answer": "c",
+    "id": "uYbinvMGJLm0dAodPyv-UMz3KI8"
+  },
+  {
+    "question": "Which of these persons smuggled documents out of Russia for the US",
+    "a": "John Wayne",
+    "b": "Efram Zimablist, Jr",
+    "c": "Harpo Marx",
+    "d": "Katherine Hepburn",
+    "answer": "c",
+    "id": "4KqNVs6ICqzkvWhoN-9pX1RVPZA"
+  },
+  {
+    "question": "Which of the following TV newsmen was a Rhodes Scholar?",
+    "a": "Howard K. Smith",
+    "b": "Peter Jennings",
+    "c": "Dan Rather",
+    "d": "none of the above",
+    "answer": "a",
+    "id": "N4q11s_87YNWxJwK_hWT70cFCrI"
+  },
+  {
+    "question": "What husband-wife team starred in \"A Turkey for the President\"?",
+    "a": "Ronald-Nancy Reagan",
+    "b": "Ozzie & Harriet",
+    "c": "Desi Arnaz & Lucy",
+    "d": "Burns & Allen",
+    "answer": "a",
+    "id": "-_sEeGYr7KEUBaAOYPjKPorkpFk"
+  },
+  {
+    "question": "Who is believed to have built the hanging gardens of Babylon?",
+    "a": "King Tut",
+    "b": "Nebuchadnezzar",
+    "c": "Alexander the Great",
+    "d": "Caesar",
+    "answer": "b",
+    "id": "5wCYc9zRDasUX83dC4cOLGxC5oE"
+  },
+  {
+    "question": "What country began the digging of the Panama Canal in 1882?",
+    "a": "The U.S.",
+    "b": "Mexico",
+    "c": "Panama",
+    "d": "France",
+    "answer": "d",
+    "id": "KkSxB64QpSxguaJMomHOKiOJkks"
+  },
+  {
+    "question": "What airline flew The China Clipper in 1935?",
+    "a": "TWA",
+    "b": "Pan-Am",
+    "c": "United Airlines",
+    "d": "Air Peking",
+    "answer": "b",
+    "id": "x0IcuF2ODMnQKeJukeqSgDPe24g"
+  },
+  {
+    "question": "In Roman mythology, who was the blacksmith of the gods?",
+    "a": "Vulcan",
+    "b": "Mercury",
+    "c": "Jove",
+    "d": "Titan",
+    "answer": "a",
+    "id": "hIL-mvCIBacHEl20V6hMGH78Cno"
+  },
+  {
+    "question": "How did The Lusitania sink?",
+    "a": "Iceberg",
+    "b": "Rammed by a ship",
+    "c": "Torpedoed",
+    "d": "Fire on board",
+    "answer": "c",
+    "id": "9zmIgEfhmE4G8_mplXH1aXBuhbk"
+  },
+  {
+    "question": "What was Paul Revere's occupation?",
+    "a": "Messenger",
+    "b": "Blacksmith",
+    "c": "Coppersmith",
+    "d": "Silversmith",
+    "answer": "d",
+    "id": "1OkDcPdUl1yFMHIx0VBDjHR-m7c"
+  },
+  {
+    "question": "From which country did the U.S. buy the Virgin Islands?",
+    "a": "Spain",
+    "b": "Denmark",
+    "c": "Lithuania",
+    "d": "Portugal",
+    "answer": "b",
+    "id": "DnEa9r8SXmnVRdPIQa2LLKstRHY"
+  },
+  {
+    "question": "What Milwaukee teenager grew up to be a nation's Prime Minister?",
+    "a": "Neville Chamberlain",
+    "b": "Jamshid Gotzbadeh",
+    "c": "Margaret Thatcher",
+    "d": "Golda Meir",
+    "answer": "d",
+    "id": "BVHX2gyn5a17bxYVYtzFJJIQom8"
+  },
+  {
+    "question": "Electric lights first appeared over Broadway in what year?",
+    "a": "1934",
+    "b": "1914",
+    "c": "1896",
+    "d": "1880",
+    "answer": "d",
+    "id": "foHeCWELW6ypdVP8sAuWEaH5EKg"
+  },
+  {
+    "question": "Singer Steve Lawrence's real name was...",
+    "a": "Steve Lawrence",
+    "b": "Stephen Lefkowitz",
+    "c": "Shecky Wolkenstein",
+    "d": "Sidney Leibowitz",
+    "answer": "d",
+    "id": "I1Alp0_dYw_-vOdyVlQ5bl7SqmY"
+  },
+  {
+    "question": "Which of these actresses is originally from Sweden?",
+    "a": "Ann-Margret",
+    "b": "Liv Ullman",
+    "c": "Ursula Andress",
+    "d": "Elke Sommer",
+    "answer": "a",
+    "id": "3BNeSN1GxtOrLBPx3feO2VfsQXY"
+  },
+  {
+    "question": "TV kid's show host, Mr. Rogers, is also...",
+    "a": "A lawyer",
+    "b": "A minister",
+    "c": "A school Principal",
+    "d": "A male nurse",
+    "answer": "b",
+    "id": "zAunaUbtJZHXBR8ODO3NILve7hc"
+  },
+  {
+    "question": "This woman once saved Montgomery Clift from choking to death:",
+    "a": "Elizabeth Taylor",
+    "b": "Joan Rivers",
+    "c": "Cass Elliot",
+    "d": "Joan Crawford",
+    "answer": "a",
+    "id": "TzLVxrb3VsyoDz0zpmIdECj4Zcs"
+  },
+  {
+    "question": "Who was the lawyer who successfully prosecuted Charles Manson?",
+    "a": "George Deukmejian",
+    "b": "John Sirica",
+    "c": "Vincent Bugliosi",
+    "d": "F. Lee Bailey",
+    "answer": "c",
+    "id": "EywP9B7FMD1ImMeXF7W9DqIFx4M"
+  },
+  {
+    "question": "Woodrow Wilson was once president of which University?",
+    "a": "Harvard",
+    "b": "Yale",
+    "c": "Princeton",
+    "d": "Stanford",
+    "answer": "c",
+    "id": "jdM7BG6PRrxQyi3BbnFJy9GRrp0"
+  },
+  {
+    "question": "Who was Ronald Reagan's first wife?",
+    "a": "Nancy Davis",
+    "b": "Jane Wyatt",
+    "c": "Mary Pickford",
+    "d": "Jane Wyman",
+    "answer": "d",
+    "id": "NHV4pST18_wdzuIadE7vqTbuUkc"
+  },
+  {
+    "question": "George Burns's real name is...",
+    "a": "George Bernstein",
+    "b": "Hale Gottfredstein",
+    "c": "Joshua Finklehaus",
+    "d": "Nathan Birnbaum",
+    "answer": "d",
+    "id": "x1Vv8KsOOIeQ8AlcsehvLgB2PXE"
+  },
+  {
+    "question": "The first American woman astronaut?",
+    "a": "Susan B. Anthony",
+    "b": "Sally Ride",
+    "c": "Sandra Day O'Connor",
+    "d": "Rose Bird",
+    "answer": "b",
+    "id": "OMv6ZqXq75LL2ImFXQFuWY9dB0c"
+  },
+  {
+    "question": "How old was Stevie Wonder when he signed with Motown Records?",
+    "a": "17 years old",
+    "b": "13 years old",
+    "c": "10 years old",
+    "d": "15 years old",
+    "answer": "c",
+    "id": "XLBrjwtzU_KxEh_XezGZ6_F5-y4"
+  },
+  {
+    "question": "Actress Carrie Fisher is married to...",
+    "a": "Simon Le Bon",
+    "b": "Art Garfunkel",
+    "c": "Paul Simon",
+    "d": "Eddie Fisher",
+    "answer": "c",
+    "id": "4RLhjou2H__cFMCfjuqQX3ngyis"
+  },
+  {
+    "question": "Who was on the cover of the very first People Magazine?",
+    "a": "John Lennon",
+    "b": "Mia Farrow",
+    "c": "Rachel Ward",
+    "d": "Woody Allen",
+    "answer": "b",
+    "id": "SuzC-lsXa7F9xo39mNnz32APLE0"
+  },
+  {
+    "question": "What was the earlier name of the network now known as ABC?",
+    "a": "Blue Network",
+    "b": "New York Network",
+    "c": "Broadcasting Corp.",
+    "d": "Party-Line TV",
+    "answer": "a",
+    "id": "0efAJTZgBqOQg_6I9Xwi4ez-reA"
+  },
+  {
+    "question": "What is the name of Lee Harvey Oswald's widow?",
+    "a": "Navratilovna",
+    "b": "Feodora",
+    "c": "Krinsky",
+    "d": "Marina",
+    "answer": "d",
+    "id": "hEPRi2oFekNczZPNrfiPZJ783_Q"
+  },
+  {
+    "question": "What was the name of Leonard Nimoy's very personal book?",
+    "a": "Used and Abused",
+    "b": "Lost in Space",
+    "c": "I am Not Spock",
+    "d": "In Search of Truth",
+    "answer": "c",
+    "id": "Y4OlQVN9Zo4osn2qqwkvlaqAZLU"
+  },
+  {
+    "question": "The longest reigning monarch in British history was...",
+    "a": "Queen Elizabeth II",
+    "b": "Henry the VIII",
+    "c": "Queen Victoria",
+    "d": "King Arthur",
+    "answer": "c",
+    "id": "32Nvf4KmFCbSQIwSieXFcRFgrfY"
+  },
+  {
+    "question": "What religion does Idi Amin belong to?",
+    "a": "Judaism",
+    "b": "Christianity",
+    "c": "Islam",
+    "d": "Buddhism",
+    "answer": "c",
+    "id": "vJRxcllqNds3MQht3HYRPuM8cZo"
+  },
+  {
+    "question": "Who was the founder of the National Organization for Women?",
+    "a": "Gloria Steinem",
+    "b": "Betty Freidan",
+    "c": "Ginny Foat",
+    "d": "Bella Abzug",
+    "answer": "b",
+    "id": "NlHK6OpME1_Re9SOk6rg2LhpdNQ"
+  },
+  {
+    "question": "Actress Jody Foster is a student at what college?",
+    "a": "UCLA",
+    "b": "Harvard",
+    "c": "Yale",
+    "d": "Princeton",
+    "answer": "c",
+    "id": "CsQIquhHMmFWs8wYWe904Rl-rwA"
+  },
+  {
+    "question": "Who was skiing champion, \"Spider Sabich\"'s last girlfriend?",
+    "a": "Billy Jean King",
+    "b": "Jane Fonda",
+    "c": "Tracy Austin",
+    "d": "Claudine Longet",
+    "answer": "d",
+    "id": "H0OeFG6f_dTWGgtbs9bX3sLgsac"
+  },
+  {
+    "question": "Which doctor won a Pulitzer Prize in 1984?",
+    "a": "Dr. Spock",
+    "b": "Dr. Linus Pauling",
+    "c": "Dr. Barney Clark",
+    "d": "Dr. Seuss",
+    "answer": "d",
+    "id": "z1rI1TNpCN-SejnO5gZaG3mdCbI"
+  },
+  {
+    "question": "Who was the founder of Boy's Town?",
+    "a": "Mickey Rooney",
+    "b": "Father O'Flaherty",
+    "c": "Father O'Neal",
+    "d": "Father Flanagan",
+    "answer": "d",
+    "id": "xLDmd7VYzFQrDuoaUt9bFLGL8RE"
+  },
+  {
+    "question": "Alan Hale, \"Skipper\" on Gilligan's Island, is now the owner of a...",
+    "a": "Baseball team",
+    "b": "Seafood restaurant",
+    "c": "Greek island",
+    "d": "Hollywood drugstore",
+    "answer": "b",
+    "id": "dYAfXBg-wBzaJvocotRgWjvej7s"
+  },
+  {
+    "question": "What is the most popular name for streets in the United States?",
+    "a": "Elm Street",
+    "b": "Main Street",
+    "c": "Park Street",
+    "d": "First Street",
+    "answer": "c",
+    "id": "lMIE7WxFF-mvldAj-KXZHVgMGxA"
+  },
+  {
+    "question": "Which is the largest library in the U.S after the Library of Congress?",
+    "a": "The Smithsonian",
+    "b": "Harvard University",
+    "c": "Yale",
+    "d": "New York Public",
+    "answer": "b",
+    "id": "cG2OzhoaRucN2P181CYmTX0WhqE"
+  },
+  {
+    "question": "What company is the largest producer of wine in the U.S.?",
+    "a": "Gallo",
+    "b": "Swiss Colony",
+    "c": "Almaden",
+    "d": "Taylor",
+    "answer": "a",
+    "id": "G_XaozhFE3WxmVCpQaQ31jTY-RU"
+  },
+  {
+    "question": "Which airline featured the slogan \"Fly Me\"?",
+    "a": "United",
+    "b": "Eastern",
+    "c": "Pan-Am",
+    "d": "Delta",
+    "answer": "b",
+    "id": "Zg5KgFqVGpOOyR0MqPn5W9OxJ8Y"
+  },
+  {
+    "question": "Who sent the message, \"I came, I saw, I conquered\"?",
+    "a": "General Patton",
+    "b": "Napoleon",
+    "c": "Wellington",
+    "d": "Julius Caesar",
+    "answer": "d",
+    "id": "5Plg3AwVtdaEMM4sSlZT7rsWI28"
+  },
+  {
+    "question": "What canadian city has the annual Stampede?",
+    "a": "Toronto",
+    "b": "Calgary",
+    "c": "Quebec",
+    "d": "Montreal",
+    "answer": "b",
+    "id": "qxn8zW5Q5in_csBNzuFiODFvgyo"
+  },
+  {
+    "question": "Which of these WAS NOT one of the Marx Brothers?",
+    "a": "Harpo Marx",
+    "b": "Zeppo Marx",
+    "c": "Gummo Marx",
+    "d": "Heppo Marx",
+    "answer": "d",
+    "id": "HPCxBLroX8ihYwqacIs-qufsQ3c"
+  },
+  {
+    "question": "What was the name of Paul Bunyan's blue ox?",
+    "a": "Scout",
+    "b": "Sky",
+    "c": "Babe",
+    "d": "True Blue",
+    "answer": "c",
+    "id": "5SosH6cgaKhgDuIyC-cxwAYGq6o"
+  },
+  {
+    "question": "Who was the attorney who defended Jack Ruby, Oswald's assassin?",
+    "a": "F. Lee Bailey",
+    "b": "Melvin Belli",
+    "c": "Gerry Spence",
+    "d": "Richard Haynes",
+    "answer": "b",
+    "id": "CMHKFFjT_iDa9fDjId8TFzxmfLM"
+  },
+  {
+    "question": "Which is the only state whose legal system is not based on England's?",
+    "a": "Alabama",
+    "b": "California",
+    "c": "Louisianna",
+    "d": "Texas",
+    "answer": "c",
+    "id": "xFEsyJe_feC6rDFyAvPgAWVIGmk"
+  },
+  {
+    "question": "Who was chief counsel for the Senate Watergate Committee?",
+    "a": "Sam Ervin",
+    "b": "Sam Dash",
+    "c": "Sam Davis",
+    "d": "Sam Baker",
+    "answer": "b",
+    "id": "TRv6N7j0WkKMk_KTu_UtEXl2bSs"
+  },
+  {
+    "question": "What was the name of the first black Miss America?",
+    "a": "Vaughan Wilson",
+    "b": "Vanessa Wilson",
+    "c": "Vanessa Williams",
+    "d": "Grace Jones",
+    "answer": "c",
+    "id": "YmgqGuooWuFgcKz7WofG3ZqSe-U"
+  },
+  {
+    "question": "Who was the first U.S. president to be born in a hospital?",
+    "a": "Dwight Eisenhower",
+    "b": "Jimmy Carter",
+    "c": "Harry Truman",
+    "d": "John Kennedy",
+    "answer": "b",
+    "id": "FwiF8UAL8It49pJeH8MUl-ltE2E"
+  },
+  {
+    "question": "What is the length of the term of a United States Senator?",
+    "a": "4 years",
+    "b": "6 years",
+    "c": "2 years",
+    "d": "8 years",
+    "answer": "b",
+    "id": "4VrvY6xJsDG8Xg-q5cf05Na6cbU"
+  },
+  {
+    "question": "What is the London address of the Prime Minister?",
+    "a": "Buckingham Palace",
+    "b": "10 Downing Street",
+    "c": "221-B Baker Street",
+    "d": "Number One Broadway",
+    "answer": "b",
+    "id": "HB_52tL3PtejrtUGcwceDKFCsfY"
+  },
+  {
+    "question": "In 1972, Bobby Fischer defeated who for the world chess crown?",
+    "a": "Anatoly Karpov",
+    "b": "Tiger Petrosian",
+    "c": "Boris Spassky",
+    "d": "Victor Korchnoi",
+    "answer": "c",
+    "id": "K7aOtXR8zYA0zmrPCOSnBWwb4sI"
+  },
+  {
+    "question": "Robert F. Kennedy was a US Senator for which state?",
+    "a": "Massachusetts",
+    "b": "Rhode Island",
+    "c": "New Hampshire",
+    "d": "New York",
+    "answer": "d",
+    "id": "7E1Yw8WPEB1jPejyA2GFHM1OUNI"
+  },
+  {
+    "question": "What is the largest city south of the equator?",
+    "a": "Buenos Aires",
+    "b": "Mexico City",
+    "c": "Rio de Janeiro",
+    "d": "New Delhi, India",
+    "answer": "a",
+    "id": "nkE4mHIyxUm0TZiwxzy2HR_h228"
+  },
+  {
+    "question": "Alistair Cooke, author of \"America\", is a citizen of...",
+    "a": "The United States",
+    "b": "Canada",
+    "c": "Australia",
+    "d": "England",
+    "answer": "a",
+    "id": "cR8fFZpnADzAgyfG18x5izRt5rA"
+  },
+  {
+    "question": "Who is the sewer commissioner of Provo Canyon, Utah?",
+    "a": "Merv Griffin",
+    "b": "Paul Newman",
+    "c": "Robert Redford",
+    "d": "Mike Douglas",
+    "answer": "c",
+    "id": "4M1IAqLT2gUVIqG5WeXOYJtNrlk"
+  },
+  {
+    "question": "What did Dr. John S. Pemberton invent?",
+    "a": "Nylon stockings",
+    "b": "The modern toilet",
+    "c": "Jello",
+    "d": "Coca-Cola",
+    "answer": "d",
+    "id": "7wTpthMvQCkdZF21rGxkD4fm7EQ"
+  },
+  {
+    "question": "Actor Anthony Quinn's ethnic background is...",
+    "a": "Italian",
+    "b": "Mexican",
+    "c": "Greek",
+    "d": "Albanian",
+    "answer": "b",
+    "id": "2iSwD7WTztHSIv7bh9pICJ5znB0"
+  },
+  {
+    "question": "The IBM personal computer was introduced in...",
+    "a": "1980",
+    "b": "1981",
+    "c": "1982",
+    "d": "1983",
+    "answer": "b",
+    "id": "6JaPTyO5dpYDLRGGD9oPog2aU_k"
+  },
+  {
+    "question": "What state is known as \"The Pine Tree State\"?",
+    "a": "Idaho",
+    "b": "Maine",
+    "c": "California",
+    "d": "Montana",
+    "answer": "b",
+    "id": "Gn9Ll6XEup6a00XjqtgiGS89ZQs"
+  },
+  {
+    "question": "Christopher Columbus was from what Italian city?",
+    "a": "Naples",
+    "b": "Rome",
+    "c": "Genoa",
+    "d": "Venice",
+    "answer": "c",
+    "id": "LJZe4R95Xh1o5cTWD582Cj0PxuM"
+  },
+  {
+    "question": "Gustave Eiffel, creator of the Eiffel Tower, also created...",
+    "a": "Statue of Liberty",
+    "b": "The Mona Lisa",
+    "c": "The Thinker",
+    "d": "World's Fair Tower",
+    "answer": "a",
+    "id": "X7CoWc0U9yKHpCrStHM5OraX2Ig"
+  },
+  {
+    "question": "How many times does the lion roar at the beginning of MGM films?",
+    "a": "None",
+    "b": "Once",
+    "c": "Twice",
+    "d": "3 times",
+    "answer": "c",
+    "id": "m3T_sjRU6PgDJSpLZ5u5b4HS5_E"
+  },
+  {
+    "question": "Of Bonnie & Clyde, which one's last name was Barrow?",
+    "a": "Bonnie",
+    "b": "Clyde",
+    "c": "Neither",
+    "d": "Both",
+    "answer": "b",
+    "id": "1aI35tEamgB3HngJ-Fmg5vDTBMs"
+  },
+  {
+    "question": "The holy city of Mecca is in what country?",
+    "a": "India",
+    "b": "Israel",
+    "c": "Saudi Arabia",
+    "d": "Jordan",
+    "answer": "c",
+    "id": "LhWDKnQPVBFaVU-lK3qvP_Vsghc"
+  },
+  {
+    "question": "What city is considered the \"birthplace of American liberty\"?",
+    "a": "Philadelphia, PA",
+    "b": "Boston, MA",
+    "c": "Concord, CA",
+    "d": "Lexington, MA",
+    "answer": "d",
+    "id": "3D2c1UsUgOT8ytWAXZvR5MPw9As"
+  },
+  {
+    "question": "Michael Jackson burned his hair filming a commercial for...",
+    "a": "Coca-Cola",
+    "b": "Pepsi-Cola",
+    "c": "McDonald's",
+    "d": "Calvin Klein",
+    "answer": "b",
+    "id": "tJK5rop2voe99Nws24Gh9s7H-Fw"
+  },
+  {
+    "question": "How LONG did the first Wright brother's flight last?",
+    "a": "5 Seconds",
+    "b": "12 Seconds",
+    "c": "15 Seconds",
+    "d": "28 Seconds",
+    "answer": "b",
+    "id": "JXFrFVQA3KsHtRnjKv7C1dytuGA"
+  },
+  {
+    "question": "What is the most widely spoken language in the world?",
+    "a": "English",
+    "b": "Spanish",
+    "c": "Hindu",
+    "d": "Chinese",
+    "answer": "d",
+    "id": "DeMHra-NX4rEAPiyxnQbq7fZuNI"
+  },
+  {
+    "question": "In pre-revolutionary Virgina, tax was paid in...",
+    "a": "English currency",
+    "b": "Gold",
+    "c": "Corn",
+    "d": "Tobacco",
+    "answer": "d",
+    "id": "CERQw4w5eZdd2PnC5IjvFRdNG1o"
+  },
+  {
+    "question": "In what state was the first toll road opened?",
+    "a": "New York",
+    "b": "Maryland",
+    "c": "New Jersey",
+    "d": "Virginia",
+    "answer": "d",
+    "id": "uwfc8MKJ4cVDjngsIUrvL3VjtnE"
+  },
+  {
+    "question": "Where was the first railroad depot in the United States?",
+    "a": "New York",
+    "b": "Boston",
+    "c": "Philadelphia",
+    "d": "Baltimore",
+    "answer": "d",
+    "id": "MnZjPLhTdMC6RtJ6yH0OKuMe1gQ"
+  },
+  {
+    "question": "Which is the windiest city in the United States?",
+    "a": "New York, NY",
+    "b": "Chicago, IL",
+    "c": "Great Falls, MT",
+    "d": "Boise, MT",
+    "answer": "c",
+    "id": "Rfb8ibC1UIfmlZVQM4pziV5O44I"
+  },
+  {
+    "question": "On what island did Napoleon die in 1821?",
+    "a": "Corsica",
+    "b": "Elba",
+    "c": "Saint Helena",
+    "d": "Malvinas",
+    "answer": "c",
+    "id": "bbImmLAFI2lWeAF0AQkiG4GieU8"
+  },
+  {
+    "question": "What kind of animal was CLEO in the famous story of \"Pinocchio\"?",
+    "a": "Cat",
+    "b": "Fox",
+    "c": "Fish",
+    "d": "Dog",
+    "answer": "c",
+    "id": "OutmtoFSKH3ZfsoozGsSRVMcfqc"
+  },
+  {
+    "question": "Who said \"Give me liberty or give me death\"?",
+    "a": "Aaron Burr",
+    "b": "Alexander Hamilton",
+    "c": "Patrick Henry",
+    "d": "Thomas Paine",
+    "answer": "c",
+    "id": "VRWD9FQNl1brYCZdwYGw4JFvtKo"
+  },
+  {
+    "question": "What letter was the scarlet letter?",
+    "a": "A",
+    "b": "B",
+    "c": "W",
+    "d": "S",
+    "answer": "a",
+    "id": "7Q6ubfHXi1agPPVTgYfEEeT5wiY"
+  },
+  {
+    "question": "What is the largest province in Canada?",
+    "a": "British Columbia",
+    "b": "Alberta",
+    "c": "Quebec",
+    "d": "Saskatchewan",
+    "answer": "c",
+    "id": "By2Eq-D3Gnu8fM8oDRgYEkfMPQs"
+  },
+  {
+    "question": "What kitchen cleanser cleaned like a white tornado?",
+    "a": "Ajax",
+    "b": "Mr. Clean",
+    "c": "Comet",
+    "d": "Pine-Sol",
+    "answer": "a",
+    "id": "vAu3oD7o3LATnKglP0byjA6-VTk"
+  },
+  {
+    "question": "What Television journalist wrote \"The Camera Never Blinks\"?",
+    "a": "Barbara Walters",
+    "b": "Tom Brokaw",
+    "c": "Dan Rather",
+    "d": "Bill Moyer",
+    "answer": "c",
+    "id": "qbS2OhjZNQvVPaczSeTyxQN0X98"
+  },
+  {
+    "question": "In what state is Old Faithful found?",
+    "a": "Wyoming",
+    "b": "Montana",
+    "c": "Colorado",
+    "d": "Utah",
+    "answer": "a",
+    "id": "7i--ZxFxsk6tOTLtfVbFzyhzlzE"
+  },
+  {
+    "question": "What author created Dr. Jekyll and Mr. Hyde?",
+    "a": "Edgar Allan Poe",
+    "b": "Mary Shelley",
+    "c": "Robert L. Stevenson",
+    "d": "Edgar Rice",
+    "answer": "c",
+    "id": "MS-OCRVhMuWKNGNcYVAdeK2U3Gg"
+  },
+  {
+    "question": "In what city does the \"Orient Express\" end its run from Istanbul",
+    "a": "London",
+    "b": "Paris",
+    "c": "Brussels",
+    "d": "Amsterdam",
+    "answer": "b",
+    "id": "8zpI2cRqmN0Qt-BW_swbK6c8HBw"
+  },
+  {
+    "question": "What did the crocodile swallow in \"Peter Pan\"?",
+    "a": "A hook",
+    "b": "A dagger",
+    "c": "A foot",
+    "d": "An alarm clock",
+    "answer": "d",
+    "id": "hkjx_h41ZpuEqKKpFYh2-nHgH5U"
+  },
+  {
+    "question": "What African animal kills the most people?",
+    "a": "Lion",
+    "b": "Elephant",
+    "c": "Cobra",
+    "d": "Crocodile",
+    "answer": "d",
+    "id": "wfyU5GIHslVVZQd8Jy1nG6zI_Cs"
+  },
+  {
+    "question": "Who did Sara Jane Moore try to assassinate?",
+    "a": "President Johnson",
+    "b": "President Ford",
+    "c": "Pope John Paul",
+    "d": "President Duarte",
+    "answer": "b",
+    "id": "DpzdsQUPu8Z85pAJNt7T-fVruZA"
+  },
+  {
+    "question": "What Constitutional amendment gives the \"right to remain silent\"",
+    "a": "Third",
+    "b": "Fifth",
+    "c": "Seventh",
+    "d": "Ninth",
+    "answer": "b",
+    "id": "eMXASPZ4-xizqcGqGFS2S3TFUr0"
+  },
+  {
+    "question": "Where is the Guggenheim Museum?",
+    "a": "Berlin",
+    "b": "Paris",
+    "c": "Washington, DC",
+    "d": "New York, NY",
+    "answer": "d",
+    "id": "qWrXYgbhup49H3OEEVFFtpT1KkY"
+  },
+  {
+    "question": "Who wrote \"The Prince and the Pauper\"?",
+    "a": "Chaucer",
+    "b": "Mark Twain",
+    "c": "Mary Shelley",
+    "d": "Emily Bronte",
+    "answer": "b",
+    "id": "Rd9TMsjaeVeuvgmSfFMaSiu3m4g"
+  },
+  {
+    "question": "Which of these is NOT a railroad in Monopoly?",
+    "a": "The B & O",
+    "b": "The Pennsylvania",
+    "c": "The Reading",
+    "d": "The New York Line",
+    "answer": "d",
+    "id": "ivqVqrZHUX4ymPTYYdivb7tR4iM"
+  },
+  {
+    "question": "Who conducted the Playboy interview of the U.S. Nazi leader Rockwell?",
+    "a": "Hugh Hefner",
+    "b": "Alex Haley",
+    "c": "Dan Rather",
+    "d": "John Anderson",
+    "answer": "b",
+    "id": "CChMWLH6YRigDNgQi-UpHuMCPlY"
+  },
+  {
+    "question": "What Italian city is home to da Vinci's \"The Last Supper\"?",
+    "a": "Milan",
+    "b": "Rome",
+    "c": "Florence",
+    "d": "The Vatican City",
+    "answer": "a",
+    "id": "twSScXGa0jFxkIvkkizXXo_azLg"
+  },
+  {
+    "question": "What state is Mount McKinley in?",
+    "a": "Alaska",
+    "b": "Washington",
+    "c": "Oregon",
+    "d": "Montana",
+    "answer": "a",
+    "id": "LZtzfBzzsLpneKX513s-AEGIQto"
+  },
+  {
+    "question": "What fruit has the most calories?",
+    "a": "Apricot",
+    "b": "Avocado",
+    "c": "Date",
+    "d": "Prune",
+    "answer": "b",
+    "id": "Tuuy2fB0HqA8c-Uhs762ouueGSc"
+  },
+  {
+    "question": "Where is the Sears Tower?",
+    "a": "New York",
+    "b": "Los Angeles",
+    "c": "Chicago",
+    "d": "Kansas City",
+    "answer": "c",
+    "id": "ZW8WjJu-4Yq-6PZpgk-4gNU1FLY"
+  },
+  {
+    "question": "What country contains the Waterloo Battlefield?",
+    "a": "France",
+    "b": "England",
+    "c": "Germany",
+    "d": "Belgium",
+    "answer": "d",
+    "id": "f7ZGxlEIjluWVMWBm4sPS6MY_tM"
+  },
+  {
+    "question": "What crop failure caused the Irish Famine?",
+    "a": "Cabbage",
+    "b": "Potato",
+    "c": "Corn",
+    "d": "Wheat",
+    "answer": "b",
+    "id": "RjTxEwkR9b4BelNnt9fkRthdUpE"
+  },
+  {
+    "question": "What Italian explorer is buried in the Dominican Republic?",
+    "a": "Columbus",
+    "b": "Balboa",
+    "c": "Ponce De Leon",
+    "d": "Cortez",
+    "answer": "a",
+    "id": "sGW6yrCEKp0l2Pq9JGGdLwM8iLY"
+  },
+  {
+    "question": "Who did Richard Nixon tender his regignation to?",
+    "a": "Gerald Ford",
+    "b": "Tip O'Neil",
+    "c": "Howard Baker",
+    "d": "Henry Kissinger",
+    "answer": "d",
+    "id": "Zm7ujy-fcsGyCHPfo57AZNUS38E"
+  },
+  {
+    "question": "What country did Siam become?",
+    "a": "Korea",
+    "b": "Iran",
+    "c": "Thailand",
+    "d": "Iraq",
+    "answer": "c",
+    "id": "fDuSa5D1YwCoPYHYgzUA_LB2z3A"
+  },
+  {
+    "question": "What country is the largest per capita consumer of beer?",
+    "a": "United States",
+    "b": "Britain",
+    "c": "West Germany",
+    "d": "Holland",
+    "answer": "c",
+    "id": "2xGA8ql5mzDwMzaEyqAe-7ztNPg"
+  },
+  {
+    "question": "What kind of women gave Sigmund Freud erotic dreams?",
+    "a": "French",
+    "b": "Swedish",
+    "c": "German",
+    "d": "American",
+    "answer": "d",
+    "id": "0NjTn8qLjB9zfpPNTvb8O69CD-U"
+  },
+  {
+    "question": "Who won the 1968 Democratic Primary?",
+    "a": "Humphrey",
+    "b": "McGovern",
+    "c": "McCarthy",
+    "d": "Robert Kennedy",
+    "answer": "a",
+    "id": "27tbJkRG0hR4LFBXH9tv26mQM_U"
+  },
+  {
+    "question": "How many days were the American hostages held in Iran?",
+    "a": "382",
+    "b": "404",
+    "c": "428",
+    "d": "444",
+    "answer": "d",
+    "id": "z_mmH5Qye0n-0afWuS9bWxD8KfU"
+  },
+  {
+    "question": "What is the capitol of Kentucky?",
+    "a": "Frankfort",
+    "b": "Fort Knox",
+    "c": "Alexander",
+    "d": "Billingsworth",
+    "answer": "a",
+    "id": "Bck0pxGAyGeLmsraA6LVPHY4ZeI"
+  },
+  {
+    "question": "What detective debuted in \"A Study in Scarlet\"?",
+    "a": "Mike Hammer",
+    "b": "Sam Spade",
+    "c": "Dashiell Hammett",
+    "d": "Sherlock Holmes",
+    "answer": "d",
+    "id": "-4gNjPgjHwIz4PKhpkyr--zkIM0"
+  },
+  {
+    "question": "What is the \"rathaus\" in Frankfurt?",
+    "a": "City Hall",
+    "b": "Beer Hall",
+    "c": "Dance Hall",
+    "d": "Library",
+    "answer": "a",
+    "id": "l-jj8HQ6jD3qgLVdwofXNXHSxbs"
+  },
+  {
+    "question": "What kind of bird taught Dr. Dolittle to talk to the animals?",
+    "a": "Parrot",
+    "b": "Peacock",
+    "c": "Rooster",
+    "d": "Hummingbird",
+    "answer": "a",
+    "id": "bEJlHvWjYV_i-dH_0XFuVf8sznI"
+  },
+  {
+    "question": "What European city has the world's busiest port?",
+    "a": "London",
+    "b": "Budapest",
+    "c": "Rotterdam",
+    "d": "Stockholm",
+    "answer": "c",
+    "id": "ifVI2vxaQhYv26XLNfOI9EiLnSM"
+  },
+  {
+    "question": "What university dismissed Timothy Leary for involvment with drugs?",
+    "a": "Harvard",
+    "b": "Berkeley",
+    "c": "U.C.L.A.",
+    "d": "MIT",
+    "answer": "a",
+    "id": "xotc-Zbzt7Yw5R9VFTvFqg0m0b0"
+  },
+  {
+    "question": "What fruit is used in the dye for government inspectors' meat stamps",
+    "a": "Cherry",
+    "b": "Grape",
+    "c": "Plum",
+    "d": "Blueberry",
+    "answer": "b",
+    "id": "Qx6ObbDHSZy7SlMwBZfDemNf0Ic"
+  },
+  {
+    "question": "What city was Martin Luther King Jr. assassinated in?",
+    "a": "Memphis",
+    "b": "Atlanta",
+    "c": "Chicago",
+    "d": "Miami",
+    "answer": "a",
+    "id": "g-F6YZMBgN9DikS62drEWdxu4tE"
+  },
+  {
+    "question": "What country did Morocco fight to win their independence?",
+    "a": "Germany",
+    "b": "France",
+    "c": "Spain",
+    "d": "England",
+    "answer": "b",
+    "id": "TFwhrYg4iqzwl7uqfxIZak82-qU"
+  },
+  {
+    "question": "Who painted \"The Night Watch\"?",
+    "a": "Renoir",
+    "b": "Turner",
+    "c": "Rembrandt",
+    "d": "Vincent Van Gogh",
+    "answer": "c",
+    "id": "wMcLDd_zPqRUqDG5N5MAV7yAxKU"
+  },
+  {
+    "question": "To what country do the Galapagos Islands belong?",
+    "a": "Argentina",
+    "b": "Ecuador",
+    "c": "Chile",
+    "d": "Brazil",
+    "answer": "b",
+    "id": "97pD5VI2Kd6fU-30HylPQd0yqYg"
+  },
+  {
+    "question": "Who is the publisher of the software package, \"Framework\"?",
+    "a": "Lotus Development",
+    "b": "Addisson Wessley",
+    "c": "MicroPro Interntnl.",
+    "d": "Ashton-Tate",
+    "answer": "d",
+    "id": "moDtXc9MXLf0TR9bhzk4bmXqnZM"
+  },
+  {
+    "question": "What's the capital of Bermuda?",
+    "a": "Washington",
+    "b": "Nassau",
+    "c": "Hamilton",
+    "d": "Alexandria",
+    "answer": "c",
+    "id": "khdf96rwkN0pVaGrBmQziEBBLx0"
+  },
+  {
+    "question": "What was Rembrandt's last name?",
+    "a": "Rembrandt",
+    "b": "Van Rijn",
+    "c": "Prinz",
+    "d": "Van Hoffman",
+    "answer": "b",
+    "id": "9Cl-zHDkYrXRD33PZdAbqQXLkj8"
+  },
+  {
+    "question": "What mammal ranks next to man on the evolutionary scale?",
+    "a": "Ape",
+    "b": "Monkey",
+    "c": "Chimpanzee",
+    "d": "Orangutan",
+    "answer": "a",
+    "id": "c_w6-3fsZwX5rUXuUGMXaiH5Ea4"
+  },
+  {
+    "question": "What country has the most dams?",
+    "a": "U.S.S.R.",
+    "b": "U.S.",
+    "c": "China",
+    "d": "Brazil",
+    "answer": "b",
+    "id": "cJdhMma7bJAt6NUcXJdB3TYnxn4"
+  },
+  {
+    "question": "What magazine debuted in December 1953?",
+    "a": "Time",
+    "b": "Life",
+    "c": "Playboy",
+    "d": "Penthouse",
+    "answer": "c",
+    "id": "hz4k_1lm_v2IvzS3tBk4GB9j6LY"
+  },
+  {
+    "question": "What is America's best-selling weekly magazine?",
+    "a": "Time",
+    "b": "Reader's Digest",
+    "c": "TV Guide",
+    "d": "Soap Opera Digest",
+    "answer": "c",
+    "id": "PxzI20y5SRxVYswx7sCwcbGIidM"
+  },
+  {
+    "question": "What ocean surrounds the Maldive Islands?",
+    "a": "Atlantic",
+    "b": "Pacific",
+    "c": "Artic",
+    "d": "Indian",
+    "answer": "d",
+    "id": "r3xCDaeeXrgNCFrcKxwqy1IQMfM"
+  },
+  {
+    "question": "What body of water does the Yukon River empty into?",
+    "a": "Hudson Bay",
+    "b": "Caspian Sea",
+    "c": "Bering Sea",
+    "d": "Bay of Fundy",
+    "answer": "c",
+    "id": "J20CUOSEk_-oz09FVX0yY_4i0t4"
+  },
+  {
+    "question": "Where was El Greco born?",
+    "a": "Spain",
+    "b": "Portugal",
+    "c": "Italy",
+    "d": "Greece",
+    "answer": "d",
+    "id": "rCPCwAu3YPEs5WW1rb45tiCHxx0"
+  },
+  {
+    "question": "What is Spain's biggest source of income?",
+    "a": "Tourism",
+    "b": "Wine Production",
+    "c": "Weaving",
+    "d": "Wheat",
+    "answer": "a",
+    "id": "6dMcUC8GLfm6jUjKeLf8r2WtyTA"
+  },
+  {
+    "question": "How much did a McDonald's hamburger cost in 1963?",
+    "a": "15 cents",
+    "b": "25 cents",
+    "c": "35 cents",
+    "d": "49 cents",
+    "answer": "a",
+    "id": "g1vdvFQarnG3MsuGKIZOPYfzdgo"
+  },
+  {
+    "question": "What famous ship did Christopher Jones captain?",
+    "a": "Pinta",
+    "b": "Santa Marie",
+    "c": "Mayflower",
+    "d": "Nina",
+    "answer": "c",
+    "id": "dB72lK5FiYDcEbgL4hZDXfofjQQ"
+  },
+  {
+    "question": "How many witches were burned at the stake in Salem, Massachusetts?",
+    "a": "0",
+    "b": "1",
+    "c": "2",
+    "d": "4",
+    "answer": "a",
+    "id": "liRUpyMGFcKvZYkhsChBhZXZmXk"
+  },
+  {
+    "question": "Where is the Black forest?",
+    "a": "West Germany",
+    "b": "Austria",
+    "c": "East Germany",
+    "d": "Hungary",
+    "answer": "a",
+    "id": "JF22w-lAu4cKVZbbevnLeDMagYQ"
+  },
+  {
+    "question": "How many times was Franklin D. Roosevelt elected president?",
+    "a": "2",
+    "b": "3",
+    "c": "4",
+    "d": "5",
+    "answer": "c",
+    "id": "j5_dcbjroK8j4vVgtSwKW-_EDiI"
+  },
+  {
+    "question": "What French painter was famed for his paintings of ballet dancers?",
+    "a": "Renoir",
+    "b": "Rembrandt",
+    "c": "Degas",
+    "d": "Botticelli",
+    "answer": "c",
+    "id": "zmVMM-P9fdQGCJe3KBZOU5qjkqg"
+  },
+  {
+    "question": "What day of the week was John F. Kennedy assassinated on?",
+    "a": "Friday",
+    "b": "Thursday",
+    "c": "Tuesday",
+    "d": "Saturday",
+    "answer": "a",
+    "id": "klPiswM_7IL35UgNvsluDWCPhQs"
+  },
+  {
+    "question": "Who is Sherlock Holmes landlady?",
+    "a": "Mrs. Watson",
+    "b": "Mrs. Hudson",
+    "c": "Miss. Wallis",
+    "d": "Mrs. Berry",
+    "answer": "b",
+    "id": "4c4RLTxW23a5Nr8k81lzNXBd5CI"
+  },
+  {
+    "question": "What kind of animal was Napoleon frightened of?",
+    "a": "Horses",
+    "b": "Dogs",
+    "c": "Cats",
+    "d": "Rats",
+    "answer": "c",
+    "id": "kHvZ6JeJbBuf059jGKPUMKXgAiY"
+  },
+  {
+    "question": "Who created Horatio Hornblower?",
+    "a": "Mary Shelley",
+    "b": "John Steinbeck",
+    "c": "Charles Browning",
+    "d": "C.S. Forester",
+    "answer": "d",
+    "id": "svSCB1cHKdIbPyHnv24bZiLP6pY"
+  },
+  {
+    "question": "How many points are there on the Statue of Liberty's crown?",
+    "a": "5",
+    "b": "7",
+    "c": "9",
+    "d": "11",
+    "answer": "b",
+    "id": "Gy6vRwglmPQ9A5E8oOrZtnUG8DI"
+  },
+  {
+    "question": "In what state is the O.K. Corral found?",
+    "a": "Kansas",
+    "b": "Texas",
+    "c": "Arizona",
+    "d": "New Mexico",
+    "answer": "c",
+    "id": "ExijXUXbYY-7UEArrITue1TXoUI"
+  },
+  {
+    "question": "On the TV's Cheers what is Sam Malone's baseball nickname?",
+    "a": "Lefty",
+    "b": "Mayday",
+    "c": "Guzzler",
+    "d": "Fourth Base",
+    "answer": "b",
+    "id": "2a7JBahGQmPU3AE3I3CsAP0TXIc"
+  },
+  {
+    "question": "What is the highest mountain in the United States?",
+    "a": "Mount Rainier",
+    "b": "Mount McKinley",
+    "c": "Mount Hood",
+    "d": "Mount Saint Helens",
+    "answer": "b",
+    "id": "oi762Ap4AXsYw7z4G8KhVybo3jE"
+  },
+  {
+    "question": "Where is Pennsylvania Station?",
+    "a": "New York",
+    "b": "Philadelphia",
+    "c": "Boston",
+    "d": "Washington, D.C.",
+    "answer": "a",
+    "id": "SZKOBqmAIQL_xO43-PA5oBd1t5s"
+  },
+  {
+    "question": "What is the nationality of Agatha Christie's Hercule Poirot?",
+    "a": "French",
+    "b": "Belgian",
+    "c": "German",
+    "d": "Swiss",
+    "answer": "b",
+    "id": "aUK2kj_7z212K_XrqOtnjyDRVR4"
+  },
+  {
+    "question": "What war did Florence Nightingale tend the troops in?",
+    "a": "The Boer War",
+    "b": "The Civil War",
+    "c": "The Crimean War",
+    "d": "World War I",
+    "answer": "c",
+    "id": "M3VscGG0wHTti-6kcbS0_zrFTRE"
+  },
+  {
+    "question": "What President's news conferences were called \"Best matinee in Town\"",
+    "a": "Roosevelt",
+    "b": "Johnson",
+    "c": "Kennedy",
+    "d": "Nixon",
+    "answer": "c",
+    "id": "X9DJ0weeWzEDrXbEorDm3zQo_eY"
+  },
+  {
+    "question": "What U.S. city had the first subway?",
+    "a": "New York",
+    "b": "Boston",
+    "c": "Philadelphia",
+    "d": "Chicago",
+    "answer": "b",
+    "id": "F3v55DEpYiY9owu3hB8PACgaYKM"
+  },
+  {
+    "question": "What bordering country is due north of Costa Rica?",
+    "a": "Nicaragua",
+    "b": "El Salvador",
+    "c": "Panama",
+    "d": "Mexico",
+    "answer": "a",
+    "id": "GW-S-0QFCwFvYYj5Vi6yhYpEuHs"
+  },
+  {
+    "question": "Who gave Marilyn Monroe a white poodle named \"Mafia\"?",
+    "a": "Arthur Miller",
+    "b": "John F. Kennedy",
+    "c": "Frank Sinatra",
+    "d": "Clark Gable",
+    "answer": "c",
+    "id": "G9hgNmYNlSt67SSEwcgtF_AXlsY"
+  },
+  {
+    "question": "What state is John F. Kennedy buried in?",
+    "a": "Virginia",
+    "b": "Massachutes",
+    "c": "Texas",
+    "d": "Washington, D.C.",
+    "answer": "a",
+    "id": "X-VAFtEMUxKCqapgr1VeO93fqyo"
+  },
+  {
+    "question": "What president was criticized for picking up his Beagles by the ears",
+    "a": "Coolidge",
+    "b": "Roosevelt",
+    "c": "Johnson",
+    "d": "Nixon",
+    "answer": "c",
+    "id": "lrUfHEMRz9GGhvBTLebG_YIqQjc"
+  },
+  {
+    "question": "How many Israeli athletes were killed at the Munich Olympics?",
+    "a": "None",
+    "b": "5",
+    "c": "11",
+    "d": "21",
+    "answer": "c",
+    "id": "AsmrK-pafr6Z6GKpHqam7VvBRKc"
+  },
+  {
+    "question": "Where is Mount Olympus?",
+    "a": "Italy",
+    "b": "Greece",
+    "c": "Mythology (only)",
+    "d": "Turkey",
+    "answer": "b",
+    "id": "QDKlZ-thKLGpyifERowXKk6o7vk"
+  },
+  {
+    "question": "What adventure tale introduced \"Yo- ho-ho, and a bottle of rum\"?",
+    "a": "Captain Blood",
+    "b": "Captain Kidd",
+    "c": "Treasure Island",
+    "d": "Horatio Hornblower",
+    "answer": "c",
+    "id": "y71IhHSmheupClw8hjYNbzY2spY"
+  },
+  {
+    "question": "Who was the king of England when the American Revolution broke out?",
+    "a": "George V",
+    "b": "George III",
+    "c": "Henry VI",
+    "d": "Philip IV",
+    "answer": "b",
+    "id": "KMqOsHg1S-PjCaVqPV7dxgQCI-I"
+  },
+  {
+    "question": "What country was invaded in W.W. II during \"Operation Avalanche\"?",
+    "a": "Germany",
+    "b": "Russia",
+    "c": "Italy",
+    "d": "France",
+    "answer": "c",
+    "id": "MGQX8Y4FVzku4OwG1syBFhOhkQc"
+  },
+  {
+    "question": "How many died at Kent State?",
+    "a": "None",
+    "b": "2",
+    "c": "4",
+    "d": "7",
+    "answer": "c",
+    "id": "215GBwOrgLnApR-jG4E0l7MyHAc"
+  },
+  {
+    "question": "What is the usual age for a Jewish boy to celebrate his \"Bar Mitzvah\"",
+    "a": "11",
+    "b": "12",
+    "c": "13",
+    "d": "14",
+    "answer": "c",
+    "id": "v_ms7UP4VTica2DfGLFRheIxJzg"
+  },
+  {
+    "question": "What river does the Hoover Dam dam?",
+    "a": "The Columbia",
+    "b": "The Rogue",
+    "c": "The Missouri",
+    "d": "The Colorado",
+    "answer": "d",
+    "id": "f7w3-aJiGLruM3jgKn88k7GuR9I"
+  },
+  {
+    "question": "What is the minimum number of bars on an abacus?",
+    "a": "9",
+    "b": "12",
+    "c": "15",
+    "d": "20",
+    "answer": "a",
+    "id": "oRsNsp0TjQCp-Plhi5kmU2MX2qA"
+  },
+  {
+    "question": "While trying to fly around the world Amelia Earhart disappeared..",
+    "a": "in 1927",
+    "b": "in 1932",
+    "c": "in 1935",
+    "d": "in 1937",
+    "answer": "d",
+    "id": "HzcuqNGejSyRQ4cf6PJjr1iAbf0"
+  },
+  {
+    "question": "What was Al Capone imprisoned for in 1931?",
+    "a": "Bribery",
+    "b": "Murder",
+    "c": "Extortion",
+    "d": "Income-tax evasion",
+    "answer": "d",
+    "id": "rIXyPvhn0bRAgdqVxs26WiHQB50"
+  },
+  {
+    "question": "On TV's Cheers what is Norm's occupation?",
+    "a": "Postman",
+    "b": "Baseball Player",
+    "c": "Umpire",
+    "d": "Accountant",
+    "answer": "d",
+    "id": "Xq7lBaoSIA5pW9LGfxwVo-Cfqi0"
+  },
+  {
+    "question": "On TV's Cheers what does Diane collect?",
+    "a": "Stuffed animals",
+    "b": "Books",
+    "c": "Diplomas",
+    "d": "Coins",
+    "answer": "a",
+    "id": "dCB0HjDxeGbk4EYYGxsUw2BHtTY"
+  },
+  {
+    "question": "What U.S. state is most of Death Valley in?",
+    "a": "California",
+    "b": "Nevada",
+    "c": "Arizona",
+    "d": "New Mexico",
+    "answer": "a",
+    "id": "7qViUbvDd7x1_9Uf9hEO6OXtx7A"
+  },
+  {
+    "question": "What year did the Pilgrims first land in America?",
+    "a": "1498",
+    "b": "1525",
+    "c": "1587",
+    "d": "1620",
+    "answer": "d",
+    "id": "0PRf8_9Ye12QBRVbSreGnkjQgOc"
+  },
+  {
+    "question": "The fifth of November in England is celebrated as...",
+    "a": "Bastille Day",
+    "b": "Coronation Day",
+    "c": "Labor Day",
+    "d": "Guy Fawkes Day",
+    "answer": "d",
+    "id": "cPY-FyppLA_4_9ecC1nB_Mx69F8"
+  },
+  {
+    "question": "What island is Pearl Harbor on?",
+    "a": "Hawaii",
+    "b": "Molakai",
+    "c": "Oahu",
+    "d": "Maui",
+    "answer": "c",
+    "id": "M-e8TUwojA65c0RYdsHg301y9yg"
+  },
+  {
+    "question": "What state in the U.S. has the highest rainfall?",
+    "a": "Hawaii",
+    "b": "Mississippi",
+    "c": "Louisiana",
+    "d": "Minnesota",
+    "answer": "a",
+    "id": "zmR1sc73PmwVZSa_TjecA8worrg"
+  },
+  {
+    "question": "What did Ebenezer Butterick invent and sell in 1863?",
+    "a": "Ball Point Pen",
+    "b": "Aspirin",
+    "c": "Dress Patterns",
+    "d": "Dice",
+    "answer": "c",
+    "id": "iJnkI_YdJ2PITUrI9xKxUtELuVI"
+  },
+  {
+    "question": "What is the oldest college in the United States?",
+    "a": "Princeton",
+    "b": "Columbia",
+    "c": "Yale",
+    "d": "Harvard",
+    "answer": "d",
+    "id": "OkjovKnEatKoAixs8GYroo7Yyjo"
+  },
+  {
+    "question": "What is the lartest U.S. state east of the Mississippi?",
+    "a": "Florida",
+    "b": "North Carolina",
+    "c": "New York",
+    "d": "Georgia",
+    "answer": "d",
+    "id": "PpakU1ccCuhgDQ-x9iM7bDvIk_U"
+  },
+  {
+    "question": "What is the world's largest news agency?",
+    "a": "Tass",
+    "b": "Reuters",
+    "c": "UPI",
+    "d": "AP",
+    "answer": "d",
+    "id": "CVMAiOXy3XUvEr9_CBsVXpTjMB4"
+  },
+  {
+    "question": "What state is known as the \"Palmetto State\"?",
+    "a": "North Carolina",
+    "b": "North Dakota",
+    "c": "South Carolina",
+    "d": "South Dakota",
+    "answer": "c",
+    "id": "dL9ZjM2aixeh1OVIZY1vCPRi5U0"
+  },
+  {
+    "question": "Which one of these people was NOT a member of the Chicago 7?",
+    "a": "Abby Hoffman",
+    "b": "Jerry Rubin",
+    "c": "Ralph Nader",
+    "d": "Tom Hayden",
+    "answer": "c",
+    "id": "J2vaFSed92tcp2fJ1Kg4UgScUHk"
+  },
+  {
+    "question": "What bird did Benjamin Franklin advocate as the U.S. symbol?",
+    "a": "Eagle",
+    "b": "Turkey",
+    "c": "Hawk",
+    "d": "Robin",
+    "answer": "b",
+    "id": "RGWOH7rLBvhy5loBgxEHUmDALqQ"
+  },
+  {
+    "question": "What's the name of Tom Sawyer's aunt with whom he lived?",
+    "a": "Polly",
+    "b": "Becky",
+    "c": "Anne",
+    "d": "Sally",
+    "answer": "a",
+    "id": "ugIP9MO3mRI8YJPlitVLkN-ynzE"
+  },
+  {
+    "question": "Who was the first U.S. Billionaire?",
+    "a": "J.P. Getty",
+    "b": "John D. Rockefeller",
+    "c": "Joeseph Kennedy",
+    "d": "Henry Ford",
+    "answer": "b",
+    "id": "OgEiyA3WM1uL2uBzJ0rhwNtQh3E"
+  },
+  {
+    "question": "How many time zones are there in Canada?",
+    "a": "4",
+    "b": "5",
+    "c": "6",
+    "d": "7",
+    "answer": "d",
+    "id": "aOKLT7F0uccwZmTZmXV3aRG8-ws"
+  },
+  {
+    "question": "What was the only state McGovern carried in the 1972 election?",
+    "a": "North Dakota",
+    "b": "South Dakota",
+    "c": "California",
+    "d": "Massachusetts",
+    "answer": "d",
+    "id": "pdyCmfG3f_8DpSWtVkUgnYrbrJo"
+  },
+  {
+    "question": "What has been called \"The Mother of the Arts\"?",
+    "a": "Biology",
+    "b": "Physics",
+    "c": "Architecture",
+    "d": "Horticulture",
+    "answer": "c",
+    "id": "yPJsOuGiKvBeL-5it8Yuust1irk"
+  },
+  {
+    "question": "What does Erma Bombeck say the grass is always greener over?",
+    "a": "The Hill",
+    "b": "The Fence",
+    "c": "The Degree",
+    "d": "The Septic Tank",
+    "answer": "d",
+    "id": "PgvDSjsWTAG1WTndXJcXECFv4G0"
+  },
+  {
+    "question": "Who was Playboy's first centerfold model?",
+    "a": "Joan Collins",
+    "b": "Eliabeth Taylor",
+    "c": "Marilyn Monroe",
+    "d": "Betty Grable",
+    "answer": "c",
+    "id": "6YsUaEhln7FQTHfxbc_mufh3C_E"
+  },
+  {
+    "question": "How many children did Adam and Eve have together?",
+    "a": "1",
+    "b": "3",
+    "c": "5",
+    "d": "7",
+    "answer": "b",
+    "id": "5OWyaAaNkfF3td-FcqqPXAPUnSg"
+  },
+  {
+    "question": "What was the first U.S. consumer product sold in the U.S.S.R.?",
+    "a": "Levi's",
+    "b": "Cola-Cola",
+    "c": "Pepsi-Cola",
+    "d": "Kinney's",
+    "answer": "c",
+    "id": "TEgUBE3O5H4wiSwZYi6UywvNrVI"
+  },
+  {
+    "question": "What warship was nicknamed \"Old Ironsides\"?",
+    "a": "The Constitution",
+    "b": "The Meremack",
+    "c": "The Maine",
+    "d": "The Monitor",
+    "answer": "a",
+    "id": "u4Wv3Ib4qoF3zclV4GY8ya43MXE"
+  },
+  {
+    "question": "What city is considered \"The City of Lights\"?",
+    "a": "London",
+    "b": "Rome",
+    "c": "Las Vegas",
+    "d": "Paris",
+    "answer": "d",
+    "id": "_FwBDNjuehkBcnglHsXbNm1IhZA"
+  },
+  {
+    "question": "What state is known as the Volunteer State?",
+    "a": "Kentucky",
+    "b": "Tennessee",
+    "c": "Rhode Island",
+    "d": "Maryland",
+    "answer": "b",
+    "id": "cZiFZZ3zIxLHiASjpRRtqRvQ5J0"
+  },
+  {
+    "question": "In what state are the Carlsbad Caverns?",
+    "a": "California",
+    "b": "Colorado",
+    "c": "New Mexico",
+    "d": "Arizona",
+    "answer": "c",
+    "id": "YlZ7X23cZ1ugxwdfJFykYN3MLpM"
+  },
+  {
+    "question": "What year began the French Revolution?",
+    "a": "1739",
+    "b": "1789",
+    "c": "1813",
+    "d": "1821",
+    "answer": "b",
+    "id": "0jjSQS8XPIVsZhd1ssTzi9bSnRs"
+  },
+  {
+    "question": "What chain did Ray Kroc build?",
+    "a": "McDonald'",
+    "b": "Safeway",
+    "c": "Kinney's",
+    "d": "Woolworth's",
+    "answer": "a",
+    "id": "6Zah1oovaqXRNd4mR23AZ61v8R4"
+  },
+  {
+    "question": "What continent's westernmost point is called Cape Verde?",
+    "a": "Africa",
+    "b": "Europe",
+    "c": "South America",
+    "d": "Antartica",
+    "answer": "a",
+    "id": "R7lB8kFxXyGUAb2g7s19WmHnav0"
+  },
+  {
+    "question": "What was the last mainland state to join the Union?",
+    "a": "Texas",
+    "b": "California",
+    "c": "Arizona",
+    "d": "Utah",
+    "answer": "c",
+    "id": "PxeyiaD6MPlpZpi3bG4qOF4wxyo"
+  },
+  {
+    "question": "What is the most common Christian name of U.S. Presidents?",
+    "a": "John",
+    "b": "James",
+    "c": "Richard",
+    "d": "Thomas",
+    "answer": "b",
+    "id": "cvDFC-ZzEkymszmc0RCWfe_E07Q"
+  },
+  {
+    "question": "What was Marco Polo's home town?",
+    "a": "Rome",
+    "b": "Venice",
+    "c": "Athens",
+    "d": "Istanbul",
+    "answer": "b",
+    "id": "_kjSVXMyELx3mjmNd3YYFkcSOwI"
+  },
+  {
+    "question": "In Peanuts, how much did Lucy first charge per psychiatric session?",
+    "a": "1 cent",
+    "b": "5 cents",
+    "c": "10 cents",
+    "d": "1 compliment",
+    "answer": "b",
+    "id": "7BkUqbyMTZLTm92nkX7f8PFcQLQ"
+  },
+  {
+    "question": "Who is the one-eyes giant of Greek mythology?",
+    "a": "Siren",
+    "b": "Spartacus",
+    "c": "Fleece",
+    "d": "Cyclops",
+    "answer": "d",
+    "id": "-uZyxm2QhXG6GtxA_rvtyVjz9pw"
+  },
+  {
+    "question": "What detective retired to become a beekeeper?",
+    "a": "Sam Spade",
+    "b": "Sherlock Holmes",
+    "c": "Hercule Peroit",
+    "d": "Charlie Chan",
+    "answer": "b",
+    "id": "Y4IK4VU1tp6FIhjbkFsMPpHqGlI"
+  },
+  {
+    "question": "Where is Harry's New York Bar?",
+    "a": "London",
+    "b": "Berlin",
+    "c": "Rome",
+    "d": "Paris",
+    "answer": "d",
+    "id": "kyhu_eaL3xfXOytUWL4t3HHojdo"
+  },
+  {
+    "question": "What plant is opium derived from?",
+    "a": "Coco plant",
+    "b": "Opiumist plant",
+    "c": "Poppy plant",
+    "d": "Opium sunflower",
+    "answer": "c",
+    "id": "IJgWAbE5tdpONc-JACOpbP_ou0s"
+  },
+  {
+    "question": "Who is the most translated English author?",
+    "a": "Agatha Christie",
+    "b": "Shakespeare",
+    "c": "William Keats",
+    "d": "Ian Fleming",
+    "answer": "b",
+    "id": "Dps4qXQCfc0ZXXIWcXOtWQV_2XM"
+  },
+  {
+    "question": "Where is Bantry Bay?",
+    "a": "England",
+    "b": "Scotland",
+    "c": "Ireland",
+    "d": "Canada",
+    "answer": "c",
+    "id": "kzpyKXWEG-YTsa1bAXVcHdKlj1U"
+  },
+  {
+    "question": "Who found the long lost explorer David Livingston?",
+    "a": "Henry Livingston",
+    "b": "Charles Lindstrum",
+    "c": "Stanley D. Baker",
+    "d": "Henry Stanley",
+    "answer": "d",
+    "id": "HBRWvk_uvwODM-2BxvStDE766yk"
+  },
+  {
+    "question": "What country suffers from the most earthquakes?",
+    "a": "United States",
+    "b": "Italy",
+    "c": "Japan",
+    "d": "Mexico",
+    "answer": "c",
+    "id": "9eJMz2_gPsbD06VsjA3xWk1TQbk"
+  },
+  {
+    "question": "What fraction pure is 18-carot gold?",
+    "a": "1/2",
+    "b": "2/3",
+    "c": "3/4",
+    "d": "7/8",
+    "answer": "c",
+    "id": "DIbYWH9u4hXWJ06x3Cwd31tOYOI"
+  },
+  {
+    "question": "What is the name of Little Orphan Annie's dog?",
+    "a": "Sandy",
+    "b": "Rover",
+    "c": "Missing",
+    "d": "Scruffy",
+    "answer": "a",
+    "id": "g2iXlG9I_7eQT_7Q4FbLO4bihbQ"
+  },
+  {
+    "question": "What is the most looked-at painting in the Louvre?",
+    "a": "The Last Supper",
+    "b": "The Mona Lisa",
+    "c": "The Venus de Milo",
+    "d": "The Coronation",
+    "answer": "b",
+    "id": "XKq17A2K0znsT9I3LfRqgj4J2GQ"
+  },
+  {
+    "question": "What is the first word of the text of the Declaration of Independence",
+    "a": "We",
+    "b": "The",
+    "c": "When",
+    "d": "Of",
+    "answer": "c",
+    "id": "PimkA27a3JeQwu7MuSevp4z0agk"
+  },
+  {
+    "question": "Who shot Martin Luther King Jr.?",
+    "a": "Malcolm X",
+    "b": "James Earl Ray",
+    "c": "Thomas Sterns",
+    "d": "John Calibash",
+    "answer": "b",
+    "id": "j5ZxLcI7620iEh79KaEh9aP8bpU"
+  },
+  {
+    "question": "What nationality was Pablo Picasso?",
+    "a": "Portuguese",
+    "b": "Italian",
+    "c": "French",
+    "d": "Spanish",
+    "answer": "d",
+    "id": "Q_TFrxRz95zAgPd0Qo-aGQnRt6E"
+  },
+  {
+    "question": "What year as the Berlin Wall erected?",
+    "a": "1957",
+    "b": "1961",
+    "c": "1963",
+    "d": "1959",
+    "answer": "b",
+    "id": "FoagS3dnuBdz2CkuKqcaaultWRk"
+  },
+  {
+    "question": "What magazine entered the ranks on November 23, 1936?",
+    "a": "Time",
+    "b": "Life",
+    "c": "Playboy",
+    "d": "Readers Digest",
+    "answer": "b",
+    "id": "rSHNWgp1NoHY0szKDXsERttVTqE"
+  },
+  {
+    "question": "What is the world's largest dog?",
+    "a": "Irish Wolfhound",
+    "b": "English Sheepdog",
+    "c": "Greyhound",
+    "d": "Great Dane",
+    "answer": "a",
+    "id": "a76ONkbLIQOYMQNxmSaPL_ULMAQ"
+  },
+  {
+    "question": "What European city is Karl Marx buried in?",
+    "a": "Moscow",
+    "b": "Berlin",
+    "c": "Vienna",
+    "d": "London",
+    "answer": "d",
+    "id": "xfOyHIO9OBQEkTUqOr3NvIKSJBA"
+  },
+  {
+    "question": "What river is Pocahontas buried along?",
+    "a": "The Rhine",
+    "b": "The Thames",
+    "c": "The Colorado",
+    "d": "The Mississippi",
+    "answer": "b",
+    "id": "xOPTcp0dYfSuw4-ayuZMXwDAUwI"
+  },
+  {
+    "question": "What kind of creatures are the Canary Islands named for?",
+    "a": "Birds",
+    "b": "Dogs",
+    "c": "Fish",
+    "d": "Bears",
+    "answer": "b",
+    "id": "P2WpIWnBN8wu4bfa1A98Nh-TFGY"
+  },
+  {
+    "question": "On what continent is Mount Kilimanjaro?",
+    "a": "Asia",
+    "b": "North America",
+    "c": "Africa",
+    "d": "Europe",
+    "answer": "c",
+    "id": "m0_KYKd7j4itT0Rk8VXSCP-Mv2g"
+  },
+  {
+    "question": "How many times larger than life size is the Statue of Liberty?",
+    "a": "10",
+    "b": "20",
+    "c": "50",
+    "d": "100",
+    "answer": "b",
+    "id": "aQMuwn1SlQqnn1I0-FXPMMlhkb8"
+  }
+]

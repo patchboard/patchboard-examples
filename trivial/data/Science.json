@@ -1,0 +1,4493 @@
+[
+  {
+    "question": "Clocked at over 60 mph, what is the fastest mammal on earth?",
+    "a": "Gazelle",
+    "b": "Road Runner",
+    "c": "Cheetah",
+    "d": "Greyhound",
+    "answer": "c",
+    "id": "pQ5_RS_hQEyUqyGqc4JoPLXSjbE"
+  },
+  {
+    "question": "Which is the smallest planet?",
+    "a": "Venus",
+    "b": "Mercury",
+    "c": "Mars",
+    "d": "Pluto",
+    "answer": "b",
+    "id": "4DLpK5jilaFsQLEwxZqdOAxnmcI"
+  },
+  {
+    "question": "\"The Voyage of The Beagle\" told of which scientist's discoveries?",
+    "a": "Enrico Fermi",
+    "b": "Charles Darwin",
+    "c": "Luther Burbank",
+    "d": "Phineas Fogg",
+    "answer": "b",
+    "id": "B0iqXAJDx5_QnkeWDwuayfJTy2A"
+  },
+  {
+    "question": "Who was known as \"The Father of Geometry\"?",
+    "a": "Newton",
+    "b": "Einstein",
+    "c": "Pascal",
+    "d": "Euclid",
+    "answer": "d",
+    "id": "jycnHNa7QqphWrzowdeQugHorow"
+  },
+  {
+    "question": "What state has the highest average annual rainfall?",
+    "a": "Washington",
+    "b": "Oregon",
+    "c": "Hawaii",
+    "d": "Florida",
+    "answer": "c",
+    "id": "mKg6JP8P4vs0bUjdHIvo27Pppho"
+  },
+  {
+    "question": "What is the first planet that a man-made object landed on?",
+    "a": "Venus",
+    "b": "Mars",
+    "c": "Mercury",
+    "d": "Jupiter",
+    "answer": "b",
+    "id": "9YmwjMX0b6vV-oaOA5XzC-Vjlw0"
+  },
+  {
+    "question": "Name the plane in which the Wright Brothers made history.",
+    "a": "The Kittyhawk",
+    "b": "Spirit of St. Louis",
+    "c": "The Flyer",
+    "d": "Orville's Folly",
+    "answer": "c",
+    "id": "0GBDS8xEQ_K_U878_8X5-VzuAcI"
+  },
+  {
+    "question": "What is the name of a triangle that has two equal sides?",
+    "a": "Equilateral",
+    "b": "Isosceles",
+    "c": "Bilateral",
+    "d": "Bipolar",
+    "answer": "b",
+    "id": "3gI0GvtRw8U1Ie4D9MRGqPKa81w"
+  },
+  {
+    "question": "What color are a zebra's stripes?",
+    "a": "Black",
+    "b": "White",
+    "c": "Brown",
+    "d": "Yellow",
+    "answer": "a",
+    "id": "t5bGJTj4Tx5IZxw41rsztiNrvfk"
+  },
+  {
+    "question": "What is the only animal on earth with four knees?",
+    "a": "Elephant",
+    "b": "Rhinoceros",
+    "c": "Giraffe",
+    "d": "Camel",
+    "answer": "a",
+    "id": "1kLbfgyVl-wBPc8iA4lre1kjKIc"
+  },
+  {
+    "question": "A nano-second is what part of a second?",
+    "a": "One millionth",
+    "b": "One billionth",
+    "c": "One Trillionth",
+    "d": "One Thousandth",
+    "answer": "b",
+    "id": "-JyOhgTLMamu93GCCjZ_1zF_qe0"
+  },
+  {
+    "question": "In which state would you find Zion National Park?",
+    "a": "Colorado",
+    "b": "Arizona",
+    "c": "New Mexico",
+    "d": "Utah",
+    "answer": "d",
+    "id": "BI6miAbIToQmtxd1K8Ds-vXMyMw"
+  },
+  {
+    "question": "The brightest star visible in the Northern Hemisphere is...",
+    "a": "Polaris",
+    "b": "Vega",
+    "c": "Betelgeuse",
+    "d": "Sirius",
+    "answer": "d",
+    "id": "hFYtQ8Jd1ThwfRFFjq-Po3uCUzo"
+  },
+  {
+    "question": "The astronomical entity known as The Pleiades is ...",
+    "a": "a galaxy",
+    "b": "a nebula",
+    "c": "a star cluster",
+    "d": "an asteroid",
+    "answer": "c",
+    "id": "RK_JIPZfoBv51Dl--2r8DGwhH_s"
+  },
+  {
+    "question": "Who is generally credited with the invention of the microscope?",
+    "a": "Galileo",
+    "b": "Leeuwenhoek",
+    "c": "Tycho Brahe",
+    "d": "Francis Bacon",
+    "answer": "b",
+    "id": "CN3-rP2eIYex8k5PofX9_skcxzg"
+  },
+  {
+    "question": "The electrically conducive gaps surrounding nerve endings are...",
+    "a": "neurons",
+    "b": "photons",
+    "c": "serotonins",
+    "d": "synapses",
+    "answer": "d",
+    "id": "HbM8nr0awLtmy5-RbgWD14tcrZo"
+  },
+  {
+    "question": "At what temperature does book paper catch fire and burn?",
+    "a": "Celsius 100",
+    "b": "Fahrenheit 212",
+    "c": "Celsius 60",
+    "d": "Fahrenheit 451",
+    "answer": "d",
+    "id": "6-5PAsGOXYF67LLA4bueMLoWytY"
+  },
+  {
+    "question": "Where would you find the \"Sea of Tranquility\"?",
+    "a": "the Bering Straits",
+    "b": "Antartica",
+    "c": "a Galilean novel",
+    "d": "the moon",
+    "answer": "d",
+    "id": "zUO4uzW4MvZyQFAyaLKM7wFhsIU"
+  },
+  {
+    "question": "What is the official state bird of the state of Utah?",
+    "a": "the seagull",
+    "b": "the mockingbird",
+    "c": "the hummingbird",
+    "d": "the saltwater marsh",
+    "answer": "a",
+    "id": "bnVXYkQeKcU4vmXVj3b-xnWhcqU"
+  },
+  {
+    "question": "Of the following dinosaurs, which was the only one capable of flight",
+    "a": "Allosaurus",
+    "b": "Stegosaurus",
+    "c": "Pterodactyl",
+    "d": "Triceratops",
+    "answer": "c",
+    "id": "dFQp2cEBhxEmQwMJmGDiTtqnOms"
+  },
+  {
+    "question": "What is the highest point in the United States?",
+    "a": "Mt. Shasta, CA",
+    "b": "Mt. Madonna, CA",
+    "c": "Mt. Ranier, WA",
+    "d": "Mt. McKinley, AL",
+    "answer": "d",
+    "id": "PIYHtAVAU5EmM0k8_mMt1vZwYdE"
+  },
+  {
+    "question": "Water makes up what percentage of an average apple?",
+    "a": "10%",
+    "b": "25%",
+    "c": "57%",
+    "d": "84%",
+    "answer": "d",
+    "id": "yqakCqd9GmJp-mjzLbQJhzeOIWs"
+  },
+  {
+    "question": "A \"light year\" measures:",
+    "a": "Time",
+    "b": "Speed",
+    "c": "Distance",
+    "d": "Intensity",
+    "answer": "c",
+    "id": "TXXGeFfKyUUM5C3a-LkhkCwjajI"
+  },
+  {
+    "question": "What Apollo lunar landing was cancelled after a tank explosion?",
+    "a": "Apollo 13",
+    "b": "Apollo 1",
+    "c": "Apollo 9",
+    "d": "Apollo 4",
+    "answer": "a",
+    "id": "35rdrMfnawGkDBvvScAtxbE4xrE"
+  },
+  {
+    "question": "Which of these IS NOT one of the usual forms of matter?",
+    "a": "Liquid",
+    "b": "Solid",
+    "c": "Plasma",
+    "d": "None of the above",
+    "answer": "d",
+    "id": "Gvs_15_rtgXd0yNNwtLSj1K73yg"
+  },
+  {
+    "question": "How many days long is a year on the planet Mercury?",
+    "a": "365",
+    "b": "1074",
+    "c": "742",
+    "d": "88",
+    "answer": "d",
+    "id": "lbX2338RaHuOwmBm_d7CiDs19ts"
+  },
+  {
+    "question": "\"BTU's\" measure what?",
+    "a": "Heat energy",
+    "b": "Volume",
+    "c": "Time",
+    "d": "Water Pressure",
+    "answer": "a",
+    "id": "DevIGQRr0wJlbTJdE5p_ZwFwvF0"
+  },
+  {
+    "question": "Besides oxygen, what is the other main substance in the atmosphere?",
+    "a": "Helium",
+    "b": "Carbon",
+    "c": "Nitrogen",
+    "d": "Strontium",
+    "answer": "c",
+    "id": "BXqn2D4u9eAzvMOEy2RVLby0qFg"
+  },
+  {
+    "question": "In which of these places would you NOT be able to use a siphon?",
+    "a": "New Delhi, India",
+    "b": "Death Valley, CA",
+    "c": "The moon",
+    "d": "Along the equator",
+    "answer": "c",
+    "id": "mz-MxWx3aezEFTG95TN_-vYZ5MA"
+  },
+  {
+    "question": "What is a chinook?",
+    "a": "A type of rain",
+    "b": "A type of wind",
+    "c": "An eskimo tool",
+    "d": "A fishing hook",
+    "answer": "b",
+    "id": "-7T3Fm-YtqIqDLx5Wd8AOtJYkkw"
+  },
+  {
+    "question": "In how many years do sunspots cycle?",
+    "a": "1",
+    "b": "11",
+    "c": "36",
+    "d": "76",
+    "answer": "b",
+    "id": "FUlXsgg_qEJBBvNQ3CQA3cIQ7RA"
+  },
+  {
+    "question": "Who was the first person to be awarded the Nobel Prize twice?",
+    "a": "Enrico Fermi",
+    "b": "William Shockley",
+    "c": "Marie Curie",
+    "d": "Louis Pasteur",
+    "answer": "c",
+    "id": "vLUDtlgDtlbwu7o7Uk_Ne1v8hHY"
+  },
+  {
+    "question": "Which animal has the largest brain?",
+    "a": "Blue Whale",
+    "b": "Human Being",
+    "c": "Giraffe",
+    "d": "Dolphin",
+    "answer": "a",
+    "id": "o6hKJuFSTg-n9hexN8J_BSlCBW8"
+  },
+  {
+    "question": "Approximately how many species of butterfly are there?",
+    "a": "100",
+    "b": "1000",
+    "c": "100,000",
+    "d": "1,000,000",
+    "answer": "c",
+    "id": "LI-ktbvkcw23-rh19yRr_GYsBQI"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "a": "K",
+    "b": "Ag",
+    "c": "Hg",
+    "d": "Au",
+    "answer": "d",
+    "id": "f-doFjjyo5NX7E6CAcgin_OJeaU"
+  },
+  {
+    "question": "The Pythagorean Theorem applies to what kind of triangle?",
+    "a": "Isoceles",
+    "b": "Equilateral",
+    "c": "Right",
+    "d": "Any triangle",
+    "answer": "c",
+    "id": "eq1XTTSQ5jzvAkQyiwOiLXLXiXk"
+  },
+  {
+    "question": "What term describes an animal which is active at night?",
+    "a": "Carnivorous",
+    "b": "Nocturnal",
+    "c": "Plebeian",
+    "d": "Amphibious",
+    "answer": "b",
+    "id": "zFxpsBH1u3yyuPI_9YNa4KU6da8"
+  },
+  {
+    "question": "What is the major greenhouse flower crop in the United States?",
+    "a": "Orchids",
+    "b": "Carnations",
+    "c": "Daisies",
+    "d": "Roses",
+    "answer": "d",
+    "id": "95MjroQkvnKd-QjIZmn5fjb1ue8"
+  },
+  {
+    "question": "What bird lays the largest egg?",
+    "a": "Dodo Bird",
+    "b": "Ostrich",
+    "c": "Pterodactyl",
+    "d": "Bald Eagle",
+    "answer": "b",
+    "id": "bJFi6J_uR7zxWMC1v6AllOblS5s"
+  },
+  {
+    "question": "Which is the largest land animal?",
+    "a": "African elephant",
+    "b": "Indian elephant",
+    "c": "Black rhino",
+    "d": "Sudanese Hippo",
+    "answer": "a",
+    "id": "6klXRH3XduZPwFQFAjwQzONqsgg"
+  },
+  {
+    "question": "In which U.S. state do the most bald eagles live?",
+    "a": "Wyoming",
+    "b": "California",
+    "c": "Idaho",
+    "d": "Alaska",
+    "answer": "d",
+    "id": "EVl_lGhOmA2-rDC-4VWT_fs0mVQ"
+  },
+  {
+    "question": "During which event would you be able to see \"Bailey's Beads\"?",
+    "a": "A lunar eclipse",
+    "b": "A solar eclipse",
+    "c": "a Super Nova",
+    "d": "a core meltdown",
+    "answer": "b",
+    "id": "hbrKQvIzx0Se86dpRIJZwdU69Wc"
+  },
+  {
+    "question": "What is the approximate weight of an adult human's skin?",
+    "a": "1 pound",
+    "b": "3 pounds",
+    "c": "6 pounds",
+    "d": "15 pounds",
+    "answer": "c",
+    "id": "3rUHfnoMh2Jl5Y8aXGHmrM8uMqk"
+  },
+  {
+    "question": "How deep is the world's deepest ocean?",
+    "a": "36,000 feet",
+    "b": "46,000 feet",
+    "c": "56,000 feet",
+    "d": "66,000 feet",
+    "answer": "a",
+    "id": "1bWZMFyvBkty2G3qXIohl6GxF24"
+  },
+  {
+    "question": "How many earthquakes are there in an average year?",
+    "a": "5",
+    "b": "500",
+    "c": "5,000",
+    "d": "500,000",
+    "answer": "d",
+    "id": "CQxK9Hn_BUeb3nWNfwNYViTinQk"
+  },
+  {
+    "question": "How many degrees is the average human's field of vision?",
+    "a": "30 degrees",
+    "b": "150 degrees",
+    "c": "180 degrees",
+    "d": "227 degrees",
+    "answer": "c",
+    "id": "2hY1yP2QOCtm4_6rqosHHe4cumQ"
+  },
+  {
+    "question": "How many gallons of blood are filtered by the kidneys each day?",
+    "a": "0.5",
+    "b": "5",
+    "c": "50",
+    "d": "500",
+    "answer": "d",
+    "id": "_rQSQv05A9OcY_78Z-YQD79is6o"
+  },
+  {
+    "question": "What constellation is supposed to depict a hunter?",
+    "a": "Pegasus",
+    "b": "Cassiopeia",
+    "c": "Libra",
+    "d": "Orion",
+    "answer": "d",
+    "id": "8c3zg8MTtee8FBfqkr_jxj-t_4M"
+  },
+  {
+    "question": "From what tree is the Pecan Nut harvested?",
+    "a": "Pecan tree",
+    "b": "Hickory tree",
+    "c": "Maple tree",
+    "d": "Oak tree",
+    "answer": "b",
+    "id": "SuwhfwZKQ2gB0dk6-TWZnb53n_0"
+  },
+  {
+    "question": "Another name for the clavicle is:",
+    "a": "The tail bone",
+    "b": "The foot bone",
+    "c": "The collar bone",
+    "d": "The hip",
+    "answer": "c",
+    "id": "c1C-wlegEC0Ld-d36yDoNcM7M6Y"
+  },
+  {
+    "question": "At what speed does the earth travel through space?",
+    "a": "16,245 mph",
+    "b": "36,672 mph",
+    "c": "66,620 mph",
+    "d": "93,000 mph",
+    "answer": "c",
+    "id": "Mhrev-lBFwCGiWfmo76PYPK4PaA"
+  },
+  {
+    "question": "What is unusual about 4.25 acre Craighead Lake?",
+    "a": "It's always frozen",
+    "b": "It's on the moon",
+    "c": "It's underwater",
+    "d": "It's underground",
+    "answer": "d",
+    "id": "t0lI4qYF-GZqVIfsMa3j8dedBqA"
+  },
+  {
+    "question": "The Asteroid Belt orbits between which two planets?",
+    "a": "Venus and Earth",
+    "b": "Earth and Mars",
+    "c": "Mars and Jupiter",
+    "d": "Jupiter and Saturn",
+    "answer": "c",
+    "id": "OTWZCTZVbJlEQwYTxHeHxLXKZCQ"
+  },
+  {
+    "question": "In the equation \"E = mc2\", what does the \"c\" stand for?",
+    "a": "Energy",
+    "b": "Carbon",
+    "c": "The speed of light",
+    "d": "Conservation",
+    "answer": "c",
+    "id": "Wv9IgMYMbCR59Ako_Zs93nGzh18"
+  },
+  {
+    "question": "Which is the first element in the Periodic Table of Elements?",
+    "a": "Helium",
+    "b": "Hydrogen",
+    "c": "Oxygen",
+    "d": "Carbon",
+    "answer": "b",
+    "id": "SutrTkCmhi4ZSjok0kDQY6B_i58"
+  },
+  {
+    "question": "What is CURRENTLY the farthest planet from the sun?",
+    "a": "Pluto",
+    "b": "Neptune",
+    "c": "Uranus",
+    "d": "Saturn",
+    "answer": "b",
+    "id": "FSgdhRi6rFAdm8h8rLh7kcOTehI"
+  },
+  {
+    "question": "What percentage of California is classified as desert?",
+    "a": "0.24 percent",
+    "b": "2.4 percent",
+    "c": "24.0 percent",
+    "d": "42.0 percent",
+    "answer": "c",
+    "id": "ShAR3fX2x1HXhi4zB7e21fUbwiA"
+  },
+  {
+    "question": "Which of the following IS NOT one of the elements?",
+    "a": "Krypton",
+    "b": "Oxygen",
+    "c": "Helium",
+    "d": "Water",
+    "answer": "d",
+    "id": "spy8EXgDMFvZCprBmXQ8k19hvyA"
+  },
+  {
+    "question": "During which season is the sun farthest from the Earth?",
+    "a": "Winter",
+    "b": "Spring",
+    "c": "Summer",
+    "d": "Fall",
+    "answer": "c",
+    "id": "WaLO28EZqtWG-CsbKYlTA7Pp_-w"
+  },
+  {
+    "question": "Splitting the nucleus of an atom is referred to as:",
+    "a": "Fission",
+    "b": "Fusion",
+    "c": "Simple",
+    "d": "Ribo-nucleic",
+    "answer": "a",
+    "id": "ipwvXiJuLUSJHHk8Awt9kq29Nd8"
+  },
+  {
+    "question": "What is the oldest man-made material?",
+    "a": "Rope",
+    "b": "Plastic",
+    "c": "Pottery",
+    "d": "Glass",
+    "answer": "d",
+    "id": "GHg1W3zwdUMMWvmfLrgS_pm4PW8"
+  },
+  {
+    "question": "Which of the following colors is closest to violet on the spectrum?",
+    "a": "Red",
+    "b": "Orange",
+    "c": "Yellow",
+    "d": "All are the same",
+    "answer": "c",
+    "id": "FH8AilU4B2CmdMejiNIwaYZLLcc"
+  },
+  {
+    "question": "A Hexagon has how many sides?",
+    "a": "5",
+    "b": "6",
+    "c": "7",
+    "d": "8",
+    "answer": "b",
+    "id": "YRh6L1ZLmLEI_1ER7gK2y03ekV0"
+  },
+  {
+    "question": "What percentage of fire-related deaths is due to smoke inhalation?",
+    "a": "20 percent",
+    "b": "40 percent",
+    "c": "60 percent",
+    "d": "80 percent",
+    "answer": "d",
+    "id": "-acL7l7HfgELYtNYR9QZqas8pzk"
+  },
+  {
+    "question": "Which is the largest flying bird?",
+    "a": "The albatross",
+    "b": "The ostrich",
+    "c": "The owl",
+    "d": "The stork",
+    "answer": "a",
+    "id": "Uop5YQb6qh0cf1mOP4NiTU000b4"
+  },
+  {
+    "question": "Which of these IS NOT one of the 3 Kingdoms of Nature?",
+    "a": "Vegetable",
+    "b": "Mineral",
+    "c": "Aquatic",
+    "d": "Animal",
+    "answer": "c",
+    "id": "lXz3J-Gx__M01zQS7iiakgGvBik"
+  },
+  {
+    "question": "How many years are in a Millenium?",
+    "a": "100",
+    "b": "1,000",
+    "c": "1 million",
+    "d": "10,000",
+    "answer": "b",
+    "id": "SkftYAhd744wMOJP2uFLB78ln6A"
+  },
+  {
+    "question": "How many permanent teeth should an adult have?",
+    "a": "24",
+    "b": "32",
+    "c": "36",
+    "d": "42",
+    "answer": "b",
+    "id": "sMJ_wRsef1mRkwI5H5gGNCZbn3Q"
+  },
+  {
+    "question": "What is the colored portion of the eye called?",
+    "a": "The pupil",
+    "b": "The iris",
+    "c": "The retina",
+    "d": "The optic nerve",
+    "answer": "b",
+    "id": "nRp-P8rDBx8oUnM6BwL6f_xWpDg"
+  },
+  {
+    "question": "How many men have walked on the moon?",
+    "a": "4",
+    "b": "7",
+    "c": "10",
+    "d": "12",
+    "answer": "d",
+    "id": "chEnjFfyHsQllHmKokdYm1fQqiQ"
+  },
+  {
+    "question": "What galaxy are we a part of?",
+    "a": "The Milky Way",
+    "b": "The Andromeda",
+    "c": "The Solar System",
+    "d": "Alpha Centauri",
+    "answer": "a",
+    "id": "fL_bWncezJZddVqfJeq_48zEtck"
+  },
+  {
+    "question": "Which country experiences the most tornadoes annually?",
+    "a": "India",
+    "b": "United States",
+    "c": "Phillipines",
+    "d": "Australia",
+    "answer": "b",
+    "id": "07XHLsuXiz4dhgUABPxmLi9K6fU"
+  },
+  {
+    "question": "What is the most abundant chemical in the earth's crust?",
+    "a": "Calcium",
+    "b": "Oxygen",
+    "c": "Hydrogen",
+    "d": "Uranium",
+    "answer": "b",
+    "id": "mQf5NAwX_TopHT_XmYJJUsyJeyo"
+  },
+  {
+    "question": "What is the sum of the interior angles of a triangle?",
+    "a": "90 degrees",
+    "b": "180 degrees",
+    "c": "270 degrees",
+    "d": "360 degrees",
+    "answer": "b",
+    "id": "4qthdhF-rkXPLDhMrfEc2U5-XF4"
+  },
+  {
+    "question": "The speed of light is 186,000 ...",
+    "a": "feet per second.",
+    "b": "feet per hour.",
+    "c": "miles per second.",
+    "d": "miles per hour.",
+    "answer": "c",
+    "id": "P_HlWqQKFhOHbtsfDHYgoAobHGM"
+  },
+  {
+    "question": "What is the lightest of all metals?",
+    "a": "Aluminum",
+    "b": "Magnesium",
+    "c": "Lithium",
+    "d": "Iron",
+    "answer": "c",
+    "id": "NXzK_jj9Wez2P_QUyOumfGEXkKY"
+  },
+  {
+    "question": "In what year did Neil Armstrong make his historic moon walk?",
+    "a": "1968",
+    "b": "1969",
+    "c": "1970",
+    "d": "1967",
+    "answer": "b",
+    "id": "HJGauG_6VMxWf9Jqn-XU6gKXpnM"
+  },
+  {
+    "question": "Which is the cave formation which hangs from the cieling?",
+    "a": "Stalagmites",
+    "b": "Stalactites",
+    "c": "Both of above",
+    "d": "Neither of above",
+    "answer": "b",
+    "id": "PZGfH9HtjeBQNouo1643ldNmf-I"
+  },
+  {
+    "question": "What is commonly used as airline jet fuel?",
+    "a": "Nitromethane",
+    "b": "Gasoline",
+    "c": "Liquid Nitrogen",
+    "d": "Kerosene",
+    "answer": "d",
+    "id": "9BxOukzUzQtarvIaG5HNe7wpLiM"
+  },
+  {
+    "question": "How many people are killed, on the average, each day by lightning?",
+    "a": "1",
+    "b": "5",
+    "c": "10",
+    "d": "20",
+    "answer": "d",
+    "id": "Oisdx1OcyM2ynDgdTYUodRViGzU"
+  },
+  {
+    "question": "What two colors do color-blind people have trouble distinguishing",
+    "a": "Red & Green",
+    "b": "Blue & violet",
+    "c": "Orange and Yellow",
+    "d": "Aquamarine & Pink",
+    "answer": "a",
+    "id": "59-crMNBWZToKVn2NdmHU3eg5Cw"
+  },
+  {
+    "question": "What do you call a female calf?",
+    "a": "A cowette",
+    "b": "A eunuch",
+    "c": "A heifer",
+    "d": "A steer",
+    "answer": "c",
+    "id": "uD-I9KM_5rzjlmDmMI1AJz8w4-g"
+  },
+  {
+    "question": "What is the main substance contained within pearls?",
+    "a": "pearlite",
+    "b": "sand",
+    "c": "calcium",
+    "d": "ivory",
+    "answer": "c",
+    "id": "LQgFji7poIPrsxciu8WqxNx8B_0"
+  },
+  {
+    "question": "Which eye element controls the amount of light allowed to enter?",
+    "a": "The pupil",
+    "b": "The retina",
+    "c": "The cone",
+    "d": "The iris",
+    "answer": "d",
+    "id": "5FMqxhrVDX5wEB9SO6rN8T_cKTU"
+  },
+  {
+    "question": "What is considered to be the saltiest lake on Earth?",
+    "a": "Great Salt Lake",
+    "b": "Lake Superior",
+    "c": "The Dead Sea",
+    "d": "Lake Titticacca",
+    "answer": "c",
+    "id": "4QnFtGZ_RgfLtJqBQxlBejFrFI0"
+  },
+  {
+    "question": "How would you write the number 69 in Roman Numerals?",
+    "a": "XXIX",
+    "b": "LLIX",
+    "c": "LXVIII",
+    "d": "LXIX",
+    "answer": "d",
+    "id": "MMKUNh8e-z6BCVAzwOd1ACULDB8"
+  },
+  {
+    "question": "Which country has the third most satellites in orbit?",
+    "a": "France",
+    "b": "England",
+    "c": "West Germany",
+    "d": "Japan",
+    "answer": "a",
+    "id": "Ckn-dv3z8o2O4aDp0GCoSZdPPTg"
+  },
+  {
+    "question": "What is the common name for iron coated with zinc?",
+    "a": "Nickel",
+    "b": "Nickel Ferrite",
+    "c": "Zinc Oxide",
+    "d": "Galvanized Iron",
+    "answer": "d",
+    "id": "bFD2KOWAwVnfR5Omb5l2vhJSc-4"
+  },
+  {
+    "question": "What makes plants green?",
+    "a": "Chloropromazine",
+    "b": "Chloroform",
+    "c": "Sodium Chloride",
+    "d": "Chlorophyll",
+    "answer": "d",
+    "id": "1vHkW8P2jMK-vfpa4jWP0CDsNm4"
+  },
+  {
+    "question": "Which was the first Apollo mission to orbit the moon?",
+    "a": "Apollo 13",
+    "b": "Apollo 10",
+    "c": "Apollo 8",
+    "d": "Apollo 5",
+    "answer": "c",
+    "id": "qdPjpSb7wTcuMxH67SaWIIMipOc"
+  },
+  {
+    "question": "What's a capon?",
+    "a": "A guitar accessory",
+    "b": "A lunatic monkey",
+    "c": "A tongueless calf",
+    "d": "A castrated rooster",
+    "answer": "d",
+    "id": "hyCzu7Y04OvWQUPEBhXapmn3CAc"
+  },
+  {
+    "question": "What was the 1st major publication to feature a hologram on its cover",
+    "a": "Scientific American",
+    "b": "Omni Magazine",
+    "c": "Popular Electronics",
+    "d": "National Geographic",
+    "answer": "d",
+    "id": "N0PJijMyPu99wLhw3SZfSnDR-5w"
+  },
+  {
+    "question": "A typical caterpillar has how many legs?",
+    "a": "16",
+    "b": "32",
+    "c": "8",
+    "d": "12",
+    "answer": "a",
+    "id": "1zh4kJbE2RvGp2pUV-Tl_b_d_Fo"
+  },
+  {
+    "question": "What is the psychological term for self-love?",
+    "a": "Super-Egotism",
+    "b": "Oedipus Complex",
+    "c": "Narcissism",
+    "d": "Voyeurism",
+    "answer": "c",
+    "id": "yHjElnE7MWBR9o0_eCIJrxO3oSU"
+  },
+  {
+    "question": "Which color has the longest wavelength?",
+    "a": "Red",
+    "b": "Yellow",
+    "c": "Blue",
+    "d": "Green",
+    "answer": "a",
+    "id": "x5C562sW1PthV0tlfad8YLhB95Y"
+  },
+  {
+    "question": "Which element do ALL organic compounds contain?",
+    "a": "Oxygen",
+    "b": "Carbon",
+    "c": "Water",
+    "d": "Hydrogen",
+    "answer": "b",
+    "id": "OIRRvJIFob_ZUdSuQGoFvg4v_4U"
+  },
+  {
+    "question": "What was the life-span of most of the dinosaurs?",
+    "a": "20 years",
+    "b": "100 years",
+    "c": "200 years",
+    "d": "40 years",
+    "answer": "b",
+    "id": "TCbEb5IhEAMcDgkAoi5lEfa6gDk"
+  },
+  {
+    "question": "By age 60, most people lost what percentage of their taste buds?",
+    "a": "10 percent",
+    "b": "25 percent",
+    "c": "50 percent",
+    "d": "75 percent",
+    "answer": "c",
+    "id": "fa0o8W6IEX71QWhtlyCdJxFArG0"
+  },
+  {
+    "question": "Which of the senses is most closely linked to memory?",
+    "a": "Sight",
+    "b": "Touch",
+    "c": "Smell",
+    "d": "Taste",
+    "answer": "c",
+    "id": "Qze7YjjStBYtkDBEBxJpWNAq_GE"
+  },
+  {
+    "question": "What was the average life span in the year 700 B.C.?",
+    "a": "48 years",
+    "b": "38 years",
+    "c": "28 years",
+    "d": "18 years",
+    "answer": "d",
+    "id": "68XZQ861gnsluFCAIK5OBUzS64Q"
+  },
+  {
+    "question": "Who was the first man to orbit the Earth?",
+    "a": "John Glenn",
+    "b": "Alan Shephard",
+    "c": "Yuri Gagarin",
+    "d": "Buzz Aldrin",
+    "answer": "c",
+    "id": "PMiPSHR6AvX7iASQa0ZxHG5PGlA"
+  },
+  {
+    "question": "How far is the sun from earth?",
+    "a": "93,000 miles",
+    "b": "930,000 miles",
+    "c": "93,000,000 miles",
+    "d": "930,000,000 miles",
+    "answer": "c",
+    "id": "eX4Nu70uDqf1rp8AJW6qrx6IiwA"
+  },
+  {
+    "question": "The apparent shift in stars from different perspectives is called:",
+    "a": "Parallelism",
+    "b": "Parallax",
+    "c": "Apogee",
+    "d": "Perspicacity",
+    "answer": "b",
+    "id": "Kw_7p0-RtAIDCg171sm35KmUXrE"
+  },
+  {
+    "question": "Which of these is NOT one of the four \"H\"s in the 4-H Club?",
+    "a": "Head",
+    "b": "Heart",
+    "c": "Husbandry",
+    "d": "Health",
+    "answer": "c",
+    "id": "rOFEP-pg89dkqp6APY4ePmuuIXk"
+  },
+  {
+    "question": "Which of the two Wright Brothers flew their historic first flight?",
+    "a": "Orville",
+    "b": "Wilbur",
+    "c": "Niether of them",
+    "d": "Both of them",
+    "answer": "a",
+    "id": "kl1gbcUqm3fMEKyTzichDje3aIs"
+  },
+  {
+    "question": "What percentage of alcohol is in 100 proof whiskey?",
+    "a": "100 percent",
+    "b": "50 percent",
+    "c": "200 percent",
+    "d": "250 percent",
+    "answer": "b",
+    "id": "wSsh6FhgffpnPRBSOE6xjKE07VM"
+  },
+  {
+    "question": "What's the cube root of 27?",
+    "a": "9",
+    "b": "729",
+    "c": "3",
+    "d": "81",
+    "answer": "c",
+    "id": "k4-qq95krFwp5v0bLu7W-MirxjA"
+  },
+  {
+    "question": "What does a chiropodist treat?",
+    "a": "The hands & feet",
+    "b": "The feet only",
+    "c": "The hands only",
+    "d": "The back only",
+    "answer": "a",
+    "id": "H3XgDyn5mtVpGkrQWnttlTY_Lxk"
+  },
+  {
+    "question": "When do you plant Winter Wheat?",
+    "a": "In the Summer",
+    "b": "In the Winter",
+    "c": "In the Fall",
+    "d": "In the Spring",
+    "answer": "c",
+    "id": "3CI7YGbw55MjZvMSMzqpSgBv508"
+  },
+  {
+    "question": "What does the male preying mantis lose after mating?",
+    "a": "His skin",
+    "b": "His sex organs",
+    "c": "His antennae",
+    "d": "His head",
+    "answer": "d",
+    "id": "cSJFnA1P0_3Bd_6-kw66q_rlwK0"
+  },
+  {
+    "question": "Which science fiction writer had a part in the development of radar?",
+    "a": "Ray Bradbury",
+    "b": "Jerry Pournelle",
+    "c": "Arthur C. Clarke",
+    "d": "Isaac Asimov",
+    "answer": "c",
+    "id": "lyiUFa82N25r9cQzmFKSY2I4fjM"
+  },
+  {
+    "question": "In which direction does a comet's tail point?",
+    "a": "Towards the sun",
+    "b": "Away from the sum",
+    "c": "Towards the Earth",
+    "d": "Away from the Earth",
+    "answer": "b",
+    "id": "J31M6T1MPko8o4yII-eF4GouAr4"
+  },
+  {
+    "question": "What insect kills more people than any other insect or any snake?",
+    "a": "The mosquito",
+    "b": "The cockroach",
+    "c": "The honey bee",
+    "d": "The black widow",
+    "answer": "c",
+    "id": "AUyS6jTjO1JGmvRMFqo9NL21_iQ"
+  },
+  {
+    "question": "What kind of animals was Napoleon afraid of?",
+    "a": "Elephants",
+    "b": "Cats",
+    "c": "Dogs",
+    "d": "Snakes",
+    "answer": "b",
+    "id": "KzZLTQd5UcKo3eN9GUuTf0_XQuU"
+  },
+  {
+    "question": "Which is the only animal whose skin can be grafted to mans'?",
+    "a": "The monkey",
+    "b": "The chimpanzee",
+    "c": "The gorilla",
+    "d": "The pig",
+    "answer": "d",
+    "id": "NNLfDDEsEmPG40vhlIr734mWrZw"
+  },
+  {
+    "question": "How long does it take the planet Pluto to go around the sun?",
+    "a": "1 earth year",
+    "b": "15 earth years",
+    "c": "117 earth years",
+    "d": "248 earth years",
+    "answer": "d",
+    "id": "FTwo5znrjkZHqvhB3mXH1cF3Hqw"
+  },
+  {
+    "question": "What's the Fahrenheit equivalent of zero degrees centigrade?",
+    "a": "Minus 212",
+    "b": "0",
+    "c": "32",
+    "d": "Minus 100",
+    "answer": "c",
+    "id": "V7Vzjy2-81H4naQmtugMJ2JRVIk"
+  },
+  {
+    "question": "What organ of the body heals the fastest?",
+    "a": "The skin",
+    "b": "The eye",
+    "c": "The liver",
+    "d": "The brain",
+    "answer": "b",
+    "id": "uwloX7LvjSLkXGufUv_hogyMAwg"
+  },
+  {
+    "question": "Who made the 1st round-the-world solo flight?",
+    "a": "Amelia Earhart",
+    "b": "Charles Lindbergh",
+    "c": "Rosie Ruiz",
+    "d": "Wiley Post",
+    "answer": "d",
+    "id": "ojARPxY0eACJkz93RUSTOSMn4Kw"
+  },
+  {
+    "question": "What was the name of world's first nuclear powered aircraft carrier?",
+    "a": "The Nautilus",
+    "b": "The Trident",
+    "c": "The Enterprise",
+    "d": "The Eisenhower",
+    "answer": "c",
+    "id": "2G4E6hDQfNF996kDgc5B22S2-9A"
+  },
+  {
+    "question": "Which Pole gets more sunlight?",
+    "a": "The North Pole",
+    "b": "The South Pole",
+    "c": "Both the same",
+    "d": "Neither of the two",
+    "answer": "a",
+    "id": "rvdOoGFPxa3eBEE39v2ZKuew9-4"
+  },
+  {
+    "question": "How many feet are in a mile?",
+    "a": "8520",
+    "b": "5820",
+    "c": "5028",
+    "d": "5280",
+    "answer": "d",
+    "id": "FyK_HljdhH3AWLQr2hmfKrp-4is"
+  },
+  {
+    "question": "What's the second largest planet in our solar system?",
+    "a": "Earth",
+    "b": "Jupiter",
+    "c": "Uranus",
+    "d": "Saturn",
+    "answer": "d",
+    "id": "lYjnfyJH4kkc_ATu3YzeYxF8Jac"
+  },
+  {
+    "question": "What is the triangular shaped Greek letter called?",
+    "a": "Alpha",
+    "b": "Beta",
+    "c": "Delta",
+    "d": "Phi",
+    "answer": "c",
+    "id": "dhSRZyC91VIdbiPdWWEUrkdenNA"
+  },
+  {
+    "question": "Are barnacles plants or animals?",
+    "a": "Plants",
+    "b": "Animals",
+    "c": "Neither, mineral.",
+    "d": "Both",
+    "answer": "b",
+    "id": "0h6N8wHO7wDRIcZTngjauR1UZiM"
+  },
+  {
+    "question": "What is quicksilver?",
+    "a": "Ionized silver",
+    "b": "Zinc",
+    "c": "Mercury",
+    "d": "Frozen quicksand",
+    "answer": "c",
+    "id": "Uozzp3HwSZiXnIwCQFs1FzJDxUY"
+  },
+  {
+    "question": "How many chambers are there in the human heart?",
+    "a": "Only one",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "answer": "d",
+    "id": "DbBSw9mza2cfvghh_7U5s4dR9hM"
+  },
+  {
+    "question": "How many tentacles does a squid have?",
+    "a": "8",
+    "b": "10",
+    "c": "16",
+    "d": "32",
+    "answer": "b",
+    "id": "F3fKqIDloMQUjjEtF0lW8r4KpSc"
+  },
+  {
+    "question": "When Thomas Edison died, how many patents did he have in his name?",
+    "a": "Over 1000",
+    "b": "None",
+    "c": "1",
+    "d": "43",
+    "answer": "a",
+    "id": "H7f6tjyXWMv0n11PjtzAnvMhqKQ"
+  },
+  {
+    "question": "In which direction does the Sahara Desert expand each year?",
+    "a": "North",
+    "b": "South",
+    "c": "East",
+    "d": "West",
+    "answer": "b",
+    "id": "guSZt4ckzUUlw1Vf-eowu8JFbkM"
+  },
+  {
+    "question": "What does a gynephobic man fear?",
+    "a": "Cancer",
+    "b": "Hospitals",
+    "c": "Gyroscopes",
+    "d": "Women",
+    "answer": "d",
+    "id": "oes5Xst9CL_cc1hn7bBbKHw4bE4"
+  },
+  {
+    "question": "What section of an airline gives the bumpiest ride?",
+    "a": "The front",
+    "b": "The tail",
+    "c": "The center",
+    "d": "Makes no difference",
+    "answer": "b",
+    "id": "BOUB_CQOkpP9fLIjKkmyEgs8brU"
+  },
+  {
+    "question": "What does an anthropophagist eat?",
+    "a": "Meat",
+    "b": "Vegetation",
+    "c": "Cattle",
+    "d": "Humans",
+    "answer": "d",
+    "id": "BxgM28U5WdGXAMhww2zfNuXjv_k"
+  },
+  {
+    "question": "What's the medical name for cancer of the blood?",
+    "a": "Carcinoma Platelet",
+    "b": "A.I.D.S.",
+    "c": "Carcinoma Plasma",
+    "d": "Leukemia",
+    "answer": "d",
+    "id": "ZnVPdV7cpVC4IXNbPZGrLJ48dZk"
+  },
+  {
+    "question": "What is the square root of one-quarter?",
+    "a": "One sixteenth",
+    "b": "One half",
+    "c": "1",
+    "d": "4",
+    "answer": "b",
+    "id": "BpmtWCUWUUjgb1r3LccJZIkaFQ8"
+  },
+  {
+    "question": "Which of the 5 senses is less sharp after eating too much?",
+    "a": "Sight",
+    "b": "Touch",
+    "c": "Taste",
+    "d": "Hearing",
+    "answer": "d",
+    "id": "m8YxMsg8B17wi9EzJrbdOu3k3LI"
+  },
+  {
+    "question": "Who invented the stock ticker?",
+    "a": "Dow Jones",
+    "b": "Henry Barron",
+    "c": "Alvin Fernard",
+    "d": "Thomas Edison",
+    "answer": "d",
+    "id": "Ws-4gGPKtF6koLukevSQFX5PCLI"
+  },
+  {
+    "question": "How many sides does a Nonagon have?",
+    "a": "None",
+    "b": "12",
+    "c": "1",
+    "d": "9",
+    "answer": "d",
+    "id": "ObmP--9LZtJaqnna8EoCaTbjl6k"
+  },
+  {
+    "question": "How many times a year does a penguin have sex?",
+    "a": "0",
+    "b": "365",
+    "c": "12",
+    "d": "1",
+    "answer": "d",
+    "id": "le9W7JRpttsfJSMnW3YEHPz2nWI"
+  },
+  {
+    "question": "What's the average life-span of a mayfly?",
+    "a": "1 hour",
+    "b": "1 day",
+    "c": "1 week",
+    "d": "1 month",
+    "answer": "b",
+    "id": "q5BhZdjh3_fFWoRk3mrnTMcKP8Y"
+  },
+  {
+    "question": "Which of these is the only planet that DOES NOT have rings?",
+    "a": "Saturn",
+    "b": "Jupiter",
+    "c": "Uranus",
+    "d": "Neptune",
+    "answer": "d",
+    "id": "BLUpgyUGIx52NzDFJSWAlofmegA"
+  },
+  {
+    "question": "What is a castrated bull called?",
+    "a": "A heifer",
+    "b": "A capon",
+    "c": "A maiden",
+    "d": "A steer",
+    "answer": "d",
+    "id": "Wp6hE7nFpqLDD_lW8QS9Jl1w8Is"
+  },
+  {
+    "question": "HoWhat color is a Granny Smith Apple?",
+    "a": "Red",
+    "b": "Purple",
+    "c": "Green",
+    "d": "Yellow",
+    "answer": "c",
+    "id": "rE3CTwgX24nUaCmBF2aps5LK0YU"
+  },
+  {
+    "question": "What does a pedometer measure?",
+    "a": "Walking distance",
+    "b": "Child's temperature",
+    "c": "Child's height",
+    "d": "Child's weight",
+    "answer": "a",
+    "id": "TcqqY4CTSW5Y90qFyuOtP0lMcbc"
+  },
+  {
+    "question": "What sedimentary rock was used to build The Pantheon & The Coliseum?",
+    "a": "Marble",
+    "b": "Travertine",
+    "c": "Sandstone",
+    "d": "Ironstone",
+    "answer": "b",
+    "id": "_qhQNhEVA43huL4qV_6RtHZXoDw"
+  },
+  {
+    "question": "Where is the human skin the thickest?",
+    "a": "The back",
+    "b": "The head",
+    "c": "The feet",
+    "d": "The eyelids",
+    "answer": "a",
+    "id": "NxljZgRZSll0a1Vi1-Mk83iiXS0"
+  },
+  {
+    "question": "What is the chemical symbol for iron?",
+    "a": "Ir",
+    "b": "Fe",
+    "c": "Fer",
+    "d": "If",
+    "answer": "b",
+    "id": "d5ZsePOy7gd17MGDcOoyEaJAayY"
+  },
+  {
+    "question": "Which drink is the most capable of quenching thirst?",
+    "a": "Gatorade",
+    "b": "Carbonated Cola",
+    "c": "Water",
+    "d": "Milk",
+    "answer": "c",
+    "id": "XCFYCAoUD803jJl8fjgQZIyLKi4"
+  },
+  {
+    "question": "What does the Kelvin scale measure?",
+    "a": "Heat",
+    "b": "Depth",
+    "c": "Weight",
+    "d": "Time",
+    "answer": "a",
+    "id": "5HWHcluWFzpPCSgmvEeAgr9HQHQ"
+  },
+  {
+    "question": "What's the most abundant element in the known Universe?",
+    "a": "Hydrogen",
+    "b": "Helium",
+    "c": "Oxygen",
+    "d": "Carbon",
+    "answer": "a",
+    "id": "2X0IYTdBQfc0Q0ilPfZfHr4QFww"
+  },
+  {
+    "question": "What's the most abundant element in the sun?",
+    "a": "Hydrogen",
+    "b": "Helium",
+    "c": "Oxygen",
+    "d": "Carbon",
+    "answer": "a",
+    "id": "ZovyCUcBUvzt_lCAQ7ECqmTnMCk"
+  },
+  {
+    "question": "What invention is Thomas Crapper associated with?",
+    "a": "The toilet",
+    "b": "The rotary engine",
+    "c": "The mousetrap",
+    "d": "The steambath",
+    "answer": "a",
+    "id": "W9ILrMHOGxWbCIuinCG9baLlckI"
+  },
+  {
+    "question": "What organ is inflamed in the condition known as encephalitis?",
+    "a": "The lungs",
+    "b": "The heart",
+    "c": "The kidneys",
+    "d": "The brain",
+    "answer": "d",
+    "id": "TDoi6nb8MMeWxlgblP9QfN4tjlE"
+  },
+  {
+    "question": "What is the most widely used tranquilizer in the United States?",
+    "a": "Quaalude",
+    "b": "Seconal",
+    "c": "Valium",
+    "d": "Phenobarbitol",
+    "answer": "c",
+    "id": "YO9p9TP6xRyu1OPjkifbjK06YxE"
+  },
+  {
+    "question": "In the US, what percentage of the population has an I.Q. over 100?",
+    "a": "less than 2 percent",
+    "b": "10 percent",
+    "c": "25 percent",
+    "d": "50 percent",
+    "answer": "d",
+    "id": "dbLmpJjiTt1N7imJZinwiMdU4sQ"
+  },
+  {
+    "question": "What is the largest organ of the human body?",
+    "a": "The brain",
+    "b": "The pancreas",
+    "c": "The spleen",
+    "d": "The skin",
+    "answer": "d",
+    "id": "Qev8YJsrfXnS6FzoNalV-Dcz9f8"
+  },
+  {
+    "question": "What tool did Charles Moncke invent?",
+    "a": "The Monkey Wrench",
+    "b": "Vise-grips",
+    "c": "The Drill Press",
+    "d": "The Jigsaw",
+    "answer": "a",
+    "id": "5GEALlDnmgNF3goH0ivLRnU3vv4"
+  },
+  {
+    "question": "What animal was revered by the ancient Egyptians?",
+    "a": "The Camel",
+    "b": "The Cow",
+    "c": "The Cat",
+    "d": "The Casbah Foobird",
+    "answer": "c",
+    "id": "HRwEZsAqf8L33-dHNBCi6nmpFiE"
+  },
+  {
+    "question": "How many degrees are there in a right angle?",
+    "a": "45 degrees",
+    "b": "90 degrees",
+    "c": "180 degrees",
+    "d": "none of the above",
+    "answer": "b",
+    "id": "gidkMAGkw_kVEkEs2tUdduP7AEc"
+  },
+  {
+    "question": "Which African animal kills the most people?",
+    "a": "The tiger",
+    "b": "The lion",
+    "c": "The crocodile",
+    "d": "The mosquito",
+    "answer": "c",
+    "id": "MOvY-B6J9HbqPjuYQDCorQynl2U"
+  },
+  {
+    "question": "What's a dactylogram?",
+    "a": "A brain scan",
+    "b": "A fingerprint",
+    "c": "A flying dinosaur",
+    "d": "A dinosaur fossil",
+    "answer": "b",
+    "id": "EKAMgAH9ds246v31xwATbIFdFwQ"
+  },
+  {
+    "question": "What is IBM's motto?",
+    "a": "Think",
+    "b": "In Better Minds",
+    "c": "Everyone's Business",
+    "d": "Industry Before Man",
+    "answer": "a",
+    "id": "Ropfo91kXEoHEfuBFn-zJjwAK74"
+  },
+  {
+    "question": "How many cups of butter are there in a pound?",
+    "a": "1",
+    "b": "2",
+    "c": "4",
+    "d": "8",
+    "answer": "b",
+    "id": "1XnF8PLpfKHwTrscbV19GLlLTyM"
+  },
+  {
+    "question": "What season begins with the Vernal Equinox?",
+    "a": "Summer",
+    "b": "Spring",
+    "c": "Fall",
+    "d": "Winter",
+    "answer": "b",
+    "id": "s1AwQ9V5zvz7ak0z1JqJ7Iu5m9s"
+  },
+  {
+    "question": "What does a binet scale measure?",
+    "a": "Grain volume",
+    "b": "Intelligence",
+    "c": "Space Shuttles",
+    "d": "Rocks",
+    "answer": "b",
+    "id": "tVhBGIxI4htCpAmYhcO3kM5Yt9g"
+  },
+  {
+    "question": "How many moons does Mars have?",
+    "a": "0",
+    "b": "1",
+    "c": "2",
+    "d": "3",
+    "answer": "c",
+    "id": "4RPBF4zeSSVzTPmIPekfR1pwjmU"
+  },
+  {
+    "question": "From what part of the body does Lacrimal fluid flow?",
+    "a": "The lymph glands",
+    "b": "The pituitary gland",
+    "c": "The eyes",
+    "d": "The sweat glands",
+    "answer": "c",
+    "id": "V13NNra1TZkZs_sC4v0DShQZBS0"
+  },
+  {
+    "question": "What nursery rhyme character was arachnaphobic?",
+    "a": "Georgie Porgie",
+    "b": "Little Boy Blue",
+    "c": "Little Miss Muffet",
+    "d": "Little Bo Peep",
+    "answer": "c",
+    "id": "UF1CILD323vW1Mq2GzB_XQGml-k"
+  },
+  {
+    "question": "Which mosquito draws blood?",
+    "a": "The male",
+    "b": "The female",
+    "c": "Both",
+    "d": "Neither",
+    "answer": "b",
+    "id": "vaa9c_iB6Q2Z-23nvycZ44S2xcg"
+  },
+  {
+    "question": "What inert gas is used in flourescent lights?",
+    "a": "Neon",
+    "b": "Freon",
+    "c": "Krypton",
+    "d": "Argon",
+    "answer": "d",
+    "id": "xV5Y2Sae0M0Ol2pj-4qANB5EvFk"
+  },
+  {
+    "question": "How many pounds are there in a stone?",
+    "a": "10",
+    "b": "12",
+    "c": "16",
+    "d": "14",
+    "answer": "d",
+    "id": "xP9xADRuIekLCS8-LDzyWD9A6oM"
+  },
+  {
+    "question": "Which of these IS NOT a type of telescope?",
+    "a": "Cassegrainian",
+    "b": "Schmidt",
+    "c": "Galilean",
+    "d": "Palomatic",
+    "answer": "d",
+    "id": "ER1RNPYErugDJ7QUDbkYyEM_CqY"
+  },
+  {
+    "question": "On what type of tree do dates grow?",
+    "a": "Palm trees",
+    "b": "Date trees",
+    "c": "Walnut trees",
+    "d": "Hickory trees",
+    "answer": "a",
+    "id": "rrnlzeiPXD6bFh-lOKu7X7Dek3Q"
+  },
+  {
+    "question": "How many land miles are there in a league?",
+    "a": "20,000",
+    "b": "less than one",
+    "c": "600",
+    "d": "3",
+    "answer": "d",
+    "id": "6q9T6H5LIgz5OXbrUIphntrPFL8"
+  },
+  {
+    "question": "What mammal lays eggs?",
+    "a": "Crocodile",
+    "b": "Ostrich",
+    "c": "Platypus",
+    "d": "Duckbilled Swoon",
+    "answer": "c",
+    "id": "5kU52keWSS4nCx0Xqzd5Ozp_wTA"
+  },
+  {
+    "question": "What was the longest dinosaur?",
+    "a": "Diplodocus",
+    "b": "Brontosaurus",
+    "c": "Bracyhosaurus",
+    "d": "Stegosaurus",
+    "answer": "a",
+    "id": "RcUDxJ1RrdDhIkWr1MIAlILpJiw"
+  },
+  {
+    "question": "What science deals with the origin and structure of the Universe?",
+    "a": "Botany",
+    "b": "Astrology",
+    "c": "Cosmetology",
+    "d": "Cosmology",
+    "answer": "d",
+    "id": "TboMAm8YpNZKjsQYlzlSxYP7Lm0"
+  },
+  {
+    "question": "Who invented the reflecting telescope?",
+    "a": "Galileo",
+    "b": "Tycho Brahe",
+    "c": "Carl Sagan",
+    "d": "Isaac Newton",
+    "answer": "d",
+    "id": "LfsvzRgOcp66iY4-FxTWxK6bntA"
+  },
+  {
+    "question": "Which fruit has the most calories?",
+    "a": "Banana",
+    "b": "Apricot",
+    "c": "Avocado",
+    "d": "Grapes",
+    "answer": "c",
+    "id": "tldLWJMjMkZuVdxOAiNzgigMtDE"
+  },
+  {
+    "question": "What plant is rum made from?",
+    "a": "Maple tree",
+    "b": "Sugar cane",
+    "c": "Bamboo tree",
+    "d": "Rhubarb",
+    "answer": "b",
+    "id": "twHnvWT0ox8Q32o7NKLRTpjjftM"
+  },
+  {
+    "question": "What is 40 percent of 40?",
+    "a": "10",
+    "b": "160",
+    "c": "16",
+    "d": "40",
+    "answer": "c",
+    "id": "FVRzm-rw8v9ApBQTlwXZ30Q7qg4"
+  },
+  {
+    "question": "What's the costliest man-made element on earth?",
+    "a": "Einsteinium",
+    "b": "Beryllium",
+    "c": "Fermillium",
+    "d": "Californium",
+    "answer": "d",
+    "id": "eVj19daz6A-HpW86_MS1WHJfLs4"
+  },
+  {
+    "question": "Linseed oil comes from what plant?",
+    "a": "The linseed plant",
+    "b": "The palm tree",
+    "c": "The aloe plant",
+    "d": "The flax plant",
+    "answer": "d",
+    "id": "OnX4peIW6DKnWreTmztodyA_xXg"
+  },
+  {
+    "question": "The uvula is found...",
+    "a": "In men only",
+    "b": "In women only",
+    "c": "In neither sex",
+    "d": "In both men & women",
+    "answer": "d",
+    "id": "Lvgtx_wjAKTT7o7wwaqwb4GkQSs"
+  },
+  {
+    "question": "What disease in the US is still the most child-crippling?",
+    "a": "Polio",
+    "b": "Cystic Fibrosis",
+    "c": "Cerebral Palsey",
+    "d": "Dementia Tremens",
+    "answer": "c",
+    "id": "Pbil4uVr4QbJTLLVe_UtgBoGDew"
+  },
+  {
+    "question": "What disease has been described as The White Plague?",
+    "a": "A.I.D.S.",
+    "b": "SickleCell Leukemia",
+    "c": "Tuberculosis",
+    "d": "Bubonic Plague",
+    "answer": "c",
+    "id": "wAFVS_44ZxBVYQUw3aEP8fsrw1s"
+  },
+  {
+    "question": "What does a venturi measure?",
+    "a": "Rate of flow",
+    "b": "Acceleration Rate",
+    "c": "Gaseousness",
+    "d": "Heart beats",
+    "answer": "a",
+    "id": "5ZpAO4aBf36_6m9y9FBXE6w01-c"
+  },
+  {
+    "question": "How many sheets of paper are there in a ream?",
+    "a": "100",
+    "b": "144",
+    "c": "444",
+    "d": "500",
+    "answer": "d",
+    "id": "aDi72mg7A7j9648h4tWkToR8V6o"
+  },
+  {
+    "question": "How long is a baby kangaroo at birth?",
+    "a": "1 inch",
+    "b": "5 inches",
+    "c": "18 inches",
+    "d": "3 feet",
+    "answer": "a",
+    "id": "_feP3BpL2qiAxb6_KT1wLefvmbo"
+  },
+  {
+    "question": "Middle C on a piano has a frequency of...",
+    "a": "100 cps",
+    "b": "165 cps",
+    "c": "256 cps",
+    "d": "440 cps",
+    "answer": "c",
+    "id": "TuvNVxzxfjWE5UZwI5oqDLT4e6s"
+  },
+  {
+    "question": "The only species of cat which lives and hunts in groups is:",
+    "a": "The lion",
+    "b": "The jaguar",
+    "c": "The cougar",
+    "d": "The leopard",
+    "answer": "a",
+    "id": "0W0QoAxIg-ZKUewkojYFlm4YFuY"
+  },
+  {
+    "question": "How often does Halley's Comet come by earth?",
+    "a": "Every 56 years",
+    "b": "Every 76 years",
+    "c": "Every 87 years",
+    "d": "Every 92 years",
+    "answer": "b",
+    "id": "seG5_LbXkhCz5HtHTv43C-BzSnA"
+  },
+  {
+    "question": "At what angle does the Earth tilt on its axis?",
+    "a": "18 1/2 degrees",
+    "b": "23 1/2 degrees",
+    "c": "33 1/3 degrees",
+    "d": "36 degrees",
+    "answer": "b",
+    "id": "NDudfG6SNS3h_MhZYUhyEeRG5Is"
+  },
+  {
+    "question": "What is the voltage of most car batteries?",
+    "a": "6 volts",
+    "b": "9 volts",
+    "c": "12 volts",
+    "d": "110 volts",
+    "answer": "c",
+    "id": "jdyA73cwnozFR3PuX-AEp_8Zchg"
+  },
+  {
+    "question": "Where is the thyroid gland?",
+    "a": "The thigh",
+    "b": "The neck",
+    "c": "The forehead area",
+    "d": "The armpit area",
+    "answer": "b",
+    "id": "pUBtBr6pznpv9lb5dj77Le-N_Qs"
+  },
+  {
+    "question": "In which industry did Alfred Nobel make his fortune?",
+    "a": "Diplomacy",
+    "b": "Oil",
+    "c": "Aircraft bombers",
+    "d": "Dynamite",
+    "answer": "d",
+    "id": "XzVwE3A-C39QRmld1Ks_QNb67LY"
+  },
+  {
+    "question": "What Greek physician is known as The Father of Medicine?",
+    "a": "Socrates",
+    "b": "Hippocrates",
+    "c": "Euripides",
+    "d": "Medicines",
+    "answer": "b",
+    "id": "OgAHTR4gs69PDBMxHdxb9-YOhoo"
+  },
+  {
+    "question": "How many sides does a cube have?",
+    "a": "4",
+    "b": "6",
+    "c": "9",
+    "d": "12",
+    "answer": "b",
+    "id": "fyiKUPB9YrqbSrD7doTczg7FRrw"
+  },
+  {
+    "question": "Which of the Apollo Missions was first to land on the moon?",
+    "a": "Apollo 9",
+    "b": "Apollo 11",
+    "c": "Apollo 13",
+    "d": "Apollo 15",
+    "answer": "b",
+    "id": "qInEYhIZ_c5YEIVcdWsYj6MFfsE"
+  },
+  {
+    "question": "What satellite carried the first trans-atlantic TV broadcast?",
+    "a": "Comsat",
+    "b": "Starsat",
+    "c": "Telstar",
+    "d": "Sputnik",
+    "answer": "c",
+    "id": "1UiZ3uQXknh7sKbUV4DjQaZ_8RU"
+  },
+  {
+    "question": "What is a group of bears called?",
+    "a": "A gaggle",
+    "b": "A den",
+    "c": "A swarth",
+    "d": "A sleuth",
+    "answer": "d",
+    "id": "DX6rtiaDWM9kJkaQZrpJFbwI2sg"
+  },
+  {
+    "question": "What is a flat, broad-bodied, odorous insect?",
+    "a": "Flatworm",
+    "b": "Skunkbug",
+    "c": "Stinkbug",
+    "d": "Manta Ray",
+    "answer": "c",
+    "id": "mDnub6Fqw2Lz6cN-VGpZKJUF7pI"
+  },
+  {
+    "question": "What is a rhinoceros's horn made of?",
+    "a": "Ivory",
+    "b": "Cartilage",
+    "c": "Hair",
+    "d": "Bone",
+    "answer": "c",
+    "id": "Er7p6aPoBmh1dnjiW-aApN42edI"
+  },
+  {
+    "question": "Where are the Haversian Canals?",
+    "a": "Greece",
+    "b": "Mars",
+    "c": "Inside of trees",
+    "d": "Inside of bones",
+    "answer": "d",
+    "id": "3qR0KL5X8HG_HZiJBRMlvnuxZRY"
+  },
+  {
+    "question": "What is snuff?",
+    "a": "Cocaine",
+    "b": "Processed Seaweed",
+    "c": "Pulverized Tobacco",
+    "d": "Refined Marjoram",
+    "answer": "c",
+    "id": "srN4QLA3n6RHSYJhUyf2mkiVNV8"
+  },
+  {
+    "question": "How many wings does a flea have?",
+    "a": "4",
+    "b": "8",
+    "c": "2",
+    "d": "0",
+    "answer": "d",
+    "id": "rbdIpTinaN8GvXLOtC0ZLzm_8RU"
+  },
+  {
+    "question": "\"Tailor's Chalk\" is a variety of what mineral?",
+    "a": "Mica",
+    "b": "Talc",
+    "c": "Graphite",
+    "d": "Feldspar",
+    "answer": "b",
+    "id": "oS3miC6TWtqdB0PH3DQjptFbzwc"
+  },
+  {
+    "question": "How many bits are in a byte?",
+    "a": "none",
+    "b": "8",
+    "c": "16",
+    "d": "32",
+    "answer": "b",
+    "id": "pY95wEXBJE5GRUgo_qVMivlBEFg"
+  },
+  {
+    "question": "How many bytes are in a kilobyte?",
+    "a": "2.2",
+    "b": "1000",
+    "c": "1024",
+    "d": "1 million",
+    "answer": "c",
+    "id": "e1zndZmCJ-Nlwt4_CMMaRuuMtnE"
+  },
+  {
+    "question": "Dry ice is the common name for what compound?",
+    "a": "Liquid Hydrogen",
+    "b": "Carbon Monoxide",
+    "c": "H20",
+    "d": "Carbon Dioxide",
+    "answer": "d",
+    "id": "KbD5aIH7NmORd2eYYx9VDX7peXU"
+  },
+  {
+    "question": "What is another name for the paleolithic age?",
+    "a": "The Stone Age",
+    "b": "The Ice Age",
+    "c": "The Iron Age",
+    "d": "The Bronze Age",
+    "answer": "a",
+    "id": "zy06CaGdlQkbST9uvlQutDpdY5E"
+  },
+  {
+    "question": "What did Blaise Pascal invent in his search for perpetual motion?",
+    "a": "The Wheel of Pascal",
+    "b": "The Wheel of Motion",
+    "c": "The gyroscope",
+    "d": "The Roulette wheel",
+    "answer": "d",
+    "id": "UH2Jud_x1o1xBR2ZGjq7zBx4McM"
+  },
+  {
+    "question": "What is the distinguishing feature of marsupial animals?",
+    "a": "Live in trees",
+    "b": "Active at night",
+    "c": "Have pouches",
+    "d": "Eat only leaves",
+    "answer": "c",
+    "id": "D8HqYF9ztPosyHvho8LB-_V5Bro"
+  },
+  {
+    "question": "What is the state bird of Maryland?",
+    "a": "Finch",
+    "b": "Red Robin",
+    "c": "Swallow",
+    "d": "Baltimore Oriole",
+    "answer": "d",
+    "id": "TBGoBbiltre1Algqz573DkjcCGA"
+  },
+  {
+    "question": "The Wasserman test detects the presence of...",
+    "a": "Syphilis",
+    "b": "Anthrax",
+    "c": "Smallpox",
+    "d": "Rabies",
+    "answer": "a",
+    "id": "7cPVkcBEzF0dtofzwQWS86I-OZU"
+  },
+  {
+    "question": "What's a woofer?",
+    "a": "A hi-fi speaker",
+    "b": "An earthquake",
+    "c": "A type of storm",
+    "d": "A sick dog",
+    "answer": "a",
+    "id": "6ICipJFx9gDRCVNBX7GDBFJJys8"
+  },
+  {
+    "question": "Which animal has the highest blood pressure?",
+    "a": "The giraffe",
+    "b": "Man",
+    "c": "The rattlesnake",
+    "d": "The rabbit",
+    "answer": "a",
+    "id": "pAiriiRZtAFx5FBxM5axOylxJmA"
+  },
+  {
+    "question": "What type of whale was Moby Dick?",
+    "a": "Sperm whale",
+    "b": "Humpback whale",
+    "c": "Killer whale",
+    "d": "Orca whale",
+    "answer": "a",
+    "id": "EfFE-ReMOOedetWk7YdiFW3mFfs"
+  },
+  {
+    "question": "How many eyes does a bat have?",
+    "a": "2",
+    "b": "4",
+    "c": "8",
+    "d": "0",
+    "answer": "a",
+    "id": "glHkwk6fLvrkdRXX7-UqDTBGF4A"
+  },
+  {
+    "question": "What animal lives in a lodge?",
+    "a": "The moose",
+    "b": "The goose",
+    "c": "The badger",
+    "d": "The beaver",
+    "answer": "d",
+    "id": "sdaLQU0joFcxDu-ywofjB_n5juc"
+  },
+  {
+    "question": "What does an autophobe fear?",
+    "a": "Cars",
+    "b": "Escalators",
+    "c": "Automatic weapons",
+    "d": "Himself",
+    "answer": "d",
+    "id": "0ld6mJ4YRMvr4WKK6za13OJnctQ"
+  },
+  {
+    "question": "What is the fruit of a rose called?",
+    "a": "The rosefruit",
+    "b": "The bud",
+    "c": "The hasp",
+    "d": "The hip",
+    "answer": "d",
+    "id": "WqApa2MF16xMr5qpSSuJ0_Ru_U8"
+  },
+  {
+    "question": "What was the first country to legalize abortion (in 1935)?",
+    "a": "United States",
+    "b": "India",
+    "c": "Sweden",
+    "d": "Iceland",
+    "answer": "d",
+    "id": "7-3LvgjG_MAj4uCITF4pRQmtQR8"
+  },
+  {
+    "question": "How long do red blood cells live?",
+    "a": "4 hours",
+    "b": "4 days",
+    "c": "12 days",
+    "d": "120 days",
+    "answer": "d",
+    "id": "9fmZgCLL0BX7asYE0v_yv59uF1Y"
+  },
+  {
+    "question": "How often are the brain cells replaced?",
+    "a": "Every 30 seconds",
+    "b": "Every 2 minutes",
+    "c": "Every 2 hours",
+    "d": "Never",
+    "answer": "d",
+    "id": "jiD0YkrZwT6mcGmVGp-LsruSd9g"
+  },
+  {
+    "question": "What is the chemical name for common table salt?",
+    "a": "C02",
+    "b": "AuH20",
+    "c": "NaCl",
+    "d": "MsG",
+    "answer": "c",
+    "id": "OrZestaumyX9Ltz85NQJGFqB99U"
+  },
+  {
+    "question": "What is the anatomical term for the voice box?",
+    "a": "The tonsils",
+    "b": "The larynx",
+    "c": "The trachea",
+    "d": "The esophagus",
+    "answer": "b",
+    "id": "HEG-AkMDI9xTEZ_2Nk3Mzq2Tx0E"
+  },
+  {
+    "question": "What is the shape of a camel's spine?",
+    "a": "Parabolic",
+    "b": "Elliptical",
+    "c": "Right angle",
+    "d": "Straight",
+    "answer": "d",
+    "id": "R3H62pA-KDixNcJGyn7zv-DgavM"
+  },
+  {
+    "question": "What direction do the best beaches for surfing face?",
+    "a": "North",
+    "b": "South",
+    "c": "East",
+    "d": "West",
+    "answer": "d",
+    "id": "XKL0MvSsNo2F7Py6Dj2dH8KplU8"
+  },
+  {
+    "question": "Where are the Islands of Langerhans located?",
+    "a": "The Bering Strait",
+    "b": "The moon",
+    "c": "Dogs ears",
+    "d": "Human pancreas",
+    "answer": "d",
+    "id": "IrHqoGPJfEKbxZQxgzP1MQRQK38"
+  },
+  {
+    "question": "How frequently is the image on a TV screen redrawn?",
+    "a": "3 times a second",
+    "b": "60 times a second",
+    "c": "30 times a second",
+    "d": "600 times a second",
+    "answer": "c",
+    "id": "KmXH6mIhKqBhcig1862z_sv7evg"
+  },
+  {
+    "question": "What part of the body is inflamed in hepatitis?",
+    "a": "The eyes",
+    "b": "The skin",
+    "c": "The liver",
+    "d": "The kidneys",
+    "answer": "c",
+    "id": "hCcJb1EEezIqIqcgDpM8PygKtrE"
+  },
+  {
+    "question": "What has a wingspread wider than a DC-9 and weighs less than 70 lbs?",
+    "a": "Pterodactyl",
+    "b": "Dirigible",
+    "c": "Gossamer Condor",
+    "d": "Saltwater Shrewbird",
+    "answer": "c",
+    "id": "rqyATAh_6tjdFZL80T0ccwyYRIY"
+  },
+  {
+    "question": "How much fish does the average beaver eat in one year?",
+    "a": "100 lbs.",
+    "b": "250 lbs.",
+    "c": "500 lbs.",
+    "d": "None",
+    "answer": "d",
+    "id": "Zmy-Yaz11CB-tOtQw2Nn9hSk2Pw"
+  },
+  {
+    "question": "The skin of what fish was once sold as sandpaper?",
+    "a": "The blowfish",
+    "b": "The roughsider",
+    "c": "The minnow",
+    "d": "The shark",
+    "answer": "d",
+    "id": "kRRzlpY6th1-XfSZ6998nZvWD18"
+  },
+  {
+    "question": "What is the oldest and most numerous class of animals?",
+    "a": "Man",
+    "b": "Reptiles",
+    "c": "Amphibians",
+    "d": "Insects",
+    "answer": "d",
+    "id": "i-_QYLHVv_RuH6ZvsE7zbTY-8Bw"
+  },
+  {
+    "question": "What's the curved line between any 2 points on a circle called?",
+    "a": "A radius",
+    "b": "A circumference",
+    "c": "An arc",
+    "d": "An angle",
+    "answer": "c",
+    "id": "MIY1dYSKu297h0qH4uJIAws5ue4"
+  },
+  {
+    "question": "What was the first living creature to orbit the earth?",
+    "a": "Man",
+    "b": "Monkey",
+    "c": "Chimpanzee",
+    "d": "Dog",
+    "answer": "d",
+    "id": "_aWHiaxqhJLzQXYpwIAuwdGlQUw"
+  },
+  {
+    "question": "What are walrus tusks made of?",
+    "a": "Hair",
+    "b": "Cartilage",
+    "c": "Bone",
+    "d": "Ivory",
+    "answer": "d",
+    "id": "RgQwGVrcatxv1JSgX01ixLvaQPM"
+  },
+  {
+    "question": "Where in a tree does photosynthesis occur?",
+    "a": "The stalks",
+    "b": "The leaves",
+    "c": "The flowers",
+    "d": "The roots",
+    "answer": "b",
+    "id": "LKfcBlv-REDp14e08YMIPyEM684"
+  },
+  {
+    "question": "What sailor's disease resulted from a lack of vitamin C?",
+    "a": "Malaria",
+    "b": "Typhoid",
+    "c": "Anorexia",
+    "d": "Scurvy",
+    "answer": "d",
+    "id": "krtkUy0eOQ2RMWY7IxBAr3BvB3k"
+  },
+  {
+    "question": "90 percent of all species that have become extinct have been...",
+    "a": "Fish",
+    "b": "Reptiles",
+    "c": "Insects",
+    "d": "Birds",
+    "answer": "d",
+    "id": "1dbdThEwpe1lIFyEV4bFsCtVSCE"
+  },
+  {
+    "question": "What's the common name for hydrogen hydroxide?",
+    "a": "Dry ice",
+    "b": "Jet fuel",
+    "c": "Air",
+    "d": "Water",
+    "answer": "d",
+    "id": "nvvgnj4xFrmrYMNhdW-DoG0Szi8"
+  },
+  {
+    "question": "How many time zones are there on the face of the earth?",
+    "a": "4",
+    "b": "12",
+    "c": "16",
+    "d": "24",
+    "answer": "d",
+    "id": "QPc3adJYOGqHaPw6t4Pn2j9k_Uw"
+  },
+  {
+    "question": "How many feet are there in a fathom?",
+    "a": "3",
+    "b": "6",
+    "c": "9",
+    "d": "18",
+    "answer": "b",
+    "id": "Sy3Fjt9r1lm_81YawAJY7e3MF9E"
+  },
+  {
+    "question": "What land mammal holds the record for longevity?",
+    "a": "The tortoise",
+    "b": "The elephant",
+    "c": "Man",
+    "d": "The rhinoceros",
+    "answer": "c",
+    "id": "SZzxXslQgLt7zY_VAFEL8nYIXn0"
+  },
+  {
+    "question": "How many pairs of chromosones does a normal human have?",
+    "a": "2",
+    "b": "3",
+    "c": "23",
+    "d": "33",
+    "answer": "c",
+    "id": "-9BO_-QGBlYSRyC8To_VB4w1FvU"
+  },
+  {
+    "question": "What element is represented by the chemical symbol Pb?",
+    "a": "Potassium",
+    "b": "Poundillium",
+    "c": "Lithium",
+    "d": "Lead",
+    "answer": "d",
+    "id": "oxbbaPYHHzUHKHAsufGuQqJRep8"
+  },
+  {
+    "question": "How did Orville Wright die?",
+    "a": "Old age",
+    "b": "Shot by Wilbur",
+    "c": "Plane crash",
+    "d": "Polio",
+    "answer": "c",
+    "id": "eGXZnIF9FK6ba7dB_TtXnc1BRGI"
+  },
+  {
+    "question": "Which of these is referred to as the \"Sunshine Vitamin\"?",
+    "a": "Vitamin A",
+    "b": "Vitamin B",
+    "c": "Vitamin C",
+    "d": "Vitamin D",
+    "answer": "d",
+    "id": "x9AoRflMiHO_b_ptPA4wvn5dZzY"
+  },
+  {
+    "question": "How long does it take for light to travel from the sun to the earth?",
+    "a": "8 minutes",
+    "b": "28 minutes",
+    "c": "58 minutes",
+    "d": "1 hour, 8 minutes",
+    "answer": "a",
+    "id": "gLwXeliqf6vNocqPdV6NXkuYtjU"
+  },
+  {
+    "question": "What was the first U.S. satellite?",
+    "a": "Telstar",
+    "b": "Explorer",
+    "c": "Sputnik",
+    "d": "Friendship",
+    "answer": "b",
+    "id": "vMWNofc8FPi5n2A3ZLmT56Jhr5E"
+  },
+  {
+    "question": "Which of these is not a class of rock?",
+    "a": "Igneous",
+    "b": "Metamorphic",
+    "c": "Ectamorphic",
+    "d": "Sedimentary",
+    "answer": "c",
+    "id": "JGCJl4v6oLhxcfc6O15duE9lNWE"
+  },
+  {
+    "question": "Who performed the first successful heart transplant?",
+    "a": "Christian Barnard",
+    "b": "William Shockley",
+    "c": "Barney Stone",
+    "d": "Gilbert Wright",
+    "answer": "a",
+    "id": "yG8kv8ONpKfcKuPjvqPcAfCHOoY"
+  },
+  {
+    "question": "What's the heaviest land bird in North America?",
+    "a": "The ostrich",
+    "b": "The condor",
+    "c": "The flamingo",
+    "d": "The wild turkey",
+    "answer": "d",
+    "id": "-zXgSLZuotUIx5faSgk3z0TRFIU"
+  },
+  {
+    "question": "What statistically is the safest age of life?",
+    "a": "10 years old",
+    "b": "35 years old",
+    "c": "2 years old",
+    "d": "17 years old",
+    "answer": "a",
+    "id": "yb_lV-cAuJw6KwNR_fCzz1reoWU"
+  },
+  {
+    "question": "What's the number one killer in industrialized countries?",
+    "a": "Cancer",
+    "b": "Heart disease",
+    "c": "Lung disease",
+    "d": "Auto accidents",
+    "answer": "b",
+    "id": "-dppFvAs2dFUo_9-8uyyTOiigzo"
+  },
+  {
+    "question": "Where would you find the Medula Oblongata?",
+    "a": "The Louvre, Paris",
+    "b": "The moon",
+    "c": "Inside your leg",
+    "d": "In the brain",
+    "answer": "d",
+    "id": "GvahVoEmljigOxZg8BfEUIhgYKU"
+  },
+  {
+    "question": "What is the escape velocity from the earth's gravity?",
+    "a": "5,000 mph",
+    "b": "10,000 mph",
+    "c": "25,000 mph",
+    "d": "50,000 mph",
+    "answer": "c",
+    "id": "Aqmc4GmxMB-wxkR-Gqr9Tgifkqk"
+  },
+  {
+    "question": "Cave growths which hang from the ceiling are called...",
+    "a": "Stalagmites",
+    "b": "Stalactites",
+    "c": "Fungible Socage",
+    "d": "Metamorphic Miasma",
+    "answer": "b",
+    "id": "Jk7civ77XBUVFR1f8XdS2iHU7yE"
+  },
+  {
+    "question": "What's the common term for an organic catalyst?",
+    "a": "A protein",
+    "b": "A calorie",
+    "c": "An enzyme",
+    "d": "A carbohydrate",
+    "answer": "c",
+    "id": "NbCE6vUcCF0q5mB6O8vGsJSHVWc"
+  },
+  {
+    "question": "Which of these does natural vanilla flavoring come from?",
+    "a": "Vanillin plant",
+    "b": "Palm tree",
+    "c": "Hickory tree",
+    "d": "Orchid plant",
+    "answer": "d",
+    "id": "TK50VViu0Yotrs_S2lvcMrABYMM"
+  },
+  {
+    "question": "What order of insects contains the most species?",
+    "a": "Bees",
+    "b": "Ants",
+    "c": "Beetles",
+    "d": "Spiders",
+    "answer": "c",
+    "id": "FEBtHH0-dQ3O7beC_lQ8Ji9nX0g"
+  },
+  {
+    "question": "What is a mandrill?",
+    "a": "A Monkey",
+    "b": "An Orangutang",
+    "c": "A Gorilla",
+    "d": "A Baboon",
+    "answer": "d",
+    "id": "AXhfsnsdswXko1cVz1EWqCEhjmE"
+  },
+  {
+    "question": "What's the most widely eaten fruit in America?",
+    "a": "Apples",
+    "b": "Oranges",
+    "c": "Grapes",
+    "d": "Bananas",
+    "answer": "d",
+    "id": "EQXFTTNtJzwbeRbqlI4gwKQKqXc"
+  },
+  {
+    "question": "What does a dipsomaniac crave?",
+    "a": "Disco music",
+    "b": "Chocolate",
+    "c": "Sleep",
+    "d": "Alcohol",
+    "answer": "d",
+    "id": "9e232j6p9AQ7DgelJnjXHpVHqEY"
+  },
+  {
+    "question": "What's the world's largest chemical company?",
+    "a": "Dow Chemical",
+    "b": "Stauffer's Chemical",
+    "c": "Phizer Chemical",
+    "d": "DuPont Chemical",
+    "answer": "d",
+    "id": "x4rH6DWQpeQVcCnO3heZc-rwK5k"
+  },
+  {
+    "question": "What do you get when you order sweetbreads in a restaurant?",
+    "a": "Pig brains",
+    "b": "Cow glands",
+    "c": "Pastry",
+    "d": "Candied Ox dropping",
+    "answer": "b",
+    "id": "k8_pZjn2Y9sycrDMGPHMEHu6z5E"
+  },
+  {
+    "question": "What's the only man-mad structure visible from space?",
+    "a": "The Eiffel Tower",
+    "b": "The Aswan Dam",
+    "c": "Golden Gate Bridge",
+    "d": "Great Wall of China",
+    "answer": "d",
+    "id": "Kmt3xbWlsVPbQB-1P_AwgF1m_CQ"
+  },
+  {
+    "question": "What color is diamond dust?",
+    "a": "Clear",
+    "b": "White",
+    "c": "Black",
+    "d": "Blue",
+    "answer": "c",
+    "id": "qQvFKqb48swwLXv7zjRmDdfDazo"
+  },
+  {
+    "question": "Who discovered the rings of Saturn?",
+    "a": "Copernicus",
+    "b": "Isaac Newton",
+    "c": "Tycho Brahe",
+    "d": "Galileo",
+    "answer": "d",
+    "id": "u8c-MXt6PSmq9mWBHvdkSKqEkYQ"
+  },
+  {
+    "question": "How long does it take the moon to revolve around the earth?",
+    "a": "1 month",
+    "b": "1 year",
+    "c": "27 days",
+    "d": "It never does.",
+    "answer": "c",
+    "id": "BeFQfl3bKQhHQ7LkZ80wjub2ta4"
+  },
+  {
+    "question": "In the Octal numbering system, which two numerals are not used?",
+    "a": "9 and 10",
+    "b": "9 and 0",
+    "c": "8 and 9",
+    "d": "A through F",
+    "answer": "c",
+    "id": "BYbL3Li3NU8l2e8GaTkVpC570SM"
+  },
+  {
+    "question": "Which of the five senses develops first?",
+    "a": "Smell",
+    "b": "Touch",
+    "c": "Eyesight",
+    "d": "Taste",
+    "answer": "a",
+    "id": "r94RvtnqzMBTS_jwSmxsj1DUVVc"
+  },
+  {
+    "question": "What is the chemical symbol for the element Potassium?",
+    "a": "Na",
+    "b": "Po",
+    "c": "Pt",
+    "d": "K",
+    "answer": "d",
+    "id": "UpJZJcsXCGwK_zQ_0MmWbwWVA30"
+  },
+  {
+    "question": "What's the common name for the constellation Ursa Major?",
+    "a": "Orion",
+    "b": "The Big Dipper",
+    "c": "Leo",
+    "d": "Sagitarrius",
+    "answer": "b",
+    "id": "3tl6KQiaDPFkjtmQ145BDPn_h_w"
+  },
+  {
+    "question": "What is dilute acetic acid?",
+    "a": "Aspirin",
+    "b": "Vinegar",
+    "c": "Vitamin C",
+    "d": "Vitamin D",
+    "answer": "b",
+    "id": "xJKaavQz_kIM02ABlqO4I9ko9Rk"
+  },
+  {
+    "question": "What's 550 times sweeter than cane sugar?",
+    "a": "Beet sugar",
+    "b": "Cyclamates",
+    "c": "Saccharin",
+    "d": "Molasses",
+    "answer": "c",
+    "id": "U-sco4vrt9S6k9cxwJP3sanqTIE"
+  },
+  {
+    "question": "What animal lives at the highest altitude?",
+    "a": "The yak",
+    "b": "The mountain goat",
+    "c": "The bald eagle",
+    "d": "The rattlesnake",
+    "answer": "a",
+    "id": "6TfTt7ieYSeul7kQtpFHNbcCIv4"
+  },
+  {
+    "question": "What is a California Long White?",
+    "a": "A shark",
+    "b": "A wine",
+    "c": "A grape",
+    "d": "A potato",
+    "answer": "d",
+    "id": "mM9XTCvuc_-2jt0yMqZibygSNx0"
+  },
+  {
+    "question": "Celluloid was developed in an attempt to make a better...",
+    "a": "Paper",
+    "b": "House frame",
+    "c": "Billiard ball",
+    "d": "Toy airplane",
+    "answer": "c",
+    "id": "Slwe9IMEff01vuKPTzNitrCYZkw"
+  },
+  {
+    "question": "How many pecks are in a bushel?",
+    "a": "2",
+    "b": "4",
+    "c": "8",
+    "d": "12",
+    "answer": "b",
+    "id": "mjDNSjUbp_lUBOyeurobzWpooBo"
+  },
+  {
+    "question": "What is the primary flavoring in root beer?",
+    "a": "Cola",
+    "b": "Sasparilla",
+    "c": "Sassafras",
+    "d": "Maple syrup",
+    "answer": "c",
+    "id": "4f6J70nG_cw156rupAiSfxgui3E"
+  },
+  {
+    "question": "What are the front cutting teeth called?",
+    "a": "The molars",
+    "b": "The wisdom teeth",
+    "c": "The incisors",
+    "d": "The buck teeth",
+    "answer": "c",
+    "id": "zwWtvIGfIRhsydcXgSL1iOpeHCw"
+  },
+  {
+    "question": "What percentage of the earth's water is drinkable?",
+    "a": "50 percent",
+    "b": "20 percent",
+    "c": "10 percent",
+    "d": "1 percent",
+    "answer": "d",
+    "id": "58NJ_ob2XP8BLcoroQI8bTsq4vI"
+  },
+  {
+    "question": "What does a meteorologist study?",
+    "a": "Meteors",
+    "b": "Asteroids",
+    "c": "Falling Stars",
+    "d": "Weather",
+    "answer": "d",
+    "id": "--Uj0vBGA42UuHM_75DDeoLUjkk"
+  },
+  {
+    "question": "Who invented the cotton gin?",
+    "a": "Gilbeys",
+    "b": "Elias Howe",
+    "c": "Eli Whitney",
+    "d": "Levi Straus",
+    "answer": "c",
+    "id": "xPng4vhfEE_7_53dTx5pwT_KRpg"
+  },
+  {
+    "question": "What is a scarab?",
+    "a": "An Egyptian idol",
+    "b": "A beetle",
+    "c": "A jewelry item",
+    "d": "All of the above",
+    "answer": "d",
+    "id": "0MveVIcfXGS1ZNYOBbnegJxi9IM"
+  },
+  {
+    "question": "Of all species that ever existed, what percentage are now extinct?",
+    "a": "9 percent",
+    "b": "29 percent",
+    "c": "59 percent",
+    "d": "99 percent",
+    "answer": "d",
+    "id": "1-w9cMLnvC4hXtIexxk3gJV0pYM"
+  },
+  {
+    "question": "What's the main ingredient in Coca Cola, after water?",
+    "a": "Cola beans",
+    "b": "Sugar",
+    "c": "Caffeine",
+    "d": "Caramel",
+    "answer": "b",
+    "id": "UGaFbLt4jO_oCdIABXMRx4nmFBo"
+  },
+  {
+    "question": "Which of these colors DOES NOT form the picture on a color television?",
+    "a": "Red",
+    "b": "Yellow",
+    "c": "Blue",
+    "d": "Green",
+    "answer": "b",
+    "id": "2sSug2YJjlM0d_vwUIOoOXzzUFQ"
+  },
+  {
+    "question": "What are PL-1, Ada, and Apl?",
+    "a": "Computers",
+    "b": "Computer Games",
+    "c": "Computer Languages",
+    "d": "None of the above",
+    "answer": "c",
+    "id": "PZjyM4_QXS6GRRaoz5iVozSiFow"
+  },
+  {
+    "question": "In which state did the Wright Bros. make their historic first flight?",
+    "a": "South Carolina",
+    "b": "West Virginia",
+    "c": "Virginia",
+    "d": "North Carolina",
+    "answer": "d",
+    "id": "h1v2zeN3bTmABUHerA_yQYVnqbk"
+  },
+  {
+    "question": "What is the belt of low-pressure around the equator called?",
+    "a": "The Van Allen Belt",
+    "b": "Horse Lattitudes",
+    "c": "Torpic of Cancer",
+    "d": "The Doldrums",
+    "answer": "d",
+    "id": "dzAYY8ic1nGsKLCR4UDC0ZDKGx8"
+  },
+  {
+    "question": "According to Aristotle's mistaken belief, blood cooled which organ?",
+    "a": "The heart",
+    "b": "The brain",
+    "c": "The skin",
+    "d": "The kidneys",
+    "answer": "b",
+    "id": "0QV4pXXVs5BqNsfnJFirc3g8LcU"
+  },
+  {
+    "question": "On which planet did Viking I land?",
+    "a": "Mars",
+    "b": "Jupiter",
+    "c": "Venus",
+    "d": "Saturn",
+    "answer": "a",
+    "id": "FaoLY1kYH-4D2OE-r7UgWszYeUk"
+  },
+  {
+    "question": "The women's brassiere was invented by which of these men?",
+    "a": "Jacques Brassiere",
+    "b": "Otto Titzling",
+    "c": "Jonathan Maidenform",
+    "d": "Henry Villager",
+    "answer": "b",
+    "id": "-Sb66ThaFF3FUUXre9ycNHa3ySY"
+  },
+  {
+    "question": "Lanolin comes from...",
+    "a": "The fleece of sheep",
+    "b": "Flax",
+    "c": "Petroleum",
+    "d": "Linseed Oil",
+    "answer": "a",
+    "id": "M0fpzRV4aJ7wALNYUVuzdPthW0Y"
+  },
+  {
+    "question": "What's another name for the yellow poplar tree?",
+    "a": "Tulip",
+    "b": "Gardenia",
+    "c": "Dandelion",
+    "d": "Marigold",
+    "answer": "a",
+    "id": "2rDX6OfnaeWYKXPpeoiCnX73xUM"
+  },
+  {
+    "question": "Name the phenomonon which makes a moving train whistle change pitch:",
+    "a": "The Heimlich Effect",
+    "b": "The Doppler Effect",
+    "c": "The Sonic Paradox",
+    "d": "The Aural Illusion",
+    "answer": "b",
+    "id": "mLopeJKUN6DwJwi4_jGaYtRKA_8"
+  },
+  {
+    "question": "How many astronauts manned each of the manned Gemini flights?",
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "answer": "b",
+    "id": "Nr0TUBTBUMfTEFeFeO3vh7i1nHM"
+  },
+  {
+    "question": "What is the favorite food of dragon flies?",
+    "a": "Mosquitos",
+    "b": "House flies",
+    "c": "Ants",
+    "d": "Fungus",
+    "answer": "a",
+    "id": "Qq8w4KmY-tH_H_Dc0A9dkWPNPlA"
+  },
+  {
+    "question": "What are 2 people who are both monozygotic?",
+    "a": "Siamese twins",
+    "b": "Identical twins",
+    "c": "Test tube babies",
+    "d": "Single celled",
+    "answer": "b",
+    "id": "5zMnUM7UrL_qQHEdsUH7uK0CKRY"
+  },
+  {
+    "question": "Name one thing that a kangaroo NEVER DOES...",
+    "a": "Eat food",
+    "b": "Drink water",
+    "c": "Sleep",
+    "d": "Exhale",
+    "answer": "b",
+    "id": "3HsxQHY2xLcUXSSeEyhwqMOszVg"
+  },
+  {
+    "question": "What are cilia?",
+    "a": "Geese",
+    "b": "Tiny hairs",
+    "c": "Ant feet",
+    "d": "Virulent diseases",
+    "answer": "b",
+    "id": "wHe2-ujnXB9lNYFZpuGa01xQj38"
+  },
+  {
+    "question": "What does a pluviometer measure?",
+    "a": "Water pressure",
+    "b": "Snowfall",
+    "c": "Radioactive Fallout",
+    "d": "Rainfall",
+    "answer": "d",
+    "id": "Wr2UhA-o1wZqmej5pi767IuPJV8"
+  },
+  {
+    "question": "What was the first domesticated bird?",
+    "a": "Turkey",
+    "b": "Chicken",
+    "c": "Parrot",
+    "d": "Goose",
+    "answer": "d",
+    "id": "WPAgoBYigtW2e1az7MFW-q4RuOw"
+  },
+  {
+    "question": "What's the fahrenheit equivalent of 100 degrees, Centigrade?",
+    "a": "451",
+    "b": "100",
+    "c": "212",
+    "d": "0",
+    "answer": "c",
+    "id": "Yli9KWOkmUVyhexyPAeOneH2Acg"
+  },
+  {
+    "question": "Where are the convulsions of Broca?",
+    "a": "The lungs",
+    "b": "The brain",
+    "c": "The limbs",
+    "d": "The stomach",
+    "answer": "b",
+    "id": "SbsVYmw3C4hEWeoX6ccRZMvQcdY"
+  },
+  {
+    "question": "What country did Skylab hit on its re-entry to the earth?",
+    "a": "Russia",
+    "b": "New Zealand",
+    "c": "New Guinea",
+    "d": "Australia",
+    "answer": "d",
+    "id": "sOfkkUFFJLwBayyEn5Foa-4Jv_Q"
+  },
+  {
+    "question": "Where would you find Cassiopeia?",
+    "a": "Ocean floor",
+    "b": "The moon",
+    "c": "The Northern sky",
+    "d": "Off the Greek coast",
+    "answer": "c",
+    "id": "0dO8Ju2EdcKAvcKZMlQSIJITBuM"
+  },
+  {
+    "question": "Who was the first man to RETURN to space?",
+    "a": "Alan Shephard",
+    "b": "Virgil Grissom",
+    "c": "Neil Armstrong",
+    "d": "Buzz Aldrin",
+    "answer": "b",
+    "id": "N0bnF-tFDKYtIlYP5N1pud34T4w"
+  },
+  {
+    "question": "Which of these IS NOT associated with Benjamin Franklin?",
+    "a": "Bi-focal lenses",
+    "b": "Daylight Savings",
+    "c": "Electrical storms",
+    "d": "Printing Press",
+    "answer": "d",
+    "id": "Dv4kyIyLO7PMO8I9JjxOHcqdoPs"
+  },
+  {
+    "question": "How many muscles are there in an elephant's trunk?",
+    "a": "40",
+    "b": "400",
+    "c": "4,000",
+    "d": "40,000",
+    "answer": "d",
+    "id": "rNiQHG4KnS8KyfRoYjrre7Niy4c"
+  },
+  {
+    "question": "In Vostak, Antartica, the mean temperature in fahrenheit degrees:",
+    "a": "-118",
+    "b": "-72",
+    "c": "-38",
+    "d": "-5",
+    "answer": "b",
+    "id": "PeAe-JZ2SV3Jq-5ohdJNbbZZpmE"
+  },
+  {
+    "question": "Where would you find The Great Red Spot?",
+    "a": "The Red Sea",
+    "b": "The moon",
+    "c": "Mars",
+    "d": "Jupiter",
+    "answer": "d",
+    "id": "HWz8JibnsJJpzOWfU619JPwNte0"
+  },
+  {
+    "question": "What fraction of the earth's gravity is the moon's?",
+    "a": "One half",
+    "b": "One third",
+    "c": "One fourth",
+    "d": "One sixth",
+    "answer": "d",
+    "id": "BQSiqWL5rXy0JuzL0580wLZWMMA"
+  },
+  {
+    "question": "What's a row of crows called?",
+    "a": "A crowrow",
+    "b": "A murder",
+    "c": "A pride",
+    "d": "A crop",
+    "answer": "b",
+    "id": "GywGykaf75OsTu7zNV2ZgD4tgHM"
+  },
+  {
+    "question": "What prints are used by breeders to identify dogs?",
+    "a": "Paw",
+    "b": "Tongue",
+    "c": "Ear",
+    "d": "Nose",
+    "answer": "d",
+    "id": "C0ScFuo_maK4JxJnMskK5xIqEvE"
+  },
+  {
+    "question": "What's the strongest muscle in the human body?",
+    "a": "The heart",
+    "b": "The tongue",
+    "c": "The bicep",
+    "d": "The tricep",
+    "answer": "b",
+    "id": "a7lxJ7Sdy84VEAd-LaV262TnPwI"
+  },
+  {
+    "question": "What does a panophobe fear?",
+    "a": "Everything",
+    "b": "Nothing",
+    "c": "Pots and pans",
+    "d": "Foreign countries",
+    "answer": "a",
+    "id": "isXvvF1aIK1OIXdv9MJl0tuSZBw"
+  },
+  {
+    "question": "Which heavenly body actually has the most influence on the tides?",
+    "a": "The moon",
+    "b": "The sun",
+    "c": "Mars",
+    "d": "Venus",
+    "answer": "a",
+    "id": "Wc7nC1YYyC2ORor6O2V_U4BsB8o"
+  },
+  {
+    "question": "What product's secret ingredient is known only as \"7-X\"?",
+    "a": "Seven Up",
+    "b": "Coca Cola",
+    "c": "Big Mac",
+    "d": "Pepsi Cola",
+    "answer": "b",
+    "id": "_ta8sxA9b-YkWrrnrwLVw_dBoVY"
+  },
+  {
+    "question": "What are the high-speed winds at 20,000 to 40,000 feet known as?",
+    "a": "The High Winds",
+    "b": "The Jet Winds",
+    "c": "The Gulf Stream",
+    "d": "The Jet Stream",
+    "answer": "d",
+    "id": "tM4HYkDMhzPbWBjlqXLrM4NRaZQ"
+  },
+  {
+    "question": "What's the most extensively grown and eaten food?",
+    "a": "Wheat",
+    "b": "Rice",
+    "c": "Corn",
+    "d": "Soy",
+    "answer": "a",
+    "id": "Yo4mRNlqeeOgiF0Mkxr6R20Kw7s"
+  },
+  {
+    "question": "What do nictitating women do to men?",
+    "a": "Wink",
+    "b": "Run from them",
+    "c": "Bite",
+    "d": "Reject",
+    "answer": "a",
+    "id": "dXSqPkYijgaVGn8JzAnFRRnB8C8"
+  },
+  {
+    "question": "Who is called the Father of the H-Bomb?",
+    "a": "Albert Einstein",
+    "b": "Edward Teller",
+    "c": "Enrico Fermi",
+    "d": "Werner Von Braun",
+    "answer": "b",
+    "id": "7jfJKB5QODinpznrwavJDyzMEOc"
+  },
+  {
+    "question": "Which is NOT a unit or energy?",
+    "a": "The erg",
+    "b": "The Joule",
+    "c": "The BTU",
+    "d": "The Watt",
+    "answer": "d",
+    "id": "8DlR1xDh4TiKXkX1JVMuyBLQv4I"
+  },
+  {
+    "question": "Where is the Sea of Showers?",
+    "a": "Off the Greek coast",
+    "b": "On the moon",
+    "c": "In Minnasota",
+    "d": "In Washington, D.C.",
+    "answer": "b",
+    "id": "bJ1nLISiWaAm6EKLhXHxPPVmx3g"
+  },
+  {
+    "question": "How far does a single hydrogen atom travel in one second?",
+    "a": "Over 1000 miles",
+    "b": "About 200 miles",
+    "c": "At most, 1000 feet",
+    "d": "None at all",
+    "answer": "a",
+    "id": "oLOZab7U7CpQKw56iqgQbdh2S5s"
+  },
+  {
+    "question": "What is a baby rooster called?",
+    "a": "A Cocquette",
+    "b": "A Cockette",
+    "c": "A Cockadoodaloo",
+    "d": "A Cockerel",
+    "answer": "d",
+    "id": "y1jvsicBGGHHbl7ujFnXEzl1e88"
+  },
+  {
+    "question": "How many varieties of penguin are there?",
+    "a": "Only 1",
+    "b": "2",
+    "c": "7",
+    "d": "17",
+    "answer": "d",
+    "id": "EiRevPw0cCcXjnL_lLXfTDhpgy0"
+  },
+  {
+    "question": "What U.S. President actually was an authority on American game animals",
+    "a": "Teddy Roosevelt",
+    "b": "Lyndon Johnson",
+    "c": "Abraham Lincoln",
+    "d": "Millard Fillmore",
+    "answer": "a",
+    "id": "xp1Wrsh-l23jtr27MdLt8fg_qJo"
+  },
+  {
+    "question": "A lunar geologist is also known as:",
+    "a": "A Lunologist",
+    "b": "A Geolunatist",
+    "c": "A Tempetologist",
+    "d": "A Selenologist",
+    "answer": "d",
+    "id": "aseL5fqXe-UhMcDnvqd0gjOIl-0"
+  },
+  {
+    "question": "What is the common name for rice wine?",
+    "a": "Sake",
+    "b": "Rice wine",
+    "c": "Jitsu",
+    "d": "Chintzing",
+    "answer": "a",
+    "id": "SwZS28X364CNMueqDBTDrcUGiMM"
+  },
+  {
+    "question": "In humans, where does digestion of carbohydrates take place?",
+    "a": "The stomach",
+    "b": "The mouth",
+    "c": "The small intestine",
+    "d": "The big intestine",
+    "answer": "b",
+    "id": "Gk--nJaZkX4DG6_EUrdDlmQAlL4"
+  },
+  {
+    "question": "Bird Nest Soup is actually made from which of these?",
+    "a": "Bird nests",
+    "b": "Chineese flowers",
+    "c": "Kelp deposits",
+    "d": "Eggs",
+    "answer": "a",
+    "id": "R3_d8tEBd2PRFTeYv-bOvpLQmwM"
+  },
+  {
+    "question": "What fruit is the cross between a tangerine and a grapefruit?",
+    "a": "Pomegranite",
+    "b": "Tangelo",
+    "c": "Graperine",
+    "d": "Granny Smith Pear",
+    "answer": "b",
+    "id": "Yql36E6xgfUP_8rSvRHpf3-HgnI"
+  },
+  {
+    "question": "An altimeter measures what?",
+    "a": "Volts",
+    "b": "Amplitude",
+    "c": "Altitude",
+    "d": "Amperes",
+    "answer": "c",
+    "id": "2kITDlOqlH26J3NCG_eDlk5nO84"
+  },
+  {
+    "question": "What fraction of an iceberg actually sticks up above water?",
+    "a": "1/16",
+    "b": "1/9",
+    "c": "1/5",
+    "d": "1/3",
+    "answer": "b",
+    "id": "EgHCnsjnka1zts5JH84EkmTNLyo"
+  },
+  {
+    "question": "What did Wilhelm Roentgen discover in 1895?",
+    "a": "X-rays",
+    "b": "Pluto",
+    "c": "Jupiter's moons",
+    "d": "Uranium",
+    "answer": "a",
+    "id": "bSdcYoGjLEbzoB5pY6h43gkLCVM"
+  },
+  {
+    "question": "Who invented the mimeograph?",
+    "a": "John H. Xerox",
+    "b": "Steven P. Canon",
+    "c": "Toshiro G. Minolta",
+    "d": "Alfred B. Dick",
+    "answer": "d",
+    "id": "23MF1tR7CH6cnExNTeT8xxukl5o"
+  },
+  {
+    "question": "Who is credited with developing the Geodesic Dome?",
+    "a": "Frank Lloyd Wright",
+    "b": "Buckminster Fuller",
+    "c": "Christopher Wren",
+    "d": "Austin Richardson",
+    "answer": "b",
+    "id": "dsBbsV5pJarH6JqcHt3bIMVAGNk"
+  },
+  {
+    "question": "How many yards are there in a mile?",
+    "a": "5280",
+    "b": "4320",
+    "c": "1760",
+    "d": "932",
+    "answer": "c",
+    "id": "y8AJASCrWMf3mjYIaNlJQdaCqcU"
+  },
+  {
+    "question": "Who said \"Everything comes to him who hustles while he waits\"?",
+    "a": "Pete Rose",
+    "b": "B.F. Skinner",
+    "c": "Dr. Benjamin Spock",
+    "d": "Thomas Edison",
+    "answer": "d",
+    "id": "EwclLMtk8mRYnyqccTD3Umd027I"
+  },
+  {
+    "question": "Name the bird that puts its eggs into the nests of other birds:",
+    "a": "The Cuckoo",
+    "b": "The Thieving Magpie",
+    "c": "The Dodo Bird",
+    "d": "The Dumb Finch",
+    "answer": "a",
+    "id": "10TWZpniRZOj_EB_aU55q1vMen8"
+  },
+  {
+    "question": "How is the decimal number 14 represented in hexidecimal?",
+    "a": "20",
+    "b": "E",
+    "c": "14h",
+    "d": "20h",
+    "answer": "b",
+    "id": "Gd7uISXilyy8Leiaz3vO72dfuuc"
+  },
+  {
+    "question": "The most pollution-free source of energy is...",
+    "a": "Nuclear power",
+    "b": "Natural gas",
+    "c": "Coal",
+    "d": "Solar",
+    "answer": "d",
+    "id": "QQ5ZSTEuCbDLmBy6dmpCd75DxqI"
+  },
+  {
+    "question": "Chemical substances which end in the suffix \"ase\" are...",
+    "a": "Carbohydrates",
+    "b": "Enzymes",
+    "c": "Glycerols",
+    "d": "Sugars",
+    "answer": "b",
+    "id": "F3I9Ae9oEvzHtg1ZPto56OsRbUI"
+  },
+  {
+    "question": "Linen is made from...",
+    "a": "Flax",
+    "b": "The fleece of sheep",
+    "c": "Cotton",
+    "d": "The Denim plant",
+    "answer": "a",
+    "id": "Q7FD7MffcEb5f1zvhh7Rg6ap2xk"
+  },
+  {
+    "question": "How often does a hummingbird go into hibernation?",
+    "a": "Once a night",
+    "b": "Three times a night",
+    "c": "Twice a night",
+    "d": "Once every 4 weeks",
+    "answer": "a",
+    "id": "mZn1DrDhcIt3yw5-XGk3OE-ki9A"
+  },
+  {
+    "question": "The human brain is composed of how much water?",
+    "a": "80 percent",
+    "b": "Less than 10 %",
+    "c": "25 percent",
+    "d": "40 percent",
+    "answer": "a",
+    "id": "3XiipAtOOmuIm2zEDoziKvQYKdA"
+  },
+  {
+    "question": "What is the head of a comet called?",
+    "a": "The tail",
+    "b": "The coma",
+    "c": "The ice",
+    "d": "The soleil",
+    "answer": "b",
+    "id": "c3uHsSRWdXSiGldS2qFL4eYedkc"
+  },
+  {
+    "question": "What does a protractor measure?",
+    "a": "Delay",
+    "b": "Time",
+    "c": "Water Depth",
+    "d": "Angles",
+    "answer": "d",
+    "id": "qpHfutONNPkbMxSQmzdXuMNETYE"
+  },
+  {
+    "question": "Rubik's Cube, with 27 pieces, has how many possible combinations?",
+    "a": "26.5 billion",
+    "b": "95.4 quadrillion",
+    "c": "42.3 quintillion",
+    "d": "729 septillion",
+    "answer": "c",
+    "id": "U2n75kxPfQpKKDuGo2KIue9fDqg"
+  },
+  {
+    "question": "Death Cap poisoning results from eating...",
+    "a": "An almond pit",
+    "b": "A mushroom",
+    "c": "Stale rye bread",
+    "d": "Certain leaves",
+    "answer": "b",
+    "id": "JR1OktMClchWTUzAjKtG37ZlpI4"
+  },
+  {
+    "question": "\"St. Anthony's Fire\" is thought to have resulted from eating...",
+    "a": "An almond pit",
+    "b": "A mushroom",
+    "c": "Stale rye bread",
+    "d": "Certain leaves",
+    "answer": "c",
+    "id": "lOYoC3o37O3s5icrUvYXpXiPP8g"
+  },
+  {
+    "question": "China was the discovered site of whose famous 4000 year old remains",
+    "a": "Atilla the Hun",
+    "b": "Emperor Hua Ming",
+    "c": "The Missing Link",
+    "d": "Peking Man",
+    "answer": "d",
+    "id": "WDXOxSyYbF7ckF9u_PQA0gxs7P4"
+  },
+  {
+    "question": "What era do we currently live in?",
+    "a": "The Paleolithic",
+    "b": "The Cenozoic",
+    "c": "The Paleantopic",
+    "d": "The Messozoic",
+    "answer": "b",
+    "id": "6fumTYwlFzPCyzFj4U1qfXZPsds"
+  },
+  {
+    "question": "Which whale has teeth?",
+    "a": "The sperm whale",
+    "b": "The killer whale",
+    "c": "The humpback whale",
+    "d": "The orca whale",
+    "answer": "a",
+    "id": "9U5EcO67n2Dq8ddAG0-52q4vZH8"
+  },
+  {
+    "question": "Which of the following IS NOT a meteor shower?",
+    "a": "Geminids",
+    "b": "Perseids",
+    "c": "Leonids",
+    "d": "Kohoutek",
+    "answer": "d",
+    "id": "AyZ9igo9c0eCIXD9_HLcnT63II0"
+  },
+  {
+    "question": "Which insects communicate with each other through distinctive dances?",
+    "a": "Preying mantis",
+    "b": "Ants",
+    "c": "Bees",
+    "d": "Crickets",
+    "answer": "c",
+    "id": "mQbte1iIMH3gs8Nd4qchWg6NiXY"
+  },
+  {
+    "question": "Which country HAS NOT had a Cosmonaut in space?",
+    "a": "U.S.S.R.",
+    "b": "Yugoslavia",
+    "c": "Cuba",
+    "d": "Viet Nam",
+    "answer": "b",
+    "id": "ogTIBBeNO7rKLutEtLzi1dY4joc"
+  },
+  {
+    "question": "What happened on Bikini Island in 1954 that shook the world?",
+    "a": "Major earthquake",
+    "b": "1st Atom Bomb blast",
+    "c": "1st H-Bomb blast",
+    "d": "1st atom smashing",
+    "answer": "c",
+    "id": "-uBA6Kw1kk5gHuPVE5TcmwmCgak"
+  },
+  {
+    "question": "What strikes the Empire State Building more than 50 times a year",
+    "a": "Birds",
+    "b": "Airplanes",
+    "c": "Satellite fragments",
+    "d": "Lightning",
+    "answer": "d",
+    "id": "YAaQenbhMFn7BLC8EapwF11JDJc"
+  },
+  {
+    "question": "What's the brightest planet seen from Earth?",
+    "a": "Venus",
+    "b": "Jupiter",
+    "c": "Mars",
+    "d": "Can't see any",
+    "answer": "a",
+    "id": "TzZ8bgSIFnTa0a5K2VVRXwCQz2U"
+  },
+  {
+    "question": "What are the \"cool\" areas of the sun called?",
+    "a": "The corona",
+    "b": "Prominences",
+    "c": "Flareups",
+    "d": "Sun Spots",
+    "answer": "d",
+    "id": "erH5xfINU1qpN4v8yPIe6rJmADY"
+  },
+  {
+    "question": "What is \"The Star of Africa\"?",
+    "a": "A diamond",
+    "b": "An emerald",
+    "c": "A Ruby",
+    "d": "A Sapphire",
+    "answer": "a",
+    "id": "k-xsbP2XYv8VX7LCybJVtENRV6o"
+  },
+  {
+    "question": "Which of the following IS NOT a unit of force?",
+    "a": "A Newton",
+    "b": "An erg",
+    "c": "A dyne",
+    "d": "A pound",
+    "answer": "b",
+    "id": "7L2B9a5EVSr-wzecSousbslCeIw"
+  },
+  {
+    "question": "Which of these IS NOT a measure of distance?",
+    "a": "An Angstrom",
+    "b": "A fermi",
+    "c": "A parsec",
+    "d": "A lunar year",
+    "answer": "d",
+    "id": "g-NnIHPJKzcoI4Tvkclfwz-YdEI"
+  },
+  {
+    "question": "The Portugese Man O' War is...",
+    "a": "A thoroughbred",
+    "b": "A jellyfish",
+    "c": "An electric eel",
+    "d": "A type of scorpion",
+    "answer": "b",
+    "id": "JEhJnB3YINIfXRETEhpHCEvPlWc"
+  },
+  {
+    "question": "What's the largest cat in America?",
+    "a": "The tabby",
+    "b": "The mountain lion",
+    "c": "The jaguar",
+    "d": "The cougar",
+    "answer": "c",
+    "id": "ksdnBG5eFixNbIfblFegHN1jnoY"
+  },
+  {
+    "question": "What 2 months have Equinoxes?",
+    "a": "March & September",
+    "b": "June & September",
+    "c": "January & July",
+    "d": "June & October",
+    "answer": "a",
+    "id": "aQhy5rb79zZdI5p8_lTuzyY84mU"
+  },
+  {
+    "question": "The Tropic of Cancer is on which side of the Equator?",
+    "a": "North",
+    "b": "South",
+    "c": "Neither",
+    "d": "Both",
+    "answer": "a",
+    "id": "WxigtRiV-jY81xZu1wQTDj_Jq8o"
+  },
+  {
+    "question": "Which of these IS NOT one of the four \"C\"s of diamonds?",
+    "a": "Cut",
+    "b": "Carat",
+    "c": "Class",
+    "d": "Color",
+    "answer": "c",
+    "id": "4rsutnZQiJ1nS4x8i13WrszqRiY"
+  },
+  {
+    "question": "A googol is...",
+    "a": "An african swallow",
+    "b": "A lunar rock",
+    "c": "A black hole",
+    "d": "A number",
+    "answer": "d",
+    "id": "Phdk1pSqeTC1SCBB3s8S7fYJbmk"
+  },
+  {
+    "question": "Which freezes faster, hot water or cold?",
+    "a": "Neither",
+    "b": "Hot",
+    "c": "Cold",
+    "d": "Both are the same",
+    "answer": "b",
+    "id": "pfx80bBEk2aDIHxttqbZ5gptoQc"
+  },
+  {
+    "question": "In what common appliance would you find a cathode ray tube?",
+    "a": "Radio",
+    "b": "Refrigerator",
+    "c": "Television",
+    "d": "Microwave Oven",
+    "answer": "c",
+    "id": "5KWEAmLt8b4_rRmZDus19inINAU"
+  },
+  {
+    "question": "What appears when the sun activates melanocytes?",
+    "a": "Sun spots",
+    "b": "Hurricanes",
+    "c": "Hair loss",
+    "d": "Freckles",
+    "answer": "d",
+    "id": "560oCQFsfosrywZEIc8r_6L-N2k"
+  },
+  {
+    "question": "What is term for the bending of light rays caused by lenses?",
+    "a": "Optical Scanning",
+    "b": "Photosynthesis",
+    "c": "Reflection",
+    "d": "Refraction",
+    "answer": "d",
+    "id": "2mTzSt66XadG-3RGUGuX4CVtDOQ"
+  },
+  {
+    "question": "A Cerenkov Counter measures...",
+    "a": "Very slow particles",
+    "b": "Radioactivity",
+    "c": "Very fast particles",
+    "d": "US-Soviet relations",
+    "answer": "c",
+    "id": "-4uRj3qYGJaNQ_bs_oRC8vZDF-I"
+  },
+  {
+    "question": "A four-sided plane figure with only 2 parallel sides is called...",
+    "a": "A square",
+    "b": "A trapezoid",
+    "c": "A pentagon",
+    "d": "A parallelogram",
+    "answer": "b",
+    "id": "Lv0DXY-MvkbQeg1XA4k3_tF6c5A"
+  },
+  {
+    "question": "How often does a solar eclipse last longer than 8 minutes?",
+    "a": "Always",
+    "b": "Once every 11 years",
+    "c": "Never",
+    "d": "Once in 11367 years",
+    "answer": "c",
+    "id": "sXP_fYBRMzkBeXG0puqELFTPAQ0"
+  },
+  {
+    "question": "Where would you find a corona?",
+    "a": "A wide open field",
+    "b": "A very tall tree",
+    "c": "On the moon",
+    "d": "On the sun",
+    "answer": "d",
+    "id": "xxw-yTSvLLQBS2VDkhV2kSiywRg"
+  },
+  {
+    "question": "What is the opposite of aphelion?",
+    "a": "Apogee",
+    "b": "Perigee",
+    "c": "Perihelion",
+    "d": "Neo-aphelion",
+    "answer": "c",
+    "id": "-p_Ew_n_lua7XvMFHDZZJaOc0Bs"
+  },
+  {
+    "question": "What part of the world population has an adverse reaction to milk?",
+    "a": "30 percent",
+    "b": "80 percent",
+    "c": "Less than 1 percent",
+    "d": "About 50 percent",
+    "answer": "b",
+    "id": "0ONqdMbUWkg2BrCz5opeSMO6vMU"
+  },
+  {
+    "question": "The lunar landing module piloted by Neil Armstrong in July of 1969 was",
+    "a": "The Discovery",
+    "b": "The Beagle",
+    "c": "The Eagle",
+    "d": "The Enterprise",
+    "answer": "c",
+    "id": "H4IYNMWBwzaDSBP4MtrOS6mOYDw"
+  },
+  {
+    "question": "Unlike most substances on earth, this substance expands when frozen",
+    "a": "Mercury",
+    "b": "Nitrogen",
+    "c": "Water",
+    "d": "Quicksilver",
+    "answer": "c",
+    "id": "sZOr_tBXqCw87OyRaZpyoMNaPtM"
+  },
+  {
+    "question": "What is the actual source of Balsa wood?",
+    "a": "Balsa trees",
+    "b": "Synthetic cellulose",
+    "c": "Strafed celluloid",
+    "d": "Hybrid Cellulose",
+    "answer": "a",
+    "id": "l836y4LEv_6-vYiIgOlyU23b0u8"
+  },
+  {
+    "question": "What percent of the mass of the entire solar system is the sun's?",
+    "a": "About 25 percent",
+    "b": "Less than 10 %",
+    "c": "More than 99 %",
+    "d": "About 50 percent",
+    "answer": "c",
+    "id": "Qkwsribho1aW0a7ItT1DvyufjMc"
+  },
+  {
+    "question": "Who was the sun god of the ancient Egyptians?",
+    "a": "Nefertiti",
+    "b": "Ra",
+    "c": "Apollo",
+    "d": "Jove",
+    "answer": "b",
+    "id": "PxJErhkn3Tb4UTw3B1A0bhSj9iA"
+  },
+  {
+    "question": "What's permanently frozen sub-soil known as?",
+    "a": "Crust",
+    "b": "Mantle",
+    "c": "Strata",
+    "d": "Permafrost",
+    "answer": "d",
+    "id": "d3A4_JsysjtiA-nSt1IsJkkk1Ns"
+  },
+  {
+    "question": "Bacteria represent what percentage of all living things?",
+    "a": "75 percent",
+    "b": "Less than 1 percent",
+    "c": "More than 99 %",
+    "d": "About 10 percent",
+    "answer": "a",
+    "id": "MR84IntXi5FzbOGuCWj8oxGoXxo"
+  },
+  {
+    "question": "What is the decimal equivalent of the binary number 101?",
+    "a": "5",
+    "b": "3",
+    "c": "2",
+    "d": "101",
+    "answer": "a",
+    "id": "mgOCK5thXgkSCfQNQMpljgNNSKI"
+  },
+  {
+    "question": "Which planet is known as \"The Red Planet\"?",
+    "a": "Jupiter",
+    "b": "Saturn",
+    "c": "Mars",
+    "d": "Venus",
+    "answer": "c",
+    "id": "R7ph63yFHGYKR9jQMBj_vu5HXY8"
+  },
+  {
+    "question": "From what creature do the Galapagos Islands take their name?",
+    "a": "The beagle",
+    "b": "The tortoise",
+    "c": "The Galapian Finch",
+    "d": "The Galloping Swift",
+    "answer": "b",
+    "id": "9BK1oBCep_7Y0-rTtLedkiM7EGI"
+  },
+  {
+    "question": "What does a horned toad squirt when it's angry?",
+    "a": "Saliva",
+    "b": "Blood",
+    "c": "Tears",
+    "d": "Gastric acid",
+    "answer": "b",
+    "id": "jtYgsR40wnwX2G60c8CTkDncSsA"
+  },
+  {
+    "question": "Albacore is a type of...",
+    "a": "Tuna",
+    "b": "Marble",
+    "c": "Shell-fish",
+    "d": "Moon rock",
+    "answer": "a",
+    "id": "MvedSelYQQTpD_AT_Gc6gMZczGU"
+  },
+  {
+    "question": "Chewing gum is made from...",
+    "a": "Chicle",
+    "b": "Denatured rubber",
+    "c": "Reconstituted sugar",
+    "d": "Celluloid",
+    "answer": "a",
+    "id": "QMaAFe-RrKCb6o9A3NEE9l6pKkw"
+  },
+  {
+    "question": "The Rh factor was named after...",
+    "a": "R.H. Milliken",
+    "b": "R.H. Teller",
+    "c": "A spider",
+    "d": "A monkey",
+    "answer": "d",
+    "id": "p3YI7wuMQdsRpmIfjSqf09BNyhM"
+  },
+  {
+    "question": "What is the name of the science of volcanoes?",
+    "a": "Volcanology",
+    "b": "Vulcanology",
+    "c": "Geology",
+    "d": "Eruptology",
+    "answer": "a",
+    "id": "6MtSqrPibWazyFB3_L3thcgscqA"
+  },
+  {
+    "question": "For which army were canned foods invented?",
+    "a": "World War I",
+    "b": "World War II",
+    "c": "Atilla the Hun's",
+    "d": "Napoleon's",
+    "answer": "d",
+    "id": "p3MXE8iPcPI61ncQkCq9ugTAsOg"
+  },
+  {
+    "question": "Who was the \"Wizard of Menlo Park\"?",
+    "a": "Thomas Edison",
+    "b": "Steve Wozniak",
+    "c": "Dave Packard",
+    "d": "Buckminster Fuller",
+    "answer": "a",
+    "id": "zouhLyCB-3SahhPvPfhmqDvzKkM"
+  },
+  {
+    "question": "What bird is the offspring of a cob and a pen?",
+    "a": "A cobpen",
+    "b": "A penguin",
+    "c": "A swan",
+    "d": "A peacock",
+    "answer": "c",
+    "id": "Hr8FmhK2E4tzgsAJLFapJSJnQGk"
+  },
+  {
+    "question": "Twins occur with what frequency in the United States?",
+    "a": "1 out of 10",
+    "b": "1 out of 90",
+    "c": "1 out of 240",
+    "d": "1 out of 1200",
+    "answer": "b",
+    "id": "XDvapkzOYz74xN-4MTmgoKgs_PI"
+  },
+  {
+    "question": "How many times thicker than water is blood?",
+    "a": "2",
+    "b": "4",
+    "c": "5",
+    "d": "6",
+    "answer": "d",
+    "id": "jaxinUjP3WV6glGxpzpXZaBEL8Q"
+  },
+  {
+    "question": "What part of an african elephant is larger than an indian elephant's?",
+    "a": "The tusks",
+    "b": "The ears",
+    "c": "The trunk",
+    "d": "The tail",
+    "answer": "b",
+    "id": "GoSsjYTnAw8H1Vn3cdZe-kMOLSw"
+  },
+  {
+    "question": "How many teaspoons are in one tablespoon?",
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "answer": "c",
+    "id": "2a1A4uC-aAQCqFYIElDanqABVgw"
+  },
+  {
+    "question": "Which of these is not a moon?",
+    "a": "Callisto",
+    "b": "Ganymede",
+    "c": "Titan",
+    "d": "Lunatis",
+    "answer": "d",
+    "id": "RbOVaqQWIhE00X0mo_1gyutIPYQ"
+  },
+  {
+    "question": "How many front toes does a parrot have?",
+    "a": "2",
+    "b": "3",
+    "c": "4",
+    "d": "5",
+    "answer": "a",
+    "id": "N-_mhJQ0g7Hs6r6mxQN9GQAAnHc"
+  },
+  {
+    "question": "Which animal has the longest lifespan in captivity?",
+    "a": "The blue whale",
+    "b": "The indian elephant",
+    "c": "The tortoise",
+    "d": "The Rhinoceros",
+    "answer": "c",
+    "id": "s5dURNNeuor5_pUeZAXrYuhDwmo"
+  },
+  {
+    "question": "From the pit of which fruit do we get Laetrile?",
+    "a": "The peach",
+    "b": "The almond",
+    "c": "The apricot",
+    "d": "The plum",
+    "answer": "c",
+    "id": "pPxqceGiu-ku1RrGJTJniodURH4"
+  },
+  {
+    "question": "The ratio of plant to animal species is approximately...",
+    "a": "2 to 1",
+    "b": "10 to 1",
+    "c": "1 to 1",
+    "d": "5 to 1",
+    "answer": "a",
+    "id": "9YXBDCr0C_Gw5cPjF7VttmtkchI"
+  },
+  {
+    "question": "What famous star is in The Little Dipper?",
+    "a": "Polaris",
+    "b": "Rigel",
+    "c": "Betelgeuse",
+    "d": "Sirius",
+    "answer": "a",
+    "id": "1_DF1sW6BgMcsJpGmXV01Hj03V8"
+  },
+  {
+    "question": "What's another name for a Wildebeest?",
+    "a": "A boar",
+    "b": "A gnu",
+    "c": "An emu",
+    "d": "A jackal",
+    "answer": "b",
+    "id": "-DbwyJ4zXBRezsg8S2ZBEH3q244"
+  },
+  {
+    "question": "Which of these is NOT a property of sub-atomic particles?",
+    "a": "strangeness",
+    "b": "charm",
+    "c": "color",
+    "d": "light-value",
+    "answer": "d",
+    "id": "4a6KwGwUyTXAUM9nktfOo6xis1o"
+  },
+  {
+    "question": "Where would you find Cassini's division?",
+    "a": "The moon",
+    "b": "The rocky mountains",
+    "c": "Saturn's rings",
+    "d": "San Andres fault",
+    "answer": "c",
+    "id": "JoLJzVBF3Iqe1plUgXKR7t36SCo"
+  },
+  {
+    "question": "What is the only mammal that can NOT jump?",
+    "a": "The elephant",
+    "b": "The giraffe",
+    "c": "The blue whale",
+    "d": "The llama",
+    "answer": "a",
+    "id": "LsoD7WjLVpU9WOXuYnBsVoRKf2o"
+  },
+  {
+    "question": "Which planet's orbit vindicated Einstein's theory of gravity?",
+    "a": "Mercury",
+    "b": "Earth",
+    "c": "Mars",
+    "d": "Pluto",
+    "answer": "a",
+    "id": "YH1t0qms6kjVaqTm4nrhSrm9JJ0"
+  },
+  {
+    "question": "What is the oldest known vegetable?",
+    "a": "The potato",
+    "b": "The pea",
+    "c": "The bean",
+    "d": "The onion",
+    "answer": "b",
+    "id": "zQFzWevBtuYsT_hWRshjry7XiZ0"
+  },
+  {
+    "question": "Steelhead and Rainbow trout are members of which family?",
+    "a": "The trout",
+    "b": "The salmon",
+    "c": "The codfish",
+    "d": "The halibut",
+    "answer": "b",
+    "id": "Q0aUwudaCiIo--mL-hALRcijQlI"
+  },
+  {
+    "question": "What is the smallest mammal?",
+    "a": "The mouse",
+    "b": "The shrew",
+    "c": "The mole",
+    "d": "The hamster",
+    "answer": "b",
+    "id": "W_3sE30m-jVgAh2IjgBz6c69_XE"
+  },
+  {
+    "question": "Which of these IS NOT an element?",
+    "a": "Einsteinium",
+    "b": "Californium",
+    "c": "Neptunium",
+    "d": "Serotonium",
+    "answer": "d",
+    "id": "PchhIYNMJMKxqkrmLwx77phtpWQ"
+  },
+  {
+    "question": "How many varieties are there of rice?",
+    "a": "Only 1",
+    "b": "2",
+    "c": "Over 100,000",
+    "d": "About 15,000",
+    "answer": "d",
+    "id": "mgbrcGhEVbj19raGpzEkaEEew5c"
+  },
+  {
+    "question": "With what human activity are REM's associated?",
+    "a": "With eating",
+    "b": "With drinking",
+    "c": "With walking",
+    "d": "With sleeping",
+    "answer": "d",
+    "id": "4Y6Mi9dKEmtT_OuMFsWCoj8XEl4"
+  },
+  {
+    "question": "Which of these planets does not have known rings?",
+    "a": "Jupiter",
+    "b": "Mars",
+    "c": "Saturn",
+    "d": "Uranus",
+    "answer": "b",
+    "id": "EnoIjF-FEeUPc98viPeN_lOun44"
+  },
+  {
+    "question": "Americans receive the most amount of radiation from which of these?",
+    "a": "Television",
+    "b": "Computers",
+    "c": "Nuclear reactors",
+    "d": "X-rays",
+    "answer": "d",
+    "id": "uy4fABvyL36Sex3A-RlN8Jxp37A"
+  },
+  {
+    "question": "Where would you find a Mercator Projection?",
+    "a": "In a theatre",
+    "b": "On a microscope",
+    "c": "On a map",
+    "d": "On a fault line",
+    "answer": "c",
+    "id": "iz0Mx0JdaJn_bCA0yzEqeLzr7d4"
+  },
+  {
+    "question": "Which of these \"Bears\" actually IS a bear?",
+    "a": "Koala bear",
+    "b": "Panda bear",
+    "c": "Ursa Major",
+    "d": "Polar bear",
+    "answer": "d",
+    "id": "Vyfgg9DHPfnLCVUCSvw9H6_w-S8"
+  },
+  {
+    "question": "Who built the \"Spruce Goose\"?",
+    "a": "The Wright brothers",
+    "b": "Eddie Rickenbacker",
+    "c": "Frank Borman",
+    "d": "Howard Hughes",
+    "answer": "d",
+    "id": "O-LOMEf8HxOKlq1xQ_jQJ0LTP9k"
+  },
+  {
+    "question": "For a given perimeter length, which shape has the greatest area?",
+    "a": "Circle",
+    "b": "Square",
+    "c": "Cycloid",
+    "d": "None-all the same",
+    "answer": "a",
+    "id": "8FrlP5EupEPRpYE0GtKCpMt69wo"
+  },
+  {
+    "question": "Dolphins are...",
+    "a": "Fish",
+    "b": "Mammals",
+    "c": "neither A or B",
+    "d": "both A and B",
+    "answer": "d",
+    "id": "NO8YD6-nb-BG3Lss1fP2lXpuyUk"
+  },
+  {
+    "question": "How many Viking spacecraft have landed on Mars?",
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "answer": "b",
+    "id": "PUpRkD4e36PdowCA_td59uxTkeE"
+  },
+  {
+    "question": "What is the gestation period of an elephant?",
+    "a": "9 months",
+    "b": "15 months",
+    "c": "18 months",
+    "d": "21 months",
+    "answer": "d",
+    "id": "oT39ekW6pOf-RPIXIw4MCyUXfTc"
+  },
+  {
+    "question": "What vegetable yields the most pounds of produce per acre?",
+    "a": "Cabbage",
+    "b": "Potato",
+    "c": "Onion",
+    "d": "Corn",
+    "answer": "a",
+    "id": "eS2WfWJEvN42vDxUKyZu90-jZus"
+  },
+  {
+    "question": "Which of the following IS NOT an element?",
+    "a": "Antimony",
+    "b": "Serium",
+    "c": "Absydian",
+    "d": "Dysprosium",
+    "answer": "c",
+    "id": "iOlXewyeVUNqe7RNep_qYxA4r7E"
+  },
+  {
+    "question": "What is the lifespan of a trout?",
+    "a": "1 year",
+    "b": "2 year",
+    "c": "3 year",
+    "d": "4 year",
+    "answer": "d",
+    "id": "tVwrGXhHz6r4t3N55FfAHK7uKC4"
+  },
+  {
+    "question": "Which animal is referred to as Nanook in the Eskimo tongue?",
+    "a": "Walrus",
+    "b": "Polar bear",
+    "c": "Whale",
+    "d": "Seal",
+    "answer": "b",
+    "id": "CMJCquR4wmJp_FeKlK13gSnfJd4"
+  },
+  {
+    "question": "Which of these IS NOT a book by Carl Sagan?",
+    "a": "Broca's Brain",
+    "b": "The Dragons of Eden",
+    "c": "Cosmos",
+    "d": "Murmurs of Mars",
+    "answer": "d",
+    "id": "fCX9cwZc2t6Sh0jURm7msXvj3BQ"
+  },
+  {
+    "question": "In measuring the brightness of stars, which is the brightest?",
+    "a": "Magnitude 0",
+    "b": "Magnitude 1.5",
+    "c": "Magnitude 3",
+    "d": "Magnitude 5",
+    "answer": "a",
+    "id": "XucVIXnE5Mm5qHP8oShL6L3Th94"
+  },
+  {
+    "question": "Which of these DOES NOT have an observatory associated with it?",
+    "a": "Kitt Peak",
+    "b": "Mt. Palomar",
+    "c": "Mt. Hamilton",
+    "d": "Mt. Rushmore",
+    "answer": "d",
+    "id": "3XUMzEgXCzsDwfSGEo31a2JP6ms"
+  },
+  {
+    "question": "In the mountains, trees will not grow above this boundary:",
+    "a": "The treeline",
+    "b": "The timberline",
+    "c": "The growthline",
+    "d": "The skyline",
+    "answer": "b",
+    "id": "8qM5QIEWZhkf2ooo8NkZZ3Q-uEs"
+  },
+  {
+    "question": "The chemical symbol for copper is:",
+    "a": "Au",
+    "b": "Co",
+    "c": "Cp",
+    "d": "Cu",
+    "answer": "d",
+    "id": "2aGgnRuUO6X0vovJW2w_vBjQ_NQ"
+  },
+  {
+    "question": "What is another name for rubella?",
+    "a": "Poison Oak",
+    "b": "Poison Ivy",
+    "c": "Jaundice",
+    "d": "German Measles",
+    "answer": "d",
+    "id": "eqUbyY3XFT2NV35U2ZG8gKFKPqM"
+  },
+  {
+    "question": "Who was the first black astronaut in space?",
+    "a": "Guion S. Bluford",
+    "b": "Gus Grissom",
+    "c": "Anatoly Gregenkov",
+    "d": "Buster F. Waldrin",
+    "answer": "a",
+    "id": "QE7LeHO4s00UYV9EK6fcnn-lTF4"
+  },
+  {
+    "question": "What is the final, stable product of the three radioactive series?",
+    "a": "Lead",
+    "b": "U-235",
+    "c": "Ionized water",
+    "d": "Harmless dust",
+    "answer": "a",
+    "id": "FiZ1BnaiwaCXqscR66EBFmiPoik"
+  },
+  {
+    "question": "A bamboo plant is capable of growing, in one entire day:",
+    "a": "Less than 1/10 inch",
+    "b": "About an inch",
+    "c": "About a foot",
+    "d": "About 36 inches",
+    "answer": "d",
+    "id": "71t5vqRJsq808fCI51v3f1KqWAA"
+  },
+  {
+    "question": "What is the nominal voltage of most flashlight batteries?",
+    "a": "1 volt",
+    "b": "1.5 volts",
+    "c": "9 volts",
+    "d": "12 volts",
+    "answer": "b",
+    "id": "ZiYwOXOiZpnLpHcbosnQyD0Z-gM"
+  },
+  {
+    "question": "What technique is usually used to show pictures of a fetus in a womb",
+    "a": "Ultrasound",
+    "b": "Infrared",
+    "c": "X-ray",
+    "d": "Cat Scan",
+    "answer": "a",
+    "id": "6ptHs7v-NSH4nxPb3EL8zP-13xk"
+  },
+  {
+    "question": "What's the largest crew ever to fly in a manned U.S. space mission?",
+    "a": "4",
+    "b": "5",
+    "c": "6",
+    "d": "7",
+    "answer": "c",
+    "id": "oo6NZSVpARP7Imj7R5_xBCy_IPw"
+  },
+  {
+    "question": "Where would you find penguins?",
+    "a": "Near the Artic",
+    "b": "Near the Antartic",
+    "c": "Only in Siberia",
+    "d": "Only in Scandinavia",
+    "answer": "b",
+    "id": "jmOAwvwgZ2UI4LNog-bVZOoUr0A"
+  },
+  {
+    "question": "How many stars are visible in the dark part of a crescent moon?",
+    "a": "23",
+    "b": "13",
+    "c": "3",
+    "d": "0",
+    "answer": "d",
+    "id": "luruJ0DACpGAuikN3dIICztRLm0"
+  },
+  {
+    "question": "The one distinguishing feature of all organic material is...",
+    "a": "Life",
+    "b": "Water",
+    "c": "Carbon",
+    "d": "Oxygen",
+    "answer": "c",
+    "id": "lk6hZg9eaicVDe_jsXemdkPENF0"
+  },
+  {
+    "question": "A human sneeze can generate speeds of up to...",
+    "a": "25 miles per hour",
+    "b": "100 miles per hour",
+    "c": "75 miles per hour",
+    "d": "50 miles per hour",
+    "answer": "b",
+    "id": "-APX-YDbZslqgpI2RZ8pD1Ww8UY"
+  },
+  {
+    "question": "Thunderstorms occur most often at what time of the day?",
+    "a": "Early morning",
+    "b": "Late at night",
+    "c": "Mid-afternoon",
+    "d": "All hours equally",
+    "answer": "c",
+    "id": "y2W5f4UJDdcVo23_wmq2ltI0UiQ"
+  },
+  {
+    "question": "Alchemists used to try to turn lead into gold. We now know this is...",
+    "a": "Impossible",
+    "b": "Possible",
+    "c": "Done all the time",
+    "d": "Never done",
+    "answer": "b",
+    "id": "Fd0LMwLnS00NcwP4bTv5MLZQubg"
+  },
+  {
+    "question": "How many nybbles are there in one byte?",
+    "a": "8",
+    "b": "2",
+    "c": "4",
+    "d": "none",
+    "answer": "b",
+    "id": "aoaS-nTYyfkisjpJeiQQdjdTJEw"
+  },
+  {
+    "question": "Each eye of a horsefly has how many lenses?",
+    "a": "Only 1",
+    "b": "700",
+    "c": "7000",
+    "d": "2",
+    "answer": "c",
+    "id": "WGs7xnaTuuC0LUqXSyu_Z9ur7Y8"
+  },
+  {
+    "question": "Halley's Comet is next scheduled to appear in...",
+    "a": "1984",
+    "b": "1985",
+    "c": "1986",
+    "d": "1987",
+    "answer": "c",
+    "id": "RnuJVFymvhumkf5djo6LiY0HB6A"
+  },
+  {
+    "question": "The tallest living mammal is...",
+    "a": "The giraffe",
+    "b": "The long-necked emu",
+    "c": "The elephant",
+    "d": "The wildehorse",
+    "answer": "a",
+    "id": "toE6pTdV2DbM5EttdwTsY-WTSVw"
+  },
+  {
+    "question": "With what substance are clouds usually seeded?",
+    "a": "Silver iodide",
+    "b": "Silver nitrate",
+    "c": "Sodium Chloride",
+    "d": "Sodium Cumulus",
+    "answer": "a",
+    "id": "6Smw0BKrroqJJ2vq7s6JCdjuGhs"
+  },
+  {
+    "question": "The geiger counter was actually invented by...",
+    "a": "Mr. H. Geiger",
+    "b": "Thomas Edison",
+    "c": "Albert Einstein",
+    "d": "An unknown person",
+    "answer": "a",
+    "id": "NgSjeJapew1B12WuCnW8h9KTEH4"
+  },
+  {
+    "question": "The largest radio telescope dish in the world is in...",
+    "a": "New Mexico",
+    "b": "Mexico City",
+    "c": "Puerto Rico",
+    "d": "New York City",
+    "answer": "c",
+    "id": "yCt-L5dUakyGyjrxfbVKfroyK6w"
+  },
+  {
+    "question": "Which of these IS NOT a computer language?",
+    "a": "Pascal",
+    "b": "C",
+    "c": "Ada",
+    "d": "Univac",
+    "answer": "d",
+    "id": "fiARGJ0A3z2eG9QncPuEE4rWD4Y"
+  },
+  {
+    "question": "The best time to observe the stars and heavenly bodies is...",
+    "a": "A clear warm night",
+    "b": "A clear cool night",
+    "c": "Mid afternoon",
+    "d": "A cloudy night",
+    "answer": "b",
+    "id": "tAN8M5K3hA_dN1Uff978pDGkF54"
+  },
+  {
+    "question": "\"Homo Sapiens\" means:",
+    "a": "Man of Strength",
+    "b": "Man of Knowledge",
+    "c": "Man of One Kind",
+    "d": "Milk Man",
+    "answer": "b",
+    "id": "HEsfV2SZvJAPqojWPICpJYEa2Vc"
+  },
+  {
+    "question": "An ocean of liquid nitrogen is known to exist...",
+    "a": "On Neptune's moon",
+    "b": "Nowhere--impossible",
+    "c": "On Saturn",
+    "d": "On the sun",
+    "answer": "a",
+    "id": "3hAN2H52AKL2vnSIvvp8XHYTKfI"
+  },
+  {
+    "question": "The word \"Ozone\" is derived from Greek, and translates into...",
+    "a": "Atmosphere",
+    "b": "Layer",
+    "c": "You are here",
+    "d": "I smell",
+    "answer": "d",
+    "id": "Hrw2Pw8WjPQ-bj1vMbp1l2vLGH0"
+  },
+  {
+    "question": "Sturgeon eggs are also known as...",
+    "a": "Ostrich eggs",
+    "b": "Caviar",
+    "c": "Salmon eggs",
+    "d": "A group of stars",
+    "answer": "b",
+    "id": "WqAOkIDfUCPxMuKcwVrFL6V3r7Q"
+  },
+  {
+    "question": "Scientists measure the distance of the moon by bouncing light off...",
+    "a": "Its surface",
+    "b": "A moon mirror",
+    "c": "Mars, then the moon",
+    "d": "The sun, then moon",
+    "answer": "b",
+    "id": "_uToKKEAcxPkFpzswwrg8nQk3iU"
+  },
+  {
+    "question": "In the human body, which lung is usually larger?",
+    "a": "The left",
+    "b": "The right",
+    "c": "Neither, the same",
+    "d": "None of the above",
+    "answer": "b",
+    "id": "KIIYkFR3gLcEqEtCdeYKvk2g03I"
+  },
+  {
+    "question": "What part of the eye is responsible for color vision?",
+    "a": "The rods",
+    "b": "The cones",
+    "c": "The retina",
+    "d": "The iris",
+    "answer": "b",
+    "id": "RSG8LSo02iAcTNdHx66YyiU0OTA"
+  },
+  {
+    "question": "An animal that lays eggs is said to be...",
+    "a": "Carniverous",
+    "b": "Omniverous",
+    "c": "Ambidextrous",
+    "d": "Oviparous",
+    "answer": "d",
+    "id": "xtJBJrZfFVmGujs3OmzgKKk9aZw"
+  },
+  {
+    "question": "Which of these is the only mammal that lays eggs?",
+    "a": "The crocodile",
+    "b": "The ostrich",
+    "c": "The platypus",
+    "d": "The koala bear",
+    "answer": "c",
+    "id": "-4YueCwVly0Ze1-V1qn146WckEQ"
+  },
+  {
+    "question": "A quasi-stellar object is more commonly known as...",
+    "a": "A black hole",
+    "b": "A quantum leap",
+    "c": "A quark",
+    "d": "A quasar",
+    "answer": "d",
+    "id": "ytGovz1ZujljmkMsnC3CFcxlU1U"
+  },
+  {
+    "question": "Stars \"twinkle\" because of...",
+    "a": "Air turbulence",
+    "b": "Undulation",
+    "c": "Prominences",
+    "d": "Unresolveable light",
+    "answer": "a",
+    "id": "QEVyeKZtVLB0xmiD6YjohrEptn0"
+  },
+  {
+    "question": "The first atomic powered submarine was called...",
+    "a": "The Enterprise",
+    "b": "The Trident",
+    "c": "The Nautilus",
+    "d": "The Expolorer",
+    "answer": "c",
+    "id": "T3K4h41K_xnJWerK5JUiQ5928oI"
+  },
+  {
+    "question": "Which planet is closest in size to the earth?",
+    "a": "Venus",
+    "b": "Mercury",
+    "c": "Mars",
+    "d": "Uranus",
+    "answer": "a",
+    "id": "KAhsppBPCcCFzbMx7cuc907hz3Y"
+  },
+  {
+    "question": "What has been observed on Io, seen before only on earth?",
+    "a": "Earthquakes",
+    "b": "Hurricanes",
+    "c": "Volcanoes",
+    "d": "Electrical storms",
+    "answer": "c",
+    "id": "PxnF_QKmCPNymzafWSPZex2IOi0"
+  },
+  {
+    "question": "Bees can make 1 pound of honey comb by collecting nectar from...",
+    "a": "2 million flowers",
+    "b": "2000 flowers",
+    "c": "200 flowers",
+    "d": "20,000 flowers",
+    "answer": "a",
+    "id": "Orn2J3238DJAYPQEYhh5T076VPU"
+  },
+  {
+    "question": "What is a more common name for the space term, EVA?",
+    "a": "Electrical storms",
+    "b": "Entry into zero-g",
+    "c": "Retrograde rockets",
+    "d": "Space walking",
+    "answer": "d",
+    "id": "5kFfbhl2Z2K4xmsw9b68yInsXiY"
+  },
+  {
+    "question": "The Van Allen Belts surround...",
+    "a": "Mars",
+    "b": "Saturn",
+    "c": "Earth",
+    "d": "The sun",
+    "answer": "c",
+    "id": "lMwStoSL_JsIamR6LxpQyKuRDpA"
+  },
+  {
+    "question": "Who has more red blood cells, men or women?",
+    "a": "Neither...the same",
+    "b": "Men",
+    "c": "Women",
+    "d": "None of above",
+    "answer": "b",
+    "id": "vGZClT8-z1FNDEbGnIFHiJdvZcE"
+  },
+  {
+    "question": "What is a characteristic of a \"Nimbus\" cloud?",
+    "a": "Rain",
+    "b": "Fog",
+    "c": "No rain",
+    "d": "A or B",
+    "answer": "a",
+    "id": "vdz4DT1dR01G07bTtlRyIwQCntU"
+  },
+  {
+    "question": "What company manufactured the engines for the Concorde?",
+    "a": "Boeing",
+    "b": "Lockheed",
+    "c": "GM",
+    "d": "Rolls Royce",
+    "answer": "d",
+    "id": "5Aoq5wSuX1Oq5_G2XDKIC4tUVNc"
+  },
+  {
+    "question": "Which of these is the largest crustacean?",
+    "a": "King Crab",
+    "b": "Maine Lobster",
+    "c": "Blue Crab",
+    "d": "Spider Crab",
+    "answer": "d",
+    "id": "wDa_eEbbIhD4UYaiilr0Kxgxr_k"
+  },
+  {
+    "question": "What were named \"Wanderers\" because of their motion in the sky",
+    "a": "Shooting Stars",
+    "b": "Planets",
+    "c": "Moons",
+    "d": "Comets",
+    "answer": "b",
+    "id": "fSoA46HuIWGlasHDjoUfyhyzwA0"
+  },
+  {
+    "question": "Which one of the following IS NOT a base for DNA?",
+    "a": "Adenine",
+    "b": "Thymine",
+    "c": "Cytosine",
+    "d": "Bytosine",
+    "answer": "d",
+    "id": "rV9z6w-98bm2EyMSGViunqBVO24"
+  },
+  {
+    "question": "Parchment was made from?",
+    "a": "Trees",
+    "b": "Grass",
+    "c": "Goat skin",
+    "d": "Pig skin",
+    "answer": "c",
+    "id": "73UMj9tsFfwmPi5gm2BTmn1Us0M"
+  },
+  {
+    "question": "Another name for rock salt is?",
+    "a": "Halite",
+    "b": "Fluorite",
+    "c": "Perlite",
+    "d": "Pyrite",
+    "answer": "a",
+    "id": "KfgFdh_X_qT-Xh5ZojgrkQo2F5Y"
+  },
+  {
+    "question": "What part of a wooly mammoth was 16 feet long?",
+    "a": "Ears",
+    "b": "Trunk",
+    "c": "Tail",
+    "d": "Tusks",
+    "answer": "d",
+    "id": "c02wUw_gJTeGpw11pZkcCZvCS30"
+  },
+  {
+    "question": "What is the name of decaying organic matter on the forest floor",
+    "a": "Fungus",
+    "b": "Algae",
+    "c": "Peat",
+    "d": "Duff",
+    "answer": "d",
+    "id": "uRnGTno1rSw8_g0-ZyRgaE0vUVs"
+  },
+  {
+    "question": "In what season is the Black Widow's venom the LEAST strong?",
+    "a": "Spring",
+    "b": "Summer",
+    "c": "Winter",
+    "d": "Fall",
+    "answer": "b",
+    "id": "S3VZ0lcxMhx338NY4obrA0pgzJA"
+  },
+  {
+    "question": "Which state is in both the Western and Eastern Hemisphere?",
+    "a": "Hawaii",
+    "b": "Alaska",
+    "c": "Maine",
+    "d": "Florida",
+    "answer": "b",
+    "id": "1loiqzbG2WrnQerwpYuID04UqEA"
+  },
+  {
+    "question": "Who is associated with the concept of Natural Selection?",
+    "a": "Adolph Hitler",
+    "b": "Wittgenstein",
+    "c": "Charles Darwin",
+    "d": "Issac Newton",
+    "answer": "c",
+    "id": "B8F0WC0vgSTOIDv4TdCsrDUGpYg"
+  },
+  {
+    "question": "The difference between a meteor and a meteorite is that a meteorite...",
+    "a": "Is smaller",
+    "b": "Has hit the earth",
+    "c": "Contains iron",
+    "d": "Leaves a crater",
+    "answer": "b",
+    "id": "G72Q9BSPJY-vOy1r2EQErLu18Pc"
+  },
+  {
+    "question": "Which is the fifth planet from the sun?",
+    "a": "Mars",
+    "b": "Jupiter",
+    "c": "Saturn",
+    "d": "Uranus",
+    "answer": "b",
+    "id": "694zsuYBpgw8eE03K6oUHU6gjts"
+  },
+  {
+    "question": "What is nitroglycerin?",
+    "a": "A heart medicine",
+    "b": "An explosive",
+    "c": "Neither of the two",
+    "d": "Both of the above",
+    "answer": "d",
+    "id": "7I_NPMBiCuwNQfEn0ocMmfBVWEE"
+  },
+  {
+    "question": "Which of the following IS NOT a part of a telescope?",
+    "a": "A Lens",
+    "b": "A Mirror",
+    "c": "A clock drive",
+    "d": "A bi-polar grind",
+    "answer": "d",
+    "id": "hoRnR3iVkyUB0sUoLxYBRurozUc"
+  }
+]

@@ -1,0 +1,4502 @@
+[
+  {
+    "question": "The last concert performance by The Beatles occurred in which city",
+    "a": "London",
+    "b": "New York",
+    "c": "Tokyo",
+    "d": "San Francisco",
+    "answer": "d",
+    "id": "E7JgQZ1r_-ucrusA_vEJXsx5wZA"
+  },
+  {
+    "question": "What role did Peter Lorre play in the film \"Casablanca\"?",
+    "a": "Hartley",
+    "b": "Ugarte",
+    "c": "Sam",
+    "d": "The Fat Man",
+    "answer": "b",
+    "id": "NE7p1PyRLVo76v69YD44TUeibXU"
+  },
+  {
+    "question": "The spaceship piloted by Han Solo in \"Star Wars\" was called The...",
+    "a": "Milky Way",
+    "b": "Maltese Falcon",
+    "c": "Millenium Falcon",
+    "d": "Falcon Starship",
+    "answer": "c",
+    "id": "EKHybRiAjWNwpm9KLKPABd_C9aM"
+  },
+  {
+    "question": "With which vocal group did singer Lionel Ritchie originally perform?",
+    "a": "The Four Tops",
+    "b": "Earth, Wind & Fire",
+    "c": "The Commodores",
+    "d": "Kool & The Gang",
+    "answer": "c",
+    "id": "sxdX7DlXpUMaKveWX3mwp2OV7vA"
+  },
+  {
+    "question": "Rodney Dangerfield left what career to return to show business?",
+    "a": "Bartending",
+    "b": "Paint salesman",
+    "c": "Car salesman",
+    "d": "Shoe salesman",
+    "answer": "b",
+    "id": "El96nCn6onUo3eOHytWU5KPDVqI"
+  },
+  {
+    "question": "Which of the following actors did NOT appear in \"The Big Chill\"?",
+    "a": "Kevin Kline",
+    "b": "Tom Berenger",
+    "c": "Jeff Goldblum",
+    "d": "John Hirt",
+    "answer": "d",
+    "id": "Qbn1FTjq16s7w0BCaYWcnT0HEO8"
+  },
+  {
+    "question": "Who directed Michael Jackson's video movie, \"Thriller\"?",
+    "a": "Michael Peters",
+    "b": "John Landis",
+    "c": "Steven Spielberg",
+    "d": "Don King",
+    "answer": "b",
+    "id": "UEi0OkMXtyEhVjH0KOpUBrCOwgc"
+  },
+  {
+    "question": "In which city is Jim Morrison, lead singer of The Doors, buried?",
+    "a": "San Francisco",
+    "b": "Los Angeles",
+    "c": "Paris",
+    "d": "Berlin",
+    "answer": "c",
+    "id": "ax_dODP53C2Ram2CCZLvTlgTXvo"
+  },
+  {
+    "question": "Who co-starred in \"Ghostbusters\" with Bill Murray and Dan Akroyd?",
+    "a": "Tony Roberts",
+    "b": "Joe Piscopo",
+    "c": "Brian Doyle-Murray",
+    "d": "Harold Ramis",
+    "answer": "d",
+    "id": "cILiiCK1m7PlOGSYG0x7RXVDFJY"
+  },
+  {
+    "question": "What is \"Dirty Harry's\" last name?",
+    "a": "O'Connor",
+    "b": "Castanza",
+    "c": "Calhoun",
+    "d": "Callahan",
+    "answer": "d",
+    "id": "W-U2iB3gJvS4oZEMPQgcV8E1hkw"
+  },
+  {
+    "question": "In what 1960's television series did Troy Donahue star?",
+    "a": "77 Sunset Strip",
+    "b": "Surfside 6",
+    "c": "Route 66",
+    "d": "Shindig",
+    "answer": "b",
+    "id": "0Hxq4swJ7GZzh8e8h7Aa-rsurCs"
+  },
+  {
+    "question": "Who performs the theme song for the movie, \"Ghostbusters\"?",
+    "a": "Jr. Walker",
+    "b": "Graham Parker",
+    "c": "Ray Parker, Jr.",
+    "d": "Charlie Parker",
+    "answer": "c",
+    "id": "GUZ8ni9eV46JohhD5VmcWLWj81U"
+  },
+  {
+    "question": "What nazi concentration camp was depicted in \"Sophie's Choice\"?",
+    "a": "Buchenwald",
+    "b": "Dachau",
+    "c": "Auschwitz",
+    "d": "Dresden",
+    "answer": "c",
+    "id": "4KFrP3xoSh-dzqRpE5kargGsp8Q"
+  },
+  {
+    "question": "Who is the female co-host of TV's syndicated \"Entertainment Tonight\"",
+    "a": "Jane Pauley",
+    "b": "Mary Hart",
+    "c": "Maria Shriver",
+    "d": "Cathy Lee Crosby",
+    "answer": "b",
+    "id": "b0zZ6zKnfckuAE-6rT10WFzreJM"
+  },
+  {
+    "question": "In which continent did \"Raiders of the Lost Ark\" begin?",
+    "a": "Africa",
+    "b": "North America",
+    "c": "Asia",
+    "d": "South America",
+    "answer": "d",
+    "id": "C2kQikphdV0325RjdONTVxVfdwk"
+  },
+  {
+    "question": "In what picture did Mickey Mouse make his film debut?",
+    "a": "Steamboat Willie",
+    "b": "County Fair",
+    "c": "A Mouse is Born",
+    "d": "House Mouse",
+    "answer": "a",
+    "id": "STpC-l22AUNuzPk9Diz5PT-7rwc"
+  },
+  {
+    "question": "Which television series does not regularly feature John Forsythe?",
+    "a": "Dynasty",
+    "b": "Charlie's Angels",
+    "c": "Bachelor Father",
+    "d": "Family Affair",
+    "answer": "d",
+    "id": "3vkmClyO6h1YiiTJaROwjT1keU0"
+  },
+  {
+    "question": "What is the popular name of Beethoven's \"Choral Symphony\"?",
+    "a": "The Ninth Symphony",
+    "b": "Eroica",
+    "c": "The Fifth Symphony",
+    "d": "Unfinished Symphony",
+    "answer": "a",
+    "id": "wE-gLdATbXKjEAdpiy4wvPN8gaQ"
+  },
+  {
+    "question": "What is the name of the character played by Drew Barrymore in \"E.T.\"",
+    "a": "Elliot",
+    "b": "E.T.",
+    "c": "Buffie",
+    "d": "Gertie",
+    "answer": "d",
+    "id": "XD3daJGyrfQIrDsrmPSAzSmqvK8"
+  },
+  {
+    "question": "Whose address is 221-B Baker St.?",
+    "a": "Paul McCartney",
+    "b": "Ian Fleming",
+    "c": "Sherlock Holmes",
+    "d": "Agatha Christie",
+    "answer": "c",
+    "id": "AriK3uJZMucp7TRqxWFzSTI_TgM"
+  },
+  {
+    "question": "What film won the Academy Award for Best Film in 1983?",
+    "a": "Terms of Endearment",
+    "b": "The Right Stuff",
+    "c": "Ghandi",
+    "d": "Sophie's Choice",
+    "answer": "a",
+    "id": "I9PvxlkF0Qta-6NKUjy_XnhwJak"
+  },
+  {
+    "question": "Who wrote the song White Christmas?",
+    "a": "Bing Crosby",
+    "b": "Hoagy Carmichael",
+    "c": "Irving Berlin",
+    "d": "Marvin Hamlisch",
+    "answer": "c",
+    "id": "9CkiYwDC43k1_LshH0OqoNYT_f0"
+  },
+  {
+    "question": "Ed Sullivan played himself in the film musical entitled...",
+    "a": "On the Town",
+    "b": "Grease",
+    "c": "Toast of the Town",
+    "d": "Bye, Bye, Birdie",
+    "answer": "d",
+    "id": "Qi6qqkfEcqcORTdNXGv8pqxdUog"
+  },
+  {
+    "question": "Which of the witches was killed when Dorothy's house landed in Oz?",
+    "a": "Witch of the North",
+    "b": "Witch of the South",
+    "c": "Witch of the West",
+    "d": "Witch of the East",
+    "answer": "d",
+    "id": "lAwHQZFAL0Yw-MPhJbOtG85j_30"
+  },
+  {
+    "question": "In which country did the original \"It Takes a Thief\" film take place",
+    "a": "Monaco",
+    "b": "France",
+    "c": "Switzerland",
+    "d": "England",
+    "answer": "a",
+    "id": "Om84omnXeDGGotieBfENs7N1btk"
+  },
+  {
+    "question": "Who wrote the theme song for the Tonight Show, \"Here's Johnny\"?",
+    "a": "Johnny Carson",
+    "b": "Paul Anka",
+    "c": "Sammy Cahn",
+    "d": "Paul McCartney",
+    "answer": "b",
+    "id": "-Wen_HFPZgVqCoLFa9MzRqG1yXY"
+  },
+  {
+    "question": "How many times has Katherine Hepburn been married?",
+    "a": "None",
+    "b": "Once only",
+    "c": "Twice",
+    "d": "6 times",
+    "answer": "b",
+    "id": "xX6wagOs7EuZu-8fp7HdTnzq-NU"
+  },
+  {
+    "question": "George Harrison lost a plagiarism suit for which of his songs?",
+    "a": "Isn't it a Pity",
+    "b": "Crackerbox Palace",
+    "c": "He's So Fine",
+    "d": "My Sweet Lord",
+    "answer": "d",
+    "id": "MwIDYvkImcgaLb5wNl1T807NVhM"
+  },
+  {
+    "question": "What was the name of the high school in \"Grease\"?",
+    "a": "Beaumont High",
+    "b": "Presley High",
+    "c": "Rydell High",
+    "d": "Holly High",
+    "answer": "c",
+    "id": "Av3AUq4CJJjZAO39uFyjhLzl5OA"
+  },
+  {
+    "question": "Who played the female lead in Saturday Night Fever?",
+    "a": "Karen Allen",
+    "b": "Olivia Newton John",
+    "c": "Karen Lynn Gorney",
+    "d": "Lynn Allen Gore",
+    "answer": "c",
+    "id": "VBRPkqGgjzHqzU4_KxlB19SxIrs"
+  },
+  {
+    "question": "What was the first color film to win the Best Picture Oscar?",
+    "a": "Snow White",
+    "b": "Gone with the Wind",
+    "c": "Ben Hur",
+    "d": "The 10 Commandments",
+    "answer": "b",
+    "id": "xNJllkHh9z2X8_E7hGGDVIe59ho"
+  },
+  {
+    "question": "What fashion designer is the winner of 11 academy awards?",
+    "a": "Yves St. Laurent",
+    "b": "Bill Blass",
+    "c": "Pierre Cardin",
+    "d": "Edith Head",
+    "answer": "d",
+    "id": "Y6KvckckpyLsdBNdB99mBXDbDn4"
+  },
+  {
+    "question": "What famous guitarist formed the group Derek and the Dominoes?",
+    "a": "Derek Taylor",
+    "b": "Mick Taylor",
+    "c": "Eric Clapton",
+    "d": "Keith Richards",
+    "answer": "c",
+    "id": "iFwffCVRthxCPvqj3XhIjDW44R0"
+  },
+  {
+    "question": "What black comic always had a poem for his audience?",
+    "a": "Flip Wilson",
+    "b": "Nipsy Russell",
+    "c": "Bill Cosby",
+    "d": "Richard Pryor",
+    "answer": "b",
+    "id": "t9137UgXhpyyWZM8r2QwJ9B0lDE"
+  },
+  {
+    "question": "Who portrayed Audra Barkley on The Big Valley?",
+    "a": "Linda Evans",
+    "b": "Barbara Stanwyck",
+    "c": "Irene Ryan",
+    "d": "Jane Wyman",
+    "answer": "a",
+    "id": "i1-pjxG3h1y_gZBkKWoNTm3MC2E"
+  },
+  {
+    "question": "What time did \"Little Susie\" have to be home?",
+    "a": "Ten",
+    "b": "Eleven",
+    "c": "Nine",
+    "d": "Twelve",
+    "answer": "a",
+    "id": "UHwq5BWH5KwpeopGUMXflpGw3pE"
+  },
+  {
+    "question": "What comic immortalized the line, \"Take my wife...please.\"?",
+    "a": "Rodney Dangerfield",
+    "b": "Henny Youngman",
+    "c": "George Burns",
+    "d": "Bob Hope",
+    "answer": "b",
+    "id": "vb3FQhvj0xklj467iCeCoMXkpw8"
+  },
+  {
+    "question": "Who was the executive producer of both The Fugitive and The FBI?",
+    "a": "Richard Kimble",
+    "b": "Efram Zimbalist, Jr",
+    "c": "Quinn Martin",
+    "d": "Jack Webb",
+    "answer": "c",
+    "id": "zl3X_AduEITsZ3h_sOHvG-a3Gt0"
+  },
+  {
+    "question": "What Jan and Dean song featured a race between an XKE and a Stingray",
+    "a": "Little Deuce Coupe",
+    "b": "Shut 'em Down",
+    "c": "Surf City",
+    "d": "Dead Man's Curve",
+    "answer": "d",
+    "id": "CN3UzEfBPJ8ZBemD9XKF-VvlXDE"
+  },
+  {
+    "question": "Who was the announcer on the TV show \"Laugh-In\"?",
+    "a": "Don Pardo",
+    "b": "Gary Owens",
+    "c": "Arte Johnson",
+    "d": "Dick Martin",
+    "answer": "b",
+    "id": "8uUOfgE2o8ctm693MDypGDAegyM"
+  },
+  {
+    "question": "Who played McMurphy in Broadway's \"One Flew Over the Cukoo's Nest\"?",
+    "a": "Jack Nicholson",
+    "b": "Dustin Hoffman",
+    "c": "Tim Curry",
+    "d": "Kirk Douglas",
+    "answer": "d",
+    "id": "gDNUpw7aQNxAga_S85k9FXJEwvY"
+  },
+  {
+    "question": "Who played Adam on Bonanza?",
+    "a": "Michael Landon",
+    "b": "Dan Blocker",
+    "c": "Pernell Roberts",
+    "d": "Lorne Green",
+    "answer": "c",
+    "id": "xTjjrLWgrkDIOugkM58z1MhKsw0"
+  },
+  {
+    "question": "What was Simon & Garfunkel's first major hit?",
+    "a": "Mrs. Robinson",
+    "b": "Scarborough Faire",
+    "c": "Sounds of Silence",
+    "d": "I am a Rock",
+    "answer": "c",
+    "id": "LTzsO6F_OVRqobcZhkwatXGiYNA"
+  },
+  {
+    "question": "Who did CBS go \"On the Road\" with?",
+    "a": "Charles Osgood",
+    "b": "Dan Rather",
+    "c": "Mike Wallace",
+    "d": "Charles Kuralt",
+    "answer": "d",
+    "id": "E4Uwk-alsP7W5TsmJeYhMhbmsB8"
+  },
+  {
+    "question": "What TV family lived at 607 South Maple Street, Springfield?",
+    "a": "The Cleavers",
+    "b": "The Reeds",
+    "c": "The Nelsons",
+    "d": "The Andersons",
+    "answer": "d",
+    "id": "FkMeRbA4Qs1pgbY2AdTu4pmqfq0"
+  },
+  {
+    "question": "Which cast member of The Godfather appeared in Broadway's \"Hair\"?",
+    "a": "Diane Keaton",
+    "b": "Al Pacino",
+    "c": "James Caan",
+    "d": "Robert Duvall",
+    "answer": "a",
+    "id": "jxu1_LeKkJI5-IrVntI2mK1S4m4"
+  },
+  {
+    "question": "Which rock group wrote and performed \"Sympathy for the Devil\"",
+    "a": "Black Sabbath",
+    "b": "The Rolling Stones",
+    "c": "The Beatles",
+    "d": "Judas Priest",
+    "answer": "b",
+    "id": "Ou5PfGsb4jEYN_YFuY_JRP0MMic"
+  },
+  {
+    "question": "What was the name of drive-in restaurant on \"Happy Days\"?",
+    "a": "Ruth's",
+    "b": "Arnold's",
+    "c": "Fonzie's",
+    "d": "Potsie's",
+    "answer": "b",
+    "id": "LKd5Js4iRxo2exZ9BGWvgYcAzls"
+  },
+  {
+    "question": "What group released the 1968 album \"Disraeli Gears\"?",
+    "a": "Jan and Dean",
+    "b": "The Bar Mitzvahs",
+    "c": "Cream",
+    "d": "Alice Cooper",
+    "answer": "c",
+    "id": "xywTUbvJDG-9JNo7na5nih0Cqn0"
+  },
+  {
+    "question": "Who had the female lead in \"Diary of a Mad Housewife\"?",
+    "a": "Carrie Fisher",
+    "b": "Carrie Snodgrass",
+    "c": "Diane Keaton",
+    "d": "Joan Rivers",
+    "answer": "b",
+    "id": "OPIdJN703O3PuE87L3OBhT_R9Ps"
+  },
+  {
+    "question": "Who wrote the John Lennon tribute, \"The late, great Johnny Ace\"?",
+    "a": "Elton John",
+    "b": "Paul McCartney",
+    "c": "Paul Simon",
+    "d": "George Harrison",
+    "answer": "c",
+    "id": "DLi1CxsRfOPWiWgtegMPxlY4eKo"
+  },
+  {
+    "question": "Which James Bond movie featured a tarantula named \"Rosie\"?",
+    "a": "Thunderball",
+    "b": "Dr. No",
+    "c": "Goldfinger",
+    "d": "Live and Let Die",
+    "answer": "b",
+    "id": "mxDk_FebR5RPTSYouKHKEQZAlZY"
+  },
+  {
+    "question": "Who was the first U.S. President to appear on national television?",
+    "a": "John Kennedy",
+    "b": "Harry Truman",
+    "c": "Dwight Eisenhower",
+    "d": "Franklin Roosevelt",
+    "answer": "c",
+    "id": "73NLrItKy7zypr7kBxg2pDnXlhI"
+  },
+  {
+    "question": "Who was Ricky Riccardo's lanlord?",
+    "a": "Judge Allen",
+    "b": "John Cabana",
+    "c": "Ethel Merman",
+    "d": "Fred Mertz",
+    "answer": "d",
+    "id": "Iw067GA6vUq9BFw0QPIlxhMSBL0"
+  },
+  {
+    "question": "Who wrote \"I'm a Believer\" for The Monkees?",
+    "a": "David Jones",
+    "b": "Michael Nesmith",
+    "c": "Paul Simon",
+    "d": "Neil Diamond",
+    "answer": "d",
+    "id": "iQNmf2-QpQIy5967oiLqznXyE10"
+  },
+  {
+    "question": "Who wrote \"Marakesh Express\", Crosby, Stills or Nash?",
+    "a": "Crosby",
+    "b": "Stills",
+    "c": "Nash",
+    "d": "None of the above",
+    "answer": "c",
+    "id": "QO9r3nxr-OZrry9CBhfHclojfcM"
+  },
+  {
+    "question": "The russian police officer in Gorkey Park was played by whom?",
+    "a": "Lee Marvin",
+    "b": "William Hurt",
+    "c": "Kevin Kline",
+    "d": "James Coburn",
+    "answer": "b",
+    "id": "iiesjItJIcamLN457vcDcQfbrJ0"
+  },
+  {
+    "question": "Who portrayed Mrs. Cleaver?",
+    "a": "Donna Reed",
+    "b": "Jane Wyman",
+    "c": "Barbara Billingsly",
+    "d": "Patty Duke",
+    "answer": "c",
+    "id": "eNvDkzgNz3936Ek9YsJsCOnMV1A"
+  },
+  {
+    "question": "Where did Puff the Magic Dragon live?",
+    "a": "Everywhere",
+    "b": "Atlantis",
+    "c": "Honalee",
+    "d": "Jackie's garage",
+    "answer": "c",
+    "id": "iIMXvRpIL__7vfD1QxoXjv76PWE"
+  },
+  {
+    "question": "What Broadway musical featured the song \"The Impossible Dream\"?",
+    "a": "Man of La Mancha",
+    "b": "Hair",
+    "c": "Camelot",
+    "d": "My Fair Lady",
+    "answer": "a",
+    "id": "BmqwDIecGCiVQ87gU-PUYfWmb4A"
+  },
+  {
+    "question": "What was Buddy's last name on the Dick Van Dyke Show?",
+    "a": "Marie",
+    "b": "Sorrell",
+    "c": "Lipton",
+    "d": "Brady",
+    "answer": "b",
+    "id": "D4sr4-vMpK5gZ_eNW69qHCpbpN8"
+  },
+  {
+    "question": "What did The Beachboys wear on stage that became their trademark?",
+    "a": "Hawaiian shirts",
+    "b": "Striped shirts",
+    "c": "Leis",
+    "d": "Short shorts",
+    "answer": "b",
+    "id": "2DojgEJrMGlVPxJm8lsb5b57nYw"
+  },
+  {
+    "question": "How did Richard Kimble get away on the first episode of The Fugitive?",
+    "a": "A car crash",
+    "b": "A train crash",
+    "c": "A plane crash",
+    "d": "A bus crash",
+    "answer": "b",
+    "id": "sfmFyjpgS1cGVos1DBh53Oj9OdQ"
+  },
+  {
+    "question": "Which boxer appeared on the cover of The Beatles' Sgt. Pepper album?",
+    "a": "Cassius Clay",
+    "b": "Sonny Liston",
+    "c": "Muhammad Ali",
+    "d": "Joe Louis",
+    "answer": "b",
+    "id": "Mni90iQdGvGPItfJCyIXDwnAKnc"
+  },
+  {
+    "question": "Where did Clark Kent usually change his clothes on TV's Superman show?",
+    "a": "A phone booth",
+    "b": "The store room",
+    "c": "The men's room",
+    "d": "The city room",
+    "answer": "b",
+    "id": "SR1fM3dzwa9W5Ysyis0xcjTZhS4"
+  },
+  {
+    "question": "Who portrayed Luke McCoy?",
+    "a": "Ron Howard",
+    "b": "Richard Crenna",
+    "c": "Buddy Ebsen",
+    "d": "Max Baer",
+    "answer": "b",
+    "id": "DMrv5QOg6FGDDtzGsbbemIqj61U"
+  },
+  {
+    "question": "What Broadway musical introduced the song \"Sunrise, Sunset\"?",
+    "a": "Oklahoma",
+    "b": "Hair",
+    "c": "Calcutta",
+    "d": "Fiddler on the Roof",
+    "answer": "d",
+    "id": "1gQOM4jP4UTAy8qzD9SnVLRbGFs"
+  },
+  {
+    "question": "In the 1975 film, \"Capone\", who portrayed the gangster Al Capone?",
+    "a": "John Cassavettes",
+    "b": "Ben Gazzara",
+    "c": "Peter Falk",
+    "d": "Peter Boyle",
+    "answer": "b",
+    "id": "gcLNcgkqq5l8sc9FJYbgL-PiL6c"
+  },
+  {
+    "question": "Who played James Mason's henchman in Hitchcock's North by Northwest?",
+    "a": "Martin Sheen",
+    "b": "Martin Balsam",
+    "c": "Cary Grant",
+    "d": "Martin Landau",
+    "answer": "d",
+    "id": "UraDKdCl4XSkPUopc-oGLHmjw4Q"
+  },
+  {
+    "question": "Who played Johnnie Smith in the film \"The Dead Zone\"?",
+    "a": "James Woods",
+    "b": "Christopher Walken",
+    "c": "Anthony Perkins",
+    "d": "Robert DeNiro",
+    "answer": "b",
+    "id": "ViIiC6P0yXJtf55ruKrP5A8ScY4"
+  },
+  {
+    "question": "On the Mary Tyler Moore show, what was the name of Phyllis's husband?",
+    "a": "Harry",
+    "b": "Larry",
+    "c": "Garth",
+    "d": "Lars",
+    "answer": "d",
+    "id": "zMOtaBx5dKKKY1lkhagsor06X6c"
+  },
+  {
+    "question": "What actress played opposite Paul Newman in Hitchcock's Torn Curtain",
+    "a": "Joanne Woodward",
+    "b": "Audrey Hepburn",
+    "c": "Natalie Wood",
+    "d": "Julie Andrews",
+    "answer": "d",
+    "id": "kCOw4d3CehP9bY2VSXy8oUdpt-g"
+  },
+  {
+    "question": "Who played Gilligan?",
+    "a": "Dobie Gillis",
+    "b": "Jim Backus",
+    "c": "John Denver",
+    "d": "Bob Denver",
+    "answer": "d",
+    "id": "u1SFTha-X-WLa3HMqTFoGaEuXv4"
+  },
+  {
+    "question": "Who played the original Mrs. Peel on The Avengers?",
+    "a": "Diane Keaton",
+    "b": "Tara King",
+    "c": "Elizabeth Ashley",
+    "d": "Diane Rigg",
+    "answer": "d",
+    "id": "iiL_7M1sJGCgkmMNPEw6oi7iirk"
+  },
+  {
+    "question": "What five-year old character did comedienne Lily Tomlin create?",
+    "a": "Edith-Ann",
+    "b": "Mary-Ann",
+    "c": "Priscilla",
+    "d": "Hortence",
+    "answer": "a",
+    "id": "AQ7LiX-cQSP5AwsRknamiYyHy3w"
+  },
+  {
+    "question": "What former bass player for The Beatles died of a brain hemorrhage",
+    "a": "Klaus Voorman",
+    "b": "Stu Sutcliffe",
+    "c": "Paul McCartney",
+    "d": "Pete Best",
+    "answer": "b",
+    "id": "rMrW4SCVFUtUsEEHTF0FdYGDrS0"
+  },
+  {
+    "question": "Where was the first International Pop Festival held in 1967?",
+    "a": "Newport",
+    "b": "San Francisco",
+    "c": "New York",
+    "d": "Monterey",
+    "answer": "d",
+    "id": "-zEXz1znX_mqw4-TWQzWNWp7yBk"
+  },
+  {
+    "question": "What was the name of Sherman's dog on the Rocky & Bullwinkle show?",
+    "a": "Aesop",
+    "b": "Frostbite",
+    "c": "Boris B. Batanoff",
+    "d": "Mr. Peabody",
+    "answer": "d",
+    "id": "b2r-g0sxC5TySkBb_9aEq0vLY8g"
+  },
+  {
+    "question": "What daytime television soap opera ran from Sep 1951 to Feb 1980?",
+    "a": "General Hospital",
+    "b": "Love of Life",
+    "c": "Ryan's Hope",
+    "d": "Edge of Night",
+    "answer": "b",
+    "id": "9_photLnx6P6xhrxFtwosArbDLM"
+  },
+  {
+    "question": "Who was the lead singer for the rock group, Blondie?",
+    "a": "Chrissie Hynde",
+    "b": "Pattie Smith",
+    "c": "Deborah Harry",
+    "d": "Pat Benatar",
+    "answer": "c",
+    "id": "jeb17k2NpX1w2CVrbkcXFWmaDHM"
+  },
+  {
+    "question": "Saturday Night Live's \"Coneheads\" always told people they were from:",
+    "a": "France",
+    "b": "Mars",
+    "c": "Ohio",
+    "d": "Burbank",
+    "answer": "a",
+    "id": "K7S4ptRCs3h26MR23pniPUGsiwg"
+  },
+  {
+    "question": "What color was Steve McQueen's car in \"Bullitt\"?",
+    "a": "White",
+    "b": "Black",
+    "c": "Green",
+    "d": "Red",
+    "answer": "c",
+    "id": "STETmdEbsw1uYExodAAzPD-4r0k"
+  },
+  {
+    "question": "What was the number of the Stalag which held Hogan's Heroes?",
+    "a": "19",
+    "b": "17",
+    "c": "13",
+    "d": "9",
+    "answer": "c",
+    "id": "We39m_LSFT9WcC-sg5NDK2oTApA"
+  },
+  {
+    "question": "What was the name of the Alka Seltzer boy?",
+    "a": "Relief",
+    "b": "Reddie",
+    "c": "Speedy",
+    "d": "Fizzy",
+    "answer": "c",
+    "id": "_xTslR_a9DMydXQTTvO-lJUoUD8"
+  },
+  {
+    "question": "In what year did the Muppets make their first television appearance?",
+    "a": "1954",
+    "b": "1964",
+    "c": "1974",
+    "d": "1962",
+    "answer": "a",
+    "id": "ZATHkqsDpSoWPQsuJ10ysXgq5xU"
+  },
+  {
+    "question": "On which television network was The Ed Sullivan Show?",
+    "a": "ABC",
+    "b": "CBS",
+    "c": "NBC",
+    "d": "MTV",
+    "answer": "b",
+    "id": "VrstnTTuqfKZVuF4mq_pvT4tWOI"
+  },
+  {
+    "question": "How many men went on the mission in The Dirty Dozen?",
+    "a": "11",
+    "b": "12",
+    "c": "13",
+    "d": "14",
+    "answer": "d",
+    "id": "54aR-x8vVNtObGxk_XrR6qqRGvA"
+  },
+  {
+    "question": "Who was the voice of Lambchop?",
+    "a": "Rocket J. Squirrel",
+    "b": "Bullwinkle",
+    "c": "Walter Winchell",
+    "d": "Shari Lewis",
+    "answer": "d",
+    "id": "g88TwRRsuDiGdNsu2dCGhb1ZNqA"
+  },
+  {
+    "question": "What singing group performed the song \"Where Did Our Love Go\"?",
+    "a": "The Shirrells",
+    "b": "The Supremes",
+    "c": "The Beatles",
+    "d": "The Rhondelles",
+    "answer": "b",
+    "id": "m9Gu_S_WRkfXtsyYlTo90cUU_Ms"
+  },
+  {
+    "question": "Which comic created the radio station parody, \"wonderful WINO\"?",
+    "a": "Richard Pryor",
+    "b": "George Carlin",
+    "c": "Steve Martin",
+    "d": "Robin Williams",
+    "answer": "b",
+    "id": "5Xy2TNH6DqqlwIyWYOLOUPs8nho"
+  },
+  {
+    "question": "How many Grammy awards did Elvis win for his Rock & Roll songs?",
+    "a": "None",
+    "b": "5",
+    "c": "15",
+    "d": "23",
+    "answer": "a",
+    "id": "5exYt1ksg5IcLfrW-eiPhy2C19E"
+  },
+  {
+    "question": "With what instrument did Sid Ceasar make his living prior to comedy?",
+    "a": "The saxophone",
+    "b": "The piano",
+    "c": "The clarinet",
+    "d": "The French Horn",
+    "answer": "a",
+    "id": "X2yN1KJcJ9Fx2MI_Xfcv3JOfoRQ"
+  },
+  {
+    "question": "What TV show did John Lennon and Yoko Ono co-host in 1972?",
+    "a": "Mike Douglas Show",
+    "b": "Dinah Shore Show",
+    "c": "Merv Griffin Show",
+    "d": "Let's Make a Deal",
+    "answer": "a",
+    "id": "eWQgXG1CqvmTHwpXBjnjMCxDYYA"
+  },
+  {
+    "question": "Pat Boone is related to which other famous person?",
+    "a": "Daniel Boone",
+    "b": "Stephen King",
+    "c": "Bob Guccione",
+    "d": "Hugh Hefner",
+    "answer": "a",
+    "id": "VHQ92KCJqZunPkaKEeA4X2IiIXw"
+  },
+  {
+    "question": "The name of Elvis Presley's backup singers was...",
+    "a": "The Preslettes",
+    "b": "The Jordanaires",
+    "c": "The Parkettes",
+    "d": "The Bluebelles",
+    "answer": "b",
+    "id": "HL38XRzDNwmZaBTkZKfd2A89ke8"
+  },
+  {
+    "question": "Gabe Kaplan's first name on the TV show \"Welcome Back, Kotter\" was...",
+    "a": "Gabe",
+    "b": "Richard",
+    "c": "Josh",
+    "d": "Isaac",
+    "answer": "a",
+    "id": "nMcqqz0-2LL1Vn46r5Lb-lldI6o"
+  },
+  {
+    "question": "What awards are given for \"off-broadway\" productions?",
+    "a": "The Cleo",
+    "b": "The Obie",
+    "c": "The Oscar",
+    "d": "The Tony",
+    "answer": "b",
+    "id": "b6cYnqNpLpQ3jJ1iUrIAnt5IMYs"
+  },
+  {
+    "question": "Basil Rathbone played Sherlock Holmes. Who played his Dr. Watson?",
+    "a": "Peter Cook",
+    "b": "Nigel Bruce",
+    "c": "James Mason",
+    "d": "Lawrence Olivier",
+    "answer": "b",
+    "id": "mgKBUZy85oIRAwr-WjjyumKgYEk"
+  },
+  {
+    "question": "Who teamed with Neil Diamond on the song \"You Don't Send Me Flowers\"?",
+    "a": "Shana Easton",
+    "b": "Diana Ross",
+    "c": "Barbra Streisand",
+    "d": "Olivia Newton John",
+    "answer": "c",
+    "id": "l1VHKprYD011wgkAK62gaJKGLok"
+  },
+  {
+    "question": "What state did McCloud leave to go to New York City?",
+    "a": "Arizona",
+    "b": "Texas",
+    "c": "Utah",
+    "d": "New Mexico",
+    "answer": "d",
+    "id": "2DkWUqFblNchwowdTaO1d673mRY"
+  },
+  {
+    "question": "What lodge did Ralph Kramden and Ed Norton belong to?",
+    "a": "The Elks",
+    "b": "The Moose",
+    "c": "The Raccoon",
+    "d": "The Buffalo",
+    "answer": "c",
+    "id": "-53yxdpqZmNCiCIUout1Bf-9U1c"
+  },
+  {
+    "question": "Bobby Hatfield and Bill Medley were also known as...",
+    "a": "The Righteous Bros.",
+    "b": "The Everly Bros.",
+    "c": "The Coasters",
+    "d": "The Ink Spots",
+    "answer": "a",
+    "id": "m1BdEoxItyg9pPQXSthte5fd1js"
+  },
+  {
+    "question": "What was on the flip side of The Beatles' record \"Hey Jude\"?",
+    "a": "Obla Di Obla Da",
+    "b": "Penney Lane",
+    "c": "You Know my Name",
+    "d": "Revolution",
+    "answer": "d",
+    "id": "xEVrcQa0WuPi29OnIpVPrmX79kw"
+  },
+  {
+    "question": "In \"To Kill a Mockingboard\", who played the character Boo Radley?",
+    "a": "Martin Sheen",
+    "b": "Robert Duvall",
+    "c": "Paul Newman",
+    "d": "Tony Curtis",
+    "answer": "b",
+    "id": "5vQJrBWWVDl5pOfklalwG05RZR8"
+  },
+  {
+    "question": "Which famous actress is the mother of Larry Hagman?",
+    "a": "Helen Hayes",
+    "b": "Bette Davis",
+    "c": "Judy Hagman",
+    "d": "Mary Martin",
+    "answer": "d",
+    "id": "SRwl8ktgQ6AGLc0WixXopEI4ZRM"
+  },
+  {
+    "question": "\"Great Caesar's Ghost!\" was the favorite expression of whom?",
+    "a": "Bill Murray",
+    "b": "Perry White",
+    "c": "Clark Kent",
+    "d": "Jimmy Olson",
+    "answer": "b",
+    "id": "55C3G9jpdM7FHKHByRLqktg8fGw"
+  },
+  {
+    "question": "What was the first film parodied in the movie \"Airplane\"?",
+    "a": "Saturday Nite Fever",
+    "b": "The Way We Were",
+    "c": "Here to Eternity",
+    "d": "Jaws",
+    "answer": "d",
+    "id": "ouCSVM4p6rfzp8UABFKgwNV2v6k"
+  },
+  {
+    "question": "Which famous director portrayed Mr. Freeze on TV's Batman show?",
+    "a": "Otto Premminger",
+    "b": "Cecil B. deMille",
+    "c": "George B. Romero",
+    "d": "John Huston",
+    "answer": "a",
+    "id": "Hk6TZ7Jf2UZbvHowrcN8VrEARtE"
+  },
+  {
+    "question": "What musical was the top-grossing film of the 1960's?",
+    "a": "My Fair Lady",
+    "b": "Hair",
+    "c": "Sound of Music",
+    "d": "Fiddler on the Roof",
+    "answer": "c",
+    "id": "T53lC_so508rJsAR_5hzO9utSTM"
+  },
+  {
+    "question": "By what name did Simon & Garfunkel originally perform?",
+    "a": "Paul & Art",
+    "b": "Art & Paul",
+    "c": "Fritz & Leopold",
+    "d": "Tom & Jerry",
+    "answer": "d",
+    "id": "gfGs4cPsagPC7644l9PMn_YJxaw"
+  },
+  {
+    "question": "Which album was the LAST released, featuring The Beatles?",
+    "a": "Abbey Road",
+    "b": "Let it Be",
+    "c": "Hey Jude",
+    "d": "Meet The Beatles",
+    "answer": "c",
+    "id": "0nWTAy_YvAnzeBDVb7dXaNLEQiM"
+  },
+  {
+    "question": "Who won Broadway's 1970 Tony Award for Best Actress for \"Applause\"?",
+    "a": "Lauren Bacall",
+    "b": "Angela Lansbury",
+    "c": "Barbra Streisand",
+    "d": "Carol Channing",
+    "answer": "a",
+    "id": "HMOBF1nzJ-WiqVKKBDi_Ct4nOpk"
+  },
+  {
+    "question": "Which of these songs WAS NOT played in the film \"Close Encounters...\"?",
+    "a": "More Than a Feeling",
+    "b": "Chances Are",
+    "c": "Wish Upon a Star",
+    "d": "Purple People Eater",
+    "answer": "d",
+    "id": "z81J_tW5_3W-Ke3goFdWzV2kGpA"
+  },
+  {
+    "question": "Who won an Oscar for his role in the film \"Cool Hand Luke\"?",
+    "a": "Paul Newman",
+    "b": "Steve McQueen",
+    "c": "George Kennedy",
+    "d": "Martin Sheen",
+    "answer": "c",
+    "id": "aiaMN67upFP5ID0CyTucuVw4_yA"
+  },
+  {
+    "question": "Who is the host of ABC's TV show, \"Good Morning, America\"?",
+    "a": "John Hartmann",
+    "b": "David Hartzheim",
+    "c": "Tom Brokaw",
+    "d": "David Hartman",
+    "answer": "d",
+    "id": "fThISq8hh_-Me5_1OYWDhDUdib8"
+  },
+  {
+    "question": "What group did Tommy James leave in 1970?",
+    "a": "The Supremes",
+    "b": "The Rhondelles",
+    "c": "The Shondelles",
+    "d": "The James Gang",
+    "answer": "c",
+    "id": "SRiYq1Yx6ugBIHL2jYDFcKCDqdQ"
+  },
+  {
+    "question": "Who starred as Owen Marshall?",
+    "a": "Raymond Burr",
+    "b": "Monte Markham",
+    "c": "Arthur Hill",
+    "d": "Owen played himself",
+    "answer": "c",
+    "id": "nJJGOLuqCAmlGW2kzhy1Ilm-5h4"
+  },
+  {
+    "question": "What was Mr. Bill's dog named?",
+    "a": "Fido",
+    "b": "Spot",
+    "c": "Rover",
+    "d": "Squish",
+    "answer": "b",
+    "id": "uIpLDYQ17Q8l-jE7ja_OShT2jx4"
+  },
+  {
+    "question": "Which of these WAS NOT one of the children on TV's \"Family Affair\"?",
+    "a": "Buffy",
+    "b": "Cissy",
+    "c": "Gertie",
+    "d": "Jody",
+    "answer": "c",
+    "id": "tgJAlqzmFI1A_DFpGDVb8i-gbW0"
+  },
+  {
+    "question": "Who played Dr. Alex Stone on TV's \"The Donna Reed Show\"?",
+    "a": "Hugh Beaumont",
+    "b": "Robert Young",
+    "c": "Fred McMurray",
+    "d": "Carl Betz",
+    "answer": "d",
+    "id": "lp8rf2ELwrdfTPCI5p7v5faCNcA"
+  },
+  {
+    "question": "\"Surrealistic Pillow\" was the name of a...",
+    "a": "Record album",
+    "b": "Andy Warhol movie",
+    "c": "Dali painting",
+    "d": "Television show",
+    "answer": "a",
+    "id": "SGrsGsZgdxjIs6e4kr8aka4eySM"
+  },
+  {
+    "question": "The album \"15 Big Ones\" marked the 15th year together of which group?",
+    "a": "The Rolling Stones",
+    "b": "The Beachboys",
+    "c": "The Beatles",
+    "d": "The Ink Spots",
+    "answer": "b",
+    "id": "3JLd5aXeENVkW2Cyn78UTjtMb9o"
+  },
+  {
+    "question": "Who played Danny Williams' daughter on TV's \"Make Room for Daddy\"?",
+    "a": "Rusty Springfield",
+    "b": "Shelly Fabraes",
+    "c": "Angela Cartwright",
+    "d": "Annette Funicello",
+    "answer": "c",
+    "id": "BvmdTGctax4v5MkjyvqIQcXWbIE"
+  },
+  {
+    "question": "What was the name of the ship that wrecked on Gilligan's Island?",
+    "a": "The Howell",
+    "b": "The Minerva",
+    "c": "The Minuette",
+    "d": "The Minnow",
+    "answer": "d",
+    "id": "UHZTaWOf6Gd5llEdaSuMzt7mro0"
+  },
+  {
+    "question": "What toothpaste used the slogan, \"Look Ma, no cavities!\"?",
+    "a": "Crest",
+    "b": "Colgate",
+    "c": "Ipana",
+    "d": "Aim",
+    "answer": "a",
+    "id": "YudLWMiPZsZa6XGLMyyoVDZjHD0"
+  },
+  {
+    "question": "Who played Nellie Forbush in the 1949 Broadway hit \"South Pacific\"?",
+    "a": "Mary Martin",
+    "b": "Judy Garland",
+    "c": "Shirley Jones",
+    "d": "Cyd Charisse",
+    "answer": "a",
+    "id": "1K2zFAS6ZKY1-AeWBHuwjQ6Dp6w"
+  },
+  {
+    "question": "Which musical group DID NOT feature a member of Crosby, Stills & Nash?",
+    "a": "The Byrds",
+    "b": "Buffalo Springfield",
+    "c": "The Hollies",
+    "d": "The Animals",
+    "answer": "d",
+    "id": "NiW-2o9-IFFAnAArmj_-XHgQ2QY"
+  },
+  {
+    "question": "What was the stage name of singer Annie May Bullock?",
+    "a": "Janis Joplin",
+    "b": "Deborah Harry",
+    "c": "Tina Turner",
+    "d": "Pat Benatar",
+    "answer": "c",
+    "id": "lHfIX5WDDpqeoOOjk6aPEIKwHuU"
+  },
+  {
+    "question": "What was the relationship between Karen and Richard Carpenter?",
+    "a": "Husband and Wife",
+    "b": "Father and Daughter",
+    "c": "Cousins",
+    "d": "Brother and Sister",
+    "answer": "d",
+    "id": "Z2-dCA7mnVaebz70ETrJFU3ihz8"
+  },
+  {
+    "question": "In what year did Disneyland open?",
+    "a": "1950",
+    "b": "1955",
+    "c": "1948",
+    "d": "1952",
+    "answer": "b",
+    "id": "0vIsPWyHMLQ8rSMakUZBSF7Nvyk"
+  },
+  {
+    "question": "Who portrayed Major Major in the film \"Catch-22\"?",
+    "a": "Richard Benjamin",
+    "b": "Alan Arkin",
+    "c": "Art Garfunkel",
+    "d": "Bob Newhart",
+    "answer": "d",
+    "id": "V38jj3ic1wDoIcJzKcgy9BrD7ZY"
+  },
+  {
+    "question": "Who said \"ting tang, walla walla bing bang\"?",
+    "a": "Purple People Eater",
+    "b": "Sam the Sham",
+    "c": "The Witchdoctor",
+    "d": "Chipmonks",
+    "answer": "c",
+    "id": "BcKmqJiA6C-GinCZOlVPNKMjZOs"
+  },
+  {
+    "question": "What was Jane Jetson's husbands name?",
+    "a": "Jerry",
+    "b": "Jimmy",
+    "c": "Geoffrey",
+    "d": "George",
+    "answer": "d",
+    "id": "F8JvzNwkzm3Ma_eBLLT6BW7WFwk"
+  },
+  {
+    "question": "Which comedienne is associated with the expression \"Can we talk?\"?",
+    "a": "Lilly Tomlin",
+    "b": "Jane Curtin",
+    "c": "Joan Rivers",
+    "d": "Carol Burnett",
+    "answer": "c",
+    "id": "Iw-z2VwXq88OdTLGELkr9Fv9N-k"
+  },
+  {
+    "question": "What's Porky Pig's girlfriend's name?",
+    "a": "Miss Piggy",
+    "b": "Priscilla Pig",
+    "c": "Patty Pig",
+    "d": "Petunia Pig",
+    "answer": "d",
+    "id": "vEOgmfl5FeYe7hbGXQA3jZg6t74"
+  },
+  {
+    "question": "Who was Luke Skywalker's father?",
+    "a": "Darth Vader",
+    "b": "Ben Kenobe",
+    "c": "Han Skywalker",
+    "d": "Yoda",
+    "answer": "a",
+    "id": "7s8SY7lKS4pxdRYYy06HAI3nO74"
+  },
+  {
+    "question": "What film featured both Humphrey Bogart and Kathryn Hepburn?",
+    "a": "Key Largo",
+    "b": "The African Queen",
+    "c": "Philadelphia Story",
+    "d": "Ten Dead Men",
+    "answer": "b",
+    "id": "zHvqFFPRZ8w7XonaPSDS-QMOV0A"
+  },
+  {
+    "question": "What was the only film starring Mae West and W.C. Fields?",
+    "a": "The Little Soldier",
+    "b": "My Little Chickadee",
+    "c": "Bad Girls",
+    "d": "Philadelphia",
+    "answer": "b",
+    "id": "LQVC67etpMzhWdUr8yRnpIzfoL0"
+  },
+  {
+    "question": "Who played the title role in \"I Was a Teenage Werewolf\"?",
+    "a": "Bobby Rydell",
+    "b": "Steve McQueen",
+    "c": "Bobby Darin",
+    "d": "Michael Landon",
+    "answer": "d",
+    "id": "jIUC_7TyqHGXAI1ig18CWRxZtGM"
+  },
+  {
+    "question": "What word was in the title of every book that Alvy gave to Annie Hall?",
+    "a": "Sex",
+    "b": "Love",
+    "c": "Death",
+    "d": "Fear",
+    "answer": "c",
+    "id": "2YfGWVMJDBA_epRi-TC3CQDALkQ"
+  },
+  {
+    "question": "What drug did Grace Slick fight a seven year battle with?",
+    "a": "LSD",
+    "b": "Cocaine",
+    "c": "Heroin",
+    "d": "Alcohol",
+    "answer": "d",
+    "id": "qqrKTe_FgEPxQl7SXfFixJgDtuk"
+  },
+  {
+    "question": "Who played Sportin' Life in the film \"Porgy and Bess\"?",
+    "a": "Sidney Poitier",
+    "b": "James Earl Jones",
+    "c": "Sammy Davis Jr.",
+    "d": "Harry Belafonte",
+    "answer": "c",
+    "id": "NbXOxaPlwnZ2g2-nnSvztMF_mRg"
+  },
+  {
+    "question": "What kind of animals were Hazel, General Woundwart, and Fiver?",
+    "a": "Rabbits",
+    "b": "Bears",
+    "c": "Dogs",
+    "d": "Cats",
+    "answer": "a",
+    "id": "hgk0TxB6HLZ9khhlzlT3kb7yZZs"
+  },
+  {
+    "question": "Who did Lurch work for?",
+    "a": "Munsters",
+    "b": "Adams Family",
+    "c": "Jack Benny",
+    "d": "Mary Tyler Moore",
+    "answer": "b",
+    "id": "DHo1O65txnIeAlSJg-AP696akpE"
+  },
+  {
+    "question": "What part did Tina Louise play on Gilligan's Island?",
+    "a": "Mrs. Howell",
+    "b": "Marianne",
+    "c": "Ginger Grant",
+    "d": "The Professor",
+    "answer": "c",
+    "id": "aujC8l6qfzlCqjhk08s4GSVad1s"
+  },
+  {
+    "question": "What was Ed Sullivan's wife's name?",
+    "a": "Ethyl",
+    "b": "Dorothy",
+    "c": "Marian",
+    "d": "Sylvia",
+    "answer": "d",
+    "id": "NGEQsK5sO1MMiw3sdSadokVnoPI"
+  },
+  {
+    "question": "In the film \"Staircase\", Richard Burton and Rex Harrison played...",
+    "a": "Army Generals",
+    "b": "Half-brothers",
+    "c": "Women",
+    "d": "Homosexual lovers",
+    "answer": "d",
+    "id": "OuF0TUeFgkoLHco5B6NaFuD9cjE"
+  },
+  {
+    "question": "Who portrayed Felix Unger in the film \"The Odd Couple\"?",
+    "a": "Jack Klugman",
+    "b": "Tony Randall",
+    "c": "Walter Matthau",
+    "d": "Jack Lemmon",
+    "answer": "d",
+    "id": "VGr0U48I3N7_obBVeefcXo3EGrw"
+  },
+  {
+    "question": "Who portrayed the title role in \"The Pawnbroker\"?",
+    "a": "George C. Scott",
+    "b": "Gregory Peck",
+    "c": "James Caan",
+    "d": "Rod Steiger",
+    "answer": "d",
+    "id": "k6suTfG_uuie1LVP2JNq9bZkQ5I"
+  },
+  {
+    "question": "Who created the cartoon character, Woody Woodpecker?",
+    "a": "Charles Schulz",
+    "b": "Walt Disney",
+    "c": "Walter Lantz",
+    "d": "Mel Blanc",
+    "answer": "c",
+    "id": "gSYKuerJcSPJNVcY5SfQYYOf4Oo"
+  },
+  {
+    "question": "Who directed \"Cabaret\" and \"All That Jazz\"?",
+    "a": "Vincent Minelli",
+    "b": "Bob Fosse",
+    "c": "Martin Scorcese",
+    "d": "Robert Evans",
+    "answer": "b",
+    "id": "sYObg-W1XzDSTEAGua-f744erkM"
+  },
+  {
+    "question": "What role did Billie Burke play in \"The Wizard of Oz\"?",
+    "a": "The Wizard of Oz",
+    "b": "The Tin Man",
+    "c": "The Lion",
+    "d": "Witch of the North",
+    "answer": "d",
+    "id": "UsYBcbGJrtCfkMpRtLubasoK52k"
+  },
+  {
+    "question": "Who was the first host of the original \"Tonight Show\"?",
+    "a": "Johnny Carson",
+    "b": "Jack Paar",
+    "c": "Steve Allen",
+    "d": "Joey Bishop",
+    "answer": "c",
+    "id": "ry6XlH7SsvjwkAPP79Ft58_Tu6Y"
+  },
+  {
+    "question": "\"Chastity\" was the name of the first-born of whom?",
+    "a": "Barbara Hershey",
+    "b": "Grace Slick",
+    "c": "Cher Bono",
+    "d": "Shari Lewis",
+    "answer": "c",
+    "id": "9Fbl-SDkV-U82XfqS45bvvRSJh8"
+  },
+  {
+    "question": "Who did actress Carrie Fisher marry on August 16, 1983?",
+    "a": "Mark Hamill",
+    "b": "Dan Akroyd",
+    "c": "Ringo Starr",
+    "d": "Paul Simon",
+    "answer": "d",
+    "id": "bTQhEtwFFNLC0kkB_VKOrWMWLnM"
+  },
+  {
+    "question": "What city was the setting for the TV series \"Gunsmoke\"?",
+    "a": "Reno, Nevada",
+    "b": "Dodge City, Kansas",
+    "c": "Cheyenne, Wyoming",
+    "d": "Kittyhawk, N.C.",
+    "answer": "b",
+    "id": "8L3KtwbHl55jeBtGELx0BR7CeP4"
+  },
+  {
+    "question": "What actor was married to Carole Lombard between 1939 to 1942?",
+    "a": "Cary Grant",
+    "b": "Clark Gable",
+    "c": "Gregory Peck",
+    "d": "Humphrey Bogart",
+    "answer": "b",
+    "id": "Q78gJxTTPgtR6OaPQW-r0-VYYYA"
+  },
+  {
+    "question": "What kind of apple is on the label of The Beatles' Apple Records?",
+    "a": "A Golden Delicious",
+    "b": "A Goldstein",
+    "c": "A Granny Smith",
+    "d": "A Pippin",
+    "answer": "c",
+    "id": "ax2ShJe_KFhm3R3pgkbU7RnyZd4"
+  },
+  {
+    "question": "Who played \"Hot Lips Houlihan\" in the movie \"M*A*S*H\"?",
+    "a": "Karen Black",
+    "b": "Loretta Switt",
+    "c": "Louise Fletcher",
+    "d": "Sally Kellerman",
+    "answer": "d",
+    "id": "eQjgk2hv3-k1vODaiDyDYVSKu5U"
+  },
+  {
+    "question": "How much was the \"secret word\" worth on \"You Bet Your Life\"?",
+    "a": "25 dollars",
+    "b": "50 dollars",
+    "c": "100 dollars",
+    "d": "150 dollars",
+    "answer": "c",
+    "id": "qoetuy463YtCrM2Wp_i0s5wsUwg"
+  },
+  {
+    "question": "What actress debuted in the 1938 film \"Intermezzo\"?",
+    "a": "Ingrid Bergman",
+    "b": "Katherine Hepburn",
+    "c": "Greta Garbo",
+    "d": "Carole Lombard",
+    "answer": "a",
+    "id": "t82gLAKBDLL_2duQCy4hNL1c3Bw"
+  },
+  {
+    "question": "In what year did NBC's \"Saturday Night Live\" debut?",
+    "a": "1974",
+    "b": "1975",
+    "c": "1976",
+    "d": "1977",
+    "answer": "b",
+    "id": "KzDDedg6pY68_ZJP0QFf2E8xYTo"
+  },
+  {
+    "question": "What was the first X-rated film to win the Oscar for Best Picture?",
+    "a": "Midnight Cowboy",
+    "b": "The Godfather",
+    "c": "Godfather II",
+    "d": "Clockwork Orange",
+    "answer": "a",
+    "id": "F2GRLPMQo0D1b5PQ4i1GvjHqPic"
+  },
+  {
+    "question": "What orchestra leader did Doc Severinson replace?",
+    "a": "Tommy Newsome",
+    "b": "Skitch Henderson",
+    "c": "Tommy Dorsey",
+    "d": "Leonard Bernstein",
+    "answer": "b",
+    "id": "lrOMoBpgZ1kLke2ddWdbigb1AXM"
+  },
+  {
+    "question": "What's tattooed on Popeye's arm?",
+    "a": "\"Mom\"",
+    "b": "\"Olive-Oyl\"",
+    "c": "A lady",
+    "d": "An anchor",
+    "answer": "d",
+    "id": "1ApJLD9KVzjuUq6VvPma6fJOhM0"
+  },
+  {
+    "question": "How many times did Judy Garland sing \"Over the Rainbow\"?",
+    "a": "376 times",
+    "b": "6,742 times",
+    "c": "8,663 times",
+    "d": "12,551 times",
+    "answer": "d",
+    "id": "zC8M4hTgf-ePKM56GF1lUiMH8Dc"
+  },
+  {
+    "question": "Who played Helen Keller in the 1962 film \"The Miracle Worker\"?",
+    "a": "Katherine Ross",
+    "b": "Shirley MacLaine",
+    "c": "Patty Duke",
+    "d": "Sally Fields",
+    "answer": "c",
+    "id": "YEVA2go5DO3tSArBG09uCXlxBlQ"
+  },
+  {
+    "question": "Who played the Owl in the film \"The Owl and the Pussycat\"?",
+    "a": "Ryan O'Neal",
+    "b": "George Burns",
+    "c": "Elliot Gould",
+    "d": "George Segal",
+    "answer": "d",
+    "id": "Vj8HHgPHgqInA5ShOudu8wTLgQY"
+  },
+  {
+    "question": "What year was the setting for the film \"American Grafitti\"?",
+    "a": "1956",
+    "b": "1962",
+    "c": "1959",
+    "d": "1964",
+    "answer": "b",
+    "id": "Yzkuf439TUGvGln78iU5LaddPkc"
+  },
+  {
+    "question": "Which was The Beatles' biggest selling single ever?",
+    "a": "She Loves You",
+    "b": "Yesterday",
+    "c": "I am the Walrus",
+    "d": "Hey Jude",
+    "answer": "d",
+    "id": "Qpt5MTAJuFuZUPXBnXz1gyDCvEE"
+  },
+  {
+    "question": "\"New York Mining Disaster-1941\" was the first hit record for...",
+    "a": "The Beatles",
+    "b": "The Bee Gees",
+    "c": "Michael Jackson",
+    "d": "The Rolling Stones",
+    "answer": "b",
+    "id": "nSh1wiQzlrpcfJ0ZgSDCpkQKBRA"
+  },
+  {
+    "question": "Who portrayed Sherlock Holmes in 14 films between 1939 and 1946?",
+    "a": "Nigel Bruce",
+    "b": "Peter Cooke",
+    "c": "Basil Rathbone",
+    "d": "John Houseman",
+    "answer": "c",
+    "id": "1LDjyYFehEjj73fsS1UEwYwD_6Y"
+  },
+  {
+    "question": "What was the name of Tonto's horse?",
+    "a": "Silver",
+    "b": "Scout",
+    "c": "Keemosabe",
+    "d": "Broken Arrow",
+    "answer": "b",
+    "id": "3Z4nVBAH4z8OSDYddd0Axys40Ec"
+  },
+  {
+    "question": "In which country was Woody Allen's \"Love and Death\" situated?",
+    "a": "The United States",
+    "b": "Japan",
+    "c": "Russia",
+    "d": "England",
+    "answer": "c",
+    "id": "ymRN2cmA--csu9JItX_lrxGWP90"
+  },
+  {
+    "question": "Who played Chester on \"Gunsmoke\"?",
+    "a": "James Arness",
+    "b": "Daniel Arness",
+    "c": "Dennis Weaver",
+    "d": "Johnny Crawford",
+    "answer": "c",
+    "id": "CMvXHAqfCp8wVqEGdY7Kk8HvFaU"
+  },
+  {
+    "question": "Who played Bret Maverick?",
+    "a": "James Garner",
+    "b": "Roger Moore",
+    "c": "James Arness",
+    "d": "Dennis Weaver",
+    "answer": "a",
+    "id": "Efdj9FhiKOOWv0IZjq_jQRpJEIE"
+  },
+  {
+    "question": "How many children is Elvis Presley known to have fathered?",
+    "a": "None",
+    "b": "1",
+    "c": "2",
+    "d": "6",
+    "answer": "b",
+    "id": "B-wfclj5hd1NpEZ4OYW-iDPqCL4"
+  },
+  {
+    "question": "Who's the host of the TV game show \"Family Feud\"?",
+    "a": "Bill Cullen",
+    "b": "Bob Eubanks",
+    "c": "Charles Allen",
+    "d": "Richard Dawson",
+    "answer": "d",
+    "id": "zfYnIak5OFWxmqhELHudRudM3Hg"
+  },
+  {
+    "question": "Who sang the song \"Dr. Kildaire's Theme\"?",
+    "a": "Richard Chamberlain",
+    "b": "Bobby Darin",
+    "c": "Frank Sinatra",
+    "d": "Sammy Davis, Jr.",
+    "answer": "a",
+    "id": "2v77JuM_zVRxdaTQMYB29f50M-g"
+  },
+  {
+    "question": "What singing group felt \"Glad All Over\"?",
+    "a": "The Beatles",
+    "b": "The Animals",
+    "c": "Herman's Hermits",
+    "d": "The Dave Clark Five",
+    "answer": "d",
+    "id": "yjgxfm-cA75yOzBcTuZ4AyiY6Pc"
+  },
+  {
+    "question": "A Time magazine cover, labelled \"The Day the Music Died\" pictured:",
+    "a": "Buddy Holly",
+    "b": "John Lennon",
+    "c": "Janis Joplin",
+    "d": "Jim Morrison",
+    "answer": "b",
+    "id": "J_BKyhhxXe3T9X_Xti7kObF_ZQg"
+  },
+  {
+    "question": "Who played the sheriff of Amity Island in \"Jaws\"?",
+    "a": "Roy Scheider",
+    "b": "Hal Holbrook",
+    "c": "Richard Dreyfuss",
+    "d": "Robert Shaw",
+    "answer": "a",
+    "id": "u9jjf06VlRMjhgmhxas1VH5VUi0"
+  },
+  {
+    "question": "Who played Eliza Doolittle in the Broadway version of \"My Fair Lady\"",
+    "a": "Julie Andrews",
+    "b": "Audrey Hepburn",
+    "c": "Natalie Wood",
+    "d": "Carol Channing",
+    "answer": "a",
+    "id": "SaFIStqvkVlgwY2j-9flOQouHJ4"
+  },
+  {
+    "question": "What was Birdie's first name in \"Bye, Bye, Birdie\"?",
+    "a": "Billy",
+    "b": "Conway",
+    "c": "Comrade",
+    "d": "Conrad",
+    "answer": "d",
+    "id": "lz-0duU4HNnGndC4RrstgyNBdPY"
+  },
+  {
+    "question": "Who did Bernie Taupin write song lyrics for?",
+    "a": "Carole King",
+    "b": "Neil Diamond",
+    "c": "Elton John",
+    "d": "Wayne Newton",
+    "answer": "c",
+    "id": "7M5ch0YbBwxdKlf_kZAHXN1Yv-o"
+  },
+  {
+    "question": "Who hosted the TV show \"Earn Your Vacation\"?",
+    "a": "Johnny Carson",
+    "b": "Bill Cullen",
+    "c": "Bob Eubanks",
+    "d": "Allen Ludden",
+    "answer": "a",
+    "id": "guLo4V2K0lrrNclXGCw-Qy1jbu4"
+  },
+  {
+    "question": "What was Elvis Presley's middle name?",
+    "a": "Parker",
+    "b": "Thomas",
+    "c": "Arnold",
+    "d": "Aaron",
+    "answer": "d",
+    "id": "wGzKL81ev0zCGmZi93-JOnyrwBo"
+  },
+  {
+    "question": "The Beatles' \"Hard Day's Night\" earned how many oscars?",
+    "a": "None",
+    "b": "1",
+    "c": "2",
+    "d": "4",
+    "answer": "c",
+    "id": "gc3h67_ZiiYa5Mx-da9i9mMNJhw"
+  },
+  {
+    "question": "What was John Wayne's last movie?",
+    "a": "True Grit",
+    "b": "The Shootist",
+    "c": "Brewster Cogburn",
+    "d": "The Green Berets",
+    "answer": "b",
+    "id": "YwWQVVVvpHSUQh8IS0ghRaVW7kY"
+  },
+  {
+    "question": "Who hosted \"60 Minutes\" along with Mike Wallace in its first season?",
+    "a": "Morley Safer",
+    "b": "Dan Rather",
+    "c": "Harry Reasoner",
+    "d": "Ed Bradley",
+    "answer": "c",
+    "id": "ExHdqGUqJUgGFqaJNuqeK5HpXTg"
+  },
+  {
+    "question": "The lead singer for The Who is...",
+    "a": "John Entwhistle",
+    "b": "Peter Townshend",
+    "c": "Keith Moon",
+    "d": "Roger Daltry",
+    "answer": "d",
+    "id": "YIaxRjA1PJ0lncvE6_MCvVjC7mQ"
+  },
+  {
+    "question": "What is Princess Aurora's better known name?",
+    "a": "Sleeping Beauty",
+    "b": "Snow White",
+    "c": "Cinderella",
+    "d": "Shirley Temple",
+    "answer": "a",
+    "id": "gIXyVIOILiqKkH693CTil-J0o74"
+  },
+  {
+    "question": "How old was Lolita?",
+    "a": "12",
+    "b": "14",
+    "c": "16",
+    "d": "18",
+    "answer": "a",
+    "id": "tZq2Zzc334SJl3_y9aUT221ksvc"
+  },
+  {
+    "question": "What government department did The Untouchables work for?",
+    "a": "The FBI",
+    "b": "The G-Men",
+    "c": "The Treasury",
+    "d": "Military Police",
+    "answer": "c",
+    "id": "Z2HCSSjlanbZjx91KIRgKzqsPbQ"
+  },
+  {
+    "question": "Who played the President in the film \"Fail Safe\"?",
+    "a": "Henry Fonda",
+    "b": "E.G. Marshall",
+    "c": "Arthur Hill",
+    "d": "Martin Sheen",
+    "answer": "a",
+    "id": "vaXh5YEyO6mnFQLGsuf3WsDnhLs"
+  },
+  {
+    "question": "What film's soundtrack featured the song \"Dueling Banjos\"?",
+    "a": "Bonnie & Clyde",
+    "b": "Kentucky Derby",
+    "c": "Deliverance",
+    "d": "A Day at The Races",
+    "answer": "c",
+    "id": "c8whqf_6CE2TL487whXCsB6PPDQ"
+  },
+  {
+    "question": "What product featured the slogan, \"Try it, you'll like it.\"?",
+    "a": "Dr. Pepper",
+    "b": "Rolaids",
+    "c": "Alka-Seltzer",
+    "d": "Pizza Hut",
+    "answer": "c",
+    "id": "ZCia46WpH9pemj9zAbsgVQtNc8o"
+  },
+  {
+    "question": "Who composed \"Twinkle, Twinkle, Little Star\"?",
+    "a": "Walt Disney",
+    "b": "Ludwig Beethoven",
+    "c": "Mozart",
+    "d": "Sibelius",
+    "answer": "c",
+    "id": "4ejwnWqBqj6HP9LUD_pWcmDOp2g"
+  },
+  {
+    "question": "Who chased Dr. Richard Kimble for 4 years?",
+    "a": "Sgt. Friday",
+    "b": "Lt. Gerard",
+    "c": "Captain Kimberley",
+    "d": "Lt. Calley",
+    "answer": "b",
+    "id": "u9PpWjM2NxBCHMXZMca5gR-InRk"
+  },
+  {
+    "question": "In which city did Dick Clark's American Bandstand originate?",
+    "a": "New York City",
+    "b": "Hollywood",
+    "c": "Philadelphia",
+    "d": "Detroit",
+    "answer": "c",
+    "id": "k17A9tAcEg0iLhJ4pROshmWCbeY"
+  },
+  {
+    "question": "Who shot J.R.?",
+    "a": "Bobby Ewing",
+    "b": "Sue Ellen",
+    "c": "Kristin Shephard",
+    "d": "Sammy Joe",
+    "answer": "c",
+    "id": "94bDlQnpuzPi7h2hkEMG4k20hrI"
+  },
+  {
+    "question": "Who stole the blueprints for the Death Star?",
+    "a": "R2-D2",
+    "b": "C-3P0",
+    "c": "Princess Leia",
+    "d": "Luke Skywalker",
+    "answer": "c",
+    "id": "CN03AnF2cOwgovcSTc1jBWenMgI"
+  },
+  {
+    "question": "What was the name of Lawrence Welk`s autobiography?",
+    "a": "No More Champaigne",
+    "b": "Mr. Bubbles",
+    "c": "Wunnerful Wunnerful",
+    "d": "Music for America",
+    "answer": "c",
+    "id": "NTiSlrLZgJfawXgmQ2sMtVJ7Dj8"
+  },
+  {
+    "question": "Who was Carol Burnett's guest-host on each season opener?",
+    "a": "Vicky Lawrence",
+    "b": "Jim Nabors",
+    "c": "Bob Newhart",
+    "d": "Sandra Chase",
+    "answer": "b",
+    "id": "g8y9Mrdy5XgOm1vJhMcX5bCUNjY"
+  },
+  {
+    "question": "Who was Beaver Cleaver's school- teacher?",
+    "a": "Miss Langley",
+    "b": "Miss Meyers",
+    "c": "Miss Standish",
+    "d": "Miss Landers",
+    "answer": "d",
+    "id": "KDyQp8IJB-0y60GcWZsozEV9nbc"
+  },
+  {
+    "question": "Who sang the theme to the TV series \"Rawhide\"?",
+    "a": "Frankie Valley",
+    "b": "Clint Eastwood",
+    "c": "Marlin Perkins",
+    "d": "Frankie Laine",
+    "answer": "d",
+    "id": "1uKGHVsotdkRZudGQHfTbpWIH8M"
+  },
+  {
+    "question": "What 1935 film propelled Errol Flynn to fame?",
+    "a": "Varvados Bound",
+    "b": "Captain Blood",
+    "c": "Pirates Escape",
+    "d": "The Oscar",
+    "answer": "b",
+    "id": "y0v9zcUr2QI3BZaiqUk6fov2PyE"
+  },
+  {
+    "question": "In 1961, who won the best actor Oscar for \"Judgment at Nuremberg\"?",
+    "a": "James Mason",
+    "b": "Ben Gazarra",
+    "c": "Maximiliam Schell",
+    "d": "Albert Finney",
+    "answer": "c",
+    "id": "Ln7B3T6v3xPXPHiwI6x118Q4cSU"
+  },
+  {
+    "question": "What was the last Rogers and Hammerstein musical?",
+    "a": "The Sound of Music",
+    "b": "Carousel",
+    "c": "Kismet",
+    "d": "South Pacific",
+    "answer": "a",
+    "id": "KNmiagStNjqVRn2tXhQHDa8Mh1s"
+  },
+  {
+    "question": "Who recorded the 1957 hit \"Tammy\"?",
+    "a": "Michele Lee",
+    "b": "Sandra Dee",
+    "c": "Connie Stevens",
+    "d": "Debbie Reynolds",
+    "answer": "d",
+    "id": "tyyth9kMgOPKOvdrFW_w3rtLoNc"
+  },
+  {
+    "question": "What actress was the top box-office draw during World War II?",
+    "a": "Marilyn Monroe",
+    "b": "Betty Grable",
+    "c": "Rosiland Russell",
+    "d": "Greta Garbo",
+    "answer": "b",
+    "id": "vIsHZWLFAWoq3AS3F2WtNBq0MdQ"
+  },
+  {
+    "question": "Who created Weird Harold and Fat Albert?",
+    "a": "Jim Hensen",
+    "b": "Walt Disney",
+    "c": "Bill Cosby",
+    "d": "Charlie Bergman",
+    "answer": "c",
+    "id": "Q-f7yDI1l-NqNwI6d-3lcdXPQQA"
+  },
+  {
+    "question": "Who was the movies biggest male Box Office attraction in 1980?",
+    "a": "Robert Redford",
+    "b": "Paul Newman",
+    "c": "Darth Vader",
+    "d": "Burt Reynolds",
+    "answer": "d",
+    "id": "QFMwqMoU8uV9r8RfF7eOyiZCW_Y"
+  },
+  {
+    "question": "\"Death Valley Days\" was NOT hosted by which of the following?",
+    "a": "Ronald Reagan",
+    "b": "Robert Young",
+    "c": "Robert Taylor",
+    "d": "Dale Robertson",
+    "answer": "b",
+    "id": "6VsieZla7uz2mMJt_3QPPw-wpsw"
+  },
+  {
+    "question": "Which Beatles' film presented the song \"The Night Before\"?",
+    "a": "A Hard Day's Night",
+    "b": "Help!",
+    "c": "Yellow Submarine",
+    "d": "Let it Be",
+    "answer": "b",
+    "id": "DBrTkh-TrsJR9McHOsuYs4iv--k"
+  },
+  {
+    "question": "Who portrayed Caspar Gutman in the 1941 film, \"The Maltese Falcon\"?",
+    "a": "Humphrey Bogart",
+    "b": "Claude Rains",
+    "c": "Sydney Greenstreet",
+    "d": "Peter Lorre",
+    "answer": "c",
+    "id": "VgGuI0Uv9-K3vS_uzpC7-x0BC_o"
+  },
+  {
+    "question": "What popular variety show began as \"The Toast of the Town\"?",
+    "a": "The Tonight Show",
+    "b": "The Jack Paar Show",
+    "c": "Ed Sullivan Show",
+    "d": "Dinah Shore Show",
+    "answer": "c",
+    "id": "0VbX0SjDy0Rq33MmV2x-Qs0mIOw"
+  },
+  {
+    "question": "How old was Paul Anka when he had his hit song, \"Diana\"?",
+    "a": "15",
+    "b": "17",
+    "c": "18",
+    "d": "20",
+    "answer": "a",
+    "id": "PCr2JK8Z25RoFAWujNjhqhrJhK4"
+  },
+  {
+    "question": "Who hosted The Newlywed Game?",
+    "a": "Gene Rayburn",
+    "b": "Dick Clark",
+    "c": "Bob Eubanks",
+    "d": "Chuck Farris",
+    "answer": "c",
+    "id": "nUKPvyIZLYrpZTRktYrZeFp04L4"
+  },
+  {
+    "question": "What's Tony Curtis' real name?",
+    "a": "Marion Olson",
+    "b": "Bernard Schwartz",
+    "c": "Antonio Cursilia",
+    "d": "Anthony Kurtzwield",
+    "answer": "b",
+    "id": "HKlwaAXebKmZKY-DSp6xVbuBW8Y"
+  },
+  {
+    "question": "What's John Wayne's real name?",
+    "a": "Antonio Cursilia",
+    "b": "Marion Morrison",
+    "c": "Reginald Petersmith",
+    "d": "Dwight Hicks",
+    "answer": "b",
+    "id": "tPJoH1VKqGMRL0PobaWOLUHTB3A"
+  },
+  {
+    "question": "What's Elton John's real name?",
+    "a": "John Tennyson",
+    "b": "Elementon Jochsbrow",
+    "c": "Reginald Dwight",
+    "d": "Elenor Johnston",
+    "answer": "c",
+    "id": "sCy5pwDcdccqBWmiY66VcCuHfeU"
+  },
+  {
+    "question": "Who was the banker in \"The Beverly Hillbillies\"?",
+    "a": "Mr. Hathaway",
+    "b": "Mr. Shumway",
+    "c": "Mr. Drysdale",
+    "d": "Mr. Hackett",
+    "answer": "c",
+    "id": "Vwm7SIQy5o5xuEbpMlSBYwafquQ"
+  },
+  {
+    "question": "Who played astronaut Tony Nelson on TV's \"I Dream of Jeannie\"?",
+    "a": "Darren McGavin",
+    "b": "Bud York",
+    "c": "Dick York",
+    "d": "Larry Hagman",
+    "answer": "d",
+    "id": "gffAmIirBS0xC0lOf2vSFQaYJxQ"
+  },
+  {
+    "question": "Mel Brooks is married to what other personality?",
+    "a": "Madeleine Kahn",
+    "b": "Cloris Leachman",
+    "c": "Terri Garr",
+    "d": "Anne Bancroft",
+    "answer": "d",
+    "id": "Cyn5BtOIzCFA8MZUJQlq5mRgyIk"
+  },
+  {
+    "question": "Hattie McDaniel, the first black to win an Oscar, was in what film?",
+    "a": "Gone With the Wind",
+    "b": "Song of the South",
+    "c": "The Al Jolson Story",
+    "d": "My Little Chickadee",
+    "answer": "a",
+    "id": "e1VCAQwQfffturt-H6Lu2rXG-ZQ"
+  },
+  {
+    "question": "In what 1959 film did Tony Curtis & Jack Lemmon appear in drag?",
+    "a": "The Odd Couple",
+    "b": "Fortune Cookie",
+    "c": "Some Like it Hot",
+    "d": "The Choirboys",
+    "answer": "c",
+    "id": "XJSodQO2YQRHTbsfWcKkhIfZeEM"
+  },
+  {
+    "question": "What actor was onstage during the \"streaking\" of the Academy Awards?",
+    "a": "John Wayne",
+    "b": "David Niven",
+    "c": "Dustin Hoffman",
+    "d": "Peter Sellers",
+    "answer": "b",
+    "id": "BwJDK-qgwyrmA9ha_UubJRDenJw"
+  },
+  {
+    "question": "Who portrayed W.C. Fields in the film \"W.C. Fields and Me\"?",
+    "a": "Robin Williams",
+    "b": "Karl Malden",
+    "c": "Alan Hale",
+    "d": "Rod Steiger",
+    "answer": "d",
+    "id": "1QTD6prXVF4C7cVdWWN7ibkRt3Y"
+  },
+  {
+    "question": "Who \"blamed it on the Bossa Nova\"?",
+    "a": "Steve Lawrence",
+    "b": "Leslie Gore",
+    "c": "Patty Duke",
+    "d": "Edie Gorme",
+    "answer": "d",
+    "id": "oWz6rH9yn9b-ydJnVYrWZZC0pK4"
+  },
+  {
+    "question": "Who song the title song to the film \"Goldfinger\"?",
+    "a": "Carly Simon",
+    "b": "Shana Easton",
+    "c": "Shirley Bassey",
+    "d": "Barbra Streisand",
+    "answer": "c",
+    "id": "7ReicEHOf7dxVfqURntxLcAUwRk"
+  },
+  {
+    "question": "Who portrayed the skipper on \"Gilligan's Island\"?",
+    "a": "Bob Denver",
+    "b": "Jim Backus",
+    "c": "Jim Hale",
+    "d": "Alan Hale",
+    "answer": "d",
+    "id": "mVSce9waWricoVwL2XyANsxI3hs"
+  },
+  {
+    "question": "Who sang \"Do the Locomotion\"?",
+    "a": "Aretha Franklin",
+    "b": "Little Eva",
+    "c": "Tina Turner",
+    "d": "Billy Holliday",
+    "answer": "b",
+    "id": "vghvoG8TfPerCCzLXTHnzGKv0Ig"
+  },
+  {
+    "question": "Bob Newhart portrayed Dr. Hartley in what city?",
+    "a": "Minneapolis",
+    "b": "Chicago",
+    "c": "New York",
+    "d": "St. Paul",
+    "answer": "b",
+    "id": "PbIwP9QvCkcAwCXK_eEaUmRx-54"
+  },
+  {
+    "question": "What TV show took place in New Rochelle, New York?",
+    "a": "Dick Van Dyke Show",
+    "b": "All in the Family",
+    "c": "Maude",
+    "d": "Donna Reed Show",
+    "answer": "a",
+    "id": "WwVjqCfG3QYKmTemPWIGIEFIL1k"
+  },
+  {
+    "question": "Who asked the musical question, \"Who's Sorry Now\"?",
+    "a": "Brenda Lee",
+    "b": "Connie Francis",
+    "c": "Doris Day",
+    "d": "Debbie Reynolds",
+    "answer": "b",
+    "id": "tUX9S18u-UPjCwLtzy4UKkfKi4U"
+  },
+  {
+    "question": "John Lennon and Paul McCartney each married a woman from which town?",
+    "a": "New York City",
+    "b": "Scarsdale, New York",
+    "c": "San Francosco",
+    "d": "Cambridge, England",
+    "answer": "b",
+    "id": "GWO4nIs6vCDdf5iTYE27S5vNjH8"
+  },
+  {
+    "question": "In the movie \"All the President's Men\", who played `Deep Throat'?",
+    "a": "Linda Lovelace",
+    "b": "Hal Holbrook",
+    "c": "Robert Redford",
+    "d": "Richard Widmark",
+    "answer": "b",
+    "id": "pG9RYUFi_xhmZTggXs1KNtOx-c4"
+  },
+  {
+    "question": "Who played the freckle-faced Will Robinson in \"Lost in Space\"?",
+    "a": "Ron Howard",
+    "b": "Bill Mumy",
+    "c": "Rodney Alan Rippy",
+    "d": "Rusty Williams",
+    "answer": "b",
+    "id": "_7XUZQW-PcxlziacfmAkFr4lmP4"
+  },
+  {
+    "question": "Who played Victoria Barkley on the TV show, \"The Big Valley\"?",
+    "a": "Michael Learned",
+    "b": "Linda Evans",
+    "c": "Barbara Stanwyck",
+    "d": "June Allison",
+    "answer": "c",
+    "id": "joMNwn6836uuNEL6QJfUcrEF8LE"
+  },
+  {
+    "question": "Who sang the theme song for the TV show, \"Welcome Back, Kotter\"?",
+    "a": "The Loving Spoonful",
+    "b": "Paul Anka",
+    "c": "Paul Williams",
+    "d": "John Sebastian",
+    "answer": "d",
+    "id": "XZ2YV3eOKISJ0wxVMukkWuiNzYA"
+  },
+  {
+    "question": "Who played Dr. Smith on the TV show \"Lost in Space\"?",
+    "a": "Michael Landon",
+    "b": "Eddie Albert",
+    "c": "Zachary Taylor",
+    "d": "Jonathan Harris",
+    "answer": "d",
+    "id": "mDIXiXM0e7iSakqxq-cgrc9YfFk"
+  },
+  {
+    "question": "In what film is Cary Grant attacked by a low-flying cropduster?",
+    "a": "Operation Petticoat",
+    "b": "North by Northwest",
+    "c": "North to Eden",
+    "d": "Dial M for Murder",
+    "answer": "b",
+    "id": "O345X9O0WmHfUU0uuaf9xQk7iyE"
+  },
+  {
+    "question": "How many consecutive years was The Ed Sullivan Show on TV?",
+    "a": "13",
+    "b": "18",
+    "c": "20",
+    "d": "23",
+    "answer": "d",
+    "id": "lmwoLpbhBo-2__7mFaz1ak3qspw"
+  },
+  {
+    "question": "Which of the following HAS NOT played Captain Bligh of the Bounty",
+    "a": "Sydney Greenstreet",
+    "b": "Charles Laughton",
+    "c": "Trevor Howard",
+    "d": "Anthony Hopkins",
+    "answer": "a",
+    "id": "ZMe1EC8Y6NdBCK5B69qm2PVGtcc"
+  },
+  {
+    "question": "What was the Oscar-winning theme song for \"Breakfast at Tiffany's\"?",
+    "a": "Que Sera, Que Sera",
+    "b": "Moon River",
+    "c": "White Christmas",
+    "d": "New York, New York",
+    "answer": "b",
+    "id": "kv6JP0QOqHSqklfmiNRzj4r_uww"
+  },
+  {
+    "question": "Who played Uncle Martin on the TV show \"My Favorite Martian\"?",
+    "a": "Bill Bixby",
+    "b": "Jonathan Harris",
+    "c": "Ray Walston",
+    "d": "Martin Balsam",
+    "answer": "c",
+    "id": "u3R1QdbpxtD7r4XPLrhUurYlRqg"
+  },
+  {
+    "question": "In the film \"All the President's Men\", who played Carl Bernstein?",
+    "a": "Robert Redford",
+    "b": "Hal Holbrook",
+    "c": "Dustin Hoffman",
+    "d": "John Sirica",
+    "answer": "c",
+    "id": "tSTBkaRNZpveQf93zqRkQwS2hUA"
+  },
+  {
+    "question": "Which was the first TV couple to share a bed on prime time?",
+    "a": "Ozzie & Harriet",
+    "b": "Rob & Laura Petrie",
+    "c": "Archie & Edith",
+    "d": "J.R. and Sue Ellen",
+    "answer": "a",
+    "id": "EJSISrjbNuKy_H0M_TAG4ddNbiI"
+  },
+  {
+    "question": "How many films did Elvis Presley make in his lifetime?",
+    "a": "13",
+    "b": "23",
+    "c": "33",
+    "d": "43",
+    "answer": "c",
+    "id": "k2f_cPyI9I-8zh0m6QMPslOEbIA"
+  },
+  {
+    "question": "Whose first major album was \"Ziggy Stardust & the Spiders from Mars\"?",
+    "a": "Alice Cooper",
+    "b": "Lou Reed",
+    "c": "Tiny Tim",
+    "d": "David Bowie",
+    "answer": "d",
+    "id": "JbCjHAUCK3Ez_VLPLZCQ5PXXO-E"
+  },
+  {
+    "question": "Who played Johnny in the film, \"The Wild One\"?",
+    "a": "James Dean",
+    "b": "Marlon Brando",
+    "c": "James Cagney",
+    "d": "Jack Nicholson",
+    "answer": "b",
+    "id": "WydbgxSULGNtKK52b4NLtasLpLs"
+  },
+  {
+    "question": "Who portrayed Vincent Van Gogh in the film \"Lust for Life\"?",
+    "a": "Kirk Douglas",
+    "b": "Charleton Heston",
+    "c": "Gregory Peck",
+    "d": "Don McLean",
+    "answer": "a",
+    "id": "WpHwZoID-MkhuiruYVYxhZiMOy0"
+  },
+  {
+    "question": "What famous singer had a knife tatooed on his arm?",
+    "a": "Kris Kristofferson",
+    "b": "Tiny Tim",
+    "c": "Glenn Campbell",
+    "d": "Frank Zappa",
+    "answer": "c",
+    "id": "OcSQFt67_GnGOw3k8piz9Jn7zt4"
+  },
+  {
+    "question": "Who sang the song \"It's my Party and I'll Cry if I Want To\"?",
+    "a": "Patty Duke",
+    "b": "Brenda Lee",
+    "c": "Connie Stevens",
+    "d": "Leslie Gore",
+    "answer": "d",
+    "id": "5i59aDvTlL_kaQ4MdC8wPaQiNYU"
+  },
+  {
+    "question": "Who introduced Johnny Carson as the new host of The Tonight Show?",
+    "a": "Steve Allen",
+    "b": "Jack Paar",
+    "c": "Bob Newhart",
+    "d": "Groucho Marx",
+    "answer": "d",
+    "id": "1bA5Vg6NojdtRjhXWb34KuFd09E"
+  },
+  {
+    "question": "For what song did Country & Western singer Marty Robbins win a Grammy?",
+    "a": "Behind Closed Doors",
+    "b": "Me & Bobby McGee",
+    "c": "El Paso",
+    "d": "D-I-V-O-R-C-E",
+    "answer": "c",
+    "id": "B7qDebQxiaJjNmX_SCVfW1yymbY"
+  },
+  {
+    "question": "Who was a member of both The Dirty Dozen and the Magnificent Seven?",
+    "a": "Lee Marvin",
+    "b": "Yul Brynner",
+    "c": "Charles Bronson",
+    "d": "Jim Brown",
+    "answer": "c",
+    "id": "HxTL0JkniuJTqfLHkaxaqpdcAcg"
+  },
+  {
+    "question": "What actor sang \"As Time Goes By\" in the film \"Casablanca\"?",
+    "a": "Humphrey Bogart",
+    "b": "Claude Rains",
+    "c": "Dooley Wilson",
+    "d": "Seth Jacobson",
+    "answer": "c",
+    "id": "wDymc8KTPgoIdNMQA5v7mrpY4m4"
+  },
+  {
+    "question": "Who directed \"Close Encounters of the Third Kind\"?",
+    "a": "George Lucas",
+    "b": "Steven Spielberg",
+    "c": "Stanley Kubrick",
+    "d": "Gene Roddenberry",
+    "answer": "b",
+    "id": "sxhgN1UWrGFA-QxH_laf589J_0Y"
+  },
+  {
+    "question": "Which Star Wars cast member was a regular on General Hospital?",
+    "a": "Carrie Fisher",
+    "b": "Mark Hamill",
+    "c": "Harrison Ford",
+    "d": "Anthony Daniels",
+    "answer": "b",
+    "id": "L-ao9AB6YtW9-FNFFqtAH6dwtSI"
+  },
+  {
+    "question": "Who portrayed Clare Quilty in the film, \"Lolita\"?",
+    "a": "Brigitte Bardot",
+    "b": "Gina Lolabrigida",
+    "c": "Romie Shneider",
+    "d": "Peter Sellers",
+    "answer": "d",
+    "id": "K0G70TLCCUEaIcCfg34Rj0ofUS0"
+  },
+  {
+    "question": "Who directed the film, \"Lolita\"?",
+    "a": "Steven Spielberg",
+    "b": "Stanley Kubrick",
+    "c": "George Lucas",
+    "d": "Woody Allen",
+    "answer": "b",
+    "id": "QmN01FC043-6A-uBVK0xD5no9Es"
+  },
+  {
+    "question": "What musical won the best picture oscar in 1966?",
+    "a": "My Fair Lady",
+    "b": "Camelot",
+    "c": "Mary Poppins",
+    "d": "The Sound of Music",
+    "answer": "d",
+    "id": "jAmlbLlAxNXNjIGJ42VHe_8hg7c"
+  },
+  {
+    "question": "What was Stanley Ford's occupation in \"How to Murder Your Wife\"?",
+    "a": "Author",
+    "b": "Doctor",
+    "c": "Insurance Agent",
+    "d": "Cartoonist",
+    "answer": "d",
+    "id": "-r4o4O816CfquPzBZ-ENJWJ4l4w"
+  },
+  {
+    "question": "What orchestra performed the \"Star Wars\" soundtrack?",
+    "a": "New York Symphony",
+    "b": "London Symphony",
+    "c": "Boston Symphony",
+    "d": "Berlin Philharmonic",
+    "answer": "b",
+    "id": "7m-MWT0lCJlHrGogrK4w7-JDNQ4"
+  },
+  {
+    "question": "The movie \"Psycho\" was based on a book by...",
+    "a": "Alfred Hitchcock",
+    "b": "Robert Bloch",
+    "c": "Stephen King",
+    "d": "Mary Shelley",
+    "answer": "b",
+    "id": "uND6WGjeEfchZG3xl5l3iWcVvJc"
+  },
+  {
+    "question": "What distasteful substance was Mia Farrow forced to drink as Rosemary",
+    "a": "Tannis Root",
+    "b": "Blood",
+    "c": "Hemlock",
+    "d": "Salt water",
+    "answer": "a",
+    "id": "zU_3U1jZpHWcYVDoBErOKGe3g6A"
+  },
+  {
+    "question": "Who played TV's Bat Masterson?",
+    "a": "James Garner",
+    "b": "James Arness",
+    "c": "Robert Preston",
+    "d": "Gene Barry",
+    "answer": "d",
+    "id": "JafdTRwhFEOxHxrSMVsTk1kg1GE"
+  },
+  {
+    "question": "Who portrayed Charles Lindbergh in the film \"The Spirit of St. Louis\"",
+    "a": "Jimmy Stewart",
+    "b": "Clark Gable",
+    "c": "Henry Fonda",
+    "d": "Gregory Peck",
+    "answer": "a",
+    "id": "4vp3EPmRUJK-pBIFM8rA8z7rBtY"
+  },
+  {
+    "question": "In \"Topper\", the ghosts Marian and George went by what last name?",
+    "a": "Topper",
+    "b": "Olson",
+    "c": "Kirby",
+    "d": "Wilson",
+    "answer": "c",
+    "id": "2BQsrab_FjpVwIalMuUwXEUy5r0"
+  },
+  {
+    "question": "What is \"Oscar\", the figure on the Academy Award, standing on?",
+    "a": "A star",
+    "b": "A staircase",
+    "c": "A plaque",
+    "d": "A reel of film",
+    "answer": "d",
+    "id": "-shABPV2VUKaBX3Gwc1dk-O3zwg"
+  },
+  {
+    "question": "What was the name of Charles Foster Kane's sled in \"Citizen Kane\"?",
+    "a": "Shangri-La",
+    "b": "The Red Flyer",
+    "c": "Challenger",
+    "d": "Rosebud",
+    "answer": "d",
+    "id": "sQ8v_CYNYYtk92GoOE7jZTYQ2sI"
+  },
+  {
+    "question": "In \"Ode to Billy Joe\", what was Billy Joe's last name?",
+    "a": "Tallahatchee",
+    "b": "Gentrie",
+    "c": "McAllister",
+    "d": "Simms",
+    "answer": "c",
+    "id": "bPQtpsxrsT9_LUTU5-g6NJDQhBI"
+  },
+  {
+    "question": "Why did Birdie go \"Bye, Bye\"?",
+    "a": "He died",
+    "b": "He was drafted",
+    "c": "He went on tour",
+    "d": "He was hospitalized",
+    "answer": "b",
+    "id": "Ww8h4ZkW43xletl7wTwJ31ysG0Q"
+  },
+  {
+    "question": "Who played saxophone on \"The Girl From Ipanema\"?",
+    "a": "Astrud Gilberto",
+    "b": "Herb Alpert",
+    "c": "Stan Getz",
+    "d": "Tommy Newsome",
+    "answer": "c",
+    "id": "27k725Xz0FhyY4HA2pLctImnpD8"
+  },
+  {
+    "question": "Who wrote \"God Bless America\"?",
+    "a": "Kate Smith",
+    "b": "Irving Berlin",
+    "c": "Francis Scott Key",
+    "d": "Ira Gershwin",
+    "answer": "b",
+    "id": "ALAEu3REElEh71aIQme32Yr_6js"
+  },
+  {
+    "question": "In 2001-A Space Odyssey, the space- station restaurant was called...",
+    "a": "Hal's Diner",
+    "b": "Howard Johnson's",
+    "c": "Mess 4341",
+    "d": "The Jupiter Lounge",
+    "answer": "b",
+    "id": "5Qhl-raNutYJKqJYYWBZ9hLG_kI"
+  },
+  {
+    "question": "Which author wrote \"Carrie\", \"Cujo\" \"Salem's Lot\", and \"The Dead Zone\"",
+    "a": "Robert Bloch",
+    "b": "Stephen King",
+    "c": "Mary Shelly",
+    "d": "Arthur C. Clarke",
+    "answer": "b",
+    "id": "4zAsa48pVMCEwbWOsd-UVQEuz0U"
+  },
+  {
+    "question": "What color was Mr. Spock's blood?",
+    "a": "Green",
+    "b": "Red",
+    "c": "Blue",
+    "d": "Black",
+    "answer": "a",
+    "id": "4G1i5vmClJ_UKSFRyNRt30ielso"
+  },
+  {
+    "question": "Ray Charles went blind at what age?",
+    "a": "23 years old",
+    "b": "At birth",
+    "c": "2 years old",
+    "d": "6 years old",
+    "answer": "d",
+    "id": "xBLpYaJGKhUVgA9_igXUOhNKiEg"
+  },
+  {
+    "question": "Who started their career by dancing pixie in Hotpoint commercials?",
+    "a": "Mary Tyler Moore",
+    "b": "Barbara Walters",
+    "c": "Barbara Streisand",
+    "d": "June Taylor",
+    "answer": "a",
+    "id": "QzJha9BM3Rv5TG16W9AQJWfsMbE"
+  },
+  {
+    "question": "What color were Beatle Boots?",
+    "a": "Blue",
+    "b": "Black",
+    "c": "Brown",
+    "d": "Grey",
+    "answer": "b",
+    "id": "6XtarNp22UxJoVW_ojjpjc83qOQ"
+  },
+  {
+    "question": "Bucky Beaver was the TV mascot for what toothpaste commercial?",
+    "a": "Crest",
+    "b": "Colgate",
+    "c": "Gleem",
+    "d": "Ipana",
+    "answer": "d",
+    "id": "zvoewHSPN7fzCw_SFpHCiulHz7E"
+  },
+  {
+    "question": "In what film did Charlton Heston ride a horse named Babieca?",
+    "a": "My Friend, Flicka",
+    "b": "Ben Hur",
+    "c": "A Horse Named Babe",
+    "d": "El Cid",
+    "answer": "d",
+    "id": "c6TZ74QzopN48ZrKqZWTWZuziU8"
+  },
+  {
+    "question": "In \"Indiana Jones and the Temple of Doom\", Jones's kid companion was:",
+    "a": "Tiny",
+    "b": "Peewee",
+    "c": "Shrimpee",
+    "d": "Shortie",
+    "answer": "d",
+    "id": "8wP2xqS_cALAq0WfGxHNhjwx1bM"
+  },
+  {
+    "question": "Which of these WAS NOT a character in the film, \"Ghostbusters\"?",
+    "a": "Zulu",
+    "b": "The Gate Keeper",
+    "c": "The Storm Trooper",
+    "d": "The Key Master",
+    "answer": "c",
+    "id": "uWweHfrvCHLp2krlJW1zROj9-nI"
+  },
+  {
+    "question": "Which magazine gives readers a look at the \"Bachelor of the Month\"?",
+    "a": "Playgirl",
+    "b": "Playboy",
+    "c": "Cosmopolitan",
+    "d": "Bachelor Fodder",
+    "answer": "c",
+    "id": "iyLHg8mH0iB3uOb1H-s6BPsVaXQ"
+  },
+  {
+    "question": "What was \"Bonanza\" retitled for syndication?",
+    "a": "Ponderosa",
+    "b": "The Cartwright's",
+    "c": "Ponderosa Ranch",
+    "d": "Cartwright Ranch",
+    "answer": "a",
+    "id": "umMQJnLT4-h4z46e6fGZY6PvTqs"
+  },
+  {
+    "question": "Which was The Everly Brothers' 1st Number One song?",
+    "a": "Wake up li'l Suzie",
+    "b": "Bye Bye Love",
+    "c": "A Taste of Honey",
+    "d": "Dream Dream Dream",
+    "answer": "b",
+    "id": "MR3KiwnYslF1qvdtxtoadHUneOw"
+  },
+  {
+    "question": "What cartoon characters hailed from Frostbite Falls, Minnasota?",
+    "a": "The Flinstones",
+    "b": "Tom and Jerry",
+    "c": "Rocky & Bullwinkle",
+    "d": "Nancy & Sluggo",
+    "answer": "c",
+    "id": "OkpC0H1686zPG0WubEoQX2PgL_M"
+  },
+  {
+    "question": "What has been the largest selling single in recorded music history?",
+    "a": "Staying Alive",
+    "b": "Hey Jude",
+    "c": "Hound Dog",
+    "d": "White Christmas",
+    "answer": "d",
+    "id": "eXMid4ct-2sCZvHQiIURu7Tv7D4"
+  },
+  {
+    "question": "How were Jethro and Ellie-Mae Clampett related?",
+    "a": "Brother & sister",
+    "b": "Father and daughter",
+    "c": "Cousins",
+    "d": "Half-siblings",
+    "answer": "c",
+    "id": "pg1xD2B5FEGB3Y4QwVzEnr8w7JE"
+  },
+  {
+    "question": "The television show, \"60 Minutes\" debuted in which year?",
+    "a": "1964",
+    "b": "1968",
+    "c": "1971",
+    "d": "1974",
+    "answer": "b",
+    "id": "HuSumlIRwnc3MVi54RH-ODqNuxY"
+  },
+  {
+    "question": "What was the name of Tom Jones's first hit record in the U.S.?",
+    "a": "What's New Pussycat",
+    "b": "Green Grass of Home",
+    "c": "Suspicions",
+    "d": "It's Not Unusual",
+    "answer": "d",
+    "id": "uy9Nmv49GSmJ-yFKdPPr5Ujpj7Y"
+  },
+  {
+    "question": "Who is the voice of Kermit, the Frog?",
+    "a": "Jim Henson",
+    "b": "Don Olander",
+    "c": "Jim Brown",
+    "d": "Mel Blanc",
+    "answer": "a",
+    "id": "hY3whSGy3ZDDEo36AQAhucL9otw"
+  },
+  {
+    "question": "What language was Doctor Zhivago written in?",
+    "a": "Greek",
+    "b": "Hebrew",
+    "c": "Russian",
+    "d": "Ugandan",
+    "answer": "c",
+    "id": "ZkzFKC4iXGk7efLFgUMLn633VsQ"
+  },
+  {
+    "question": "Which Carole King album was the top selling album ever until 1976?",
+    "a": "The King Family",
+    "b": "Caroleing",
+    "c": "Rumours",
+    "d": "Tapestry",
+    "answer": "d",
+    "id": "ld6rwVBPW6MpzpzC0NQhOmipPBw"
+  },
+  {
+    "question": "Who was the television host for the series, \"Cosmos\"?",
+    "a": "Karl Malden",
+    "b": "Carl Sandburg",
+    "c": "Carly Simon",
+    "d": "Carl Sagan",
+    "answer": "d",
+    "id": "87TNkwpsdw_FsESQyIGm-gDr0XU"
+  },
+  {
+    "question": "The surrealistic dream scene in the movie \"Spellbound\" was designed by",
+    "a": "Salvadore Dali",
+    "b": "Alfred Hitchcock",
+    "c": "Andy Warhol",
+    "d": "Rock Hudson",
+    "answer": "a",
+    "id": "yCgHSPAPzrFZnAlR4JYQjibp3B8"
+  },
+  {
+    "question": "What science fiction classic was based on Shakespeare's The Tempest",
+    "a": "War of the Worlds",
+    "b": "Forbidden Planet",
+    "c": "The Time Machine",
+    "d": "The Thing",
+    "answer": "b",
+    "id": "4rSQBFPVO0vufZlXT_QzFPAo-Nc"
+  },
+  {
+    "question": "Who was dubbed \"The Big O\"?",
+    "a": "Tony Orlando",
+    "b": "O.J. Simpson",
+    "c": "Annie Oakley",
+    "d": "Roy Orbison",
+    "answer": "d",
+    "id": "AbrkT4cJGlp_5cc6W-3sCW_-JZw"
+  },
+  {
+    "question": "\"It Don't Come Easy\" was the name of which Beatles's 1st solo album?",
+    "a": "John",
+    "b": "Paul",
+    "c": "George",
+    "d": "Ringo",
+    "answer": "d",
+    "id": "rajXdKMnA8Uqk4VRLcda_--PhMU"
+  },
+  {
+    "question": "Who wrote \"True Love Ways\", a 1965 hit for Peter & Gordon?",
+    "a": "Peter Asher",
+    "b": "Gordon McRae",
+    "c": "Paul McCartney",
+    "d": "Buddy Holly",
+    "answer": "d",
+    "id": "NjXR5k-acNutSLGZdt8lQTBoSQA"
+  },
+  {
+    "question": "Who starred in the lead role as \"The Man From U.N.C.L.E.\"?",
+    "a": "David Soul",
+    "b": "Illiya Kuriyakin",
+    "c": "Robert Wagner",
+    "d": "Robert Vaughan",
+    "answer": "d",
+    "id": "8qGkZS-8DBep4ndS86ib4RFzDQk"
+  },
+  {
+    "question": "What police-officer-turned-writer wrote \"The Blue Knight\"?",
+    "a": "Joseph Heller",
+    "b": "Joseph Choirboy",
+    "c": "Joseph Wambaugh",
+    "d": "James Woods",
+    "answer": "c",
+    "id": "yvWbA0hPOzcvEvH8EHPUJ2_VTPo"
+  },
+  {
+    "question": "What color was Superman's belt?",
+    "a": "Yellow",
+    "b": "Red",
+    "c": "Blue",
+    "d": "Cyan",
+    "answer": "a",
+    "id": "wZb_vd-C3RMHlWbMbI-cy4UK0ck"
+  },
+  {
+    "question": "Which actor once represented Scotland in a Mr. Universe contest",
+    "a": "Richard Burton",
+    "b": "Roger Moore",
+    "c": "Sean Connery",
+    "d": "Robert Shaw",
+    "answer": "c",
+    "id": "JCUm-pP1CYj7W8eeROu6f5JTsCc"
+  },
+  {
+    "question": "What product's TV commercials used the line \"Ring Around The Collar\"?",
+    "a": "Comet",
+    "b": "All",
+    "c": "Wisk",
+    "d": "Cheer",
+    "answer": "c",
+    "id": "gkMkdemExfyTo4BPpn2SnXKoveY"
+  },
+  {
+    "question": "Which of these WAS NOT a member of Monty Python?",
+    "a": "Michael Gilliam",
+    "b": "Terry Jones",
+    "c": "Eric Idle",
+    "d": "John Cleese",
+    "answer": "a",
+    "id": "caLONvMDGZvjR4LC639VH6Ep3y8"
+  },
+  {
+    "question": "Who wrote the children's book, \"Last of the Great Whangdoodles\"?",
+    "a": "Dr. Seuss",
+    "b": "Bill Cosby",
+    "c": "Art Linkletter",
+    "d": "Julie Andrews",
+    "answer": "d",
+    "id": "E2M8iRaMWLYr3IvLOaVgbWRm9LU"
+  },
+  {
+    "question": "What Emmy Award winner narrated the Jacques Cousteau TV specials?",
+    "a": "Cousteau himself",
+    "b": "Cousetau's son",
+    "c": "Rod Serling",
+    "d": "Lloyd Bridges",
+    "answer": "c",
+    "id": "zqpF4dpcC1TkzFlfN9D2TlDR0M4"
+  },
+  {
+    "question": "What James Bond film used the Space Shuttle?",
+    "a": "Moonraker",
+    "b": "Live and Let Die",
+    "c": "Never Say Never",
+    "d": "Thunderball",
+    "answer": "a",
+    "id": "qcquwVqruPf-1-dTVpZjwosrKcs"
+  },
+  {
+    "question": "The Stevie Wonder song, \"Isn't She Lovely?\" was about whom?",
+    "a": "His daughter",
+    "b": "His mother",
+    "c": "His wife",
+    "d": "His girlfriend",
+    "answer": "a",
+    "id": "dIvylfULih4hl0AS5oRMfn1sOaw"
+  },
+  {
+    "question": "Mel Blanc DID NOT provide the voice for which of these characters?",
+    "a": "Barney Rubble",
+    "b": "Bugs Bunny",
+    "c": "Daffy Duck",
+    "d": "Donald Duck",
+    "answer": "d",
+    "id": "mMhIhvt-dcFzfM-RDvFR0u2wb1Q"
+  },
+  {
+    "question": "What did the Wicked Witch of the West want from Dorothy?",
+    "a": "Broom",
+    "b": "Magic Keys",
+    "c": "Shoes",
+    "d": "Emerald Necklass",
+    "answer": "c",
+    "id": "3EkvKxagtL0fjS2ZvDaO6f-pnE4"
+  },
+  {
+    "question": "Who played Disney's Pollyanna?",
+    "a": "Annette Funicello",
+    "b": "Sandra Dee",
+    "c": "Donna Mills",
+    "d": "Hayley Mills",
+    "answer": "d",
+    "id": "v2eAhY9uVJ-ugpQP6sm6-D_zvl0"
+  },
+  {
+    "question": "What character went deaf in the final episode of M*A*S*H?",
+    "a": "Hawkeye Pierce",
+    "b": "Radar",
+    "c": "Colonel Potter",
+    "d": "Father Mulcahy",
+    "answer": "d",
+    "id": "sqLhepkO4colyaNhbVDfOY_V2ws"
+  },
+  {
+    "question": "What's the pseudonym of disc jockey Robert Smith?",
+    "a": "Murry the K",
+    "b": "Wolfman Jack",
+    "c": "Robert Coughperson",
+    "d": "R.C. Smith",
+    "answer": "d",
+    "id": "I7kruhZomkQkCnEq149xJpsXEYg"
+  },
+  {
+    "question": "What was Walt Disney's first full- length feature cartoon?",
+    "a": "Snow White",
+    "b": "Cinderella",
+    "c": "Steamboat Willy",
+    "d": "Sleeping Beauty",
+    "answer": "a",
+    "id": "2aIn6DifzaZd88_aWJt699f_dYA"
+  },
+  {
+    "question": "Who was the first black to win a best actor Emmy?",
+    "a": "Dick Gregory",
+    "b": "Godfrey Cambridge",
+    "c": "Bill Cosby",
+    "d": "Sidney Poitier",
+    "answer": "c",
+    "id": "L4GRGNsSlGKRIqiyK2WibMVNlwQ"
+  },
+  {
+    "question": "What was Elvis Presley's first film, in 1956?",
+    "a": "Hawaiian Holiday",
+    "b": "Soldier Blues",
+    "c": "Love Me Tender",
+    "d": "Beach Party",
+    "answer": "c",
+    "id": "EzwsW71b7QWE47X_nUIpesEbZW0"
+  },
+  {
+    "question": "What comedian once boxed under the name Packy East?",
+    "a": "Dean Martin",
+    "b": "Jerry Lewis",
+    "c": "Godfrey Cambridge",
+    "d": "Bob Hope",
+    "answer": "d",
+    "id": "Xw6n_RVtl-QIW59JctwVobCWIzU"
+  },
+  {
+    "question": "Who said \"I never met a man I didn't like\".",
+    "a": "Eva Gabor",
+    "b": "Mae West",
+    "c": "John Denver",
+    "d": "Will Rogers",
+    "answer": "d",
+    "id": "vmhZ1BslcRLSaaFTf2Eb3wl2xb0"
+  },
+  {
+    "question": "What was Columbo's first name?",
+    "a": "Charles",
+    "b": "Philip",
+    "c": "Chuck",
+    "d": "Michael",
+    "answer": "b",
+    "id": "eE7N12dO2N0roRPUxZVIujozi4M"
+  },
+  {
+    "question": "What was the name of Baretta's cockatoo?",
+    "a": "Fred",
+    "b": "Pete",
+    "c": "Rose",
+    "d": "Charlie",
+    "answer": "a",
+    "id": "WvK_SNDJDYEW0Mgob6HeAB-CzLc"
+  },
+  {
+    "question": "In what country was the John Wayne film, \"The Quiet Man\", set?",
+    "a": "United States",
+    "b": "England",
+    "c": "Germany",
+    "d": "Ireland",
+    "answer": "d",
+    "id": "qYtv8zI0YYCWNaa5FH24OorEhLU"
+  },
+  {
+    "question": "Who portrayed Benny Goodman in \"The Benny Goodman Story\"?",
+    "a": "Steve Allen",
+    "b": "James Stewart",
+    "c": "Benny Goodman",
+    "d": "Henry Fonda",
+    "answer": "a",
+    "id": "cqmA3UT5BMJ7rgEL12ScTLYMcu8"
+  },
+  {
+    "question": "Who was known as \"America's Sweetheart\"?",
+    "a": "Shirley Temple",
+    "b": "Ginger Rogers",
+    "c": "Marilyn Monroe",
+    "d": "Mary Pickford",
+    "answer": "d",
+    "id": "iiE1xZRAlthutEuwXFyKPKQlUJ0"
+  },
+  {
+    "question": "What city is terrorized by Dracula in \"The Night Stalker\"?",
+    "a": "Detroit",
+    "b": "Las Vegas",
+    "c": "New York",
+    "d": "Hollywood",
+    "answer": "b",
+    "id": "xj1DL8Bd1kH6aDyD9jFoQOaVW8o"
+  },
+  {
+    "question": "Which of these HAS NOT portrayed a villian on TV's Batman show?",
+    "a": "Joan Collins",
+    "b": "Vincent Price",
+    "c": "Burgess Meredith",
+    "d": "Don Rickles",
+    "answer": "d",
+    "id": "ci5s-CAG-fLXkh0T391TbNQIMNk"
+  },
+  {
+    "question": "What movie featured bands of teenage thugs called \"Droogs\"?",
+    "a": "West Side Story",
+    "b": "Clockwork Orange",
+    "c": "Yellow Submarine",
+    "d": "The Wild One",
+    "answer": "b",
+    "id": "YVhrefsmfhpn3ANcqTrfWl0qeEw"
+  },
+  {
+    "question": "What singer/actress got her start in a gay bath house in New York?",
+    "a": "Deborah Harry",
+    "b": "Linda Ronstadt",
+    "c": "Bette Midler",
+    "d": "Barbra Streisand",
+    "answer": "c",
+    "id": "ITVuS9PK7jzrfJ4sUXqREtGbTjg"
+  },
+  {
+    "question": "Who played the first film Tarzan?",
+    "a": "Johnny Weissmuller",
+    "b": "Buster Crabbe",
+    "c": "Steve Reeves",
+    "d": "Elmo Lincoln",
+    "answer": "d",
+    "id": "QLjX0qlWSBrSWr2EF5gh06425_8"
+  },
+  {
+    "question": "What century was the setting for TV's \"Star Trek\"?",
+    "a": "20th century",
+    "b": "23rd century",
+    "c": "25th century",
+    "d": "30th century",
+    "answer": "b",
+    "id": "In0RT5zby8qiIUmPtqF7nFFwBAM"
+  },
+  {
+    "question": "For what film did John Wayne receive his only Oscar?",
+    "a": "The Green Berets",
+    "b": "Rooster Cogburn",
+    "c": "The Shootist",
+    "d": "True Grit",
+    "answer": "d",
+    "id": "aXfZWVKSehBoe4HyZ1DOTmHQu3s"
+  },
+  {
+    "question": "What musical instrument does Woody Allen play professionally?",
+    "a": "Guitar",
+    "b": "Saxophone",
+    "c": "Harpsichord",
+    "d": "Clarinet",
+    "answer": "d",
+    "id": "VeOO7OhD7JPLm5BguRRDzk8IlzU"
+  },
+  {
+    "question": "Who narrated \"The Untouchables\" for 25 thousand dollars an episode?",
+    "a": "Robert Stack",
+    "b": "Walter Winchell",
+    "c": "Robert Taylor",
+    "d": "Ronald Reagan",
+    "answer": "b",
+    "id": "UfRe8mpA9-JD8KsSDPGE8lsD_n8"
+  },
+  {
+    "question": "Who played Marlon Brando's brother in \"On the Waterfront\"?",
+    "a": "Lee J. Cobb",
+    "b": "Karl Malden",
+    "c": "Rod Steiger",
+    "d": "Robert Duvall",
+    "answer": "c",
+    "id": "-IAu8qHBpCD4IAjye1lcPTLqLGs"
+  },
+  {
+    "question": "What's the \"trouble\" right here in River City?",
+    "a": "Drugs",
+    "b": "Pool",
+    "c": "Sock Hops",
+    "d": "Motorcyclye Gangs",
+    "answer": "b",
+    "id": "lHUcamNdAAxgqBxaw5_O2it9ZLQ"
+  },
+  {
+    "question": "What was the name of the white gang in \"West Side Story\"?",
+    "a": "The Jets",
+    "b": "The Sharks",
+    "c": "The Alley Cats",
+    "d": "The Stray Cats",
+    "answer": "a",
+    "id": "p_IoHciRub-SYrIg9bi-gzae99M"
+  },
+  {
+    "question": "What won a 1972 poll as The Best Film Ever Made?",
+    "a": "Gone With The Wind",
+    "b": "Citizen Kane",
+    "c": "Casablanca",
+    "d": "Rear Window",
+    "answer": "b",
+    "id": "3QfOLWEFeTojGHdPcPoLnWnu9IE"
+  },
+  {
+    "question": "Who sang \"A Boy Named Sue\"?",
+    "a": "Roy Orbison",
+    "b": "Marty Robbins",
+    "c": "Johnny Cash",
+    "d": "Willie Nelson",
+    "answer": "d",
+    "id": "ibRSJd5ttvVpye8fE3si_DoW5V0"
+  },
+  {
+    "question": "How many eggs did Cool Hand Luke bet he could eat in one hour?",
+    "a": "25",
+    "b": "75",
+    "c": "100",
+    "d": "50",
+    "answer": "d",
+    "id": "6E8E9YQkbdcaMdnE1NVzsiXPOnY"
+  },
+  {
+    "question": "What was Rhoda's maiden name?",
+    "a": "Steinbrenner",
+    "b": "Dershowitz",
+    "c": "Morgenstern",
+    "d": "Zinberg",
+    "answer": "c",
+    "id": "vALFJgRdq7khP0gIpxOeVrCMT1k"
+  },
+  {
+    "question": "Which jazz-rock guitarist recorded with The Mahavishnu Orchestra?",
+    "a": "Larry Coryell",
+    "b": "Al DiMeola",
+    "c": "John McLaughlin",
+    "d": "Paul Skalicky",
+    "answer": "c",
+    "id": "1qngKrrw519xnFsyGshPxq_Mr8k"
+  },
+  {
+    "question": "Sandra Dee's real name is...",
+    "a": "Cassandra Deerstein",
+    "b": "Cassie Steinberg",
+    "c": "Juliet Mishka",
+    "d": "Alexandra Zuck",
+    "answer": "d",
+    "id": "CrmNwiVdYi5IN4tsYDTXQcL44J8"
+  },
+  {
+    "question": "In \"The Mouse That Roared\", which country declared war on the U.S.?",
+    "a": "Germany",
+    "b": "Lichstenstein",
+    "c": "Grand Duchy",
+    "d": "Grand Fenwick",
+    "answer": "d",
+    "id": "XZm5u_f_PUjvnz3lt1BWnl-Hths"
+  },
+  {
+    "question": "Donald Fagen and Walter Becker are better known as...",
+    "a": "Steely Dan",
+    "b": "Righteous Brothers",
+    "c": "The Blues Brothers",
+    "d": "Pink Floyd",
+    "answer": "a",
+    "id": "YXJs-8AATlkPHHHcmxJTaM3MS0k"
+  },
+  {
+    "question": "What actor led the attack on \"The Bridge Over the River Kwai\"?",
+    "a": "Alec Guiness",
+    "b": "Burt Lancaster",
+    "c": "Jack Hawkins",
+    "d": "Dirk Bogarde",
+    "answer": "c",
+    "id": "Sc0RpNtnj3pmByFOTzH8gd89F5k"
+  },
+  {
+    "question": "Who wrote the song, \"The Look of Love\"?",
+    "a": "Burt Bacharach",
+    "b": "Dusty Springfield",
+    "c": "Skeeter Davis",
+    "d": "Paul Anka",
+    "answer": "a",
+    "id": "X1pDyeuyDrH8NEtvdoLBMAdCXek"
+  },
+  {
+    "question": "Besides Marlon Brando, who else in the 1970's refused their Oscar?",
+    "a": "Jane Fonda",
+    "b": "Vanessa Redgrave",
+    "c": "George C. Scott",
+    "d": "Dustin Hoffman",
+    "answer": "c",
+    "id": "WqxqijTElCruOacgNq3vTa1GkZg"
+  },
+  {
+    "question": "Which of these WAS NOT a song by The Chiffons?",
+    "a": "He's So Fine",
+    "b": "One Fine Day",
+    "c": "A Love So Fine",
+    "d": "Nothing Finer",
+    "answer": "d",
+    "id": "-wp67oB9eviqyU3nKdoYxxOuRh8"
+  },
+  {
+    "question": "What watch manufacturer sponsored the first TV commercial ever?",
+    "a": "Timex",
+    "b": "Bulova",
+    "c": "Rolex",
+    "d": "Seiko",
+    "answer": "b",
+    "id": "jZVAa-__bxATROqRVZdxXUkxi30"
+  },
+  {
+    "question": "Who played Dr. Gillespie on TV's Dr. Kildairs?",
+    "a": "Sam Jaffe",
+    "b": "James Brolin",
+    "c": "Richard Chamberlain",
+    "d": "Raymond Massey",
+    "answer": "d",
+    "id": "30Zy2uaT1M95zOfGzz-8OBmoYtI"
+  },
+  {
+    "question": "In the U.S., a platinum record is one whose sales have reached...",
+    "a": "1 million dollars",
+    "b": "5 million dollars",
+    "c": "1 million units",
+    "d": "5 million units",
+    "answer": "c",
+    "id": "XMkqDdjjcq6ublQt5uzYtgTAV40"
+  },
+  {
+    "question": "Where did The Beatles perform their FIRST U.S. concert?",
+    "a": "Ed Sullivan Show",
+    "b": "Washington, D.C.",
+    "c": "Carnegie Hall, NY",
+    "d": "Candlestick Park",
+    "answer": "b",
+    "id": "5LiBjy_iOlu8lxnNlsQXF6XmiFE"
+  },
+  {
+    "question": "In \"2001-A Space Odyssey\", what was the computer Hal's model number?",
+    "a": "4000",
+    "b": "2000",
+    "c": "9000",
+    "d": "10000",
+    "answer": "c",
+    "id": "SUVg701Hlmf505Sfd5PYlL4X0pk"
+  },
+  {
+    "question": "What was the name of Ricky Nelson's brother?",
+    "a": "Johnny Nelson",
+    "b": "Ozzie Nelson",
+    "c": "David Nelson",
+    "d": "Mark Nelson",
+    "answer": "c",
+    "id": "Tj56mxqNtZzrr-snaYxBF_1qnls"
+  },
+  {
+    "question": "What note is the top and bottom string of a guitar tuned to?",
+    "a": "A",
+    "b": "E",
+    "c": "G",
+    "d": "C",
+    "answer": "b",
+    "id": "mX0CripKmkAKNxSd_iRf_smkopY"
+  },
+  {
+    "question": "What film holds the record for the most Academy Awards (eleven)?",
+    "a": "Ben Hur",
+    "b": "Gone With The Wind",
+    "c": "The Godfather",
+    "d": "Annie Hall",
+    "answer": "a",
+    "id": "XZeQCCMJ0H3TOw0jTAsuivjM5ps"
+  },
+  {
+    "question": "Who signed Hollywood's first one- million dollar contract?",
+    "a": "Elizabeth Taylor",
+    "b": "Humphrey Bogart",
+    "c": "Richard Burton",
+    "d": "Charlie Chaplin",
+    "answer": "d",
+    "id": "RYyiK5UnoR5bXGqSQy2iAmPKaD0"
+  },
+  {
+    "question": "Which of these IS NOT associated with Kris Kristofferson?",
+    "a": "Rhodes Scholar",
+    "b": "West Point Academy",
+    "c": "\"Me & Bobby McGee\"",
+    "d": "Never married",
+    "answer": "d",
+    "id": "ElQmJ_ExWW7fi1_-HP1VPgGVwqI"
+  },
+  {
+    "question": "What was the theme song of The Dorsey Brothers Band?",
+    "a": "Salamander",
+    "b": "Salmon",
+    "c": "Sad Man",
+    "d": "Sandman",
+    "answer": "d",
+    "id": "N91AUm39GhvUAVLgCZ69MFLy1vQ"
+  },
+  {
+    "question": "The professor portrayed by Groucho Marx in \"Horsefeathers\"?",
+    "a": "Rufus T. Firefly",
+    "b": "Dr. Firesign",
+    "c": "Quincy Wagstaff",
+    "d": "Dr. Demento",
+    "answer": "c",
+    "id": "Ff0y6S_Nzhht4BEcaVZHBZKfaTM"
+  },
+  {
+    "question": "Who had a hit music video with the parody entitled \"Eat It\"?",
+    "a": "Dr. Demento",
+    "b": "Wierd Al Yankovich",
+    "c": "Blue & Strange Brew",
+    "d": "Eddie & The Nasties",
+    "answer": "b",
+    "id": "ET2Ehp5nRHOQF8eHG6iF_b4rICw"
+  },
+  {
+    "question": "Who has won the most Best Actress Academy Award Oscars?",
+    "a": "Barbra Streisand",
+    "b": "Jane Fonda",
+    "c": "Katherine Hepburn",
+    "d": "Elizabeth Taylor",
+    "answer": "c",
+    "id": "RIJlX5OCTSPAd53MN0saUUM5UNc"
+  },
+  {
+    "question": "What prop did Henny Youngman always carry?",
+    "a": "A bottle",
+    "b": "A cigar",
+    "c": "A cane",
+    "d": "A violin",
+    "answer": "d",
+    "id": "xzxraJoFQNWgt85i0Wa4xqtvILU"
+  },
+  {
+    "question": "Who had the lead role in the TV series, \"Mr. Novak\"?",
+    "a": "Richard Chamberlain",
+    "b": "Tony Francisosa",
+    "c": "James Franciscus",
+    "d": "David Jannsen",
+    "answer": "c",
+    "id": "RB6IfqotmCCIrwdgeJue8ag51FE"
+  },
+  {
+    "question": "What actor played Woody Allen's best friend in \"Annie Hall\"?",
+    "a": "Robert Anthony",
+    "b": "Roberto Antonio",
+    "c": "Tommy Robinson",
+    "d": "Tony Roberts",
+    "answer": "d",
+    "id": "W7x6fCNaUouAyZou22e6qTSJZyc"
+  },
+  {
+    "question": "Which of these singers WAS NOT blind?",
+    "a": "Stevie Wonder",
+    "b": "Roy Orbison",
+    "c": "Ray Charles",
+    "d": "Jose Feliciano",
+    "answer": "b",
+    "id": "08HqB_3z6iOJWu0OFUHFrwun9PA"
+  },
+  {
+    "question": "In the Dick Van Dyke Show, what did Sally Rogers wear in her hair?",
+    "a": "A Bow",
+    "b": "A Rose",
+    "c": "A Carnation",
+    "d": "An Orchid",
+    "answer": "a",
+    "id": "KcfX0m50kLgBm5UD-NJOrM3-kHc"
+  },
+  {
+    "question": "Who played the tough cop in the film, \"McQ\"?",
+    "a": "Peter Falk",
+    "b": "Steve McQueen",
+    "c": "John Wayne",
+    "d": "Ernest Borgnine",
+    "answer": "c",
+    "id": "Ui-K7K9SB-s71euUZ467rVINNV4"
+  },
+  {
+    "question": "Which of these movies DID NOT feature Bette Midler?",
+    "a": "The Rose",
+    "b": "Hawaii",
+    "c": "Jinxed",
+    "d": "Gimme Shelter",
+    "answer": "d",
+    "id": "jdRyjeyJQOVeDGY27EuIuSYbzsI"
+  },
+  {
+    "question": "What's the first name of childen's show host, Mr. Rogers?",
+    "a": "Roy",
+    "b": "Robert",
+    "c": "Frank",
+    "d": "Fred",
+    "answer": "d",
+    "id": "7yk9EWBZGv6qOicRkiB8qy5UMps"
+  },
+  {
+    "question": "How many Beethoven symphonies are there?",
+    "a": "4",
+    "b": "None",
+    "c": "9",
+    "d": "5",
+    "answer": "c",
+    "id": "S6fvHxR8I-J3LJb-Xj-22OE5ac0"
+  },
+  {
+    "question": "What is a \"Strat\"?",
+    "a": "A guitar",
+    "b": "A record executive",
+    "c": "A movie executive",
+    "d": "A video executive",
+    "answer": "a",
+    "id": "XOY49x5P3M8Wte__V2fz8TfjmB8"
+  },
+  {
+    "question": "The music group Average White Band came from...",
+    "a": "Scotland",
+    "b": "Harlem",
+    "c": "Scarsdale, NY",
+    "d": "Australia",
+    "answer": "a",
+    "id": "A38WD2yfm4Hc1jFB35c2-eJT3gQ"
+  },
+  {
+    "question": "What bad guy was portrayed by Burgess Meredith on TV's Batman?",
+    "a": "The Riddler",
+    "b": "The CatMan",
+    "c": "The Penguin",
+    "d": "The Freeze",
+    "answer": "c",
+    "id": "w1IZ2_hfDTre36qqld_41WnapYM"
+  },
+  {
+    "question": "Which of these actors WAS NOT in the movie \"Apocalypse Now\"?",
+    "a": "Marlon Brando",
+    "b": "Martin Sheen",
+    "c": "Robert Duvall",
+    "d": "Lee Marvin",
+    "answer": "d",
+    "id": "2HlyTnnXtFWuXQrE24ZK-hvBuuo"
+  },
+  {
+    "question": "What musical group refused to be photographed without its make-up?",
+    "a": "The Beatles",
+    "b": "The Rolling Stones",
+    "c": "Led Zeppelin",
+    "d": "Kiss",
+    "answer": "d",
+    "id": "KYrxgbOzID65ajbp3v0XArJHJtQ"
+  },
+  {
+    "question": "In which country did \"The Sound of Music\" take place?",
+    "a": "Germany",
+    "b": "England",
+    "c": "Austria",
+    "d": "France",
+    "answer": "c",
+    "id": "6lkY7NGf8Fa5d9vi19bzej3G6MI"
+  },
+  {
+    "question": "\"The Marcus Nelson Murders\" was the pilot for what popular TV series?",
+    "a": "The Mod Squad",
+    "b": "McCloud",
+    "c": "Kojak",
+    "d": "Madigan",
+    "answer": "c",
+    "id": "MfeI-FFn48-136yar0W4CqF-wZQ"
+  },
+  {
+    "question": "In what year did The Beatles first arrive in the United States?",
+    "a": "1963",
+    "b": "1964",
+    "c": "1965",
+    "d": "1960",
+    "answer": "b",
+    "id": "UzuvutV5sGUZN5MtLDXLv-FgSLU"
+  },
+  {
+    "question": "Stanley Kubrick DID NOT direct which of the following films?",
+    "a": "2001-Space Odyssey",
+    "b": "Lolita",
+    "c": "Spartacus",
+    "d": "Soylent Green",
+    "answer": "d",
+    "id": "PmupDgHtmCMKjRvrN0EmTob5EiU"
+  },
+  {
+    "question": "What commercial product was called \"Stronger Than Dirt\"?",
+    "a": "Ajax",
+    "b": "Comet",
+    "c": "Cheer",
+    "d": "All",
+    "answer": "a",
+    "id": "4yvGaVjc0hVTjd73F3rM3TmSxSs"
+  },
+  {
+    "question": "What was the name of Bill Cosby's brother and bed-mate?",
+    "a": "Albert",
+    "b": "Russell",
+    "c": "Leroy",
+    "d": "Steven",
+    "answer": "b",
+    "id": "AcWuS85gM1TCjO0eAIjFmka6rJ8"
+  },
+  {
+    "question": "Where did Jan & Dean say there were \"Two Girls For Every Boy\"?",
+    "a": "Pallisades Park",
+    "b": "Strawberry Fields",
+    "c": "Surf City, USA",
+    "d": "Waikiki Beach",
+    "answer": "c",
+    "id": "rY3awmnjhmjOAAc2xTOOi5ROFD0"
+  },
+  {
+    "question": "What is the name of William F. Buckley, Jr.'s television show?",
+    "a": "Point-Counterpoint",
+    "b": "Crossfire",
+    "c": "Firing Squad",
+    "d": "Firing Line",
+    "answer": "d",
+    "id": "DwrzBE9W4WVgexo59FT-9jTzYic"
+  },
+  {
+    "question": "On TV's M*A*S*H, what was Radar O'Reilley's first name?",
+    "a": "Walter",
+    "b": "Rod",
+    "c": "Tommy",
+    "d": "Gary",
+    "answer": "a",
+    "id": "kK6y9n6xbeZ_R_MEjynP0YyY5mk"
+  },
+  {
+    "question": "What was Bob Dylan's real name?",
+    "a": "Robert Zimmerman",
+    "b": "Paul Hibbing",
+    "c": "Joshua Schwartz",
+    "d": "Billy Kitt",
+    "answer": "a",
+    "id": "QQ-YTRzVuoNzPHJYh8JhwlptwuE"
+  },
+  {
+    "question": "What comedian \"kicked the bucket\" in \"It's a Mad, Mad, Mad World\"?",
+    "a": "Jonathan Winters",
+    "b": "Jerry Lewis",
+    "c": "Woody Allen",
+    "d": "Jimmy Durante",
+    "answer": "d",
+    "id": "sT6C8vO-pWQNojKIjTVGENoD-no"
+  },
+  {
+    "question": "How many Brandenburg Concertos did Bach publish?",
+    "a": "2",
+    "b": "4",
+    "c": "6",
+    "d": "8",
+    "answer": "c",
+    "id": "AiS68vINUG7v2sD1wLiZOcM9RzE"
+  },
+  {
+    "question": "George O'Dowd was the real name of what well-known figure?",
+    "a": "Georgie Porgie",
+    "b": "Georgie Girl",
+    "c": "George Harrison",
+    "d": "Boy George",
+    "answer": "d",
+    "id": "qDxi4VSPMU1lTh4T8H8QJP-CnjU"
+  },
+  {
+    "question": "Who portrayed Spock's human mother on TV's \"Star Trek\"?",
+    "a": "Jane Wyatt",
+    "b": "Jane Wyman",
+    "c": "June Lockhart",
+    "d": "Barbara Billingsley",
+    "answer": "a",
+    "id": "hrSUH65paxCnT2vyLTvQHug1fW4"
+  },
+  {
+    "question": "Who played the respectable hooker in \"From Here to Eternity\"?",
+    "a": "Jane Wyatt",
+    "b": "Barbara Billingsley",
+    "c": "Donna Reed",
+    "d": "June Lockhart",
+    "answer": "c",
+    "id": "do2SogECgUA1wvreVofm2hd6q3Y"
+  },
+  {
+    "question": "What was the first Top-Ten song for Peter, Paul and Mary?",
+    "a": "Blowing in the Wind",
+    "b": "Puff",
+    "c": "If I Had A Hammer",
+    "d": "Jet Plane",
+    "answer": "c",
+    "id": "RrNOqLSoPiT8GE-MbWYOXuupglk"
+  },
+  {
+    "question": "Who sang the theme for the James Bond film, \"You Only Live Twice\"?",
+    "a": "Shana Easton",
+    "b": "Paul McCartney",
+    "c": "Carly Simon",
+    "d": "Nancy Sinatra",
+    "answer": "d",
+    "id": "yOJtf9fuo0dNLFQol9YdexI-KQg"
+  },
+  {
+    "question": "Sean Connery DID NOT have the lead role in which of these films?",
+    "a": "Zardoz",
+    "b": "Marnie",
+    "c": "Moonraker",
+    "d": "Outland",
+    "answer": "c",
+    "id": "0Y-DdqKczT9BUDSmxJ3bYNNJxFU"
+  },
+  {
+    "question": "What was the name of Bill Cosby's partner in \"I Spy\"?",
+    "a": "Tony Roberts",
+    "b": "Jack Klugman",
+    "c": "Robert Culp",
+    "d": "Steve Lawrence",
+    "answer": "c",
+    "id": "X9HIQC-PR61_7QJHfBjyw_NqCBU"
+  },
+  {
+    "question": "In what city was the film \"The Verdict\" set?",
+    "a": "New York",
+    "b": "Philadelphia",
+    "c": "Baltimore",
+    "d": "Boston",
+    "answer": "d",
+    "id": "eBx5SlEKhTkv8aahTgxlVHm9FPI"
+  },
+  {
+    "question": "In which city was \"The Music Man\" set?",
+    "a": "Philadelphia",
+    "b": "Atlantic City",
+    "c": "River City",
+    "d": "New Orleans",
+    "answer": "c",
+    "id": "uf7Snza76ak6PGl5s1r6UUnla2M"
+  },
+  {
+    "question": "In which city did Laverne & Shirley ORIGINALLY live?",
+    "a": "Los Angeles",
+    "b": "Milwaukee",
+    "c": "Rochester",
+    "d": "St. Paul",
+    "answer": "b",
+    "id": "4JMLOVgAShfLdayLquVQvp4uuq0"
+  },
+  {
+    "question": "In what city does \"Dynasty\" take place?",
+    "a": "Boston",
+    "b": "Philadelphia",
+    "c": "Denver",
+    "d": "New York",
+    "answer": "c",
+    "id": "Qz_NjIqEmq5C__5T8IyAeijaJj8"
+  },
+  {
+    "question": "In what city is Motown Records located?",
+    "a": "Hollywood",
+    "b": "Nashville",
+    "c": "New York",
+    "d": "Detroit",
+    "answer": "d",
+    "id": "59SKnJtBD5cf3vi8lgLqkfpN4R8"
+  },
+  {
+    "question": "In what city is Penny Lane located?",
+    "a": "Liverpool",
+    "b": "London",
+    "c": "San Francisco",
+    "d": "Augusta, Georgia",
+    "answer": "a",
+    "id": "-x55ZID7EiEH8ul19RkwmYmHnOY"
+  },
+  {
+    "question": "In what city did The Flintstones live?",
+    "a": "Flintstone",
+    "b": "Flintrock",
+    "c": "Bedstone",
+    "d": "Bedrock",
+    "answer": "d",
+    "id": "ahnjVSkxeDEGPZEeGHYQdpKQ0Tk"
+  },
+  {
+    "question": "\"City Lights\" was the name of a film by whom?",
+    "a": "Buster Crabbe",
+    "b": "Charlie Chan",
+    "c": "Charlie Chaplin",
+    "d": "The Marx Brothers",
+    "answer": "c",
+    "id": "4depgEHbML7KP0zKZibSuU7Jp2M"
+  },
+  {
+    "question": "In what city was Woodstock held?",
+    "a": "Woodstock, NY",
+    "b": "Albany, NY",
+    "c": "Utica, NY",
+    "d": "Bethel, NY",
+    "answer": "d",
+    "id": "iGSiRdOWeVnNGbhU2E3-ZEbwgsw"
+  },
+  {
+    "question": "Where did Luke Skywalker grow up?",
+    "a": "The Degeba System",
+    "b": "Tatouinne",
+    "c": "The Death Star",
+    "d": "Thoth",
+    "answer": "b",
+    "id": "aaMBDCFC1ASBZWew-zOGLgWF89o"
+  },
+  {
+    "question": "In what city did \"All in the Family\" take place?",
+    "a": "Peoria, Illinios",
+    "b": "Des Moines, Iowa",
+    "c": "New York, New York",
+    "d": "Akron, Ohio",
+    "answer": "c",
+    "id": "lBtDywH-g3MKOcZpuoXeg5hhBSQ"
+  },
+  {
+    "question": "In which city did \"Flashdance\" take place?",
+    "a": "New York",
+    "b": "Chicago",
+    "c": "Pittsburgh",
+    "d": "Philadelphia",
+    "answer": "d",
+    "id": "dx5VuqLYemJgZVkEx-jgjs8fES8"
+  },
+  {
+    "question": "What city is also known as \"Music City, U.S.A.\"?",
+    "a": "Hollywood, CA",
+    "b": "New York, NY",
+    "c": "Nashville, TN",
+    "d": "Burbank, CA",
+    "answer": "c",
+    "id": "uc9P8mcVInEhtIH29-JccdqleVk"
+  },
+  {
+    "question": "Where was Joan Baez born?",
+    "a": "San Francisco, CA",
+    "b": "Staten Island, NY",
+    "c": "Wichita, Kansas",
+    "d": "Houston, Texas",
+    "answer": "b",
+    "id": "zS0rH6zJw6hfJg1cNP-AoS1mkPU"
+  },
+  {
+    "question": "What rock group uses roman numerals on all of its album covers?",
+    "a": "Boston",
+    "b": "Chicago",
+    "c": "Miami",
+    "d": "The Asbury Jukes",
+    "answer": "b",
+    "id": "jx3Hx5-gWnBxyMrzkar_jeMS3A4"
+  },
+  {
+    "question": "What music video shows Randy Newman driving a convertible?",
+    "a": "Hollywood",
+    "b": "I Hate New York",
+    "c": "Atlanta Here I Come",
+    "d": "I Love L.A.",
+    "answer": "d",
+    "id": "x678-ZtwH-y2SjghohMTWtku-lU"
+  },
+  {
+    "question": "Where are The Bee Gees originally from?",
+    "a": "Newcastle, England",
+    "b": "Sydney, Australia",
+    "c": "Melbourne Australia",
+    "d": "Johannasburgh, S.A.",
+    "answer": "a",
+    "id": "rmlC7mtRIkEhYEzlLy-c0D3_Frk"
+  },
+  {
+    "question": "Marty Robbins had his biggest Country hit with the song...",
+    "a": "El Paso",
+    "b": "Houston",
+    "c": "Jackson",
+    "d": "Santa Fe Sweetheart",
+    "answer": "a",
+    "id": "mTIGrRuOQzNUzgMRv1w2_iwFt54"
+  },
+  {
+    "question": "In what city was Bill Graham's FIRST Fillmore Ballroom located?",
+    "a": "New York",
+    "b": "San Francisco",
+    "c": "Los Angeles",
+    "d": "Boston",
+    "answer": "b",
+    "id": "TIdk2M-r2sZMzC41ccRFoCWCnn0"
+  },
+  {
+    "question": "Where was Buddy Holley from?",
+    "a": "Nashville, TN",
+    "b": "Memphis, TN",
+    "c": "Lubbock, Texas",
+    "d": "Santa Fe, NM",
+    "answer": "c",
+    "id": "v8BLyKlrWkcEgoTibRsNIhLqy4Y"
+  },
+  {
+    "question": "Who was the first guest host on \"Saturday Night Live\"?",
+    "a": "Steve Martin",
+    "b": "George Carlin",
+    "c": "Paul Simon",
+    "d": "Lily Tomlin",
+    "answer": "b",
+    "id": "x6iaMydbHygLi3jbwvZUeOkNQSw"
+  },
+  {
+    "question": "Which TV show was based on the death of Helen Kimble?",
+    "a": "The Miracle Worker",
+    "b": "Kojak",
+    "c": "The Fugitive",
+    "d": "Miami Vice",
+    "answer": "c",
+    "id": "yKZRjNSrp9XXII9nX3pHe4mw-a8"
+  },
+  {
+    "question": "Who played the role of the 12 year old prostitute in \"Taxi Driver\"?",
+    "a": "Muriel Hemingway",
+    "b": "Jodi Foster",
+    "c": "Brooke Shields",
+    "d": "Tatum O'Neal",
+    "answer": "b",
+    "id": "b2QdbZXFgrVqFQXmRnNHMbKoors"
+  },
+  {
+    "question": "In the film \"The Sting\", who played the role of Henry Gondorff?",
+    "a": "Paul Newman",
+    "b": "Robert Redford",
+    "c": "Jackie Gleason",
+    "d": "Robert Shaw",
+    "answer": "a",
+    "id": "yZunXp0eHbuWjRc0IfFJvMQe9r4"
+  },
+  {
+    "question": "In \"The Blues Brothers\", Jake's brother was named...",
+    "a": "Joshua",
+    "b": "Leroy",
+    "c": "Elwood",
+    "d": "Haieleah",
+    "answer": "c",
+    "id": "7f9s-cFta2noJ9oNwZwzMNYuPjc"
+  },
+  {
+    "question": "What TV show saw 99 marry 86?",
+    "a": "Man From U.N.C.L.E.",
+    "b": "The Prisoner",
+    "c": "Get Smart",
+    "d": "I Spy",
+    "answer": "c",
+    "id": "OcfVh8GxxBI5HmpjP6JR7NJeZNo"
+  },
+  {
+    "question": "The Beatles' LAST film project was:",
+    "a": "Yellow Submarine",
+    "b": "Let it Be",
+    "c": "Hard Day's Night",
+    "d": "Help!",
+    "answer": "b",
+    "id": "NFgBdLzZ-wVOPBZmcw4FE9hWIT0"
+  },
+  {
+    "question": "\"Got to Be There\" was the first solo hit for which artist?",
+    "a": "George Harrison",
+    "b": "Mick Jagger",
+    "c": "Michael Jackson",
+    "d": "Paul McCartney",
+    "answer": "c",
+    "id": "87cSXQPGlp0U1Lkos4UJwRmfrZQ"
+  },
+  {
+    "question": "Who had the 1978 hit \"Take This Job and Shove it\"?",
+    "a": "Johnny Paycheck",
+    "b": "Hank Stub",
+    "c": "Charley Pride",
+    "d": "The Oakridge Boys",
+    "answer": "a",
+    "id": "24r-OtmRz4rKkR6wdGrdA4lJ7Zs"
+  },
+  {
+    "question": "What was Clarence Rutherford's nickname?",
+    "a": "Babe",
+    "b": "Louisville Slugger",
+    "c": "Yankee Doodle",
+    "d": "Lumpy",
+    "answer": "d",
+    "id": "razZ1hQlLw3xauyhn3R3O9lWWzI"
+  },
+  {
+    "question": "Chevy Chase's REAL NAME is actually...",
+    "a": "Charles Chase",
+    "b": "Charles Chatworth",
+    "c": "Chevalier Chaseborn",
+    "d": "Chevy Chase",
+    "answer": "d",
+    "id": "c3RvadkHyXtPRLVSF7WSf_1A3bI"
+  },
+  {
+    "question": "Which of these films DID NOT feature actress Sigourney Weaver?",
+    "a": "Ghostbusters",
+    "b": "Alien",
+    "c": "Deal of the Century",
+    "d": "The Big Chill",
+    "answer": "d",
+    "id": "a3f9OwzsTf6J3nyd2ccsVpVnLjU"
+  },
+  {
+    "question": "What was Stevie Wonder's first big hit song?",
+    "a": "Fingertips",
+    "b": "My Cheri Amor",
+    "c": "Superstitious",
+    "d": "Uptight, Outasight",
+    "answer": "a",
+    "id": "h88dHz_c2BhLp8of0fywnAXWQY8"
+  },
+  {
+    "question": "Who did Ed Sullivan promise would NEVER appear on his show again?",
+    "a": "The Doors",
+    "b": "The Beatles",
+    "c": "The Rolling Stones",
+    "d": "The Sex Pistols",
+    "answer": "c",
+    "id": "8-REXgMqJjDIoxkvlEX_JfsVXvI"
+  },
+  {
+    "question": "Who had the her first hit in 1962 with \"Don't Make Me Over\"?",
+    "a": "Diahann Carrol",
+    "b": "Roberta Flack",
+    "c": "Dionne Warwick",
+    "d": "Linda Rondstadt",
+    "answer": "c",
+    "id": "ALC3CCAMWN5K2cAcBLw5OFR7dCU"
+  },
+  {
+    "question": "Which of these was the first hit song for The Four Seasons?",
+    "a": "Big Girls Don't Cry",
+    "b": "Candy Girl",
+    "c": "Sherrie",
+    "d": "Dawn",
+    "answer": "c",
+    "id": "CEZdAc20WYGg87lSmcSMgtMK8VQ"
+  },
+  {
+    "question": "In what year did Johnny Carson take over The Tonight Show?",
+    "a": "1962",
+    "b": "1967",
+    "c": "1954",
+    "d": "1969",
+    "answer": "a",
+    "id": "V3He1OjeQNle49qoaeKxY9qWsI4"
+  },
+  {
+    "question": "Which of these actresses WAS NOT married to John Derek?",
+    "a": "Bo Derek",
+    "b": "Linda Evans",
+    "c": "Ursula Andress",
+    "d": "Lauren Hutton",
+    "answer": "d",
+    "id": "FbVh71NZaXuR4UgABkFURD1x3bc"
+  },
+  {
+    "question": "What is Beverly Sills's nickname?",
+    "a": "Ms. Met",
+    "b": "Chuckles",
+    "c": "Mama",
+    "d": "Bubbles",
+    "answer": "d",
+    "id": "MXZMnV36B5vr8KNkAi0e98DWiRE"
+  },
+  {
+    "question": "What college did \"Flashdance\" star Jennifer Beals attend?",
+    "a": "Radcliffe",
+    "b": "Yale",
+    "c": "Stanford",
+    "d": "Never went.",
+    "answer": "b",
+    "id": "Hx54ehPw1vq3yyyJ8pqymbfL474"
+  },
+  {
+    "question": "Who portrayed Beaver Cleaver's mother on \"Leave it to Beaver\"?",
+    "a": "Jane Wyman",
+    "b": "Barbara Billingsley",
+    "c": "June Lockhart",
+    "d": "Donna Reed",
+    "answer": "b",
+    "id": "VS3zbdZ3c3jHDkdy_VRfR70wuiQ"
+  },
+  {
+    "question": "Who portrayed the mother on the TV show \"Lost in Space\"?",
+    "a": "Angela Cartwright",
+    "b": "June Lockhart",
+    "c": "Barbara Billingsley",
+    "d": "Jane Wyman",
+    "answer": "b",
+    "id": "lvyCUpRDISVF6Jnj3z-APsT8siw"
+  },
+  {
+    "question": "Who portrayed the mother on the TV show \"Father Knows Best\"?",
+    "a": "Jane Wyman",
+    "b": "June Lockhart",
+    "c": "Donna Reed",
+    "d": "Barbara Billingsley",
+    "answer": "a",
+    "id": "YzE0yKpnAeiadQeYCnjs_ZKUwuE"
+  },
+  {
+    "question": "Who played Johnny Crawford's mother on \"The Rifleman\"?",
+    "a": "Jane Wyman",
+    "b": "June Lockhart",
+    "c": "Barbara Billingsley",
+    "d": "Nobody ever did",
+    "answer": "d",
+    "id": "EtLSSZKJV2PhT1sg7eqtKskIgtQ"
+  },
+  {
+    "question": "What was George Jetson's wife's name?",
+    "a": "Judy",
+    "b": "Jane",
+    "c": "Betty",
+    "d": "Joan",
+    "answer": "b",
+    "id": "ZF0X-IGASFVJlT6nd3lqIhW4csw"
+  },
+  {
+    "question": "Who plays the role of Fallon's mother on TV's \"Dynasty\"?",
+    "a": "Linda Evans",
+    "b": "Joan Collins",
+    "c": "Diahann Carroll",
+    "d": "Pamela Bellwood",
+    "answer": "b",
+    "id": "SIufdY1-0E3SZ49qsPOYf2oRvZI"
+  },
+  {
+    "question": "Who portrayed the mother on the TV show \"My Three Sons\"?",
+    "a": "Agnes Moorehead",
+    "b": "June Lockhart",
+    "c": "Nobody ever did",
+    "d": "Sally Fields",
+    "answer": "c",
+    "id": "2tRzr6JzE3acpit7dIndP8H8wgA"
+  },
+  {
+    "question": "Who portrayed Samantha Stevens's mother on \"Bewitched\"?",
+    "a": "Ava Gabor",
+    "b": "Liz Montgomery",
+    "c": "Agnes Moorehead",
+    "d": "Edith Head",
+    "answer": "c",
+    "id": "kAPEurfoB3SBVkAdwYROUj-Wor8"
+  },
+  {
+    "question": "Who played John-Boy's mother on The Waltons's?",
+    "a": "Michael Douglas",
+    "b": "Michael Learned",
+    "c": "Meredith Baxter",
+    "d": "Leslie Neilson",
+    "answer": "b",
+    "id": "C_u8soywpZ-y0Mbv_G2GPqPtKV8"
+  },
+  {
+    "question": "Who plays Lance's mother on the TV show \"Falcon Crest\"?",
+    "a": "Jane Wyman",
+    "b": "Susan Sullivan",
+    "c": "Ann Alicia",
+    "d": "Laura Johnson",
+    "answer": "a",
+    "id": "oJID7HjqiUaztyRYtJpDihKHiBk"
+  },
+  {
+    "question": "Who portrayed the mother on TV's \"Brady Bunch\"?",
+    "a": "June Allison",
+    "b": "Florence Henderson",
+    "c": "Jane Wyatt",
+    "d": "June Meredith",
+    "answer": "b",
+    "id": "OusIBtzSK1tnusGtCEhVHt3f06s"
+  },
+  {
+    "question": "Who portrayed the father on TV's \"Brady Bunch\"?",
+    "a": "Robert Reed",
+    "b": "Robert Young",
+    "c": "Darren McCleod",
+    "d": "Dick York",
+    "answer": "a",
+    "id": "dAK9c-HWtAZiVNQv4ZkRodDddF4"
+  },
+  {
+    "question": "Who portrayed the father on TV's \"Father Knows Best\"?",
+    "a": "Brian Keith",
+    "b": "Hugh Beaumont",
+    "c": "Robert Young",
+    "d": "Robert Taylor",
+    "answer": "c",
+    "id": "QyF_J5L27_e6MSEIrxkf4pyrjGY"
+  },
+  {
+    "question": "Who portrayed the father on TV's \"The Donna Reed Show\"?",
+    "a": "Carl Betz",
+    "b": "Robert Reed",
+    "c": "Richard Rawlings",
+    "d": "Tim Bosley",
+    "answer": "a",
+    "id": "DNFWqNDJoV5d2OLpXzfuqdKWI8U"
+  },
+  {
+    "question": "Who portrayed the father on TV's \"Leave it to Beaver\"?",
+    "a": "Mel Cooley",
+    "b": "Hugh Beaumont",
+    "c": "Fred MacMurray",
+    "d": "Richard Rawlings",
+    "answer": "b",
+    "id": "wWg_OaNt3hSRvdkXveXKh9Lxyiw"
+  },
+  {
+    "question": "Who portrayed the father on TV's \"Happy Days\"?",
+    "a": "Fred MacMurray",
+    "b": "Robert Young",
+    "c": "Richard Best",
+    "d": "Tim Bosley",
+    "answer": "d",
+    "id": "ADlodRyPsvnJXDVE1QE4wbBUcYw"
+  },
+  {
+    "question": "What was Bam-Bam's father's name on TV's \"Flintstones\"?",
+    "a": "Bernie",
+    "b": "David",
+    "c": "Barney",
+    "d": "Darryl",
+    "answer": "c",
+    "id": "pZx_bEYsSacUE6lHuSPJE_M6JD8"
+  },
+  {
+    "question": "Who portrayed the father on TV's \"My Three Sons\"?",
+    "a": "Frederick March",
+    "b": "Hugh Beaumont",
+    "c": "Fred MacMurray",
+    "d": "Robert Young",
+    "answer": "c",
+    "id": "W-wJBcXPiBRYdtv-wGaEwuHnUMs"
+  },
+  {
+    "question": "Who portrayed the father on TV's \"Mayberry R.F.D.\"?",
+    "a": "Tony Randall",
+    "b": "Brian Keith",
+    "c": "Andy Griffith",
+    "d": "David Birney",
+    "answer": "c",
+    "id": "-mIh6d4oWCZrdKzxY3XdGA6K-b8"
+  },
+  {
+    "question": "Who portrayed the UNCLE on TV's \"Family Affair\"?",
+    "a": "Fred MacMurray",
+    "b": "Dick York",
+    "c": "Carl Betz",
+    "d": "Brian Keith",
+    "answer": "d",
+    "id": "RSj1GY_LVNfUtMKM2C0LW0vjFCk"
+  },
+  {
+    "question": "Which of the Cartwright boys had gone to college?",
+    "a": "Little Joe",
+    "b": "Hoss",
+    "c": "Ben",
+    "d": "Adam",
+    "answer": "d",
+    "id": "Y0bFRpsCYRKpZ6dvHiKDq1_21Iw"
+  },
+  {
+    "question": "What comedy duo made their final joint appearance on April 1, 1960?",
+    "a": "Martin and Lewis",
+    "b": "Laurel and Hardy",
+    "c": "Lucy and Desi Arnaz",
+    "d": "Dick Van Dyke & MTM",
+    "answer": "c",
+    "id": "Hue5P6wDX0Lc9kELeocl0sAfVaM"
+  },
+  {
+    "question": "What family did \"The Donna Reed Show\" center on?",
+    "a": "Andersons",
+    "b": "Williams",
+    "c": "Stones",
+    "d": "Cunninghams",
+    "answer": "c",
+    "id": "tIPk7fICm9WAuGAWefkeWb30V1E"
+  },
+  {
+    "question": "What western topped the Nielsen ratings from 1964-5 through 1966-7",
+    "a": "Rawhide",
+    "b": "Gunsmoke",
+    "c": "Bonanza",
+    "d": "The Big Valley",
+    "answer": "c",
+    "id": "7ZuPwCSj7T8SW0S3qO61yxyJQSE"
+  },
+  {
+    "question": "What was Johnny Cash's first million-seller, in 1956?",
+    "a": "Folsom Prison",
+    "b": "A Boy Named Sue",
+    "c": "Man in Black",
+    "d": "I Walk the Line",
+    "answer": "d",
+    "id": "zPZ8dA98Nk-PF_x_T0_mF51lZog"
+  },
+  {
+    "question": "What city was the setting for TV's \"Mork and Mindy\"?",
+    "a": "Denver",
+    "b": "Boulder",
+    "c": "Chicago",
+    "d": "Minneapolis",
+    "answer": "b",
+    "id": "r116Ylp-CQAkBMpFYpPoFmAjYKI"
+  },
+  {
+    "question": "In \"The Wizard of Oz\" how old was Dorothy supposed to be?",
+    "a": "9",
+    "b": "11",
+    "c": "13",
+    "d": "15",
+    "answer": "b",
+    "id": "RpVoP4BDatqAoib7XpOi49I8SSU"
+  },
+  {
+    "question": "What famous folksinger was born in Hibbing, Minnesota?",
+    "a": "Arlo Guthrie",
+    "b": "Mary Travers",
+    "c": "Bob Seeger",
+    "d": "Bob Dylan",
+    "answer": "d",
+    "id": "nZ8U2-aqhOL5pcB_0IB0ZHAXKEc"
+  },
+  {
+    "question": "What English rock group was initially known as \"High Numbers\"?",
+    "a": "Kinks",
+    "b": "Rolling Stones",
+    "c": "The Who",
+    "d": "Led Zeppelin",
+    "answer": "c",
+    "id": "fAcOP3Bs7-P5ji9XF412zyac1iU"
+  },
+  {
+    "question": "What country group fist played under the name of \"The Kingsmen\"?",
+    "a": "Statler Brothers",
+    "b": "Kingston Trio",
+    "c": "Oakridge Boys",
+    "d": "Gatlin Brothers",
+    "answer": "a",
+    "id": "xusSDqkUizQfY2BusJQUF8Wj90Y"
+  },
+  {
+    "question": "\"All About Eve\" was the film for what musical?",
+    "a": "Sugar & Spice",
+    "b": "Applause",
+    "c": "High Society",
+    "d": "Carnival",
+    "answer": "b",
+    "id": "Ps1XnzD6IRd62z0qPYyLJflt6ag"
+  },
+  {
+    "question": "\"The Only Game in Town\" teamed Elizabeth Taylor and ...",
+    "a": "Michael Todd",
+    "b": "Richard Burton",
+    "c": "Humphrey Bogart",
+    "d": "Warren Beatty",
+    "answer": "d",
+    "id": "b8GZNxBobMVFbOaMj5Hdak3et6U"
+  },
+  {
+    "question": "\"Fun with Dick and Jane\" starred George Segal and ...",
+    "a": "Jane Fonda",
+    "b": "Faye Dunaway",
+    "c": "Barbra Streisand",
+    "d": "Vanessa Redgrave",
+    "answer": "a",
+    "id": "biFcRTqWtQlcGBXnIdMYe3rfBpw"
+  },
+  {
+    "question": "\"The Ipcress File\" starred what British actor as a spy?",
+    "a": "Michael Caine",
+    "b": "Peter Cooke",
+    "c": "Roger Moore",
+    "d": "Alec Guiness",
+    "answer": "a",
+    "id": "uR6fIejMj5AOap_s1ApoBnZhV94"
+  },
+  {
+    "question": "Who played the crazy drunk gun- slinger in \"Cat Ballou\"?",
+    "a": "James Coburn",
+    "b": "Kirk Douglas",
+    "c": "Lee Marvin",
+    "d": "Burt Lancaster",
+    "answer": "c",
+    "id": "irC0aIMSu7liQzEAh8Nmblb2Av0"
+  },
+  {
+    "question": "Who played Gable in the movie \"Gable and Lombard\"?",
+    "a": "Richard Gere",
+    "b": "Lorenzo Llamas",
+    "c": "Richard Thomas",
+    "d": "James Brolin",
+    "answer": "d",
+    "id": "jk_tywVR5ac2hIG1WqtxzgMgdRI"
+  },
+  {
+    "question": "Who wrote the hit song \"It Doesn't Matter Anymore?",
+    "a": "Paul Anka",
+    "b": "Buddy Holly",
+    "c": "Neil Sedaka",
+    "d": "Jimmy Buffett",
+    "answer": "a",
+    "id": "s0eLd557EdvpbWaIhixgVe6AVhM"
+  },
+  {
+    "question": "Who played Dr. Zorba on the TV show \"Ben Casey\"?",
+    "a": "Raymond Massey",
+    "b": "Richard Chamberlain",
+    "c": "Sam Jaffe",
+    "d": "Ben Casey",
+    "answer": "c",
+    "id": "HLoEBgvMMVTz_B_qlN0QSGbcX04"
+  },
+  {
+    "question": "What Beatles album featured \"Back in the U.S.S.R.\"?",
+    "a": "Abbey Road",
+    "b": "Magical Mystery",
+    "c": "Rubber Soul",
+    "d": "The White Album",
+    "answer": "d",
+    "id": "WRoe3xVdfAaJ58sgOuswJzf-I6w"
+  },
+  {
+    "question": "On \"The Mickey Mouse Club\" what day was \"Fun with Music Day\"?",
+    "a": "Monday",
+    "b": "Wednesday",
+    "c": "Thursday",
+    "d": "Friday",
+    "answer": "a",
+    "id": "bmBz3-kSi22xzzraVYjhcoNTujI"
+  },
+  {
+    "question": "The Marx Brothers made their screen debut in what film?",
+    "a": "Day at the Races",
+    "b": "City Lights",
+    "c": "Doctor Nogood",
+    "d": "The Coconuts",
+    "answer": "d",
+    "id": "TEiiQHJjFmb91cNCc2blDhXOpJ8"
+  },
+  {
+    "question": "Who played the female lead in the film \"Summer of 42\"?",
+    "a": "Cybil Shepard",
+    "b": "Kathryn Ross",
+    "c": "Jennifer O'Neill",
+    "d": "Candice Bergman",
+    "answer": "c",
+    "id": "oSGYiUZ9URi5Ic7NAf2jgM0llz4"
+  },
+  {
+    "question": "John Travolta did NOT star in which movie?",
+    "a": "Carrie",
+    "b": "Grease",
+    "c": "Blow-Up",
+    "d": "The Devil's Rain",
+    "answer": "c",
+    "id": "HZ93EkivX2E7INMVIqZZ2OFz9b4"
+  },
+  {
+    "question": "Chubby Checkers real name was?",
+    "a": "Reginald Dwight",
+    "b": "Ernest Evans",
+    "c": "Charles Checker",
+    "d": "Checker Winthrop",
+    "answer": "b",
+    "id": "Bcs7n2exO7AUONEaSOOv8jwiOHM"
+  },
+  {
+    "question": "Which play won the Pulitzer Prize for Drama?",
+    "a": "My Fair Lady",
+    "b": "South Pacific",
+    "c": "Oklahoma",
+    "d": "Hair",
+    "answer": "b",
+    "id": "bQTHaXRzv70Fd37tdtNxO3zTgf0"
+  },
+  {
+    "question": "What female group toured with the Beatles in 1966?",
+    "a": "The Shirells",
+    "b": "The Ronettes",
+    "c": "The Supremes",
+    "d": "The Chiffons",
+    "answer": "b",
+    "id": "FXMnI9THJ8qr8HvKeg2fbYL1uVs"
+  },
+  {
+    "question": "What group first recorded the hit \"Wipe Out\"?",
+    "a": "The Beach Boys",
+    "b": "Jan and Dean",
+    "c": "Booker T. & the MGs",
+    "d": "The Surfaris",
+    "answer": "d",
+    "id": "Np16_t3akuWdXzSOq71BqEVLXTA"
+  },
+  {
+    "question": "In what play did Lena Horne and Richardo Montalban head the cast?",
+    "a": "Porgy and Bess",
+    "b": "Jamaica",
+    "c": "Hello Dolly",
+    "d": "Great White Hope",
+    "answer": "b",
+    "id": "9a_RY_b7q6GkNOzPpPD7o8lnE2I"
+  },
+  {
+    "question": "Which of these Beatles songs was a big hit, released in 1968?",
+    "a": "Help",
+    "b": "Yellow Submarine",
+    "c": "Hey Jude",
+    "d": "A Hard Day's Night",
+    "answer": "c",
+    "id": "cUwD28axg_4__dL7f98GgS6hiVI"
+  },
+  {
+    "question": "In the film \"Bullitt\" the corrupt politician was played by ...",
+    "a": "Dean Martin",
+    "b": "Martin Sheen",
+    "c": "Robert Vaughan",
+    "d": "Telly Savalas",
+    "answer": "c",
+    "id": "yqsNkga8KTvIgvW8BqsilJm781A"
+  },
+  {
+    "question": "What actor portrayed the hero pilot in the film \"Airplane\"?",
+    "a": "Richard Dreyfus",
+    "b": "Robert Hays",
+    "c": "Anthony Heston",
+    "d": "Richard Peck",
+    "answer": "b",
+    "id": "7rpydQAYwxWsGsxlp7bgyYwkd2I"
+  },
+  {
+    "question": "Who played the male lead in Walt Disney's \"Babes in Toyland\"?",
+    "a": "Bobby Darren",
+    "b": "Frankie Avalon",
+    "c": "Sal Mineo",
+    "d": "Tommy Sands",
+    "answer": "d",
+    "id": "14mmboi8t8Rr0_fDBihVcot1Fv0"
+  },
+  {
+    "question": "What actress played James Dean's mother in the film \"East of Eden\"?",
+    "a": "Jo Van Fleet",
+    "b": "Elizabeth Taylor",
+    "c": "Agnes Moorhead",
+    "d": "Myrna Loy",
+    "answer": "a",
+    "id": "xosanS1nEOVOVq1Ys1Vjl_pGhjs"
+  },
+  {
+    "question": "Who was the female lead in Woody Allen's film \"Bananas\"?",
+    "a": "Diane Keaton",
+    "b": "Kim Darby",
+    "c": "Goldie Hawn",
+    "d": "Louise Lasser",
+    "answer": "d",
+    "id": "xiqj0R79dkHn-WOR1upe05475T4"
+  },
+  {
+    "question": "Who was the principal creator of Paramount Pictures?",
+    "a": "D.W. Griffith",
+    "b": "Charlie Chaplin",
+    "c": "Orson Wells",
+    "d": "Adolph Zukor",
+    "answer": "d",
+    "id": "Our5PlIK06y3YNQd9aQ_hKyEqPs"
+  },
+  {
+    "question": "Which of the following was not a biography?",
+    "a": "Funny Girl",
+    "b": "Gypsy",
+    "c": "Mame",
+    "d": "Mahogany",
+    "answer": "d",
+    "id": "whiW5snaS5eDRcKX6XTKxaHRoQ8"
+  },
+  {
+    "question": "Who recorded the hit single \"Love is the Drug\"?",
+    "a": "Talking Heads",
+    "b": "Roxy Music",
+    "c": "Huey Lewis",
+    "d": "Culture Club",
+    "answer": "b",
+    "id": "xPk-2Yrz_Ybvm-uPFjlfueq_dFc"
+  },
+  {
+    "question": "Which Rolling Stone died in the late 1960's?",
+    "a": "Brian Jones",
+    "b": "Bill Wyman",
+    "c": "Charlie Watts",
+    "d": "Ron Wood",
+    "answer": "a",
+    "id": "N4Wla9L3mVkHQDwYSsQDNE1UNLI"
+  },
+  {
+    "question": "Who is Roy Clark's co-host on the country TV show \"Hee Haw\"?",
+    "a": "Charlie Daniels",
+    "b": "Buck Owens",
+    "c": "Buck Henry",
+    "d": "Charlie Pride",
+    "answer": "b",
+    "id": "qNRua9b1c3ffOLEXpHk2ENr58WA"
+  },
+  {
+    "question": "Who wrote \"Empty Garden\" as a tribute to John Lennon in 1982?",
+    "a": "Mick Jagger",
+    "b": "Paul McCartney",
+    "c": "George Harrison",
+    "d": "Elton John",
+    "answer": "d",
+    "id": "q9av76HH1JAKuWndo0eicNvSb8E"
+  }
+]

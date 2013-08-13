@@ -1,0 +1,4502 @@
+[
+  {
+    "question": "What stadium hosted the first night baseball game in the major leagues",
+    "a": "Crosley Field",
+    "b": "Fenway Park",
+    "c": "Candlestick Park",
+    "d": "Yankee Stadium",
+    "answer": "a",
+    "id": "n2qbS-cn1S2QQ0O6-Cc_haT6ytU"
+  },
+  {
+    "question": "Which was the first foreign country to open its own \"Disneyland\"?",
+    "a": "Canada",
+    "b": "Australia",
+    "c": "Japan",
+    "d": "West Germany",
+    "answer": "c",
+    "id": "6UQUBNjUFPASQ8rScxHWVQBOEQQ"
+  },
+  {
+    "question": "In which city does the annual U.S. Soapbox Derby take place?",
+    "a": "Youngstown, Ohio",
+    "b": "Akron, Ohio",
+    "c": "Kansas City, Mo.",
+    "d": "Hannibal, Mo.",
+    "answer": "b",
+    "id": "F1z-sBRfnvzewu_KN5TvD9hMCYc"
+  },
+  {
+    "question": "What ball park has never had lights installed for night games?",
+    "a": "Forbes Field",
+    "b": "Comiskey Park",
+    "c": "Brewster Field",
+    "d": "Wrigley Field",
+    "answer": "d",
+    "id": "0KXwtC6cz8U4ZxigRKuyXH7RKV8"
+  },
+  {
+    "question": "What City has the largest bowling alley in the world?",
+    "a": "Dallas, Texas",
+    "b": "Cincinatti, Ohio",
+    "c": "Warsaw, Poland",
+    "d": "Tokyo, Japan",
+    "answer": "d",
+    "id": "9dJMIYQ5KMoehgJFOY8dT-sgXfg"
+  },
+  {
+    "question": "Name the city in which the Pig Bowl is held.",
+    "a": "Havana, Cuba",
+    "b": "El Paso, Texas",
+    "c": "Sacramento, CA",
+    "d": "Des Moines, Iowa",
+    "answer": "c",
+    "id": "TJTfpjYqWZzgqVK29XEkUpUWYu0"
+  },
+  {
+    "question": "The Heisman Trophy was been won the most by players from which college",
+    "a": "USC",
+    "b": "Notre Dame",
+    "c": "Ohio State",
+    "d": "Texas A & M",
+    "answer": "b",
+    "id": "elwz0SMA39L1IXmk1z800vfQFPc"
+  },
+  {
+    "question": "What NBA team set a record in 1973 by losing 20 consecutive games?",
+    "a": "76'ers",
+    "b": "Celtics",
+    "c": "Warriors",
+    "d": "Lakers",
+    "answer": "a",
+    "id": "w5jvrcbmdCI17CUkUvNjQKbWU1g"
+  },
+  {
+    "question": "Bobby Fischer met Boris Spassky for the world chess championship in...",
+    "a": "1970",
+    "b": "1974",
+    "c": "1972",
+    "d": "1968",
+    "answer": "c",
+    "id": "NaFeJzbq_l4dDZAHUUnfWbLvXuM"
+  },
+  {
+    "question": "How many numbered squares are on a standard Bingo card?",
+    "a": "25",
+    "b": "16",
+    "c": "36",
+    "d": "24",
+    "answer": "d",
+    "id": "mVYMpo69sY2nlIUgo-WAkn9j3R0"
+  },
+  {
+    "question": "What two letters in the game of Scrabble are the most valuable?",
+    "a": "J and Z",
+    "b": "Z and Q",
+    "c": "X and Z",
+    "d": "Q and X",
+    "answer": "b",
+    "id": "TMdhsMXtCCfhczybESi7CLqMFMg"
+  },
+  {
+    "question": "With which NFL team did 49'er head coach Bill Walsh get his first job",
+    "a": "Cincinatti Bengals",
+    "b": "San Diego Chargers",
+    "c": "Oakland Raiders",
+    "d": "San Francisco 49ers",
+    "answer": "c",
+    "id": "1JjlE0ykkNNmYAskaw1I4RRMLKc"
+  },
+  {
+    "question": "In golf, what is the term for two strokes under par?",
+    "a": "Bogey",
+    "b": "Birdie",
+    "c": "Hat Trick",
+    "d": "Eagle",
+    "answer": "d",
+    "id": "3YxfZgcRgdKlzgpyaOhcXJlFyPc"
+  },
+  {
+    "question": "In what year were the modern day Olympics revived in Athens, Greece",
+    "a": "1860",
+    "b": "1904",
+    "c": "1936",
+    "d": "1896",
+    "answer": "d",
+    "id": "5IWipWV51bnIJvCuX840yhfb1Vo"
+  },
+  {
+    "question": "Which baseball player once played for the Harlem Globetrotters?",
+    "a": "Willie McCovey",
+    "b": "Bob Gibson",
+    "c": "Reggie Jackson",
+    "d": "Jackie Robinson",
+    "answer": "b",
+    "id": "2qr5HvARPxSZ1Fde_v_F3TaxLB0"
+  },
+  {
+    "question": "With a standard pair of dice, how likely is a '7' to come up?",
+    "a": "1 in 3",
+    "b": "1 in 36",
+    "c": "1 in 6",
+    "d": "1 in 3",
+    "answer": "c",
+    "id": "tb1x5v2zI2R1W4Jwf8jbO7V6Shs"
+  },
+  {
+    "question": "An American roulette wheel contains how many different numbered spots?",
+    "a": "35",
+    "b": "36",
+    "c": "37",
+    "d": "38",
+    "answer": "d",
+    "id": "Do8h9JPtcjMe3etbb-SV3zJb3C4"
+  },
+  {
+    "question": "Which is the only NFL team that has nothing pictured on its helmets?",
+    "a": "Philadelphia Eagles",
+    "b": "Kansas City Chiefs",
+    "c": "Seattle Seahawks",
+    "d": "Cleveland Browns",
+    "answer": "d",
+    "id": "iSWr85bRoEZCwTq0G8twCvDrde0"
+  },
+  {
+    "question": "The only chess piece unable to move to a different colored square is..",
+    "a": "the pawn.",
+    "b": "the bishop.",
+    "c": "the rook.",
+    "d": "the knight.",
+    "answer": "b",
+    "id": "rj8u6iRh8Mm8Wj1soBHNR1mUYVw"
+  },
+  {
+    "question": "In what year were women first allowed to compete in the Olympics",
+    "a": "1896",
+    "b": "1904",
+    "c": "1900",
+    "d": "1928",
+    "answer": "d",
+    "id": "lBwxr-zgszSqWwZ2PBy8_gYnuac"
+  },
+  {
+    "question": "Over what distance is the Kentucky Derby run?",
+    "a": "1.25 miles",
+    "b": "1.00 mile",
+    "c": "2.50 miles",
+    "d": "0.75 mile",
+    "answer": "a",
+    "id": "XSpR1fUoWKFjMmHRZ8-P3IHQ8kw"
+  },
+  {
+    "question": "In Judo, what is the color of the highest belt you can achieve?",
+    "a": "red",
+    "b": "black",
+    "c": "brown",
+    "d": "white",
+    "answer": "a",
+    "id": "mpzZSqytimsQd244FxMSNdhoYZQ"
+  },
+  {
+    "question": "What annual event awards the Borg-Warner trophy?",
+    "a": "U.S. Open",
+    "b": "Indianapolis 500",
+    "c": "Baja 500",
+    "d": "Belmont Stakes",
+    "answer": "b",
+    "id": "xUQ6I5nOtTzMuKu1bDD_M1c1DR8"
+  },
+  {
+    "question": "In what year was the first Rose Bowl played?",
+    "a": "1928",
+    "b": "1932",
+    "c": "1946",
+    "d": "1902",
+    "answer": "d",
+    "id": "HdAoZiOB4bc9W7V-jPF_n3tNc2U"
+  },
+  {
+    "question": "Where did Billy Jean King defeat Bobby Riggs?",
+    "a": "Las Vegas, NV",
+    "b": "Forest Hills, NY",
+    "c": "Houston, TX",
+    "d": "Los Angeles, CA",
+    "answer": "c",
+    "id": "68LftbOp3gCKTbt2ds_v5EMsKxw"
+  },
+  {
+    "question": "Who said `the bigger they come, the harder they fall'?",
+    "a": "Joe Louis",
+    "b": "Sonny Liston",
+    "c": "Bob Fitzsimmons",
+    "d": "Sugar Ray Robinson",
+    "answer": "c",
+    "id": "c2qeM903UT89KGiWAL_VtLPIynw"
+  },
+  {
+    "question": "Name the first woman to race in the Indianapolis 500.",
+    "a": "Shirley Muldowney",
+    "b": "Janet Guthrie",
+    "c": "Tracy Austin",
+    "d": "Mary Decker",
+    "answer": "b",
+    "id": "m6J7OQvdOzPbGh8UHE20zvvXnGA"
+  },
+  {
+    "question": "With what team did quarterback Roman Gabriel last play?",
+    "a": "Los Angeles Rams",
+    "b": "New York Jets",
+    "c": "Philadelphia Eagles",
+    "d": "Chicago Bears",
+    "answer": "c",
+    "id": "Ll3ovzCzHeGhT_3-_r2VeMVyQ9Y"
+  },
+  {
+    "question": "Name the home state of the NHL Devils.",
+    "a": "Rhode Island",
+    "b": "New York",
+    "c": "Connecticut",
+    "d": "New Jersey",
+    "answer": "d",
+    "id": "PcXokB3gClsCp9raoVIkdPhJhY4"
+  },
+  {
+    "question": "Who is credited with the line `nice guys finish last'?",
+    "a": "Mel Ott",
+    "b": "Leo Durocher",
+    "c": "Yogi Berra",
+    "d": "Dizzy Dean",
+    "answer": "b",
+    "id": "HI-AGiUXppSgB2mMvvrvExzK36U"
+  },
+  {
+    "question": "The first black player elected to the Pro Football Hall of Fame was:",
+    "a": "O.J. Simpson",
+    "b": "Jim Brown",
+    "c": "Emlen Tunnell",
+    "d": "Gale Sayers",
+    "answer": "c",
+    "id": "nb9RVoZqJulOZiTNEi6MWkNe0wc"
+  },
+  {
+    "question": "What college stadium has a seating capacity of over 100,000?",
+    "a": "Michigan, Ann Arbor",
+    "b": "Stanford",
+    "c": "USC",
+    "d": "Notre Dame",
+    "answer": "a",
+    "id": "kje__27V00lDF7280OPHGH1NrmA"
+  },
+  {
+    "question": "What school produced the first winner of the Heisman Trophy?",
+    "a": "Notre Dame",
+    "b": "Yale",
+    "c": "USC",
+    "d": "Ohio State",
+    "answer": "b",
+    "id": "aPd8hPJsxjUhYDd9N3ee28ipL5Y"
+  },
+  {
+    "question": "Name the first team to win the Stanley Cup.",
+    "a": "New York Islanders",
+    "b": "Boston Bruins",
+    "c": "Ottowa Senators",
+    "d": "Chicago Blackhawks",
+    "answer": "c",
+    "id": "NRG3hDjvM5j2fqYxZkAHa-oHVok"
+  },
+  {
+    "question": "What NFL team was formerly known as the Portsmouth Spartans?",
+    "a": "N. England Patriots",
+    "b": "Detroit Lions",
+    "c": "New York Jets",
+    "d": "Dallas Cowboys",
+    "answer": "b",
+    "id": "pFXDAq48rMxtUPsY75ddpAdi7dY"
+  },
+  {
+    "question": "How many NHL teams are Canadian?",
+    "a": "3",
+    "b": "5",
+    "c": "9",
+    "d": "7",
+    "answer": "d",
+    "id": "d29zoTkYqNortdPBRLXLv0lqfB8"
+  },
+  {
+    "question": "In what sport do you find a `masse' shot?",
+    "a": "Tennis",
+    "b": "Billiards",
+    "c": "Golf",
+    "d": "Archery",
+    "answer": "b",
+    "id": "AbhMUt05rYvgASs_JPSkO2ToYgA"
+  },
+  {
+    "question": "Who is the only pitcher to hit a grand slam in a World Series?",
+    "a": "Darold Knowles",
+    "b": "Jim Bunning",
+    "c": "Dave McNally",
+    "d": "Nolan Ryan",
+    "answer": "c",
+    "id": "9_7-joYBI4Kf9u8WW74IgYJZd-A"
+  },
+  {
+    "question": "The record for non-stop, long-distance swimming is:",
+    "a": "42.5 miles",
+    "b": "76.2 miles",
+    "c": "121 miles",
+    "d": "292 miles",
+    "answer": "d",
+    "id": "oDYkjdE5OKCEkya8UPSG-6CkFJM"
+  },
+  {
+    "question": "By what nickname are the colored lights starting a drag race known?",
+    "a": "traffic lights",
+    "b": "christmas tree",
+    "c": "pit lights",
+    "d": "hollywood lights",
+    "answer": "b",
+    "id": "HxskcAa03L1yQWhxSRSU2A5gNN8"
+  },
+  {
+    "question": "For how many yards did O.J. Sipmson rush in his record 1973 season?",
+    "a": "1003 yards",
+    "b": "2003 yards",
+    "c": "3003 yards",
+    "d": "4003 yards",
+    "answer": "b",
+    "id": "p3hk-myR6bRS8BxlWTt4varzXTo"
+  },
+  {
+    "question": "The 1982 football strike lasted how many days?",
+    "a": "57",
+    "b": "67",
+    "c": "27",
+    "d": "107",
+    "answer": "a",
+    "id": "rswYu0-dL8mFixzfhBsxrgTpBt4"
+  },
+  {
+    "question": "What was the sport of brothers Max and Buddy Baer?",
+    "a": "Wrestling",
+    "b": "Football",
+    "c": "Boxing",
+    "d": "Hockey",
+    "answer": "c",
+    "id": "IQLpP_Mp4vZhXqBqk-TdoOW6SmM"
+  },
+  {
+    "question": "Who kicked the 1970, 63 yard field goal for New Orleans over Detroit?",
+    "a": "Chris Bahr",
+    "b": "Tom Dempsey",
+    "c": "Paul Brown",
+    "d": "Guy Benjamin",
+    "answer": "b",
+    "id": "wsyoTxp_dlnPaJfkOr4HRQILxXo"
+  },
+  {
+    "question": "Which of the following quarterbacks did NOT play for Dallas?",
+    "a": "Roger Staubach",
+    "b": "Don Meredith",
+    "c": "Craig Morton",
+    "d": "Jim Hart",
+    "answer": "d",
+    "id": "yxi82pZ19fs6cjiVZZYReuSeS3k"
+  },
+  {
+    "question": "What Sporting Event begins with a Tip-Off?",
+    "a": "Hockey",
+    "b": "Relay Race",
+    "c": "Basketball",
+    "d": "Paddle Tennis",
+    "answer": "c",
+    "id": "zb4330f_RQGTYea1mjQm_D67gok"
+  },
+  {
+    "question": "Which game ball is heaviest?",
+    "a": "Golf",
+    "b": "Paddle Tennis",
+    "c": "Jai Alai",
+    "d": "Court Handball",
+    "answer": "c",
+    "id": "lK8dRfLN3j-ZxRMhXRRTGjZGUYU"
+  },
+  {
+    "question": "A player's turn at a pool table is called ...?",
+    "a": "a series",
+    "b": "a volley",
+    "c": "a rack",
+    "d": "an inning",
+    "answer": "d",
+    "id": "DOLkXd4Fg6F9tzu2gc2poa3agKk"
+  },
+  {
+    "question": "What President originated throwing out the first ball of the season?",
+    "a": "Theodore Roosevelt",
+    "b": "Franklin Roosevelt",
+    "c": "William Howard Taft",
+    "d": "Woodrow Wilson",
+    "answer": "c",
+    "id": "5zfiid7JtJ6ex7io3nwx_Pjmj9U"
+  },
+  {
+    "question": "What was it called before it was called `The America's Cup?",
+    "a": "Queen's Cup",
+    "b": "World Cup",
+    "c": "Yachting Cup",
+    "d": "North American Cup",
+    "answer": "a",
+    "id": "oAterZe_zYTRq-LfkpnzO16mhyQ"
+  },
+  {
+    "question": "What horse won the thoroughbred's Triple Crown in 1973?",
+    "a": "Man of War",
+    "b": "Seattle Slew",
+    "c": "Secretariat",
+    "d": "Manhattan Hopes",
+    "answer": "c",
+    "id": "GDZ3cBLkIgjJDf3oDUPKlSP21gk"
+  },
+  {
+    "question": "British sprinter, Harold Abrahms, was proficient at what other event",
+    "a": "Relay",
+    "b": "Hurdles",
+    "c": "Long Jump",
+    "d": "High Jump",
+    "answer": "c",
+    "id": "48CH8uKwB9hjNo7Yfo0XCdRRZl4"
+  },
+  {
+    "question": "Where did Wilt Chamberlain play collegiate ball?",
+    "a": "Kansas",
+    "b": "UCLA",
+    "c": "LSU",
+    "d": "Ohio State",
+    "answer": "a",
+    "id": "bbVkx-pO_3aWHNibYk4ELBrSyd0"
+  },
+  {
+    "question": "In 1965, what Chicago Bears rookie scored 22 touchdowns?",
+    "a": "O.J. Simpson",
+    "b": "Jim Brown",
+    "c": "Brian Piccolo",
+    "d": "Gale Sayers",
+    "answer": "d",
+    "id": "QBxPKkxKtIUooUUY8tQyLRDo9WY"
+  },
+  {
+    "question": "In 1975 who broke John Unitas' record for most completions?",
+    "a": "Joe Namath",
+    "b": "Fran Tarkenton",
+    "c": "Ken Stabler",
+    "d": "Roman Gabriel",
+    "answer": "b",
+    "id": "6e0W4F3pow4buVX_5aRsSQrenGY"
+  },
+  {
+    "question": "In Baseball, where is the \"Green Monster\" found?",
+    "a": "San Francisco",
+    "b": "Chicago",
+    "c": "Los Angeles",
+    "d": "Boston",
+    "answer": "d",
+    "id": "dHk5Yk5kYPmozyNJBU4_KLNSAXs"
+  },
+  {
+    "question": "Billy Martin used to play what position for the N.Y. Yankees?",
+    "a": "First Base",
+    "b": "Second Base",
+    "c": "Third Base",
+    "d": "Left Field",
+    "answer": "b",
+    "id": "HglVgnEZV-2M69ZrbMRg5ezms4I"
+  },
+  {
+    "question": "How many dimples are there on a Golf Ball?",
+    "a": "125",
+    "b": "180",
+    "c": "224",
+    "d": "336",
+    "answer": "d",
+    "id": "CgTHRLDFX1sx8l1V8eoYLHe1zM0"
+  },
+  {
+    "question": "What year did the Russians first send a team to the Summer Olympics",
+    "a": "1952",
+    "b": "1938",
+    "c": "1908",
+    "d": "1948",
+    "answer": "a",
+    "id": "uHuTml358UOWkF8dkvyDpakxiIw"
+  },
+  {
+    "question": "Queen Elizabeth I was skilled at what game?",
+    "a": "Darts",
+    "b": "Croquet",
+    "c": "Lawn Tennis",
+    "d": "Billiards",
+    "answer": "d",
+    "id": "zEY7RPK7hCz3DFjSzNWiU6y_9yQ"
+  },
+  {
+    "question": "First American woman to swim the English Channel was:",
+    "a": "Gertrude Ederle",
+    "b": "Babe Dedrikson",
+    "c": "Ann Curtis",
+    "d": "Ann Sullivan",
+    "answer": "a",
+    "id": "oNnDQ0tfe1O9r_bgYpZbnnCYbk0"
+  },
+  {
+    "question": "In auto racing, what is meant when a blue flag is waved?",
+    "a": "Another car follows",
+    "b": "Course is slippery",
+    "c": "Caution",
+    "d": "Driver must stop",
+    "answer": "a",
+    "id": "8PPi2W8xDlyF3UPd1fYOnOZQR5o"
+  },
+  {
+    "question": "Where is the famous sign that reads \"Hit the sign, win a suit\" ?",
+    "a": "Wrigley Field",
+    "b": "Candlestick Park",
+    "c": "Ebbets Field",
+    "d": "Yankee Stadium",
+    "answer": "c",
+    "id": "PoeD9LWOFtwT20kS44GWxrNbBuk"
+  },
+  {
+    "question": "Golf Pro Gary Player hails from what country?",
+    "a": "England",
+    "b": "Ireland",
+    "c": "Canada",
+    "d": "South Africa",
+    "answer": "d",
+    "id": "qsT5fD5v1bG821Q_UmnQHt6f3rA"
+  },
+  {
+    "question": "What NFL defensive line was known as `The Orange Crush'?",
+    "a": "Denver Broncos",
+    "b": "Miami Dolphins",
+    "c": "L.A. Rams",
+    "d": "Dallas Cowboys",
+    "answer": "a",
+    "id": "k8fRxku4C6jqxZpLTw_94x-bcoY"
+  },
+  {
+    "question": "At what age does a `filly' become a `mare'?",
+    "a": "2",
+    "b": "3",
+    "c": "4",
+    "d": "5",
+    "answer": "d",
+    "id": "-_umNG1xxkDnuWphJxRDB7qYq88"
+  },
+  {
+    "question": "What is the name of the Air Force's football team?",
+    "a": "Eagles",
+    "b": "Bears",
+    "c": "Falcons",
+    "d": "Hawks",
+    "answer": "c",
+    "id": "ib_z4lRfmOjC-hepc4JBWDcCzn4"
+  },
+  {
+    "question": "What 3 numbers are referred to as craps in the game of craps?",
+    "a": "7, 11 and 12",
+    "b": "2, 3 and 12",
+    "c": "1, 2 and 3",
+    "d": "2, 3 and 11",
+    "answer": "b",
+    "id": "qA6lYNOV9LmhXbxCzFbRs-RkBYg"
+  },
+  {
+    "question": "The Vince Lombardi Trohpy is given to the winners of what event?",
+    "a": "The Rose Bowl",
+    "b": "The Cotton Bowl",
+    "c": "The Super Bowl",
+    "d": "The Orange Bowl",
+    "answer": "c",
+    "id": "NqQ_lWEVip9iXijJ_qfwZArjf4s"
+  },
+  {
+    "question": "What vehicles are raced in the Tour de France?",
+    "a": "6 cylinder DOHC's",
+    "b": "motorcyles",
+    "c": "bicycles",
+    "d": "motor scooters",
+    "answer": "c",
+    "id": "-Fq25HDvthhb9omNTpmL3TcF6b8"
+  },
+  {
+    "question": "Which actor is one of the world's top professional bridge players?",
+    "a": "Dustin Hoffman",
+    "b": "Orson Welles",
+    "c": "Lawrence Olivier",
+    "d": "Omar Shariff",
+    "answer": "d",
+    "id": "aHbUYPNyaMjBguD7CB_VfyMxwuA"
+  },
+  {
+    "question": "What's the highest possible hand in poker (without jokers)?",
+    "a": "Full House",
+    "b": "Four Aces",
+    "c": "Royal Flush",
+    "d": "Five Aces",
+    "answer": "c",
+    "id": "0vunphcP8K3lr6vC-5qaI9TAsgc"
+  },
+  {
+    "question": "In which country was the game of golf invented?",
+    "a": "Nova Scotia",
+    "b": "Scotland",
+    "c": "Ireland",
+    "d": "England",
+    "answer": "b",
+    "id": "CyBhOcrEzSZ5mo-FUwdrDq882G0"
+  },
+  {
+    "question": "Who slammed a 3-run homer in Yankee Stadium's first opening day game?",
+    "a": "Mickey Mantle",
+    "b": "Babe Ruth",
+    "c": "Lou Gehrig",
+    "d": "Yogi Berra",
+    "answer": "b",
+    "id": "ThiJkTKxuHuLleG4eBFF_iwO-2s"
+  },
+  {
+    "question": "Who is the only person to have won the Olympic Decathlon twice?",
+    "a": "Bruce Jenner",
+    "b": "Bob Richards",
+    "c": "Lazlo Toth",
+    "d": "Bob Mathias",
+    "answer": "d",
+    "id": "R9klU6hX90gSYz6JnoTjozOJATE"
+  },
+  {
+    "question": "In Chess, what name is given to the only move involving two pieces?",
+    "a": "En Passant",
+    "b": "En Pris",
+    "c": "Checkmate",
+    "d": "Castling",
+    "answer": "d",
+    "id": "4yv434kabQieJSfAYsBmauYgEPM"
+  },
+  {
+    "question": "How many innings must a starting pitcher pitch to get a victory?",
+    "a": "3",
+    "b": "4",
+    "c": "5",
+    "d": "6",
+    "answer": "c",
+    "id": "364ZgDEG-aJflNYzAtT1TPmBVWQ"
+  },
+  {
+    "question": "Who was the first million-dollar winner in golf?",
+    "a": "Arnold Palmer",
+    "b": "Gary Player",
+    "c": "Lee Elder",
+    "d": "Jack Nicklaus",
+    "answer": "a",
+    "id": "NygdnD7BK67mh_ul0X5arJlXZ9U"
+  },
+  {
+    "question": "Where would you find the largest bull fighting ring in the world?",
+    "a": "Mexico City",
+    "b": "Anastasia, Spain",
+    "c": "Lisbon, Portugal",
+    "d": "Rio de Janeiro",
+    "answer": "a",
+    "id": "rR9H9AYX0O7TfBmC9egAXH9LOSg"
+  },
+  {
+    "question": "In Monopoly, what is the rent on The Boardwalk with one hotel?",
+    "a": "$500",
+    "b": "$1000",
+    "c": "$2000",
+    "d": "$4000",
+    "answer": "c",
+    "id": "YiY30VZY6xBN3vw3Y07r2VuXaUI"
+  },
+  {
+    "question": "What do the two sides of a die add up to?",
+    "a": "4",
+    "b": "6",
+    "c": "8",
+    "d": "7",
+    "answer": "d",
+    "id": "MyHbYlB49R4ODnNg7aSrhgoTsMU"
+  },
+  {
+    "question": "How many points do you get for a ringer in Horseshoes?",
+    "a": "10",
+    "b": "12",
+    "c": "3",
+    "d": "20",
+    "answer": "c",
+    "id": "a1kbWUkl5Aw45kuU37UMkTO0_9U"
+  },
+  {
+    "question": "What is the height of a basketball hoop?",
+    "a": "8 feet",
+    "b": "10 feet",
+    "c": "9 feet",
+    "d": "12 feet",
+    "answer": "b",
+    "id": "P5WebzAl54Af0HrHs3wjM_ygL4g"
+  },
+  {
+    "question": "How long is a regulation soccer game?",
+    "a": "1 hour",
+    "b": "ninety minutes",
+    "c": "45 minutes",
+    "d": "2 hours",
+    "answer": "b",
+    "id": "1TbaaxsFKLvZ6fU7KhQPWe3en18"
+  },
+  {
+    "question": "What piece of baseball equipment was Charles Waite first to wear?",
+    "a": "catcher's mask",
+    "b": "cleats",
+    "c": "batter's helmet",
+    "d": "glove",
+    "answer": "d",
+    "id": "bafZooOqaTxiyJxrsSCdua2Ol7A"
+  },
+  {
+    "question": "What board game did Humphrey Bogart excel at?",
+    "a": "Backgammon",
+    "b": "Chess",
+    "c": "Parchesi",
+    "d": "Monopoly",
+    "answer": "b",
+    "id": "8LTxwkvOOe8UTYw36NGCDcTL70g"
+  },
+  {
+    "question": "How many seconds must a cowboy stay atop a rodeo bronc?",
+    "a": "8 seconds",
+    "b": "6 seconds",
+    "c": "10 seconds",
+    "d": "4 seconds",
+    "answer": "a",
+    "id": "Nl6KYfpM6mgbbqT9weBUGuOBuR0"
+  },
+  {
+    "question": "What do the five Olympic rings symbolize?",
+    "a": "5 races",
+    "b": "5 events",
+    "c": "5 continents",
+    "d": "5 languages",
+    "answer": "c",
+    "id": "5oV5Z9caWTZ_A1Np0pjIoX0Fbgk"
+  },
+  {
+    "question": "Which of these four cities has NOT hosted the Summer Olympics?",
+    "a": "St. Louis",
+    "b": "Montreal",
+    "c": "New York City",
+    "d": "Mexico City",
+    "answer": "c",
+    "id": "KrmLWpDk0bVVSR1ajRYvzcW_VcU"
+  },
+  {
+    "question": "How many events make up the Olympic Decathlon?",
+    "a": "10",
+    "b": "5",
+    "c": "15",
+    "d": "20",
+    "answer": "a",
+    "id": "7vMiVu6vtZFUj9DIZaGWPFZS-Ac"
+  },
+  {
+    "question": "What does the french word `Brut' mean on a bottle of wine?",
+    "a": "Vintage year",
+    "b": "Dry",
+    "c": "Sweet",
+    "d": "Strong",
+    "answer": "b",
+    "id": "A7hrUr-BZ1OYr9BPNfCtA76tdSc"
+  },
+  {
+    "question": "What team was the first to lose a Super Bowl?",
+    "a": "Miami Dolphins",
+    "b": "Kansas City Chiefs",
+    "c": "Los Angeles Rams",
+    "d": "Green Bay Packers",
+    "answer": "b",
+    "id": "RDCwAbAQc4ROz-NNyQpj0BdjPvY"
+  },
+  {
+    "question": "What was to be the site of the 1940 Olympics before being cancelled?",
+    "a": "Munich",
+    "b": "Rome",
+    "c": "London",
+    "d": "Tokyo",
+    "answer": "d",
+    "id": "q9dwFzLlJcGvfhddWpoQFyf0AIM"
+  },
+  {
+    "question": "What is the lowest ranking suit of cards in the game of bridge?",
+    "a": "Hearts",
+    "b": "Clubs",
+    "c": "Diamonds",
+    "d": "Spades",
+    "answer": "b",
+    "id": "HMVF3hz-O_KQ7C4f0em8j2NvrvI"
+  },
+  {
+    "question": "How many times may a volleyball be hit by members of the same team?",
+    "a": "2 times",
+    "b": "1 time",
+    "c": "4 times",
+    "d": "3 times",
+    "answer": "d",
+    "id": "PRkRY37TzRiKyAd3Q22yAAKC7Cc"
+  },
+  {
+    "question": "What is the score of a forfeited baseball game?",
+    "a": "1 to 0",
+    "b": "2 to 0",
+    "c": "5 to 0",
+    "d": "9 to 0",
+    "answer": "d",
+    "id": "Rq3JZogjZ-Wf2IVAPCfWxfdoBvM"
+  },
+  {
+    "question": "For what major league team did Hank Aaron play his last game?",
+    "a": "Atlanta Braves",
+    "b": "Milwaukee Brewers",
+    "c": "Minnasota Twins",
+    "d": "Boston Red Sox",
+    "answer": "b",
+    "id": "-5DQCKVw9TID0M4R1fkbhki9wsM"
+  },
+  {
+    "question": "What is the `second jewel' in the Triple Crown of horse racing?",
+    "a": "Kentucky Derby",
+    "b": "Belmont Stakes",
+    "c": "Preakness Stakes",
+    "d": "Indianapolis 500",
+    "answer": "c",
+    "id": "eb7NGKYkSUXisUU--HzI-VS7il8"
+  },
+  {
+    "question": "How much money do players get at the beginning of a Monopoly game?",
+    "a": "200 dollars",
+    "b": "1500 dollars",
+    "c": "500 dollars",
+    "d": "1000 dollars",
+    "answer": "b",
+    "id": "Ubo7gCtNyMcxK-NGR3uoWjDablo"
+  },
+  {
+    "question": "From what yard line do NFL teams kick off?",
+    "a": "the 20",
+    "b": "the 30",
+    "c": "the 15",
+    "d": "the 35",
+    "answer": "d",
+    "id": "e1GqZJ9foK-BcXtsfURZzByebuA"
+  },
+  {
+    "question": "Name the only host country that did NOT win gold at a Summer Olympics.",
+    "a": "Mexico",
+    "b": "Canada",
+    "c": "Japan",
+    "d": "Lithuania",
+    "answer": "b",
+    "id": "UyAryCWW45iCpfqQpMgi9idjn7w"
+  },
+  {
+    "question": "How many years old are horses that run in the Kentucky Derby?",
+    "a": "2",
+    "b": "4",
+    "c": "1",
+    "d": "3",
+    "answer": "d",
+    "id": "8VWXtA8ik47HvNFN6vXCKcbPvQI"
+  },
+  {
+    "question": "What's the oldest trophy competed for by pro athletes in N. America?",
+    "a": "Heisman Trophy",
+    "b": "America's Cup",
+    "c": "Borg Warner Trophy",
+    "d": "The Stanley Cup",
+    "answer": "d",
+    "id": "ls-4ijQJtAyWi-XDXnU4WLGMoug"
+  },
+  {
+    "question": "What averted an Arab boycott of the 1948 summer Olympics?",
+    "a": "Moving the site",
+    "b": "Israel's exclusion",
+    "c": "Locust plagues",
+    "d": "Arafat's wedding",
+    "answer": "b",
+    "id": "vyP5MXfeHqK564N3p4qXwj-cW98"
+  },
+  {
+    "question": "How many trials is each competitor allowed in the Javelin throw?",
+    "a": "2",
+    "b": "6",
+    "c": "3",
+    "d": "4",
+    "answer": "b",
+    "id": "WNIDV82WQbRxB_BNxokn7mxZi2I"
+  },
+  {
+    "question": "For what was NFL player Alex Karras suspended in 1963?",
+    "a": "Drugs",
+    "b": "Missed games",
+    "c": "Gambling",
+    "d": "Alcoholism",
+    "answer": "c",
+    "id": "cZH-xjVtZHyYWfeJSZOB2Vkt5gM"
+  },
+  {
+    "question": "What's the most attended sport in the United States?",
+    "a": "football",
+    "b": "baseball",
+    "c": "horse racing",
+    "d": "auto racing",
+    "answer": "c",
+    "id": "Pi6nkB_nSCm04YJ9n1gevYUdsm0"
+  },
+  {
+    "question": "What number is at 12:00 on a regulation dart board?",
+    "a": "1",
+    "b": "12",
+    "c": "0",
+    "d": "20",
+    "answer": "d",
+    "id": "_25_CFuH_O020e9Z-lhyqtGfMgI"
+  },
+  {
+    "question": "On which holiday is the running of the Indianapolis 500 held?",
+    "a": "Labor Day",
+    "b": "Columbus Day",
+    "c": "Fourth of July",
+    "d": "Memorial Day",
+    "answer": "d",
+    "id": "fbmY0GggEI3UarslhZ3OpQP4p2w"
+  },
+  {
+    "question": "In which city is the Sugar Bowl played?",
+    "a": "Honolulu",
+    "b": "New Orleans",
+    "c": "Atlanta",
+    "d": "Miami",
+    "answer": "b",
+    "id": "HI2mdc8eyg05QHGKGAa5r55ahT4"
+  },
+  {
+    "question": "What is the price of each of the four Utilities in Monopoly?",
+    "a": "$150",
+    "b": "$100",
+    "c": "$200",
+    "d": "$50",
+    "answer": "a",
+    "id": "bSnD0_Osh68MvgimH_hJ3cU9qVE"
+  },
+  {
+    "question": "Which color does not appear on a standard Roulette Wheel?",
+    "a": "Black",
+    "b": "Green",
+    "c": "Red",
+    "d": "Yellow",
+    "answer": "d",
+    "id": "vHnuMs2w-VHLPri1aoz5mSvtQl4"
+  },
+  {
+    "question": "Name the most common mascot name of American college football teams.",
+    "a": "Trojans",
+    "b": "Spartans",
+    "c": "Tigers",
+    "d": "Bears",
+    "answer": "c",
+    "id": "_mIJsJ7JdKh3VPiBNRHXkQ5GFa8"
+  },
+  {
+    "question": "For what team did Babe Ruth play his first major league game?",
+    "a": "Yankees",
+    "b": "White Sox",
+    "c": "Red Sox",
+    "d": "Orioles",
+    "answer": "c",
+    "id": "al8ywFVToG9zczH6Lv7UwjK9uxs"
+  },
+  {
+    "question": "What sport features a railroad split?",
+    "a": "Wrestling",
+    "b": "Boxing",
+    "c": "Weightlifting",
+    "d": "Bowling",
+    "answer": "d",
+    "id": "_r6ZXHAgdOAtjUuz-wAPQKR-BcM"
+  },
+  {
+    "question": "How many points make up a perfect five pin bowling score?",
+    "a": "300",
+    "b": "350",
+    "c": "400",
+    "d": "450",
+    "answer": "d",
+    "id": "vXeJ99yi99rarUiP04ytj5Pe8EU"
+  },
+  {
+    "question": "What's the largest rodeo in the world?",
+    "a": "Phoenix Rodeo",
+    "b": "Las Vegas Review",
+    "c": "Calgary Stampede",
+    "d": "Salinas Stampede",
+    "answer": "c",
+    "id": "nBdPdU7jj3noMj_sz65i6UheEwk"
+  },
+  {
+    "question": "Where were the 1936 Summer Olympics held?",
+    "a": "Paris",
+    "b": "Rome",
+    "c": "Stockholm",
+    "d": "Berlin",
+    "answer": "d",
+    "id": "dZnV-NOFW9Hq6ax6P5r00b2VObU"
+  },
+  {
+    "question": "For what sport is the Ryder Cup awarded?",
+    "a": "Tennis",
+    "b": "Golf",
+    "c": "Boxing",
+    "d": "Bareback Riding",
+    "answer": "b",
+    "id": "Z7frH-XzbREpOupMOM2hAENNZ4A"
+  },
+  {
+    "question": "For what college did Joe Namath play football?",
+    "a": "Notre Dame",
+    "b": "Alabama",
+    "c": "Ohio State",
+    "d": "Texas A & M",
+    "answer": "b",
+    "id": "VnniPNlBvALA9mnvugyMlfPzsNw"
+  },
+  {
+    "question": "What was the first U.S.-based team in the NHL?",
+    "a": "Chicago Blackhawks",
+    "b": "New York Islanders",
+    "c": "Boston Bruins",
+    "d": "New Jersey Devils",
+    "answer": "c",
+    "id": "tTQN1tuXrhayb7NvBDCMSIeu_9U"
+  },
+  {
+    "question": "When is the Kentucky Derby run?",
+    "a": "1st Sunday in May",
+    "b": "Last Sunday in May",
+    "c": "1st Saturday in May",
+    "d": "1st Sunday in June",
+    "answer": "c",
+    "id": "QOHSDcEKENyIgGLGExQWnHoP7tk"
+  },
+  {
+    "question": "How long is the rest between rounds in Boxing?",
+    "a": "1 minute",
+    "b": "2 minutes",
+    "c": "3 minutes",
+    "d": "5 minutes",
+    "answer": "a",
+    "id": "0VBk_B2Kr7cpUOHlsDkMRydVc0A"
+  },
+  {
+    "question": "What is the fastest stroke in swimming?",
+    "a": "Butterfly",
+    "b": "Backstroke",
+    "c": "Breastroke",
+    "d": "Freestyle",
+    "answer": "d",
+    "id": "xIF7mr47BYPk5psqcFqmsGK-BYY"
+  },
+  {
+    "question": "What's the other name for the card game \"Patience\" ?",
+    "a": "Hearts",
+    "b": "Canasta",
+    "c": "Bridge",
+    "d": "Solitaire",
+    "answer": "d",
+    "id": "nNvXEZt5jxgtWQI9AGPFni2br8Y"
+  },
+  {
+    "question": "How did Rocky Marciano die?",
+    "a": "Car crash",
+    "b": "Brain tumor",
+    "c": "Kidney failure",
+    "d": "Plane crash",
+    "answer": "d",
+    "id": "f30kH2WlYz-nqONvk1pMKo88lx0"
+  },
+  {
+    "question": "How many seams are there on a regulation football?",
+    "a": "None",
+    "b": "3",
+    "c": "4",
+    "d": "5",
+    "answer": "c",
+    "id": "6Eor1uhgjzvfYiZ7EcJxOnd5K2Y"
+  },
+  {
+    "question": "How many masts does a sloop have?",
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "none",
+    "answer": "a",
+    "id": "Yibh1e05e0pUhJ--7MHNSO2BmGQ"
+  },
+  {
+    "question": "In football, what is the penalty for clipping?",
+    "a": "5 yards",
+    "b": "10 yards",
+    "c": "15 yards",
+    "d": "Automatic 1st down",
+    "answer": "c",
+    "id": "K0OajthW8GLsikXXOuE_LQNs52c"
+  },
+  {
+    "question": "Whose famed jaw did Ken Norton break?",
+    "a": "George Foreman",
+    "b": "Leon Spinks",
+    "c": "Muhammad Ali",
+    "d": "Joe Frazier",
+    "answer": "c",
+    "id": "cPXFk9BzUXQvDKr0lLZP524C1IE"
+  },
+  {
+    "question": "In football, what is the penalty for jumping offsides?",
+    "a": "5 yards",
+    "b": "10 yards",
+    "c": "15 yards",
+    "d": "Automatic 1st down",
+    "answer": "a",
+    "id": "EEMPgzFpuP98V5t1wr1XQDoWjKs"
+  },
+  {
+    "question": "What is the most frequently rolled number with a pair of dice?",
+    "a": "6",
+    "b": "7",
+    "c": "8",
+    "d": "11",
+    "answer": "b",
+    "id": "eyXCtX6_OjegYt1SbEzuKet8Pd4"
+  },
+  {
+    "question": "What chess piece moves in the shape of an \"L\"?",
+    "a": "Rook",
+    "b": "Knight",
+    "c": "Bishop",
+    "d": "Pawn",
+    "answer": "b",
+    "id": "0OVJxWXV3g6qd60EuMu78suhEoI"
+  },
+  {
+    "question": "Sports Illustrated's first female Sportsman of the Year was?",
+    "a": "Cathy Rigby",
+    "b": "Babe Dedrikson",
+    "c": "Billy Jean King",
+    "d": "Wilma Rudolph",
+    "answer": "c",
+    "id": "mFwghzZWG3Q2Ghenb_jtbvDf5sQ"
+  },
+  {
+    "question": "How many laps make up the Indianapolis 500?",
+    "a": "100",
+    "b": "200",
+    "c": "250",
+    "d": "500",
+    "answer": "b",
+    "id": "igQZ2qs1SJY6D-RI8CN1m__8RJA"
+  },
+  {
+    "question": "What Japanese company licenses \"Donkey Kong\" in the United States",
+    "a": "Naimo",
+    "b": "Coleco",
+    "c": "Sega",
+    "d": "Nintendo",
+    "answer": "d",
+    "id": "QYK-pfZL2ERYSYBkkbp0HHKLNIU"
+  },
+  {
+    "question": "In poker, another name for a hand containing Aces and Eights is:",
+    "a": "Flush",
+    "b": "Dead man's hand",
+    "c": "Hat trick",
+    "d": "Busted straight",
+    "answer": "b",
+    "id": "78MM3pFbCCsPZC7OnAmH2tXqSTE"
+  },
+  {
+    "question": "What is the traditional drink served at the Kentucky Derby?",
+    "a": "Jack Daniels",
+    "b": "Old Fashioned",
+    "c": "Mint Julep",
+    "d": "Southern Comfort",
+    "answer": "c",
+    "id": "__KrP4jklM_pC7yKeRFtkUgrXmc"
+  },
+  {
+    "question": "In Golf, what does the term Eagle refer to?",
+    "a": "1 under par",
+    "b": "2 under par",
+    "c": "1 over par",
+    "d": "2 over par",
+    "answer": "b",
+    "id": "Wq7shVMTGGMWWs0EeUcWwd7_S-4"
+  },
+  {
+    "question": "In Backgammon, what is the center division of the board called?",
+    "a": "The edge",
+    "b": "The center",
+    "c": "The peak",
+    "d": "The bar",
+    "answer": "d",
+    "id": "nGQz8-CD4N7ZiylY4XJZYuQ7jfc"
+  },
+  {
+    "question": "In Blackjack, what must the dealer do when he has a 16?",
+    "a": "Hit",
+    "b": "Stand",
+    "c": "Offer insurance",
+    "d": "Shuffle",
+    "answer": "a",
+    "id": "cotrkGma4B3Hc3-hSiMhU2G9ERg"
+  },
+  {
+    "question": "What NHL team has the most Stanley Cup championships?",
+    "a": "Chicago Blackhawks",
+    "b": "Boston Bruins",
+    "c": "New York Islanders",
+    "d": "Montreal Canadiens",
+    "answer": "d",
+    "id": "5m2rDcwmRenaL8pjGE3IM8K90rI"
+  },
+  {
+    "question": "How many dice are used to play the game Yahtzee?",
+    "a": "2",
+    "b": "3",
+    "c": "4",
+    "d": "5",
+    "answer": "d",
+    "id": "vV67ZUJuJByhm0k9jF3_vdGedtk"
+  },
+  {
+    "question": "What team has lost the most Super Bowls?",
+    "a": "Dallas Cowboys",
+    "b": "Pittsburgh Steelers",
+    "c": "Miami Dolphins",
+    "d": "Minnesota Vikings",
+    "answer": "d",
+    "id": "C4sLjDBrjZuIkk9EkXVQIQINojs"
+  },
+  {
+    "question": "What color light is displayed on the port side of a boat?",
+    "a": "Red",
+    "b": "Green",
+    "c": "Yellow",
+    "d": "Blue",
+    "answer": "a",
+    "id": "f9zZQsl2PpkP2_wd21VF4g5rTZg"
+  },
+  {
+    "question": "In Backgammon, how many pieces does each player start with?",
+    "a": "10",
+    "b": "12",
+    "c": "15",
+    "d": "20",
+    "answer": "c",
+    "id": "skS3ZIEkCHf8f5adffFdu_-KU0w"
+  },
+  {
+    "question": "Who stopped Bjorn Borg's string of Wimbledon singles titles at 5?",
+    "a": "Jimmy Connors",
+    "b": "John McEnroe",
+    "c": "John LLoyd",
+    "d": "Arthur Ash",
+    "answer": "b",
+    "id": "GYwEMECtT4clA4aawIg_XVYfKGg"
+  },
+  {
+    "question": "What sport was featured on the first Sports Illustrated cover?",
+    "a": "Baseball",
+    "b": "Football",
+    "c": "Swimming",
+    "d": "Basketball",
+    "answer": "a",
+    "id": "lLknop8FCgcGJhBm-5xL_1QmBnk"
+  },
+  {
+    "question": "In the NBA, how many seconds after getting the ball must you shoot?",
+    "a": "10 seconds",
+    "b": "18 seconds",
+    "c": "24 seconds",
+    "d": "30 seconds",
+    "answer": "c",
+    "id": "fuxz7NlacBPW1x437Htmly04Uis"
+  },
+  {
+    "question": "Who did the Miracle Mets defeat to win the 1969 World Series?",
+    "a": "Boston Red Sox",
+    "b": "Baltimore Orioles",
+    "c": "New York Yankees",
+    "d": "Phillies",
+    "answer": "b",
+    "id": "XItcwGAKOsczlovZlm77JRJyJaU"
+  },
+  {
+    "question": "What U.S. state grants the most fishing licenses?",
+    "a": "Louisiana",
+    "b": "Florida",
+    "c": "Mississippi",
+    "d": "California",
+    "answer": "d",
+    "id": "7Dg7txs34I8lehhOhDoD03MvX5o"
+  },
+  {
+    "question": "What's the traditional drink in the Winner's Circle at the Indy 500?",
+    "a": "Champaigne",
+    "b": "Red Wine",
+    "c": "White Wine",
+    "d": "Milk",
+    "answer": "d",
+    "id": "-c2B9fe8AiezdRShExuPA-5X-ls"
+  },
+  {
+    "question": "In what city is the World Series of Poker held?",
+    "a": "Amarillo, Texas",
+    "b": "Reno, Nevada",
+    "c": "Las Vegas, Nevada",
+    "d": "Cheyenne, Wyoming",
+    "answer": "c",
+    "id": "wFRV_B6BH4f6oSm4HtoDnjOjNGQ"
+  },
+  {
+    "question": "What is the weight classification of a 159-lb boxer?",
+    "a": "Heavyweight",
+    "b": "Middleweight",
+    "c": "Welterweight",
+    "d": "Featherweight",
+    "answer": "b",
+    "id": "iVPltljYJQdQmzCwHubRp9GEw_g"
+  },
+  {
+    "question": "How many points is a bullseye worth in darts?",
+    "a": "20",
+    "b": "25",
+    "c": "50",
+    "d": "100",
+    "answer": "c",
+    "id": "mqRW3RGqEpav6Q_ieVG8YoMJw_s"
+  },
+  {
+    "question": "In Golf, what number wood is known as the driver?",
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "answer": "a",
+    "id": "ZNRVMvSVVq4xn-uxRB5psreMGIc"
+  },
+  {
+    "question": "What Dodgers and Cubs first baseman left baseball to take up acting?",
+    "a": "Kurt Russell",
+    "b": "Robert Redford",
+    "c": "Chuck Connors",
+    "d": "Burt Reynolds",
+    "answer": "c",
+    "id": "Q_6-TBu9ofKebiCPe13H6n68uQc"
+  },
+  {
+    "question": "The annual Tournament of Roses Parade takes place in which town?",
+    "a": "Los Angeles, CA",
+    "b": "Roseville, CA",
+    "c": "Paso Robles, CA",
+    "d": "Pasadena, CA",
+    "answer": "d",
+    "id": "Zu1McEc1bh3SRvQjz5UA0w-y1t0"
+  },
+  {
+    "question": "How many pins are used in the game of bowling?",
+    "a": "12",
+    "b": "8",
+    "c": "10",
+    "d": "6",
+    "answer": "c",
+    "id": "x3nEgoQ1DkZF6xiIkcpcnwV0gfE"
+  },
+  {
+    "question": "What is the minimum bet allowed at a race track?",
+    "a": "1 dollar",
+    "b": "2 dollars",
+    "c": "3 dollars",
+    "d": "5 dollars",
+    "answer": "b",
+    "id": "XT6lzFul-6SCH9U83P_yYkgvyj0"
+  },
+  {
+    "question": "What did actor John Wayne win from Rudd Weatherswax in a poker game?",
+    "a": "1 million dollars",
+    "b": "a moon rock",
+    "c": "Camp David",
+    "d": "Lassie",
+    "answer": "d",
+    "id": "KrY0j9Vc9ntMh3XFfTh-7X2FjPs"
+  },
+  {
+    "question": "What color is the most landed-on property in Monopoly?",
+    "a": "Red",
+    "b": "Orange",
+    "c": "Blue",
+    "d": "Green",
+    "answer": "b",
+    "id": "j9EkhnbGBNsS6tuwUSW9hxcZx2g"
+  },
+  {
+    "question": "Which color moves first in chess?",
+    "a": "Black",
+    "b": "Red",
+    "c": "White",
+    "d": "None of the above",
+    "answer": "c",
+    "id": "1IAVw4YeYBYeXtZfnevCI_AyHFU"
+  },
+  {
+    "question": "Who has the most Daytona 500 wins?",
+    "a": "Richard Petty",
+    "b": "A. J. Foyt",
+    "c": "Carl Yarborough",
+    "d": "Bobby Allison",
+    "answer": "a",
+    "id": "xtS97lwWeFdhwrY-JwjU-QVu6YQ"
+  },
+  {
+    "question": "Nitromethane is used for what purpose?",
+    "a": "Drug detection",
+    "b": "Racing fuel",
+    "c": "Distance running",
+    "d": "Muscle cramps",
+    "answer": "b",
+    "id": "hWOEoIyMLXySsdjjPzQSDZQ7x_Y"
+  },
+  {
+    "question": "What is the minimum number of players on an NFL team?",
+    "a": "9",
+    "b": "12",
+    "c": "11",
+    "d": "13",
+    "answer": "c",
+    "id": "yOeTBUJ32o1YjSmr6OXcx9ImFIo"
+  },
+  {
+    "question": "In what year were batting helmets introduced to the Major Leagues?",
+    "a": "1935",
+    "b": "1902",
+    "c": "1911",
+    "d": "1941",
+    "answer": "d",
+    "id": "O1t6RQU_GtMxy_69oOO0d0W-maQ"
+  },
+  {
+    "question": "The company which markets \"Trivial Pursuit\" also markets which game?",
+    "a": "Monopoly",
+    "b": "Parchesi",
+    "c": "Let's Make a Deal",
+    "d": "Scrabble",
+    "answer": "d",
+    "id": "AFnz7yekCOiXEhPKzth3XmgMOjU"
+  },
+  {
+    "question": "For what NFL team did Warren Beatty play in the film \"Heaven Can Wait\"",
+    "a": "Dallas Cowboys",
+    "b": "Pittsburgh Steelers",
+    "c": "San Francisco 49ers",
+    "d": "Los Angeles Rams",
+    "answer": "d",
+    "id": "ujSV66KD4a-xIbg58WItaMW_LJA"
+  },
+  {
+    "question": "Who was the first member elected to the Swimming Hall of Fame?",
+    "a": "Mark Spitz",
+    "b": "Johnny Weismuller",
+    "c": "Buster Crabbe",
+    "d": "Joanne Devarona",
+    "answer": "b",
+    "id": "BBivwH08M4612lsk7MoYztUVqTg"
+  },
+  {
+    "question": "Where is the Swimming Hall of Fame?",
+    "a": "Santa Clara, CA",
+    "b": "Long Beach, CA",
+    "c": "Ft. Lauderdale, FL",
+    "d": "Death Valley, CA",
+    "answer": "c",
+    "id": "9JLxvEkA4Zqcmu3UnL30KTbAlv4"
+  },
+  {
+    "question": "The deepest part of which stadium is called \"Death Valley\"?",
+    "a": "Fenway Park",
+    "b": "Candlestick Park",
+    "c": "Three River Stadium",
+    "d": "Yankee Stadium",
+    "answer": "d",
+    "id": "m30VbGvjSxgiJ9hXFa1idI6o1zs"
+  },
+  {
+    "question": "What ball park has the infamous \"Green Monster\"?",
+    "a": "Fenway Park",
+    "b": "Candlestick Park",
+    "c": "Three River Stadium",
+    "d": "Yankee Stadium",
+    "answer": "a",
+    "id": "r3DzPOwKXITdUwSB87QZEYIsCgw"
+  },
+  {
+    "question": "Who went to jail for attacking a TV announcer with a baseball bat?",
+    "a": "George Brett",
+    "b": "Wee Willie Keeler",
+    "c": "Tony Conigliaro",
+    "d": "Evil Knievel",
+    "answer": "d",
+    "id": "BslmUanzAa3Zh3lj8VoXuALE7Y8"
+  },
+  {
+    "question": "What city hosts Sun Bowl?",
+    "a": "El Paso, TX",
+    "b": "Dallas, TX",
+    "c": "Montgomery, AL",
+    "d": "Memphis, TN",
+    "answer": "a",
+    "id": "lIKTPQU8t9Lj01ThnQf2b_Mas0g"
+  },
+  {
+    "question": "The 1973 film \"The Sting\" involved a hoax on what type of gambling?",
+    "a": "Roulette",
+    "b": "Blackjack",
+    "c": "Poker",
+    "d": "Horseracing",
+    "answer": "d",
+    "id": "k8-sNiGNIr5gRe4Gl8om0bx5OWk"
+  },
+  {
+    "question": "Which of the following IS NOT a chess piece?",
+    "a": "pawn",
+    "b": "rook",
+    "c": "castle",
+    "d": "staff",
+    "answer": "d",
+    "id": "IkvrvQIIX-MKVdszPzBzWj6kaSA"
+  },
+  {
+    "question": "The 18th Kentucky Derby was won by Azra in 1892--how many horses ran?",
+    "a": "3",
+    "b": "6",
+    "c": "8",
+    "d": "10",
+    "answer": "a",
+    "id": "XHFRDlJB6F9b88Ds6tkGrPAoBrU"
+  },
+  {
+    "question": "Who won the first Gold Medal at the first modern Olympics in 1896?",
+    "a": "Greece",
+    "b": "England",
+    "c": "United States",
+    "d": "Italy",
+    "answer": "c",
+    "id": "9ocI2dKWzJI-i0RrKEJSAXSK7yE"
+  },
+  {
+    "question": "What is the minimum number of players on a basketball team?",
+    "a": "7",
+    "b": "6",
+    "c": "5",
+    "d": "4",
+    "answer": "c",
+    "id": "rFPUThpv9_LLkC3HdR9FCyXyN4w"
+  },
+  {
+    "question": "Which of these American League teams plays for a specific city?",
+    "a": "Twins",
+    "b": "Rangers",
+    "c": "Angels",
+    "d": "Yankees",
+    "answer": "d",
+    "id": "AOcK5HJlVD701VQk2uRZ6B9SWz8"
+  },
+  {
+    "question": "Where is the Baseball Hall of Fame located?",
+    "a": "Canton, Ohio",
+    "b": "Youngstown, Ohio",
+    "c": "Dayton, Ohio",
+    "d": "Cooperstown, NY",
+    "answer": "d",
+    "id": "g0vM0aL3Xb1NH-wLKBaRsrcUmr8"
+  },
+  {
+    "question": "The REAL surname of baseball's 3 brothers, Matty, Jesus & Felipe wa",
+    "a": "Alou",
+    "b": "Reyes",
+    "c": "Alouvarez",
+    "d": "Rojas",
+    "answer": "d",
+    "id": "D43tOEurQaew1sOzHlPf6zFsn14"
+  },
+  {
+    "question": "Bill Bradley was NOT which of the following?",
+    "a": "a NY Knicks great",
+    "b": "a U.S. Senator",
+    "c": "a Rhodes Scholar",
+    "d": "an Olympic medalist",
+    "answer": "d",
+    "id": "4irYjDZxRplStIZLdQM-GiYfgLI"
+  },
+  {
+    "question": "What NFL team was featured in the movie \"Number One\"?",
+    "a": "Los Angeles Rams",
+    "b": "Oakland Raiders",
+    "c": "Pittsburgh Steelers",
+    "d": "New Orleans Saints",
+    "answer": "d",
+    "id": "dJZa8FEhBY0yexCbnMvQIdCRWDQ"
+  },
+  {
+    "question": "The first NL-AL All-Star game was played in which year?",
+    "a": "1933",
+    "b": "1926",
+    "c": "1940",
+    "d": "1918",
+    "answer": "a",
+    "id": "LG7zw5lduvdDpB_9qNP9x-wPz_k"
+  },
+  {
+    "question": "Name the hometown of baseball's Estel Crabtree:",
+    "a": "Milwaukee, WI",
+    "b": "Boston, MA",
+    "c": "Chicago, IL",
+    "d": "Crabtree, OH",
+    "answer": "d",
+    "id": "jVJxYn_nmSEzyOE3ydtNqZGJy1k"
+  },
+  {
+    "question": "What controversy arose in the 1972 Olympics USSR-USA basketball game?",
+    "a": "drugs",
+    "b": "the clock",
+    "c": "spectators",
+    "d": "officiating",
+    "answer": "b",
+    "id": "0DJAMcUgxi4CkXPv7I4cO6IydDk"
+  },
+  {
+    "question": "The 1937 Triple Crown was won by:",
+    "a": "War Admiral",
+    "b": "Secretariat",
+    "c": "Man O `War",
+    "d": "Dark Mirage",
+    "answer": "a",
+    "id": "hu6vlKfwJM2VrYSa1gO8ya4tPJo"
+  },
+  {
+    "question": "In what sport do the participants compete in the \"Grand Nationals\"?",
+    "a": "Equestrian",
+    "b": "Trotters",
+    "c": "Golf",
+    "d": "Auto Racing",
+    "answer": "d",
+    "id": "tHo0oPQUOXy7zFX4noGBCCVKcmo"
+  },
+  {
+    "question": "Who was the first black to win the Heisman Trophy?",
+    "a": "Dick Lane",
+    "b": "Jim Brown",
+    "c": "Emlen Tunnell",
+    "d": "Ernie Davis",
+    "answer": "d",
+    "id": "ZdG6Pz3cLOjudjmLngBfUYnVbCg"
+  },
+  {
+    "question": "What is the maximum allowable number of clubs in a golfer's bag?",
+    "a": "12",
+    "b": "14",
+    "c": "15",
+    "d": "16",
+    "answer": "b",
+    "id": "2oFB13nWGzYwIB6bcwS3x9e5kSg"
+  },
+  {
+    "question": "Tournament tennis balls cannot be which of the following colors?",
+    "a": "White",
+    "b": "Green",
+    "c": "Yellow",
+    "d": "Orange",
+    "answer": "b",
+    "id": "QAF4G8l-8Cj7OnEbfhhEBLP7Dtg"
+  },
+  {
+    "question": "In which year was night baseball introduced into the Majors?",
+    "a": "1911",
+    "b": "1916",
+    "c": "1935",
+    "d": "1921",
+    "answer": "c",
+    "id": "f6nn-6P8vDvgzcb3XpzHt4ZF6oU"
+  },
+  {
+    "question": "The L.A. Lakers got their name when they played for what city?",
+    "a": "Los Angeles",
+    "b": "Chicago",
+    "c": "Havasu, Arizona",
+    "d": "Minniapolis, Minn",
+    "answer": "d",
+    "id": "ym0i4haIWtpdS7OIsmydXfaSG0k"
+  },
+  {
+    "question": "Micky Mantle batted from which side of the plate?",
+    "a": "left",
+    "b": "right",
+    "c": "both sides",
+    "d": "neither side",
+    "answer": "c",
+    "id": "SXo4pRrcB4mPPPIF2v8OGgnw6eQ"
+  },
+  {
+    "question": "A \"passed ball\" is an error charged to which player?",
+    "a": "the shortstop",
+    "b": "the catcher",
+    "c": "the pitcher",
+    "d": "the firstbaseman",
+    "answer": "b",
+    "id": "Ds-D43Xk2q-u03ZhHG8eK6_jCao"
+  },
+  {
+    "question": "What kind of wood is used to make baseball bats?",
+    "a": "Pine",
+    "b": "Redwood",
+    "c": "Oak",
+    "d": "Ash",
+    "answer": "d",
+    "id": "CszqdvfgpGzLbDFAKWTtRtT9hMc"
+  },
+  {
+    "question": "How many periods are there in a hockey game?",
+    "a": "2",
+    "b": "3",
+    "c": "4",
+    "d": "5",
+    "answer": "b",
+    "id": "tiw0uiFxTy4VhKYo-_VMnOb5kg4"
+  },
+  {
+    "question": "With the ball at the 20, how long is a successful field goal?",
+    "a": "20 yards",
+    "b": "30 yards",
+    "c": "33 yards",
+    "d": "37 yards",
+    "answer": "d",
+    "id": "V7fIIV6gr71Lo0LQabtM3mHXi14"
+  },
+  {
+    "question": "What is the diameter, in inches, of a basketball hoop?",
+    "a": "12",
+    "b": "15",
+    "c": "18",
+    "d": "24",
+    "answer": "c",
+    "id": "6CVDNLljeXf80xpqHJGQzTxZ3iw"
+  },
+  {
+    "question": "In pro football, how long is half time?",
+    "a": "10 minutes",
+    "b": "15 minutes",
+    "c": "20 minutes",
+    "d": "30 minutes",
+    "answer": "b",
+    "id": "mcZNafpCNFEDOjL4D76Wp09W6OI"
+  },
+  {
+    "question": "The Podoloff Trophy is awarded to the Most Valuable Player in:",
+    "a": "the NHL",
+    "b": "the NBA",
+    "c": "the NFL",
+    "d": "the NL",
+    "answer": "b",
+    "id": "go1m51Soo06xR94QqVM3HEIj31Y"
+  },
+  {
+    "question": "Which city has NOT been hometown for the Braves?",
+    "a": "Atlanta",
+    "b": "Boston",
+    "c": "Milwaukee",
+    "d": "Minneapolis",
+    "answer": "d",
+    "id": "U2RPNc_1Xl7j71CfTr6pdm7n_X8"
+  },
+  {
+    "question": "Basketball's Hall of Fame is in which city?",
+    "a": "Canton, Ohio",
+    "b": "Cooperstown, NY",
+    "c": "Youngstown, Ohio",
+    "d": "Springfield, Mass.",
+    "answer": "d",
+    "id": "REK6ruWrwvtoYuxle4gc122bqcc"
+  },
+  {
+    "question": "Ken Norton held the heavyweight crown in which boxing association?",
+    "a": "WBA",
+    "b": "WBC",
+    "c": "neither",
+    "d": "both",
+    "answer": "b",
+    "id": "5QPufAmZwSvo8ZXX42XAJFTXanQ"
+  },
+  {
+    "question": "How long is an NBA period?",
+    "a": "10 minutes",
+    "b": "12 minutes",
+    "c": "15 minutes",
+    "d": "20 minutes",
+    "answer": "b",
+    "id": "fdgA8XKrfpX8fyaebg_TffD4ya8"
+  },
+  {
+    "question": "Man 'O War's only defeat was an upset by an 8 to 1 pick named:",
+    "a": "Seabisquit",
+    "b": "Alladin",
+    "c": "NotMe",
+    "d": "Upset",
+    "answer": "d",
+    "id": "x1lcPgfJBVFKXWRwklOkC5zu94o"
+  },
+  {
+    "question": "Name an Ivy League team that has won a Rose Bowl:",
+    "a": "Harvard",
+    "b": "Columbia",
+    "c": "Yale",
+    "d": "None ever has.",
+    "answer": "b",
+    "id": "4wmWDzl0TeNOQzA44o2FkizJopY"
+  },
+  {
+    "question": "This person was a sparring partner for Jack Dempsey at one time.",
+    "a": "Tony Conigliaro",
+    "b": "Cassius Clay",
+    "c": "Les Paul",
+    "d": "J. Paul Getty",
+    "answer": "d",
+    "id": "96Ui6gwWjgq7_OMVTZ9MlnhiGMc"
+  },
+  {
+    "question": "Who became head coach for the Washington Redskins in 1969?",
+    "a": "Joe Gibbs",
+    "b": "Paul Brown",
+    "c": "Al Davis",
+    "d": "Vince Lombardi",
+    "answer": "d",
+    "id": "_YGSpUws6oQVBgFR_EZWKZ6PUpM"
+  },
+  {
+    "question": "This person used to announce Cubs baseball in Des Moines, Iowa:",
+    "a": "Russ Hodges",
+    "b": "Ronald Reagan",
+    "c": "Mary Shane",
+    "d": "Mel Allen",
+    "answer": "b",
+    "id": "90yvYxxfOrLT5xMnpHkube9kKyw"
+  },
+  {
+    "question": "Before the 9-inning limit, the 1st team to score this won the game:",
+    "a": "5 home runs",
+    "b": "10 home runs",
+    "c": "15 home runs",
+    "d": "21 home runs",
+    "answer": "d",
+    "id": "WJblg29a2Ir0NeCU2R-l0xOy_VM"
+  },
+  {
+    "question": "The diameter of a tennis ball is:",
+    "a": "2.0 inches",
+    "b": "2.5 inches",
+    "c": "3.0 inches",
+    "d": "3.25 inches",
+    "answer": "b",
+    "id": "5ZngMN4eb8TmdnDvyrL2d2tN7yg"
+  },
+  {
+    "question": "The first Heisman Trophy was won in 1935 by which of the following?",
+    "a": "Red Grange",
+    "b": "Charlie Connerly",
+    "c": "Jay Berwanger",
+    "d": "Tom Matte",
+    "answer": "c",
+    "id": "_3H1qp2wQlbA2SVWtDmkqeVlWts"
+  },
+  {
+    "question": "The Miami Dolphins' 18 game streak ended with a loss to which team?",
+    "a": "New York Jets",
+    "b": "Dallas Cowboys",
+    "c": "Los Angeles Rams",
+    "d": "Oakland Raiders",
+    "answer": "d",
+    "id": "x-1CVelWQzweG3fC4yd7yv4hvHo"
+  },
+  {
+    "question": "Bill Bradley played his college ball at which college?",
+    "a": "Rutgers",
+    "b": "Princeton",
+    "c": "Notre Dame",
+    "d": "UCLA",
+    "answer": "b",
+    "id": "a2s8iCi4NZb1yzo9VxR4OVlndMA"
+  },
+  {
+    "question": "Which 2 teams were playing in the infamous 1968 \"Heidi Game\"?",
+    "a": "Dallas & Green Bay",
+    "b": "Miami & Cleveland",
+    "c": "NY Jets & Oakland",
+    "d": "Steelers and Giants",
+    "answer": "c",
+    "id": "eXui5yIh3V-9dHErMCSkqFMboiY"
+  },
+  {
+    "question": "President Ford did this at the 1977 Memphis Classic Golf Tournament:",
+    "a": "Bumped his head.",
+    "b": "Hit someone's head.",
+    "c": "Shot hole-in-one.",
+    "d": "Shot his own foot.",
+    "answer": "c",
+    "id": "nxu-MJPZcFlg-O57Tc7hNp05low"
+  },
+  {
+    "question": "The \"O\" and \"J\" in O.J. Simpson stand for what names?",
+    "a": "Oswald Jamison",
+    "b": "Orenthal James",
+    "c": "Orville Jamison",
+    "d": "Orange Juice",
+    "answer": "b",
+    "id": "BbflqUt2kLvYMADdY8LswX8rHUA"
+  },
+  {
+    "question": "How many members are there on a water polo team?",
+    "a": "5",
+    "b": "7",
+    "c": "8",
+    "d": "10",
+    "answer": "b",
+    "id": "UL7Ko_l2phuWJTp4HljBVPz_v6s"
+  },
+  {
+    "question": "Which of these is on Willie Mays' California license plate?",
+    "a": "STRETCH",
+    "b": "THE LIP",
+    "c": "SAY HEY",
+    "d": "FENWAY",
+    "answer": "c",
+    "id": "i5m9a2EF7_CDTAVFHEacuBdv4Cc"
+  },
+  {
+    "question": "How many members are there on a Canadian Football League team?",
+    "a": "10",
+    "b": "12",
+    "c": "11",
+    "d": "9",
+    "answer": "b",
+    "id": "P-7aGvAndxwwgwt91vLpI1E7GMc"
+  },
+  {
+    "question": "The major league record UNNECESSARY to make baseball's Triple Crown is",
+    "a": "Most RBI's",
+    "b": "Most Home Runs",
+    "c": "Most Stolen Bases",
+    "d": "Highest Batting Avg",
+    "answer": "c",
+    "id": "iiDtacuw273PxbCPC5Gb6rRQ6Vk"
+  },
+  {
+    "question": "The one race which is NOT A PART of horce racing's Triple Crown is:",
+    "a": "Belmont Stakes",
+    "b": "Kentucky Derby",
+    "c": "Preakness Stakes",
+    "d": "Longchamps Stakes",
+    "answer": "d",
+    "id": "BEV3V2nC1rsLXiW_iEdkD2k87Vw"
+  },
+  {
+    "question": "Which boxer weighs more, the Featherweight or Bantamweight?",
+    "a": "Featherweight",
+    "b": "Bantamweight",
+    "c": "Neither",
+    "d": "Both weigh the same",
+    "answer": "a",
+    "id": "8V0ISaDi8ZVv2ng5vWNtGNGRKT8"
+  },
+  {
+    "question": "The Boston Marathon is run the same day each year...what day is it?",
+    "a": "March 14",
+    "b": "April 19",
+    "c": "May 17",
+    "d": "June 18",
+    "answer": "b",
+    "id": "1DO5ZINQyM8zQNfQ3taKRSHG8uo"
+  },
+  {
+    "question": "In Hollywood's \"Babe Comes Home\", who portrayed Babe Ruth?",
+    "a": "William Bendix",
+    "b": "Jimmy Stuart",
+    "c": "Lou Gehrig",
+    "d": "Babe Ruth",
+    "answer": "d",
+    "id": "QGhxfdSbUA-fWanS_nhNlkQ-U-Q"
+  },
+  {
+    "question": "With which team did Y.A.Tittle play before being traded to the Giants?",
+    "a": "49'ers",
+    "b": "Green Bay Packers",
+    "c": "Chicago Bears",
+    "d": "Chicago Cardinals",
+    "answer": "a",
+    "id": "vHsepKhWsfT-ZHLsstiVUuyUSU0"
+  },
+  {
+    "question": "How many yards did Jim Brown carry the ball during his career?",
+    "a": "11,312",
+    "b": "12,312",
+    "c": "13,312",
+    "d": "14,312",
+    "answer": "b",
+    "id": "YOiHczM3UMDEYs_YS9glTxVJKzY"
+  },
+  {
+    "question": "The first name of the legendary Satchel Paige was:",
+    "a": "Johnny",
+    "b": "Artemis",
+    "c": "Clyde",
+    "d": "LeRoy",
+    "answer": "d",
+    "id": "UzGIlXRSJM2u_TVXQKgypJ_atyw"
+  },
+  {
+    "question": "Which horse was the only undefeated winner of the Triple Crown?",
+    "a": "Secretariat",
+    "b": "Citation",
+    "c": "Man O' War",
+    "d": "Seattle Slew",
+    "answer": "d",
+    "id": "Wtmr-nFOiUk4VchTiYPq9buwPEY"
+  },
+  {
+    "question": "What is the site of the college football \"Pioneer Bowl\"?",
+    "a": "Wichita, TX",
+    "b": "Sacramento, CA",
+    "c": "Denver, CO",
+    "d": "Phoenix, AZ",
+    "answer": "a",
+    "id": "TDXCxrq0ZsFNTg-nB6XG8txFEEQ"
+  },
+  {
+    "question": "How old was Tracy Austin when she first played at Wimbledon?",
+    "a": "12",
+    "b": "14",
+    "c": "18",
+    "d": "17",
+    "answer": "b",
+    "id": "lc5aVd09vHL6x8shSj-wICNAJqo"
+  },
+  {
+    "question": "What AL team snuck in a pennant win during the Yankees 1936-43 reign?",
+    "a": "Detroit Tigers",
+    "b": "Minnasota Twins",
+    "c": "Boston Red Sox",
+    "d": "Milwaukee Brewers",
+    "answer": "a",
+    "id": "q_ds9CEtMygrTGvQex8tsM0LAqw"
+  },
+  {
+    "question": "Swimmer John Naber's specialty stroke was:",
+    "a": "The butterfly",
+    "b": "The breaststroke",
+    "c": "Freestyle",
+    "d": "The backstroke",
+    "answer": "d",
+    "id": "jSLpoxivf5TmkG_c_lx38IfWQ28"
+  },
+  {
+    "question": "Which football player wrote the book \"I am Third\"?",
+    "a": "Brian Piccolo",
+    "b": "Roman Gabriel",
+    "c": "Fran Tarkenton",
+    "d": "Gale Sayers",
+    "answer": "d",
+    "id": "RGhXT3o3R74opBSXbNtfBJRTBzs"
+  },
+  {
+    "question": "Gene Tunney lost how many of his 76 professional bouts?",
+    "a": "0",
+    "b": "1",
+    "c": "2",
+    "d": "3",
+    "answer": "b",
+    "id": "Nvv5UOhuNrLkAHY2d0HVR0mVKiA"
+  },
+  {
+    "question": "Hank Aaron belted how many runs in his career?",
+    "a": "655",
+    "b": "725",
+    "c": "755",
+    "d": "787",
+    "answer": "c",
+    "id": "GvWEsMNSo15t36ItlzIkI-I-FVg"
+  },
+  {
+    "question": "Scullers practice their sport...",
+    "a": "in the air.",
+    "b": "on ice.",
+    "c": "on the water.",
+    "d": "with carving knives",
+    "answer": "c",
+    "id": "RJZDNPLSUIyGH3I07d3qyoi4qBo"
+  },
+  {
+    "question": "Which NFL team finished last in scoring in the 1983 season?",
+    "a": "Houston Oilers",
+    "b": "Tampa Bay Bucaneers",
+    "c": "Philadelphia Eagles",
+    "d": "Atlanta Falcons",
+    "answer": "c",
+    "id": "C_KnBQGXrdPfTCnhaTKfRfB9Q7o"
+  },
+  {
+    "question": "Which of these was not a running back for the Buffalo Bills?",
+    "a": "O.J. Simpson",
+    "b": "Joe Cribbs",
+    "c": "Mott Hoople",
+    "d": "Cookie Gilchrist",
+    "answer": "c",
+    "id": "8BF4X41i7j2frK_6D9FQ2x10DaU"
+  },
+  {
+    "question": "The movie \"Bang the Drum Slowly\" revolved around what major sport?",
+    "a": "Football",
+    "b": "Baseball",
+    "c": "Basketball",
+    "d": "Hockey",
+    "answer": "b",
+    "id": "uiMpWj9Mlcapcvdlg9LPf7mdTwg"
+  },
+  {
+    "question": "What was the nickname given to Babe Ruth's baseball bat?",
+    "a": "Big Bertha",
+    "b": "Black Betsy",
+    "c": "Bombs Away",
+    "d": "Rabid Bat",
+    "answer": "b",
+    "id": "G7tHgjx1R_NFHNBC1-HhRfZmhaw"
+  },
+  {
+    "question": "Star running back Paul Hornung played what college position?",
+    "a": "Wide Receiver",
+    "b": "Placekicker",
+    "c": "Quarterback",
+    "d": "Center",
+    "answer": "c",
+    "id": "nW8wY-Wx3ojF0ct7KFhSVFCHw0o"
+  },
+  {
+    "question": "Whos's credited with saying \"It's not over until it's over\"?",
+    "a": "Leo Durocher",
+    "b": "Vince Lombardi",
+    "c": "Yogi Berra",
+    "d": "Willie Mays",
+    "answer": "c",
+    "id": "pc_sobV368UKN9K9YUrcVnyIEeQ"
+  },
+  {
+    "question": "Which of these is NOT a card game?",
+    "a": "Canasta",
+    "b": "Patience",
+    "c": "Uno",
+    "d": "Cribbage",
+    "answer": "d",
+    "id": "pkAM-ZhrTOl34hzeerKtPaNbMhU"
+  },
+  {
+    "question": "Which defensive position does the AL's \"designated hitter\" play?",
+    "a": "shortstop",
+    "b": "third base",
+    "c": "catcher",
+    "d": "none of the above",
+    "answer": "d",
+    "id": "WDV3KE-ebv_bD1Jbgv8Y5mzDgco"
+  },
+  {
+    "question": "In auto racing, what is meant by the term \"slicks\"?",
+    "a": "patches of oil",
+    "b": "nice moves",
+    "c": "a hairstyle",
+    "d": "treadless tires",
+    "answer": "d",
+    "id": "UtRSbXAT-jOP8VJxMB_fbVMNGoU"
+  },
+  {
+    "question": "What college did Miami Dolphins' Bob Griese quarterback for?",
+    "a": "Rutgers",
+    "b": "Duke",
+    "c": "Purdue",
+    "d": "Michigan State",
+    "answer": "c",
+    "id": "aBRah7wZeCmvNIhnZab0gJ5_lfc"
+  },
+  {
+    "question": "What was the second city to boast a domed stadium?",
+    "a": "Detroit",
+    "b": "Houston",
+    "c": "Seattle",
+    "d": "New Orleans",
+    "answer": "c",
+    "id": "dcw_98-jllTP733oTI4EDsi1e2k"
+  },
+  {
+    "question": "What Big Ten school plays home games at Dyche Stadium?",
+    "a": "Michigan",
+    "b": "Ohio State",
+    "c": "Northwestern",
+    "d": "Notre Dame",
+    "answer": "c",
+    "id": "ofIj-bCOvbniMMoul61wDU9Qsjw"
+  },
+  {
+    "question": "Who was the first player in the NBA to amass 20,000 points?",
+    "a": "Wilt Chamberlain",
+    "b": "Kareem Abdul Jabbar",
+    "c": "Pete Maravich",
+    "d": "Bob Pettit",
+    "answer": "d",
+    "id": "7FshklfYEK1_98rYOzIYtNsABfM"
+  },
+  {
+    "question": "The largest number of strikeouts a pitcher can register in 1 inning i",
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "answer": "d",
+    "id": "FO31tP46rgi7dhTFpbs1elCLJqA"
+  },
+  {
+    "question": "In Super Bowl XV, Rod Martin caught how many interceptions for Oakland",
+    "a": "1",
+    "b": "3",
+    "c": "5",
+    "d": "6",
+    "answer": "b",
+    "id": "NqVNlYagiU9XJQzTSS8Li1PbtvI"
+  },
+  {
+    "question": "What kind of coin is usually used for the NFL's opening coin toss?",
+    "a": "Kennedy half-dollar",
+    "b": "NFL special coin",
+    "c": "Silver dollar",
+    "d": "$25 Gold coin",
+    "answer": "c",
+    "id": "PW2K4JM2-IajFxWcRhG9cDlj-QA"
+  },
+  {
+    "question": "How many World Series home runs did Willie Mays hit?",
+    "a": "2",
+    "b": "4",
+    "c": "1",
+    "d": "0",
+    "answer": "d",
+    "id": "k_RA8Yv-ZA0wagig9PknL_xZD-g"
+  },
+  {
+    "question": "How many golf courses is the Bob Hope Desert Classic played on?",
+    "a": "4",
+    "b": "3",
+    "c": "2",
+    "d": "1",
+    "answer": "a",
+    "id": "KuSe2K6LkhCKZfQqWr4Z8BvDVdk"
+  },
+  {
+    "question": "Which Cincinatti Red owned a restaurant named \"Home Plate\"?",
+    "a": "Johnny Bench",
+    "b": "Pete Rose",
+    "c": "Ted Abernathy",
+    "d": "George Foster",
+    "answer": "a",
+    "id": "79sYsYGcx3d5QDElp7F9JA51GpI"
+  },
+  {
+    "question": "How many games did the Baltimore Colts win in the 1982 NFL season?",
+    "a": "4",
+    "b": "5",
+    "c": "10",
+    "d": "0",
+    "answer": "d",
+    "id": "RNz0KdQX47kSitdP7VSUzfbf9h8"
+  },
+  {
+    "question": "Which stadium was the 1st to host 2 Super Bowls?",
+    "a": "Rose Bowl",
+    "b": "Orange Bowl",
+    "c": "Astrodome",
+    "d": "Stanford Stadium",
+    "answer": "b",
+    "id": "QeOKa9d0zPnnCxOStxxw2qjsgSg"
+  },
+  {
+    "question": "Who became the highest paid manager in baseball history on Jan 11, 198",
+    "a": "Pete Rose",
+    "b": "Jackie Robinson",
+    "c": "Billy Martin",
+    "d": "Walter Alston",
+    "answer": "c",
+    "id": "l6uUJBiyc0t51nYyimp1c7dm7oI"
+  },
+  {
+    "question": "On what par hole does golfer Tom Watson always use a broken tee?",
+    "a": "3",
+    "b": "4",
+    "c": "5",
+    "d": "He never does.",
+    "answer": "a",
+    "id": "o110slssSLnECLcSw8jFZJOTAxY"
+  },
+  {
+    "question": "What is the nickname of Wisconsin's football team?",
+    "a": "The Huskies",
+    "b": "The Bears",
+    "c": "The Beavers",
+    "d": "The Badgers",
+    "answer": "d",
+    "id": "0tuqnNFynOrlcOsjSZYRiVuTIUU"
+  },
+  {
+    "question": "Which of the following IS NOT associated with Byron White?",
+    "a": "nicknamed \"Whizzer\"",
+    "b": "Oklahoma football",
+    "c": "car salesman",
+    "d": "US Supreme Court",
+    "answer": "c",
+    "id": "OY6yiC7qCfVmJWEnXuk4LhDtWp0"
+  },
+  {
+    "question": "How many pre-season games do NFL teams play each year?",
+    "a": "2",
+    "b": "3",
+    "c": "4",
+    "d": "5",
+    "answer": "c",
+    "id": "zT4_t2dbVFzfaIzOmrz3t-XpYzg"
+  },
+  {
+    "question": "Which leg of the Triple Crown did Northern Dancer fail?",
+    "a": "None",
+    "b": "Belmont Stakes",
+    "c": "Preakness Stakes",
+    "d": "Kentucky Derby",
+    "answer": "b",
+    "id": "wnbVRLeZnunIw03bfThnH8MJQhc"
+  },
+  {
+    "question": "What salary did Willie Mays earn in 1963, then baseball's highest?",
+    "a": "$50,000",
+    "b": "$75,000",
+    "c": "$100,000",
+    "d": "$150,000",
+    "answer": "c",
+    "id": "e-GQPna5ViP4nBVJAgk1K9e7IzA"
+  },
+  {
+    "question": "The penalty for a receiver pushing an official to make a catch is:",
+    "a": "15 yards",
+    "b": "loss of down",
+    "c": "5 yards",
+    "d": "no penalty...legal",
+    "answer": "d",
+    "id": "ii_sIS-cwjf9100O8szV47PjXm0"
+  },
+  {
+    "question": "Who was the first golfer to amass 2 million dollars in winnings?",
+    "a": "Arnold Palmer",
+    "b": "Jack Nicklaus",
+    "c": "Lee Trevino",
+    "d": "Gary Player",
+    "answer": "b",
+    "id": "5j0zkspM_vbJ-k1pmZbi-c-uhrI"
+  },
+  {
+    "question": "Which of the following coaches has never played a single season?",
+    "a": "Bill Walsh",
+    "b": "Chuck Knox",
+    "c": "Red Miller",
+    "d": "All of above.",
+    "answer": "d",
+    "id": "_05CH7mI0pmDbC3eetskGwHpN6E"
+  },
+  {
+    "question": "What is the name of the game played in the World Series of Poker?",
+    "a": "Five Card Stud",
+    "b": "Texas Hold'em",
+    "c": "Lowball",
+    "d": "Five Card Draw",
+    "answer": "b",
+    "id": "qzHKEt19vZaP4ahMx3NSH6aGDJI"
+  },
+  {
+    "question": "A Cape Cod Knockabout is what kind of vehicle?",
+    "a": "a bicycle",
+    "b": "a dune buggy",
+    "c": "a sailboat",
+    "d": "a hovercraft",
+    "answer": "c",
+    "id": "H9_WSg79AlT1DojkB8vfMeFQuWc"
+  },
+  {
+    "question": "What NFL team's phone number is (617) 543-7911?",
+    "a": "Kansas City Chiefs",
+    "b": "Los Angeles Raiders",
+    "c": "San Francisco 49ers",
+    "d": "N.England Patriots",
+    "answer": "d",
+    "id": "ks1ZwEB26WLZUd-fxV19PoJ6BGk"
+  },
+  {
+    "question": "In what country was Rubik's Cube invented?",
+    "a": "United States",
+    "b": "Hungary",
+    "c": "Yugoslavia",
+    "d": "Japan",
+    "answer": "b",
+    "id": "IyPLMHmj3AS3uwlYA-2XR3jDvLY"
+  },
+  {
+    "question": "How many times did Mickey Mantle's knees have surgery as a Yankee?",
+    "a": "none",
+    "b": "twice",
+    "c": "3 times",
+    "d": "5 times",
+    "answer": "d",
+    "id": "lUriKDgoEKwRO33hvt2jHkIKaDQ"
+  },
+  {
+    "question": "What's the first team statistical entry in a football game summary?",
+    "a": "Total Yardage",
+    "b": "Turnovers",
+    "c": "First Downs",
+    "d": "Q-back Sacks",
+    "answer": "c",
+    "id": "jCU19BWU_ttnNBeBS1GANOfMw10"
+  },
+  {
+    "question": "What was the first Super Bowl to be referred to with Roman numerals?",
+    "a": "Super Bowl V",
+    "b": "Super Bowl IV",
+    "c": "Super Bowl I",
+    "d": "Super Bowl X",
+    "answer": "a",
+    "id": "GG5WvGASinFD_9jV5aDgBWR6cVM"
+  },
+  {
+    "question": "An NFL team is penalized how many yards for a deliberate face mask?",
+    "a": "5 yards",
+    "b": "10 yards",
+    "c": "15 yards",
+    "d": "20 yards",
+    "answer": "c",
+    "id": "EmnGMb_WE1MaxV3-93uBNW2fI4Q"
+  },
+  {
+    "question": "An NFL team is penalized how many yards for an incidental face mask?",
+    "a": "5 yards",
+    "b": "10 yards",
+    "c": "15 yards",
+    "d": "20 yards",
+    "answer": "a",
+    "id": "B5o8PDTemQAzcPlZ3yKiLlF99tk"
+  },
+  {
+    "question": "Who kicked the longest field goal in NFL history?",
+    "a": "Ray Wersching",
+    "b": "Tom Dempsey",
+    "c": "Chris Bahr",
+    "d": "Morten Andersen",
+    "answer": "b",
+    "id": "EUfrh5832RcGA4ovcEM4HVy5wU0"
+  },
+  {
+    "question": "How many teams debuted in the USFL in 1983?",
+    "a": "7",
+    "b": "10",
+    "c": "12",
+    "d": "14",
+    "answer": "c",
+    "id": "5IJWSfnaqYtYrMtLIcfpxW9Ctug"
+  },
+  {
+    "question": "What number did Joe Montana wear at Notre Dame?",
+    "a": "16",
+    "b": "4",
+    "c": "3",
+    "d": "22",
+    "answer": "c",
+    "id": "uszzSkp1_FzguHwfrUu4LLx_EYE"
+  },
+  {
+    "question": "What beer makes awards to the NFL outstanding linemen each year?",
+    "a": "Lite Beer",
+    "b": "Schlitz Beer",
+    "c": "Coors Beer",
+    "d": "Budweiser Beer",
+    "answer": "d",
+    "id": "wK4bg6_Zv5GgS8XuIML3AKsc-Lg"
+  },
+  {
+    "question": "What's the maximum number of yards a quarterback can throw in 1 play?",
+    "a": "100",
+    "b": "99",
+    "c": "95",
+    "d": "no maximum",
+    "answer": "b",
+    "id": "pf5IFC9zHjezy0elf2YpaTbvOcQ"
+  },
+  {
+    "question": "In what year did the Chicago White Sox throw the World Series?",
+    "a": "1911",
+    "b": "1909",
+    "c": "1910",
+    "d": "1919",
+    "answer": "d",
+    "id": "L_4JiSWqcEiJSnSvzdQAg9rAsLY"
+  },
+  {
+    "question": "How many points has each player won on a tennis game's first deuce?",
+    "a": "3",
+    "b": "2",
+    "c": "4",
+    "d": "5",
+    "answer": "a",
+    "id": "LuPAFdZdZtpUE9cL0SD78uTECkw"
+  },
+  {
+    "question": "How many days suspension do Major Leaguers get for an illegal bat?",
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "none",
+    "answer": "c",
+    "id": "cjKqFDt973YWuJGL3nHAN994nww"
+  },
+  {
+    "question": "How many Boston Celtics have won the NBA scoring title?",
+    "a": "4",
+    "b": "3",
+    "c": "2",
+    "d": "none",
+    "answer": "d",
+    "id": "LMXjdAh60aSDNRMwaJSAyAE3pb8"
+  },
+  {
+    "question": "What was set as minimum pay for NBA rookies in 1983-84?",
+    "a": "$20,000",
+    "b": "$40,000",
+    "c": "$75,000",
+    "d": "$100,000",
+    "answer": "b",
+    "id": "5YiGr5xeWSx00gf_BPEGfPKHbkQ"
+  },
+  {
+    "question": "How many quarters of a mile long is a drag strip?",
+    "a": "2",
+    "b": "1",
+    "c": "4",
+    "d": "6",
+    "answer": "b",
+    "id": "PxunOm3jjd6sOHgUf5JqErAOrC0"
+  },
+  {
+    "question": "How many of Sonny Liston's four career losses were to Cassius Clay",
+    "a": "none",
+    "b": "1",
+    "c": "3",
+    "d": "2",
+    "answer": "d",
+    "id": "WVWaeYKbc1hPH1ra88YCmS1MxSo"
+  },
+  {
+    "question": "What was the half-time score in Super Bowl IX, Steelers vs Vikings",
+    "a": "0-0",
+    "b": "32-32",
+    "c": "27-0",
+    "d": "2-0",
+    "answer": "d",
+    "id": "kpKcTOb-S_SJ1jzZpwFLkX9Kmq8"
+  },
+  {
+    "question": "In what year did the Dodgers have their 1st West Coast season?",
+    "a": "1960",
+    "b": "1961",
+    "c": "1958",
+    "d": "1956",
+    "answer": "c",
+    "id": "zEL2VKlNXB4GwVNj6CTUoEv7Msg"
+  },
+  {
+    "question": "What NFL team originally drafted quarterback Joe Theismann?",
+    "a": "Miami Dolphins",
+    "b": "Cincinatti Bengals",
+    "c": "Washington Redskins",
+    "d": "San Francisco 49ers",
+    "answer": "a",
+    "id": "__k8v1EFSdvPLE0eDPTreYXNrkU"
+  },
+  {
+    "question": "In Blackjack, the dealer must offer insurance if his hand has...",
+    "a": "a face card showing",
+    "b": "an ace showing",
+    "c": "a 16 showing",
+    "d": "any chance to win",
+    "answer": "b",
+    "id": "S9yk7EMH31u5FM_Wm7l0K8TaSrc"
+  },
+  {
+    "question": "Which was the first team to fail to score a touchdown in a Super Bowl?",
+    "a": "Miami Dolphins",
+    "b": "Minnasota Vikings",
+    "c": "Dallas Cowboys",
+    "d": "Green Bay Packers",
+    "answer": "a",
+    "id": "yS3OH-DTbGnJe4KnOMj9ADBQDSs"
+  },
+  {
+    "question": "How many NHL goaltenders have been team captains?",
+    "a": "0",
+    "b": "2",
+    "c": "20",
+    "d": "16",
+    "answer": "a",
+    "id": "1X_waCZAqyMg6bmuvAH56rpI6Z4"
+  },
+  {
+    "question": "Don Larsen pitched a perfect World Series game. On that day, his wife",
+    "a": "had a baby.",
+    "b": "died.",
+    "c": "knit him a pennant.",
+    "d": "divorced him.",
+    "answer": "d",
+    "id": "YYUU-zn96mCcZlTMqZ0eIJ733zY"
+  },
+  {
+    "question": "What are raced in the 12-mile 500 each year in Indiana?",
+    "a": "Tractors",
+    "b": "Horses",
+    "c": "Cars",
+    "d": "Lawn Mowers",
+    "answer": "d",
+    "id": "QiNDriroLe8PeIR2zLVFJqrOdUs"
+  },
+  {
+    "question": "Who was the first NHL player to score 50+ goals in one season?",
+    "a": "Red Hay",
+    "b": "Murray Balfour",
+    "c": "Bobby Hull",
+    "d": "Bobby Orr",
+    "answer": "c",
+    "id": "zgjEefL7BjzXPNOu8AMKlWSQEE8"
+  },
+  {
+    "question": "The Canadian Football League awards what Trophy?",
+    "a": "Grey Cup",
+    "b": "Gold Cup",
+    "c": "Silver Cup",
+    "d": "White Chalice",
+    "answer": "a",
+    "id": "sRjMICnLR0rOvkb8WBhlH5Hwz70"
+  },
+  {
+    "question": "Hank Aaron's primary position with the Milwaukee Brewers was:",
+    "a": "Shortstop",
+    "b": "Firstbase",
+    "c": "Outfielder",
+    "d": "Designated hitter",
+    "answer": "d",
+    "id": "2B9QKMGVp82MomQptUeHJ5hPvQ4"
+  },
+  {
+    "question": "What number did Gerald Ford wear as a center for Michigan?",
+    "a": "32",
+    "b": "48",
+    "c": "00",
+    "d": "77",
+    "answer": "b",
+    "id": "E89LAcjEWzvq9wipPINx6tuhvSw"
+  },
+  {
+    "question": "How long, in meters, is the only Olympic walking race?",
+    "a": "10,000",
+    "b": "20,000",
+    "c": "30,000",
+    "d": "40,000",
+    "answer": "b",
+    "id": "SDkboRgQuugr9Qy3cT6CTMsyBbE"
+  },
+  {
+    "question": "In Craps, to bet with the shooter, you bet on the:",
+    "a": "Field",
+    "b": "Pass line",
+    "c": "Don't Pass line",
+    "d": "C & E",
+    "answer": "b",
+    "id": "2tb-mJcu5Mpdme4v2SXgZezQWDg"
+  },
+  {
+    "question": "What member of the Cincinnati Reds wore number 15?",
+    "a": "Joe Morgan",
+    "b": "Johnny Bench",
+    "c": "Pete Rose",
+    "d": "George Foster",
+    "answer": "d",
+    "id": "4PQD25LqoxSaZR-fEjV4IF6r5ww"
+  },
+  {
+    "question": "In 1983, what NBA star recieved an honorary doctorate from Temple U?",
+    "a": "Kareem Abdul Jabbar",
+    "b": "Jerry Lucas",
+    "c": "Julius Erving",
+    "d": "Larry Byrd",
+    "answer": "c",
+    "id": "pdy4lISdQ72u3RkMwdSnhp85KOQ"
+  },
+  {
+    "question": "How many games does an NBA team play in a regular season?",
+    "a": "64",
+    "b": "76",
+    "c": "48",
+    "d": "82",
+    "answer": "d",
+    "id": "DIyPL4qQoetviKbcLJZgWY2lg7I"
+  },
+  {
+    "question": "Which of the following DID NOT make rookie-of-the-year in his 1st year",
+    "a": "Fernando Valenzuela",
+    "b": "Steve Sax",
+    "c": "Steve Howe",
+    "d": "Dave Lopes",
+    "answer": "d",
+    "id": "ZNzBMqIHZeun_2G1CiARHYgjZWw"
+  },
+  {
+    "question": "What's par on the 18th hole at Pebble Beach?",
+    "a": "3",
+    "b": "4",
+    "c": "5",
+    "d": "no such hole",
+    "answer": "c",
+    "id": "trAVwZ_6-orEBgBK7QZX6icCdsw"
+  },
+  {
+    "question": "How long is an NHL timeout?",
+    "a": "30 seconds",
+    "b": "1 minute",
+    "c": "1 minute 30 seconds",
+    "d": "2 minutes",
+    "answer": "a",
+    "id": "xknd-87V9cL5mh6-t3XWQw5ghaY"
+  },
+  {
+    "question": "Which was NOT an achievment of Mike Marshall's",
+    "a": "Cy Young Award",
+    "b": "Ph.D",
+    "c": "Kinesiology career",
+    "d": "won Name That Tune",
+    "answer": "d",
+    "id": "7pWtSAyhY1S5xtnemRe1W9uk94E"
+  },
+  {
+    "question": "How many ride a bobsled?",
+    "a": "2",
+    "b": "4",
+    "c": "5",
+    "d": "either 2 or 4",
+    "answer": "d",
+    "id": "2kptSoXFHWjAT-ZkOXlrxVtz5Ec"
+  },
+  {
+    "question": "Who said \"Most ball games are lost, not won\"?",
+    "a": "Casey Stengel",
+    "b": "Billy Martin",
+    "c": "Leo Durocher",
+    "d": "Vince Lombardi",
+    "answer": "a",
+    "id": "RZluBbSO-81nmGM65q_UEidKZYo"
+  },
+  {
+    "question": "With what team did Mercury Morris last carry the ball in the NFL?",
+    "a": "Miami Dolphins",
+    "b": "San Diego Chargers",
+    "c": "San Francisco 49ers",
+    "d": "Detroit Lions",
+    "answer": "b",
+    "id": "o9MWKCmmtbMwblmhn9Mru7DQsHQ"
+  },
+  {
+    "question": "What city did the NFL Cardinals call home before St. Louis?",
+    "a": "New Orleans",
+    "b": "Baltimore",
+    "c": "New York",
+    "d": "Chicago",
+    "answer": "d",
+    "id": "6-UXiUYUlm-LSTkaHpTnvwjJvAg"
+  },
+  {
+    "question": "How many countries competed in the first modern Olympics in 1896?",
+    "a": "13",
+    "b": "26",
+    "c": "39",
+    "d": "48",
+    "answer": "a",
+    "id": "6bfVXSQ8DxoIoO_sFcTVTfv1HB4"
+  },
+  {
+    "question": "What University did Reggie Jackson play college ball for?",
+    "a": "he didn't.",
+    "b": "Harvard University",
+    "c": "Arizona State",
+    "d": "Miami Tech",
+    "answer": "c",
+    "id": "ZuIQkAbknk-rJr2j-Nt-nh8PvoI"
+  },
+  {
+    "question": "How many feet high is Fenway Park's \"Green Monster\" wall?",
+    "a": "112",
+    "b": "82",
+    "c": "79",
+    "d": "37",
+    "answer": "d",
+    "id": "TEstaBl1zUpkdj6G8boub5Wl9kg"
+  },
+  {
+    "question": "What is the correct name for a soccer field?",
+    "a": "the arena",
+    "b": "the tarp",
+    "c": "the pitch",
+    "d": "the scrub",
+    "answer": "c",
+    "id": "f9nKqQEN254ZCWrZ9X20kqdunz0"
+  },
+  {
+    "question": "Which two finished 1st & 2nd in the 1966 National League batting race?",
+    "a": "Matty & Felipe Alou",
+    "b": "Matty & Jesus Alou",
+    "c": "Jesus & Felipe Alou",
+    "d": "Jesus & Matty Alou",
+    "answer": "a",
+    "id": "8myGpl-X-ptvtw3Aei9m6OnFIY4"
+  },
+  {
+    "question": "Fran Tarkenton started as QB in how many Super Bowls for the Vikings?",
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "answer": "c",
+    "id": "66GNRcLowSFCis4dJ7rwDbIxOdE"
+  },
+  {
+    "question": "How old was Bobby Riggs when he took on 35 yr-old Billie Jean King",
+    "a": "45",
+    "b": "50",
+    "c": "52",
+    "d": "55",
+    "answer": "d",
+    "id": "8i7FLMh-zZuxK0-ISWHvt7NMQug"
+  },
+  {
+    "question": "How many NFL Championship games have gone into overtime?",
+    "a": "none",
+    "b": "1",
+    "c": "2",
+    "d": "3",
+    "answer": "b",
+    "id": "wtGijw2Q82sgCV7bveJW9BgxzGQ"
+  },
+  {
+    "question": "How many major penalties will get an NHL goalie removed from a game?",
+    "a": "3",
+    "b": "2",
+    "c": "1",
+    "d": "4",
+    "answer": "a",
+    "id": "yaZolx5C7TK1BHbHdAIxGpMfKnU"
+  },
+  {
+    "question": "Roger Staubach received the Heisman Trophy while at which college?",
+    "a": "Notre Dame",
+    "b": "Purdue",
+    "c": "Army",
+    "d": "Navy",
+    "answer": "d",
+    "id": "hItxvch3JlLzabSwhlA2utP8fDY"
+  },
+  {
+    "question": "Who was the first golfer to capture 5 U.S. Open Crowns?",
+    "a": "Arnold Palmer",
+    "b": "Jack Nicklaus",
+    "c": "Ben Hogan",
+    "d": "Lee Trevino",
+    "answer": "c",
+    "id": "u4oEYgeSScYwgiY4e766NzHNK8Q"
+  },
+  {
+    "question": "Which was the last NBA team Bill Russell coached?",
+    "a": "Lakers",
+    "b": "76'ers",
+    "c": "Supersonics",
+    "d": "Knicks",
+    "answer": "c",
+    "id": "qBhiPzYP3BWCWR8BWJhDZrR6cUM"
+  },
+  {
+    "question": "What school won the very first Rose Bowl?",
+    "a": "Michigan",
+    "b": "Ohio State",
+    "c": "Stanford",
+    "d": "Oklahoma",
+    "answer": "a",
+    "id": "kSdWrMq63lB7-dscf-quslEaBBQ"
+  },
+  {
+    "question": "How many Wimbledon Singles titles did Pancho Gonzalez win?",
+    "a": "2",
+    "b": "3",
+    "c": "1",
+    "d": "none",
+    "answer": "d",
+    "id": "GRf2WuaufQrWr7i4GXWD9pMECI8"
+  },
+  {
+    "question": "How many NBA teams have winning, all-time records vs. the Celtics?",
+    "a": "2",
+    "b": "1",
+    "c": "4",
+    "d": "0",
+    "answer": "d",
+    "id": "VCdEQkqUXCXN8CNAiwOvlyeO0DI"
+  },
+  {
+    "question": "What NFL stadium has the smallest seating capacity for football?",
+    "a": "Candlestick Park",
+    "b": "Oakland Colisseum",
+    "c": "Soldier's Field",
+    "d": "Houston Astrodome",
+    "answer": "d",
+    "id": "9H4TQll_1YFoswY4WJEZb8j8v5k"
+  },
+  {
+    "question": "How many minutes long is a scoreless NFL overtime period?",
+    "a": "6",
+    "b": "12",
+    "c": "15",
+    "d": "20",
+    "answer": "c",
+    "id": "-M7cj_ZSvPGsItd7yvBG8BmFCMw"
+  },
+  {
+    "question": "Sonny Liston won the heavyweight title vs. Floyd Patterson in round",
+    "a": "1",
+    "b": "3",
+    "c": "5",
+    "d": "7",
+    "answer": "a",
+    "id": "o40Pc_5mRV5RhteloUnilxt4hBY"
+  },
+  {
+    "question": "What's the highest possible hand in poker, using jokers?",
+    "a": "Full House",
+    "b": "Royal Flush",
+    "c": "Straigh Flush",
+    "d": "Five Aces",
+    "answer": "d",
+    "id": "B1vOnTrNU9yj8MaWigkbkBTHLHk"
+  },
+  {
+    "question": "In what year did the designated hitter rule make its AL debut?",
+    "a": "1973",
+    "b": "1935",
+    "c": "1971",
+    "d": "1931",
+    "answer": "a",
+    "id": "X4zmm2W79ze6hURzL6SKOWGkD0o"
+  },
+  {
+    "question": "How many seasons was Reggie Jackson with the Baltimore Orioles?",
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "none",
+    "answer": "a",
+    "id": "_F7U4TB-RZ3QM18hGa75mOc4d5E"
+  },
+  {
+    "question": "Eligibility for baseball's Hall of Fame requires a player be retired:",
+    "a": "2 years.",
+    "b": "3 years.",
+    "c": "5 years.",
+    "d": "8 years.",
+    "answer": "c",
+    "id": "lez8gy5cOFzNUGaP0EcuqIbK_xw"
+  },
+  {
+    "question": "How many football teams play in the Southeastern Conference?",
+    "a": "8",
+    "b": "9",
+    "c": "10",
+    "d": "12",
+    "answer": "c",
+    "id": "MmEeiSpyuuUIjbSQw4b87HZAufE"
+  },
+  {
+    "question": "Who many Olympic basketball Gold Medals has Canada won?",
+    "a": "1",
+    "b": "0",
+    "c": "2",
+    "d": "3",
+    "answer": "b",
+    "id": "vdxTStNyryX4HAzCg_1vkgQy0c0"
+  },
+  {
+    "question": "What's the NFL record for most points in a shutout victory?",
+    "a": "42",
+    "b": "54",
+    "c": "64",
+    "d": "72",
+    "answer": "c",
+    "id": "2Kv5XxlTHSbdFYRZXtOOGjqLRYY"
+  },
+  {
+    "question": "How many shoes does a player throw in a frame of horseshoe pitching?",
+    "a": "2",
+    "b": "4",
+    "c": "5",
+    "d": "8",
+    "answer": "a",
+    "id": "hqK83ezCWAQFl-vIuZ-lhkRf6dc"
+  },
+  {
+    "question": "How many feet above the crossbar do the NFL goalpost uprights extend?",
+    "a": "15",
+    "b": "20",
+    "c": "25",
+    "d": "10",
+    "answer": "b",
+    "id": "vV8JcAe46G1gbBrLpX8h0a_Grjk"
+  },
+  {
+    "question": "How many players are on the court in an official Volleyball game?",
+    "a": "6",
+    "b": "8",
+    "c": "10",
+    "d": "12",
+    "answer": "d",
+    "id": "UUDPwcy54zie6z3UiK5y4TOP-EM"
+  },
+  {
+    "question": "How many points is a perfect score in international figure skating?",
+    "a": "6",
+    "b": "8",
+    "c": "10",
+    "d": "12",
+    "answer": "a",
+    "id": "gQm64RX6fG0P7auS7KHCSqWhVNM"
+  },
+  {
+    "question": "What war cost the lives of 21 NFL players?",
+    "a": "Viet Nam",
+    "b": "Korean",
+    "c": "World War II",
+    "d": "World War I",
+    "answer": "c",
+    "id": "R-C01KW6j0YUKIdXZJLV-yuiSvQ"
+  },
+  {
+    "question": "How many pockets are there on a true billiard table?",
+    "a": "4",
+    "b": "6",
+    "c": "8",
+    "d": "0",
+    "answer": "d",
+    "id": "Q5H9nTYEQP2_0M95RQG9tZc_4BQ"
+  },
+  {
+    "question": "Which is the first stadium equipped with artificial turf?",
+    "a": "Pontiac Silverdome",
+    "b": "Seattle Superdome",
+    "c": "Mile High Stadium",
+    "d": "Houston Astrodome",
+    "answer": "d",
+    "id": "i21vlKYzv1-hdOWAEgegaRGu64c"
+  },
+  {
+    "question": "How many points is a touchdown worth in the World Football League",
+    "a": "6",
+    "b": "7",
+    "c": "8",
+    "d": "5",
+    "answer": "b",
+    "id": "fUrpk5300ZwHcWCfy0Xt5jS_zno"
+  },
+  {
+    "question": "What country invented bowling?",
+    "a": "Poland",
+    "b": "Japan",
+    "c": "United States",
+    "d": "Germany",
+    "answer": "d",
+    "id": "Af2VvnNvw_t_VKVphybZ0VDHofw"
+  },
+  {
+    "question": "How many Gold Medals has Mark Spitz accumulated?",
+    "a": "9",
+    "b": "7",
+    "c": "5",
+    "d": "6",
+    "answer": "a",
+    "id": "X0sSPVCzpXWAvuYbAmGD0IiQS54"
+  },
+  {
+    "question": "How many games does an NHL team play in a regular season?",
+    "a": "32",
+    "b": "64",
+    "c": "80",
+    "d": "116",
+    "answer": "c",
+    "id": "j1ulAEyGj_ODW81kLMh3LHE9A4E"
+  },
+  {
+    "question": "How many times was the Rose Bowl played other than in Pasadena, CA?",
+    "a": "never",
+    "b": "once",
+    "c": "twice",
+    "d": "6 times",
+    "answer": "b",
+    "id": "kTUXX1LRRbj3SwO0PXKTgOYdWWU"
+  },
+  {
+    "question": "The major league career record for number of times hit by a pitch is:",
+    "a": "67 times",
+    "b": "82 times",
+    "c": "114 times",
+    "d": "243 times",
+    "answer": "d",
+    "id": "xsIoc-oWrmMD4e506sXpUyCTS-w"
+  },
+  {
+    "question": "What 2 baseball teams were involved in the infamous 1984 season brawl?",
+    "a": "Tigers and Giants",
+    "b": "Astros and Yankees",
+    "c": "Padres and Braves",
+    "d": "Angels and Red Sox",
+    "answer": "c",
+    "id": "nuMIQ5JE7Cn-liw6dheK8fGDdDE"
+  },
+  {
+    "question": "In what year was the Heisman Trophy first awarded?",
+    "a": "1946",
+    "b": "1942",
+    "c": "1941",
+    "d": "1935",
+    "answer": "d",
+    "id": "FKMZobQdNq-yf8aJ3MjGpNvfv-4"
+  },
+  {
+    "question": "How many women's names are inscribed on hockey's Stanley Cup?",
+    "a": "10",
+    "b": "3",
+    "c": "1",
+    "d": "none",
+    "answer": "c",
+    "id": "filWw3eyJX9cv5xCXwk-tt1bAfs"
+  },
+  {
+    "question": "Who is credited with naming the Super Bowl?",
+    "a": "Vince Lombardi",
+    "b": "President Johnson",
+    "c": "Lamar Hunt",
+    "d": "Duffy Daugherty",
+    "answer": "c",
+    "id": "J2alwxU9fJLx8JvZn50XxcgEAEw"
+  },
+  {
+    "question": "How many times did Hank Aaron hit more than 50 runs in a season?",
+    "a": "2",
+    "b": "3",
+    "c": "1",
+    "d": "0",
+    "answer": "d",
+    "id": "6CFcTcYbRenyz85ucqcOcO74TAU"
+  },
+  {
+    "question": "How many yards is the penalty for fair-catch interference in the NFL",
+    "a": "none",
+    "b": "5",
+    "c": "10",
+    "d": "15",
+    "answer": "d",
+    "id": "PD5ra63xUmAtH_IOWz7ZxxSXMJ4"
+  },
+  {
+    "question": "How many innings was the longest game in organized baseball history",
+    "a": "27",
+    "b": "29",
+    "c": "30",
+    "d": "33",
+    "answer": "d",
+    "id": "qap3-c85calzlimlDUrE8ZWVUfs"
+  },
+  {
+    "question": "Vince Lombardi and Brian Picollo both died in...",
+    "a": "1968",
+    "b": "1972",
+    "c": "1975",
+    "d": "1970",
+    "answer": "d",
+    "id": "NdPRHJiMOzn5Q5N6-qfsONg8ShY"
+  },
+  {
+    "question": "Whose Super Bowl Ring was sold to a pawnbroker in 1978 for $100?",
+    "a": "Fran Tarkenton's",
+    "b": "Joe Namath's",
+    "c": "Terry Bradshaw's",
+    "d": "Lyle Alzado's",
+    "answer": "b",
+    "id": "2XgXQxH1SIL-_Muuq6ZPIC1QmwY"
+  },
+  {
+    "question": "Which horse holds the record for the fastest Kentucky Derby time?",
+    "a": "Citation",
+    "b": "Man O' War",
+    "c": "Seattle Slew",
+    "d": "Secretariat",
+    "answer": "d",
+    "id": "0Kq8L9L2wCuYFZHB2Dd-knNgubY"
+  },
+  {
+    "question": "What automobile racing oval sports a 9-hole golf course infield?",
+    "a": "Daytona Speedway",
+    "b": "Laguna Seca",
+    "c": "Indianapolis",
+    "d": "Sears Point",
+    "answer": "c",
+    "id": "onHEY1LkTg_p_9wcAYLaEIiaFh8"
+  },
+  {
+    "question": "Which brand of footwear does Kareem Abdul-Jabbar endorse?",
+    "a": "Nike",
+    "b": "Adidas",
+    "c": "Keds",
+    "d": "K-Mart Kwiks",
+    "answer": "b",
+    "id": "CpmjqmDbB78AU85u3LUfhzMnw9w"
+  },
+  {
+    "question": "How many Olympic Games has London hosted?",
+    "a": "none",
+    "b": "1",
+    "c": "2",
+    "d": "3",
+    "answer": "c",
+    "id": "oow9-akawYvv1FK5xaSAkxm4oKk"
+  },
+  {
+    "question": "How many days does it take to complete a Decathlon?",
+    "a": "10",
+    "b": "4",
+    "c": "2",
+    "d": "1",
+    "answer": "c",
+    "id": "LzvMlO59jW49FLkk_9dpjjmoMNA"
+  },
+  {
+    "question": "Which was the 1st NFL team to win a Super Bowl as a Wild Card team?",
+    "a": "Pittsburgh Steelers",
+    "b": "San Francisco 49ers",
+    "c": "Oakland Raiders",
+    "d": "Washington Redskins",
+    "answer": "c",
+    "id": "60dpQSIqQzHkZfM_1pc2dKkQiTA"
+  },
+  {
+    "question": "In the video game, Donkey Kong, the little man's name is:",
+    "a": "Julio",
+    "b": "Mario",
+    "c": "Roberto",
+    "d": "Marco",
+    "answer": "b",
+    "id": "syIUqlXDr2RYMulow9yJaEYXoMY"
+  },
+  {
+    "question": "Another name for a Rum-and-Coke is:",
+    "a": "Pina Colada",
+    "b": "Grasshopper",
+    "c": "Cuba Libre",
+    "d": "Southern Comfort",
+    "answer": "c",
+    "id": "80ws8430vPh-OFify2Nkvmheeqk"
+  },
+  {
+    "question": "How many NCAA championships did basketball's Bill Walton help win?",
+    "a": "none",
+    "b": "1",
+    "c": "3",
+    "d": "2",
+    "answer": "d",
+    "id": "B8j_Q6zGPvzFp90Hc1y8HIKBnr8"
+  },
+  {
+    "question": "How many weeks did the 1982 NFL players's strike last?",
+    "a": "6",
+    "b": "7",
+    "c": "8",
+    "d": "9",
+    "answer": "c",
+    "id": "uX8qQ6FjG2PVGg7gyn7Pkja4HBg"
+  },
+  {
+    "question": "How many years does Steve Garvey's $6,600,000 Padres contract cover?",
+    "a": "3",
+    "b": "6",
+    "c": "5",
+    "d": "4",
+    "answer": "c",
+    "id": "ClUwG9wi_WHm7XHjQhzTa5G8620"
+  },
+  {
+    "question": "What gives better odds--betting the pass line in craps, or don't pass?",
+    "a": "pass line",
+    "b": "don't pass",
+    "c": "neither--same odds",
+    "d": "both--no difference",
+    "answer": "b",
+    "id": "YvjaNcFUpjhZtrvqnZpXNt_g7Nc"
+  },
+  {
+    "question": "How many TD's did Gale Sayers score against the 49ers on 12/12/65?",
+    "a": "none",
+    "b": "2",
+    "c": "4",
+    "d": "6",
+    "answer": "d",
+    "id": "bsCdRihPG9JKxCwsRATUhVtD3uk"
+  },
+  {
+    "question": "How many rounds did George Chuvalo go against Cassius Clay in 1966?",
+    "a": "1",
+    "b": "2",
+    "c": "8",
+    "d": "15",
+    "answer": "d",
+    "id": "7v14QuVJQP8d2qjR54U6zBD4rb0"
+  },
+  {
+    "question": "In what month is the New York City Marathon run?",
+    "a": "April",
+    "b": "May",
+    "c": "September",
+    "d": "October",
+    "answer": "d",
+    "id": "WGHYX1ss79LpkKMtfOY30l6l8c4"
+  },
+  {
+    "question": "What country has won the most Gold Medals in the modern-day Olympics?",
+    "a": "USSR",
+    "b": "USA",
+    "c": "East Germany",
+    "d": "West Germany",
+    "answer": "b",
+    "id": "pPjBmANSt1y-JaZao_WGj-uCFNs"
+  },
+  {
+    "question": "What city was once the home of an NHL team named The Pirates?",
+    "a": "Pittsburgh",
+    "b": "Petaluma",
+    "c": "Poughkeepsie",
+    "d": "Pontiac",
+    "answer": "a",
+    "id": "0TVqQV-M24hP9hIeHXfZz7m5z0g"
+  },
+  {
+    "question": "What team's defensive backfield is known as \"The Hot Licks\"?",
+    "a": "Miami Dolphins",
+    "b": "Pittsburgh Steelers",
+    "c": "Buffalo Bills",
+    "d": "San Francisco 49ers",
+    "answer": "d",
+    "id": "1qKTPX9BVu0lF9wcRhRlqJbIqHk"
+  },
+  {
+    "question": "Who did SPORT magazine name \"Hockey Player of the Century\" in 1971?",
+    "a": "Bobby Orr",
+    "b": "Bobby Hull",
+    "c": "Terry Sawchuck",
+    "d": "Gordie Howe",
+    "answer": "d",
+    "id": "w65NfMCtvhBUlL4Msii-XW8JUlk"
+  },
+  {
+    "question": "What does a \"bird dog\" do?",
+    "a": "film games",
+    "b": "catch fly balls",
+    "c": "manages batboys",
+    "d": "scouts",
+    "answer": "d",
+    "id": "lvaBMBNsvkRWktsTdY1hEF5kZPU"
+  },
+  {
+    "question": "Who was the first tennis pro to earn $1 million in one year?",
+    "a": "Jimmy Connors",
+    "b": "John McEnroe",
+    "c": "Billie Jean King",
+    "d": "Bjorn Borg",
+    "answer": "d",
+    "id": "4QCWF3ltifXM8DzZbScmsyyKUCE"
+  },
+  {
+    "question": "What is the maximum weight of a 10-pin bowling ball?",
+    "a": "10 lbs.",
+    "b": "15 lbs.",
+    "c": "16 lbs.",
+    "d": "18 lbs.",
+    "answer": "c",
+    "id": "SVIOFypYAfzUtPMtaT7MKQBVqFk"
+  },
+  {
+    "question": "In which city do the Golden State Warriors play their home games?",
+    "a": "San Francisco",
+    "b": "Los Angeles",
+    "c": "Riverside, CA",
+    "d": "Oakland, CA",
+    "answer": "d",
+    "id": "N-tyqviiS16ixcKbLnHBr_xeXGo"
+  },
+  {
+    "question": "What was the average annual salary of an NBA player in 1982-83?",
+    "a": "$50,000",
+    "b": "$100,000",
+    "c": "$200,000",
+    "d": "$250,000",
+    "answer": "d",
+    "id": "ypfZuFeOxHONeqVVKZwDn3mlpQ8"
+  },
+  {
+    "question": "What Swiss town is the home of the International Olympic Committee?",
+    "a": "Grenoble",
+    "b": "Basel",
+    "c": "Geneva",
+    "d": "Lucerne",
+    "answer": "d",
+    "id": "GIbSD1GizeZRoqXxEJK8bGYvwMw"
+  },
+  {
+    "question": "Which was the last NFL team to have an all-white roster?",
+    "a": "Washington Redskins",
+    "b": "Miami Dolphins",
+    "c": "Chicago Bears",
+    "d": "New York Giants",
+    "answer": "a",
+    "id": "bXeiL2gVBqcJM_jFDNsj9RmOHBU"
+  },
+  {
+    "question": "How many basketball games did UCLA lose while Lew Alcindor played?",
+    "a": "26",
+    "b": "13",
+    "c": "7",
+    "d": "2",
+    "answer": "d",
+    "id": "GiXy2j4p1alt5iM-NXApoaSp68g"
+  },
+  {
+    "question": "What position did Janet Guthrie race to in the 1978 Indy 500?",
+    "a": "1st",
+    "b": "4th",
+    "c": "9th",
+    "d": "25th",
+    "answer": "c",
+    "id": "n0MitVnqOFMdMu9w6gF9jF3dsiA"
+  },
+  {
+    "question": "What figure skater married Dean Martin's son?",
+    "a": "Peggy Fleming",
+    "b": "Jo Jo Starbuck",
+    "c": "Dorothy Hamill",
+    "d": "Cathy Rigby",
+    "answer": "c",
+    "id": "j87RXok4FhMLpEgn9AGCrmGPIcY"
+  },
+  {
+    "question": "Which NL baseball team's telephone number is (213) 224-1500?",
+    "a": "New York Mets",
+    "b": "Chicago Cubs",
+    "c": "S.Francisco Giants",
+    "d": "Los Angeles Dodgers",
+    "answer": "d",
+    "id": "UgNnbkm-ahw9gu7lQAtG7fxsGf0"
+  },
+  {
+    "question": "Which was the first American thoroughbred to win $1 million?",
+    "a": "Citation",
+    "b": "Man O' War",
+    "c": "Seattle Slew",
+    "d": "Secretariat",
+    "answer": "a",
+    "id": "O2KzBEwgXAOPsVc_WC_gITVG8IU"
+  },
+  {
+    "question": "What game sports the fastest moving ball?",
+    "a": "Golf",
+    "b": "Baseball",
+    "c": "Tennis",
+    "d": "Jai-Alai",
+    "answer": "d",
+    "id": "AMWpZETq0yIXT7jBGHUxaMfjF6Y"
+  },
+  {
+    "question": "In what year did Women's Basketball become a part of The Olympics?",
+    "a": "1928",
+    "b": "1956",
+    "c": "1967",
+    "d": "1976",
+    "answer": "d",
+    "id": "025CJpd2yZxmnE45dc6gnUwLq0I"
+  },
+  {
+    "question": "What brand of footwear is endorsed by Dr. J?",
+    "a": "Adidas",
+    "b": "Nike",
+    "c": "Converse",
+    "d": "Keds",
+    "answer": "c",
+    "id": "xhCZbTRsgdQM8l3PlNE4xISAxVo"
+  },
+  {
+    "question": "What NFL team's pass rush was known as \"The Silver Rush\"?",
+    "a": "Oakland Raiders",
+    "b": "Dallas Cowboys",
+    "c": "St. Louis Cardinals",
+    "d": "Detroit Lions",
+    "answer": "d",
+    "id": "qXEu6XRPCas5iKMbfl3uEbHiTpA"
+  },
+  {
+    "question": "What hockey sensation was profiled in Sports Illustrated at age 16?",
+    "a": "Gordie Howe",
+    "b": "Bobby Hull",
+    "c": "Bobby Orr",
+    "d": "Wayne Gretzky",
+    "answer": "d",
+    "id": "43mMwLNbrOvgTydlQX38vYTKuLM"
+  },
+  {
+    "question": "What was the score of the 1980 U.S. and U.S.S.R. Olympic hockey game?",
+    "a": "2-1",
+    "b": "3-2",
+    "c": "4-3",
+    "d": "5-4",
+    "answer": "c",
+    "id": "JNgaJbSAyKliubiVzI8JUyzNprg"
+  },
+  {
+    "question": "This famous person was once a scout for the Chicago Cubs",
+    "a": "Ronald Reagan",
+    "b": "John Forsythe",
+    "c": "Jack Benny",
+    "d": "Bing Crosby",
+    "answer": "c",
+    "id": "_G6htOPixV8d-6crrqtlW-8K40w"
+  },
+  {
+    "question": "In how many Super Bowl games did O.J. Simpson play?",
+    "a": "3",
+    "b": "2",
+    "c": "1",
+    "d": "0",
+    "answer": "d",
+    "id": "1KddLiQg3g7P3Pn2DGSk_xrG3UA"
+  },
+  {
+    "question": "In how many Rose Bowl games did O.J. Simpson play?",
+    "a": "3",
+    "b": "2",
+    "c": "1",
+    "d": "0",
+    "answer": "a",
+    "id": "f-9We8qVXMPshIW3xYc2UP_VBhc"
+  },
+  {
+    "question": "How many times has the Indy 500 been cancelled for bad weather?",
+    "a": "2 times",
+    "b": "4 times",
+    "c": "1 time",
+    "d": "never",
+    "answer": "d",
+    "id": "IeJfEssKg114OieWGLsK9B0eVa4"
+  },
+  {
+    "question": "How many more umpires are in World Series play, compared to in-season",
+    "a": "none",
+    "b": "1",
+    "c": "2",
+    "d": "actually less",
+    "answer": "c",
+    "id": "0KxdRZFUfnbfSRM2VCBCBshJ1r8"
+  },
+  {
+    "question": "How many seconds does an NFL team have to put the ball in play?",
+    "a": "15",
+    "b": "20",
+    "c": "30",
+    "d": "45",
+    "answer": "c",
+    "id": "GeUEup_pfVhNUAB85tu34ZF2u8E"
+  },
+  {
+    "question": "Which of the following video games is not a product of Atari, Inc.?",
+    "a": "Pole Position",
+    "b": "Asteroids",
+    "c": "Pong",
+    "d": "Donkey Kong",
+    "answer": "d",
+    "id": "BTmMw9r7GZmis02a79CdmTZSCEc"
+  },
+  {
+    "question": "In craps, which of these numbers is NOT in the \"field\"?",
+    "a": "2",
+    "b": "12",
+    "c": "9",
+    "d": "8",
+    "answer": "d",
+    "id": "XboAq0jCFo1QX9HMKNdiXzL0bC4"
+  },
+  {
+    "question": "In Madison Square Garden, how thick is the hockey rink ice?",
+    "a": "3 inches",
+    "b": "2.25 inches",
+    "c": "1 inch",
+    "d": "5/8 of an inch",
+    "answer": "d",
+    "id": "sqOuNI1KosO6KSgaYOHMs9Re1eY"
+  },
+  {
+    "question": "What color is the center line on an NHL hockey rink?",
+    "a": "blue",
+    "b": "red",
+    "c": "black",
+    "d": "no such line",
+    "answer": "b",
+    "id": "hcHM6Nt-9s_QGn2ZetOYh_4Y5bY"
+  },
+  {
+    "question": "How many Masters golf titles did Arnold Palmer win?",
+    "a": "none",
+    "b": "2",
+    "c": "4",
+    "d": "8",
+    "answer": "c",
+    "id": "DKRPd5uMuy93XdA1D0XCcx-8oFI"
+  },
+  {
+    "question": "What movie was set against Super Bowl X?",
+    "a": "Heaven Can Wait",
+    "b": "Number One",
+    "c": "Black Sunday",
+    "d": "How I Won Number VI",
+    "answer": "c",
+    "id": "RlULcDT8pdjUaOVM11tCjjWSBeo"
+  },
+  {
+    "question": "How many were on base for Mudville when the Mighty Casey struck out?",
+    "a": "none",
+    "b": "1",
+    "c": "2",
+    "d": "3",
+    "answer": "c",
+    "id": "95Pgq76USgzEO_DgR6A5v3b6LK8"
+  },
+  {
+    "question": "What team has captured the most NFL championships?",
+    "a": "Pittsburgh Steelers",
+    "b": "Green Bay Packers",
+    "c": "Houston Oilers",
+    "d": "Oakland Raiders",
+    "answer": "b",
+    "id": "EpgzxnZ1rHp07PJd0RXa1II23rQ"
+  },
+  {
+    "question": "What level of players competes for baseball's Golden Spikes awards?",
+    "a": "Little League",
+    "b": "Major League",
+    "c": "Minor League",
+    "d": "College",
+    "answer": "d",
+    "id": "75gRD3_9bKMnUvffMJE9QecdIjY"
+  },
+  {
+    "question": "How many inches high is baseball's pitching mound?",
+    "a": "6 inches",
+    "b": "8 inches",
+    "c": "10 inches",
+    "d": "12 inches",
+    "answer": "c",
+    "id": "d7pmo80AtAM2dPbqAJHQEZNUrck"
+  },
+  {
+    "question": "In chess, which piece has the highest assigned point value?",
+    "a": "pawn",
+    "b": "bishop",
+    "c": "knight",
+    "d": "rook",
+    "answer": "d",
+    "id": "keTDCP3jWmWkZy9yFYWEv7-dcYA"
+  },
+  {
+    "question": "In which direction do speed skaters race?",
+    "a": "Clockwise",
+    "b": "Counterclockwise",
+    "c": "Both",
+    "d": "Neither",
+    "answer": "b",
+    "id": "hxkhfGz6rdnHE1-GTnGcH2cC4F4"
+  },
+  {
+    "question": "How many NBA titles have the New York Knicks won?",
+    "a": "none",
+    "b": "1",
+    "c": "2",
+    "d": "4",
+    "answer": "c",
+    "id": "Myo1GCV_Ag13m1RoIs7Y-7PIjZM"
+  },
+  {
+    "question": "Who did Notre Dame beat when Knute Rockne said \"Win 1 for The Gipper\"",
+    "a": "Navy",
+    "b": "Army",
+    "c": "Air Force",
+    "d": "Rutgers",
+    "answer": "b",
+    "id": "CPQOuBzXgFUO1BKpr-TjFqbBO00"
+  },
+  {
+    "question": "At which British University was the first under-4 minute mile run?",
+    "a": "Oxford",
+    "b": "Cambridge",
+    "c": "London Economics",
+    "d": "Royal Academy",
+    "answer": "a",
+    "id": "LfxEc0POdvpkhjCPoY04BZ-PPms"
+  },
+  {
+    "question": "What's the oldest college football bowl game?",
+    "a": "Pioneer Bowl",
+    "b": "Sugar Bowl",
+    "c": "Ivy Bowl",
+    "d": "Rose Bowl",
+    "answer": "d",
+    "id": "iU1LbbCUcchjH_ngSATfmXBXPt4"
+  },
+  {
+    "question": "With the bases empty, how much time does the pitcher have to pitch?",
+    "a": "10 seconds",
+    "b": "20 seconds",
+    "c": "1 minute",
+    "d": "no limit",
+    "answer": "b",
+    "id": "CWO4DMQQTTyuaxiAhyeeQ9mZFNQ"
+  },
+  {
+    "question": "What did the ancient Greeks use to make the first discus?",
+    "a": "Stone",
+    "b": "Gold",
+    "c": "Silver",
+    "d": "Wood",
+    "answer": "a",
+    "id": "3XMfdcbd3vsc51zzAw1ya1Phlvc"
+  },
+  {
+    "question": "What other professional sport did \"Too Tall Jones\" take a stab at?",
+    "a": "Baseball",
+    "b": "Basketball",
+    "c": "Soccer",
+    "d": "Boxing",
+    "answer": "d",
+    "id": "G7Wj1se84TaFJ1IzvNIhN_AmLic"
+  },
+  {
+    "question": "When did Pete Rozelle announce the NFL-AFL merger?",
+    "a": "June 8, 1966",
+    "b": "May 27, 1967",
+    "c": "June 10, 1967",
+    "d": "January 1, 1965",
+    "answer": "a",
+    "id": "Yp9PFTvu0jMNE2v7V5ArKvlhruA"
+  },
+  {
+    "question": "In what year did the NBA adopt the three-point field goal?",
+    "a": "1975",
+    "b": "1979",
+    "c": "1981",
+    "d": "1980",
+    "answer": "b",
+    "id": "bHPzShUtj5Ftp9KXC82-TyIH6Do"
+  },
+  {
+    "question": "Who did the US beat for the gold in basketball at the 1976 Olympics?",
+    "a": "Canada",
+    "b": "Russia",
+    "c": "Poland",
+    "d": "Yugoslavia",
+    "answer": "d",
+    "id": "Wv49lwHqwsU6ANdf6qjuDr2czgI"
+  },
+  {
+    "question": "What's the nickname of the Oregon State football squad?",
+    "a": "The Badgers",
+    "b": "The Wildcats",
+    "c": "The Beavers",
+    "d": "The Bears",
+    "answer": "c",
+    "id": "0GOvHyuC4zOo0kuS6cRmKqspNMs"
+  },
+  {
+    "question": "What team did Goose Gossage break into the Majors with?",
+    "a": "Chicago White Sox",
+    "b": "Kansas City Royals",
+    "c": "Minnasota Twins",
+    "d": "Houston Astros",
+    "answer": "a",
+    "id": "rbhWZeF0wBQYfO1WdKaexcPSh6c"
+  },
+  {
+    "question": "What Florida city is home to the Fishing Hall of Fame?",
+    "a": "Miami",
+    "b": "Tampa",
+    "c": "Orlando",
+    "d": "Ft. Lauderdale",
+    "answer": "b",
+    "id": "V8XNsH0cW3shCdMy3e0zUfTZo44"
+  },
+  {
+    "question": "What's the NFL penalty for an invalid fair catch signal?",
+    "a": "5 yards",
+    "b": "10 yards",
+    "c": "15 yards",
+    "d": "no penalty",
+    "answer": "a",
+    "id": "vUYA5e_WRAvthu80S2phpomEeiA"
+  },
+  {
+    "question": "What are golfers asked to replace?",
+    "a": "Their tees",
+    "b": "Their cleats",
+    "c": "Their divots",
+    "d": "Their score pencils",
+    "answer": "c",
+    "id": "MLMeKYugXyWi8_9zr8jsUExrJGo"
+  },
+  {
+    "question": "What sport is known informally as \"shinny\"?",
+    "a": "Shin splint relays",
+    "b": "Hockey",
+    "c": "Pole Vaulting",
+    "d": "Basketball",
+    "answer": "b",
+    "id": "zcfaVS8Up7pbs7QYwo8UsSOT_8Q"
+  },
+  {
+    "question": "What two countries compete for the Ryder Cup?",
+    "a": "US and USSR",
+    "b": "US and France",
+    "c": "US and W.Germany",
+    "d": "US and Britain",
+    "answer": "d",
+    "id": "EGYvH7hsCakWkRiJCkptQ-kgYOI"
+  },
+  {
+    "question": "What hockey great was known as \"The Golden Jet\"?",
+    "a": "Bobby Orr",
+    "b": "Gordie Howe",
+    "c": "Bobby Hull",
+    "d": "Wayne Gretzky",
+    "answer": "c",
+    "id": "S50_iIjwJcDuqjImmQe8qR7EPmo"
+  },
+  {
+    "question": "Who called boxing \"a desperately sick sport\"?",
+    "a": "Jake LaMotta",
+    "b": "Muhammad Ali",
+    "c": "Ronald Reagan",
+    "d": "Howard Cosell",
+    "answer": "d",
+    "id": "VpGIWWW62SqhCe0vhVUeN6N_2Wc"
+  },
+  {
+    "question": "In what year was the first Winter Olympics televised?",
+    "a": "1960",
+    "b": "1956",
+    "c": "1964",
+    "d": "1952",
+    "answer": "a",
+    "id": "Fqs5RcIZEzDRMX898rLCdS2BJ28"
+  },
+  {
+    "question": "In baseball, how many feet in diameter is the on-deck circle?",
+    "a": "3",
+    "b": "5",
+    "c": "7",
+    "d": "2",
+    "answer": "b",
+    "id": "kQrulMZrkm4fQZdM6mPMWzX6SGw"
+  },
+  {
+    "question": "Who's the leading rebounder in NBA playoff history?",
+    "a": "Kareem Abdul-Jabbar",
+    "b": "Bill Walton",
+    "c": "Bill Russell",
+    "d": "Wilt Chamberlain",
+    "answer": "c",
+    "id": "NFs3Lg66MLMvULNe4ZIaQ2D_640"
+  },
+  {
+    "question": "George Steinbrenner is in what business besides baseball?",
+    "a": "Oil production",
+    "b": "Hollywood movies",
+    "c": "Ship building",
+    "d": "Antique automobiles",
+    "answer": "c",
+    "id": "dNTWO5UwCv4q9Z4QvIZGXz2xg3o"
+  },
+  {
+    "question": "Which game of the 1956 World Series was Don Larsen's perfect game?",
+    "a": "1st",
+    "b": "3rd",
+    "c": "5th",
+    "d": "7th",
+    "answer": "c",
+    "id": "x7qgDN0x1dAKq8Az87tRna-JbRQ"
+  },
+  {
+    "question": "How many officials constitute an NFL officiating crew?",
+    "a": "4",
+    "b": "5",
+    "c": "9",
+    "d": "7",
+    "answer": "d",
+    "id": "uAY2cAYvVSMHWa2GB_5aeGZOyEc"
+  },
+  {
+    "question": "How many timeouts per game are allowed in NHL play?",
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "answer": "a",
+    "id": "KTn5auKdbhtrpVPfyBBvnkMWlVs"
+  },
+  {
+    "question": "Who is the 2nd leading rebounder in NBA playoff history?",
+    "a": "Kareem Abdul-Jabbar",
+    "b": "Bill Walton",
+    "c": "Bill Russell",
+    "d": "Wilt Chamberlain",
+    "answer": "d",
+    "id": "ZZV5j6fhOt881adSAsOqhu6dTdg"
+  },
+  {
+    "question": "What college did Jim Plunkett play football for?",
+    "a": "San Jose State",
+    "b": "Stanford",
+    "c": "USC",
+    "d": "Oakland Tech",
+    "answer": "b",
+    "id": "ojdw0xFenJaV2hnXxOk24R2wAYQ"
+  },
+  {
+    "question": "What shoe does John McEnroe stomp during one of his temper tantrums?",
+    "a": "Adidas",
+    "b": "Converse",
+    "c": "Keds",
+    "d": "Nike",
+    "answer": "d",
+    "id": "yNyGi2-pLZRqxXVpFfb5ot6duB8"
+  },
+  {
+    "question": "Where is the annual Little League World Series played?",
+    "a": "Sacramento, CA",
+    "b": "Williamsport, PA",
+    "c": "Cooperstown, NY",
+    "d": "Canton, Ohio",
+    "answer": "b",
+    "id": "CgxslEYaGwfezYMoZG2gpQiB_yg"
+  },
+  {
+    "question": "How many years did Jesse Owens' long jump record remain undefeated",
+    "a": "4",
+    "b": "8",
+    "c": "16",
+    "d": "25",
+    "answer": "d",
+    "id": "gpFdTFYYHS3JWniuASg-xdRVtZI"
+  },
+  {
+    "question": "What 1982 NFL defensive unit was known as \"The Killer Bees\"?",
+    "a": "Cincinatti Bengals",
+    "b": "Tampa Bay Bucaneers",
+    "c": "Miami Dolphins",
+    "d": "Washington Redskins",
+    "answer": "c",
+    "id": "rOs1CboWc2KYAyWTEJCtzz1LMq0"
+  },
+  {
+    "question": "How much money did each player get for winning the first Super Bowl?",
+    "a": "$5000",
+    "b": "$12,500",
+    "c": "$15,000",
+    "d": "$25,000",
+    "answer": "c",
+    "id": "Is_lM9fmHWnRuLuu7mfSFTgHb80"
+  },
+  {
+    "question": "How many games are scheduled in one season for each major league team?",
+    "a": "116",
+    "b": "126",
+    "c": "162",
+    "d": "261",
+    "answer": "c",
+    "id": "Gtvmj28bqU3IlfrhgsqJ9440jI0"
+  },
+  {
+    "question": "What year was the first televised NFL game?",
+    "a": "1960",
+    "b": "1956",
+    "c": "1948",
+    "d": "1939",
+    "answer": "d",
+    "id": "EBN0d9s9VY99ABc4-f4njKp7Rcc"
+  },
+  {
+    "question": "In what year was the first general strike in baseball history?",
+    "a": "1932",
+    "b": "1952",
+    "c": "1970",
+    "d": "1972",
+    "answer": "d",
+    "id": "eb5OdfKDc92Px3TG2SP8_QxvkmY"
+  },
+  {
+    "question": "In what year was the Cy Young award first given in both major leagues?",
+    "a": "1954",
+    "b": "1960",
+    "c": "1967",
+    "d": "1971",
+    "answer": "c",
+    "id": "kFLHxUmr787yrMVhSx9wYZJ_o_8"
+  },
+  {
+    "question": "What company manufactures NFL footballs?",
+    "a": "Spalding",
+    "b": "Wilson",
+    "c": "Titleist",
+    "d": "Wham-O",
+    "answer": "b",
+    "id": "EPsLx8aKC9TrR3Fjt7xyg_zuDEM"
+  },
+  {
+    "question": "In what year did Roger Bannister break the 4-minute mile record?",
+    "a": "1945",
+    "b": "1949",
+    "c": "1952",
+    "d": "1954",
+    "answer": "d",
+    "id": "jz7wN8nh2o_x_I8ipzmoDJUDKSo"
+  },
+  {
+    "question": "What city hosts the annual Army-Navy football contest?",
+    "a": "Annapolis, MD",
+    "b": "West Point, NY",
+    "c": "Philadelphia, PA",
+    "d": "Washington, D.C.",
+    "answer": "c",
+    "id": "qkuYvysrQsQTzbF-N1JtN70iyV4"
+  },
+  {
+    "question": "What basketball star was known as \"The Big Dipper\"?",
+    "a": "Pete Maravich",
+    "b": "Bob Lanier",
+    "c": "Wilt Chamberlain",
+    "d": "Bill Russell",
+    "answer": "c",
+    "id": "ZSi7llq7Cr_rNUX2rj7tYDi-zXA"
+  },
+  {
+    "question": "How many Gold Medals did swimming ace Mark Spitz win in 1968?",
+    "a": "2",
+    "b": "5",
+    "c": "7",
+    "d": "9",
+    "answer": "a",
+    "id": "bc4TSW8eLmpipG8MULwKwp-F-84"
+  },
+  {
+    "question": "How many National League batting championships did Willie Mays win?",
+    "a": "1",
+    "b": "3",
+    "c": "4",
+    "d": "6",
+    "answer": "a",
+    "id": "T0yJpjVw25UvpywsGsC946Yscpo"
+  },
+  {
+    "question": "What's the nickname of the Harvard football team?",
+    "a": "The Crimson Tide",
+    "b": "The Bulldogs",
+    "c": "The Eli",
+    "d": "The Crimson",
+    "answer": "d",
+    "id": "4U25A1anNF2Bs4WGfXI8t8Kv-ag"
+  },
+  {
+    "question": "What brand shoe does Magic Johnson do his magic tricks in?",
+    "a": "Nike",
+    "b": "Adidas",
+    "c": "Converse",
+    "d": "Florsheim",
+    "answer": "c",
+    "id": "tVrMo04eC8TI8b1h7dY0Wjcj_xE"
+  },
+  {
+    "question": "In what year did the NFL adopt regular season overtime?",
+    "a": "1962",
+    "b": "1970",
+    "c": "1974",
+    "d": "1980",
+    "answer": "c",
+    "id": "37R1pr7Tt70WLS2r_L5TWuLyVuE"
+  },
+  {
+    "question": "How many points are required to win a standard men's handball game?",
+    "a": "11",
+    "b": "15",
+    "c": "16",
+    "d": "21",
+    "answer": "d",
+    "id": "P93ms8eYCNklbAuznSF9SvvgUHY"
+  },
+  {
+    "question": "How did Knute Rockne die?",
+    "a": "Plane crash",
+    "b": "Auto crash",
+    "c": "Lou Gehrigs disease",
+    "d": "Cancer",
+    "answer": "a",
+    "id": "WcOrPPQuDR_jmCKR2Hrr53D5nNk"
+  },
+  {
+    "question": "In 1934, what did Nazi Germany declare its official sport?",
+    "a": "Riflery",
+    "b": "Swimming",
+    "c": "Golf",
+    "d": "Archery",
+    "answer": "c",
+    "id": "Z6qTunI0J4Ybk5MzD_rsTiJ76dI"
+  },
+  {
+    "question": "What letter is the symbol for a strikeout in scoring a game?",
+    "a": "S",
+    "b": "C",
+    "c": "K",
+    "d": "X",
+    "answer": "c",
+    "id": "mfGJWzPn3PKJ5DuxsIhWBQeLCTY"
+  },
+  {
+    "question": "What American League team did Bob Hope own a piece of?",
+    "a": "Houston Astros",
+    "b": "Califoria Angles",
+    "c": "Oakland A's",
+    "d": "Cleveland Indians",
+    "answer": "d",
+    "id": "sCq4paFminEZkjhDglv4GSCuLpM"
+  },
+  {
+    "question": "In what other sport did skater Beth Heiden win a world championship?",
+    "a": "Swimming",
+    "b": "Archery",
+    "c": "Cycling",
+    "d": "Soccer",
+    "answer": "c",
+    "id": "nI-Wqh6qFC_iwUS2t3aY_nY850c"
+  },
+  {
+    "question": "What NFL quarterback made Richard Nixon's White House enemies list?",
+    "a": "Roman Gabriel",
+    "b": "Joe Namath",
+    "c": "Joe Theisman",
+    "d": "Ken Stabler",
+    "answer": "b",
+    "id": "BE_VIsvmTSIaZTWXwibSk2Md1VE"
+  },
+  {
+    "question": "Who was the first U.S. President to attend Monday Night Football?",
+    "a": "Jimmy Carter",
+    "b": "Gerald Ford",
+    "c": "Richard Nixon",
+    "d": "Ronald Reagan",
+    "answer": "a",
+    "id": "p4Z_sRcL-Z5vVAHWSRV33aRIBfc"
+  },
+  {
+    "question": "How many Wild Card playoff games does the NFL play each season?",
+    "a": "1",
+    "b": "2",
+    "c": "3",
+    "d": "4",
+    "answer": "b",
+    "id": "mbyUTCHBdQwEXGiGlojyqrD_qFI"
+  },
+  {
+    "question": "What year did Monday Night Football come to TV?",
+    "a": "1968",
+    "b": "1970",
+    "c": "1972",
+    "d": "1973",
+    "answer": "b",
+    "id": "TOps5tcSDFQILUodYHshEW5LDDY"
+  },
+  {
+    "question": "What's the base color of the San Diego Chargers' football helmet?",
+    "a": "Black",
+    "b": "Yellow",
+    "c": "Blue",
+    "d": "White",
+    "answer": "c",
+    "id": "ydI6C-BzZEwl4CMDgWDB8ZYRThk"
+  },
+  {
+    "question": "Who was the first person to win the Indianapolis 500 four times?",
+    "a": "Bobby Unser",
+    "b": "Richard Petty",
+    "c": "A.J. Foyt",
+    "d": "Janet Guthrie",
+    "answer": "c",
+    "id": "7AeZ_QqPNw7cbYvs6CDn5IPAPX4"
+  },
+  {
+    "question": "How many times was Julius Erving named MVP in an ABA all-star game?",
+    "a": "3",
+    "b": "2",
+    "c": "1",
+    "d": "0",
+    "answer": "d",
+    "id": "Fpnl711ZkGBX0Hyg9jUO6aZXWZ8"
+  },
+  {
+    "question": "Who was the 1st head coach to take 2 separate teams to the Super Bowl",
+    "a": "John Madden",
+    "b": "Don Shula",
+    "c": "Vince Lombardi",
+    "d": "Joe Gibbs",
+    "answer": "b",
+    "id": "Z7qfcg8UxsnkZykIpeXbOp9bRWI"
+  },
+  {
+    "question": "What college basketball team is nicknamed the Tar Heels?",
+    "a": "Oklahoma",
+    "b": "Pennsylvania",
+    "c": "Georgia",
+    "d": "North Carolina",
+    "answer": "d",
+    "id": "1s1A3GcvJ5MvuF7BmROb7FeAmVc"
+  },
+  {
+    "question": "How many Gold Medals did Olga Korbut win at the 1976 Olympics?",
+    "a": "4",
+    "b": "2",
+    "c": "3",
+    "d": "0",
+    "answer": "d",
+    "id": "XXbW9Y1x6HpqevCS5B2SudYsJxc"
+  },
+  {
+    "question": "What college did Bill Walsh leave to coach the San Francisco 49'ers?",
+    "a": "Cal",
+    "b": "Notre Dame",
+    "c": "San Jose State",
+    "d": "Stanford",
+    "answer": "d",
+    "id": "KCSfWTBOGj1nXUcNDUqNYulsKh8"
+  },
+  {
+    "question": "What`s the NFL penalty for roughing the kicker?",
+    "a": "Automatic 1st down",
+    "b": "15 yards",
+    "c": "10 yards",
+    "d": "both A and B above",
+    "answer": "d",
+    "id": "eYPJhNk-YIqdnWlosRZY9I-g0hs"
+  },
+  {
+    "question": "What was Cassius Clay's middle name?",
+    "a": "Mario",
+    "b": "Marcellus",
+    "c": "Washington",
+    "d": "Henry",
+    "answer": "b",
+    "id": "SC4s3mTRxIFFYG_R-WXP0W6W3Vw"
+  },
+  {
+    "question": "How much time does an NBA team get to bring the ball across midcourt?",
+    "a": "5 seconds",
+    "b": "10 seconds",
+    "c": "15 seconds",
+    "d": "20 seconds",
+    "answer": "b",
+    "id": "MijeDt8XgEV2qKyWFeE6I0O7ZsY"
+  },
+  {
+    "question": "How many yards deep is the end zone in the Canadian Football League?",
+    "a": "10",
+    "b": "15",
+    "c": "20",
+    "d": "25",
+    "answer": "d",
+    "id": "bqGVXptf54-QHV2ELIa-QKPjKOc"
+  },
+  {
+    "question": "How many pitches did Stan Musial throw in the majors?",
+    "a": "0",
+    "b": "1",
+    "c": "5",
+    "d": "10",
+    "answer": "b",
+    "id": "QDN_aJ1hFR2pNkWjGwuuY-997xc"
+  },
+  {
+    "question": "What color were NFL officials' flags before 1965?",
+    "a": "White",
+    "b": "Yellow",
+    "c": "Red",
+    "d": "Orange",
+    "answer": "a",
+    "id": "Kfg_4zDyYrtK3uYbYCS2KLnk6Y0"
+  },
+  {
+    "question": "What's the home of the Professional Bowlers Association?",
+    "a": "Akron, Ohio",
+    "b": "Kansas City, Kansas",
+    "c": "Warsaw, Ohio",
+    "d": "Kansas City, Mo",
+    "answer": "a",
+    "id": "Or3VsfhdLRVw0rCuAbMYWYp7N6Q"
+  },
+  {
+    "question": "What major league team did Luis Tiant first go to the mound for?",
+    "a": "Boston Red Sox",
+    "b": "Atlanta Braves",
+    "c": "Cleveland Indians",
+    "d": "New York Mets",
+    "answer": "c",
+    "id": "_pmK_nHZitwI8UYMZQ4Nn2RmJw0"
+  },
+  {
+    "question": "What's traditionally the 1st event in a rodeo?",
+    "a": "Calf Roping",
+    "b": "Bronc Riding",
+    "c": "Bareback riding",
+    "d": "Clown show",
+    "answer": "c",
+    "id": "0iz9qeTvUloZFIChCM_pzx99ZyA"
+  },
+  {
+    "question": "How many players have averaged 30 points a game in their NBA careers",
+    "a": "0",
+    "b": "7",
+    "c": "4",
+    "d": "1",
+    "answer": "d",
+    "id": "E3lJ2Tqul2VuiwVKvLQja7u6SVM"
+  },
+  {
+    "question": "What NHL club introduced the flex defense?",
+    "a": "Pittsburg Steelers",
+    "b": "Los Angeles Rams",
+    "c": "Dallas Cowboys",
+    "d": "Minnesota Vikings",
+    "answer": "c",
+    "id": "S0CIcpg9saKmsXqLUyiVO6cqLOI"
+  },
+  {
+    "question": "What year did the NCAA start a woman's basketball championship?",
+    "a": "1972",
+    "b": "1977",
+    "c": "1980",
+    "d": "1982",
+    "answer": "d",
+    "id": "pRYG3A4ahMp0ZH8krkMXmg7K2FU"
+  },
+  {
+    "question": "What Bowl game was played in Rome by U.S. servicemen in 1944?",
+    "a": "Tokyo-Rose Bowl",
+    "b": "Army-Navy Bowl",
+    "c": "European Bowl",
+    "d": "Spaghetti Bowl",
+    "answer": "d",
+    "id": "VwZdXu63HFEsFi3KKwxUHz-FdHY"
+  },
+  {
+    "question": "What number did the L.A. Raiders issue running back Marcus Allen?",
+    "a": "30",
+    "b": "32",
+    "c": "34",
+    "d": "36",
+    "answer": "b",
+    "id": "sfjzQHMKImRGzqpQ925M2xgZSLo"
+  },
+  {
+    "question": "Where did Babe Ruth's body lie in state?",
+    "a": "St. Patrick's Cath.",
+    "b": "St. Anthony's Cath.",
+    "c": "Springfield, Ill",
+    "d": "Yankee Stadium",
+    "answer": "d",
+    "id": "K0_Ql-VsO8vrkAuod5lJkruH-JU"
+  },
+  {
+    "question": "What NBA club does Larry Weinberg own?",
+    "a": "Lakers",
+    "b": "76er's",
+    "c": "Supersonics",
+    "d": "Trail Blazers",
+    "answer": "d",
+    "id": "58tXrtsXM78Wja4d73mNA3YBg-I"
+  },
+  {
+    "question": "In what round did Muhammad Ali stop Joe Frazier in 1975?",
+    "a": "1st",
+    "b": "7th",
+    "c": "15th",
+    "d": "14th",
+    "answer": "d",
+    "id": "yEU1rph_MRJZiGVFkTNEfICNnEM"
+  },
+  {
+    "question": "How many scoreless, penalty-free games are there in NHL history?",
+    "a": "21",
+    "b": "7",
+    "c": "0",
+    "d": "1",
+    "answer": "d",
+    "id": "_wLF2mkRPz6ehypsv8vjwS1x9IE"
+  }
+]

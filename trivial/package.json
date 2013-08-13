@@ -1,0 +1,23 @@
+{
+  "name": "trivial",
+  "description": "A Trivia Game API",
+  "author": "Matthew King",
+  "version": "0.1.0",
+  "bin": "./server.coffee",
+  "files": [
+    "bin/",
+    "src/",
+    "schema.json"
+  ],
+  "dependencies": {
+    "patchboard": "0.3.12"
+  },
+  "devDependencies": {
+    "testify": "0.2.x"
+  }
+}
+
+
+
+
+
