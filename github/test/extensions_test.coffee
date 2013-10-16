@@ -2,22 +2,8 @@ GitHubClient = require("../client")
 Testify = require("testify")
 assert = require "assert"
 
-fs = require("fs")
-# read login:password from a file
-string = fs.readFileSync("auth")
-string = string.slice(0, string.length-1)
-basic_auth = new Buffer(string).toString("base64")
-
-client = new GitHubClient(basic_auth)
-
-## FIXME: Why is this here?
-#test_repository = (context, repo) ->
-  #repo.get
-    #on:
-      #200: (response, repo) ->
-        #context.test "repo.owner is a resource", ->
-          #assert.equal repo.owner.resource_type, "user"
-
+helpers = require "./helpers"
+client = new GitHubClient(helpers.login, helpers.password)
 
 Testify.test "Resources from templatized urls", (context) ->
 

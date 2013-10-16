@@ -2,13 +2,8 @@ GitHubClient = require("../client")
 Testify = require("testify")
 assert = require "assert"
 
-fs = require("fs")
-# read login:password from a file
-string = fs.readFileSync("auth")
-string = string.slice(0, string.length-1)
-basic_auth = new Buffer(string).toString("base64")
-
-client = new GitHubClient(basic_auth)
+helpers = require "./helpers"
+client = new GitHubClient(helpers.login, helpers.password)
 
 Testify.test "Resources provided full URLs by the directory", (context) ->
   repositories = client.resources.repositories

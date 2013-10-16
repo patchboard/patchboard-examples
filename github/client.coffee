@@ -3,7 +3,8 @@ Client = require("patchboard-js")
 api = require "./api"
 
 class GitHubClient extends Client
-  constructor: (@basic_auth_string) ->
+  constructor: (login, password) ->
+    @basic_auth_string = new Buffer("#{login}:#{password}").toString("base64")
     super api,
       authorizer: (type, action) =>
         resource = @
