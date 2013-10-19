@@ -29,42 +29,43 @@ Testify.test "Resource associations", (context) ->
     repo = client.resources.repository(login: "automatthew", name: "fate")
 
     context.test "post request chaining", (context) ->
-      repo.get
-        on:
-          request_error: (error) -> context.fail(error)
-          response: (response) ->
-            context.fail "unexpected response status: #{response.status}"
-          200: (response, repo) ->
-            context.test "creating the association", ->
-              contributors = repo.contributors
-              context.test "using the association", (context) ->
-                repo.contributors.list
-                  on:
-                    request_error: (error) -> context.fail(error)
-                    response: (response) ->
-                      context.fail "unexpected response status: #{response.status}"
-                    200: (response, contributors) ->
-                      context.test "result is a non-empty array", ->
-                        assert.equal contributors.constructor, Array
-                        assert.ok contributors.length > 0
-                      context.test "each item is a User resource", ->
-                        for item in contributors
-                          assert.equal item.resource_type, "user"
+      repo.get (error, {resource}) ->
 
-    #context.test "requestless chaining", (context) ->
-      #context.test "repository.contributors", (context) ->
-        #repo.contributors.list
-          #on:
-            #request_error: (error) -> context.fail(error)
-            #response: (response) ->
-              #context.fail "unexpected response status: #{response.status}"
-            #200: (response, contributors) ->
-              #context.test "result is a non-empty array", ->
-                #assert.equal contributors.constructor, Array
-                #assert.ok contributors.length > 0
-              #context.test "each item is a User resource", ->
-                #for item in contributors
-                  #assert.equal item.resource_type, "user"
+        context.test "received expected response", ->
+          assert.ifError(error)
+
+        context.test "creating the association", ->
+          contributors = resource.contributors
+
+          context.test "using the association", (context) ->
+            contributors.list (error, {resource}) ->
+
+              context.test "received expected response", ->
+                assert.ifError(error)
+
+
+              context.test "result is a non-empty array", ->
+                assert.equal resource.constructor, Array
+                assert.ok resource.length > 0
+              context.test "each item is a User resource", ->
+                for item in resource
+                  assert.equal item.resource_type, "user"
+
+
+    context.test "requestless chaining", (context) ->
+      context.test "repository.contributors", (context) ->
+        repo.contributors.list (error, {resource}) ->
+
+          context.test "received expected response", ->
+            assert.ifError(error)
+
+          context.test "result is a non-empty array", ->
+            assert.equal resource.constructor, Array
+            assert.ok resource.length > 0
+          context.test "each item is a User resource", ->
+            for item in resource
+              assert.equal item.resource_type, "user"
+
 
       #context.test "repository.languages", (context) ->
         #repo.languages.list
