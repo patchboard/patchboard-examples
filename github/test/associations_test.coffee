@@ -52,19 +52,19 @@ Testify.test "Resource associations", (context) ->
                   assert.equal item.resource_type, "user"
 
 
-    context.test "requestless chaining", (context) ->
-      context.test "repository.contributors", (context) ->
-        repo.contributors.list (error, {resource}) ->
+    #context.test "requestless chaining", (context) ->
+      #context.test "repository.contributors", (context) ->
+        #repo.contributors.list (error, {resource}) ->
 
-          context.test "received expected response", ->
-            assert.ifError(error)
+          #context.test "received expected response", ->
+            #assert.ifError(error)
 
-          context.test "result is a non-empty array", ->
-            assert.equal resource.constructor, Array
-            assert.ok resource.length > 0
-          context.test "each item is a User resource", ->
-            for item in resource
-              assert.equal item.resource_type, "user"
+          #context.test "result is a non-empty array", ->
+            #assert.equal resource.constructor, Array
+            #assert.ok resource.length > 0
+          #context.test "each item is a User resource", ->
+            #for item in resource
+              #assert.equal item.resource_type, "user"
 
 
       #context.test "repository.languages", (context) ->
