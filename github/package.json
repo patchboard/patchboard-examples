@@ -6,11 +6,10 @@
   "version": "0.1.0",
 
   "dependencies": {
-    "patchboard-js": "0.3.x"
+    "patchboard-js": "git+ssh://git@github.com:automatthew/patchboard-js.git#github_support"
   },
   "devDependencies": {
-    "testify": "0.2.x",
-    "coffee-script": "1.3.x"
+    "testify": ">=0.2.8"
   }
 }
 
