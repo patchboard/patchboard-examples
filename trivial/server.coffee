@@ -18,8 +18,10 @@ server = new Patchboard.Server api,
   handlers: handlers
   decorator: ({context}) =>
     context.decorate (schema, data) =>
-      if schema.properties?.url? && data.id
-        data.url = context.url(schema.name, data.id)
+      if schema.properties?.url? && data.id && data.type
+        resource_type = data.type
+        delete data.type
+        data.url = context.url(resource_type, data.id)
 
 
 server.run()

@@ -1,20 +1,24 @@
 module.exports =
 
   users:
+    resource: "users"
     path: "/users"
-    publish: true
 
   user:
-    path: "/users/:id"
+    resource: "user"
+    template: "/users/:id"
 
   statistics:
-    path: "/users/:id/statistics"
+    resource: "statistics"
+    template: "/users/:id/statistics"
 
   questions:
-    path: "/users/:id/questions"
+    resource: "questions"
+    template: "/users/:id/questions"
 
   question:
-    path: "/questions/:id"
+    resource: "question"
+    template: "/questions/:id"
 
 
 

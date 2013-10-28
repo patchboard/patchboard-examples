@@ -24,11 +24,12 @@ class UserCollection
     else
       id = @application._generate_id()
       user =
+        type: "user"
         login: login
         email: email
         id: id
         answered: {}
-        questions: {id: id}
+        questions: {id: id, type: "questions"}
 
       @logins[user.login] = user
       @ids[user.id] = user
@@ -65,6 +66,7 @@ class QuestionCollection
       qid = available[Math.floor(Math.random() * available.length)]
       source_question = @data[qid]
       question =
+        type: "question"
         user_id: user.id
         expires: Date.now() + @ttl
         question: source_question.question

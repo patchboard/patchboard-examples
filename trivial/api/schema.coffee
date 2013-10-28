@@ -1,13 +1,14 @@
 media_type = (name) ->
   "application/vnd.trivial.#{name}+json;version=1.0"
 
+
 module.exports =
 
-  id: "patchboard.trivial"
-  properties:
+  id: "urn:patchboard.trivial"
+  definitions:
 
     resource:
-      extends: {$ref: "patchboard#resource"}
+      extends: {$ref: "urn:patchboard#resource"}
 
     user:
       extends: {$ref: "#resource"}
@@ -38,10 +39,10 @@ module.exports =
     questions:
       extends: {$ref: "#resource"}
       type: "object"
-      properties:
-        answered:
-          type: "array"
-          items: {$ref: "#answered_question"}
+      #properties:
+        #answered:
+          #type: "array"
+          #items: {$ref: "#answered_question"}
 
     question:
       extends: {$ref: "#resource"}

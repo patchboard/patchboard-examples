@@ -42,7 +42,7 @@ module.exports = (application) ->
           else
             # There are no more questions to ask.
             url = context.url "statistics", user_id
-            context.respond 303, {url: url}
+            context.respond 303, {url: url},
               "Location": url
               "Content-Type": "application/json"
 
