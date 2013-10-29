@@ -1,4 +1,4 @@
 module.exports =
-  mappings: require "./api/paths"
+  mappings: require "./api/mappings"
   resources: require "./api/resources"
   schema: require "./api/schema"
