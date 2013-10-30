@@ -4,8 +4,9 @@ assert = require "assert"
 {discover, saneTimeout} = require "./helpers"
 
 discover (client) ->
-  Testify.test "Trivial API", (context) ->
-    context.test "create a user", (context) ->
+  Testify.test "Trivial API", (suite) ->
+
+    suite.test "create a user", (context) ->
 
       login = new Buffer(Math.random().toString().slice(0, 8)).toString("hex")
       client.resources.users.create {login: login}, (error, {resource}) ->
@@ -19,7 +20,7 @@ discover (client) ->
         context.test "has expected actions", ->
           assert.equal resource.questions?.ask?.constructor, Function
 
-        context.test "asking for a question", (context) ->
+        suite.test "asking for a question", (context) ->
           resource.questions.ask (error, {resource}) ->
 
             context.test "Expected response", ->
@@ -31,7 +32,7 @@ discover (client) ->
               assert.ok "abcd".split("").every (item) ->
                 resource[item]
 
-            context.test "answering the question", (context) ->
+            suite.test "answering the question", (context) ->
               resource.answer {letter: "d"}, (error, response) ->
 
                 context.test "Expected response", ->
@@ -42,14 +43,13 @@ discover (client) ->
                   assert.equal result.success, true
                   assert.equal result.correct, "d"
 
-                #context.test "attempting to answer again", (context) ->
-                  #question.answer
-                    #content:
-                      #letter: "d"
-                    #on:
-                      #response: (response) ->
-                        #context.test "receive expected HTTP error", ->
-                          #assert.equal response.status, 409
-                          #assert.equal response.body.data.message,
-                            #"Question has already been answered"
+                  suite.test "attempting to answer again", (context) ->
+                    resource.answer {letter: "d"}, (error, response) ->
+
+                      context.test "receive expected HTTP error", ->
+                        assert.ok error
+                        assert.equal error.status, 409
+                        data = JSON.parse error.response.body
+                        assert.equal data.message,
+                          "Question has already been answered"
 

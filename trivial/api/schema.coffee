@@ -39,9 +39,9 @@ module.exports =
     questions:
       extends: {$ref: "#resource"}
       type: "object"
-      #properties:
-        #answered:
-          #type: "array"
+      properties:
+        asked:
+          type: "object"
           #items: {$ref: "#answered_question"}
 
     question:

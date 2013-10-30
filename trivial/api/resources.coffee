@@ -35,13 +35,6 @@ module.exports =
         response_schema: urn "question"
         status: 201
 
-  statistics:
-    actions:
-      get:
-        method: "GET"
-        response_schema: urn "statistics"
-        status: 200
-
   question:
     actions:
       answer:
@@ -50,10 +43,17 @@ module.exports =
         response_schema: urn "result"
         status: 200
 
-  global_statistics:
-    actions:
-      get:
-        method: "GET"
-        response_schema: urn "global_statistics"
-        status: 200
+  #statistics:
+    #actions:
+      #get:
+        #method: "GET"
+        #response_schema: urn "statistics"
+        #status: 200
+
+  #global_statistics:
+    #actions:
+      #get:
+        #method: "GET"
+        #response_schema: urn "global_statistics"
+        #status: 200
 

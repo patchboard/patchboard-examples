@@ -1,12 +1,12 @@
 module.exports = (application) ->
 
-  default_handler = (context) ->
-    {match: {resource_type, action_name, path}, request: {body, query}} = context
-    options =
-      content: body
-      query: query
-      identifier: path
-    application[resource_type][action_name](options, response_callback)
+  #default_handler = (context) ->
+    #{match: {resource_type, action_name, path}, request: {body, query}} = context
+    #options =
+      #content: body
+      #query: query
+      #identifier: path
+    #application[resource_type][action_name](options, response_callback)
 
   response_callback = (context) ->
     {match} = context
@@ -47,20 +47,20 @@ module.exports = (application) ->
               "Content-Type": "application/json"
 
 
-  statistics:
-    get: (context) ->
-      id = context.match.path.id
-      application.statistics id, response_callback(context)
-
   question:
     answer: (context) ->
       id = context.match.path.id
       answer = context.request.body
       application.answer_question id, answer, response_callback(context)
 
-  statistics:
-    get: (context) ->
-      application.global_statistics response_callback(context)
+  #statistics:
+    #get: (context) ->
+      #id = context.match.path.id
+      #application.statistics id, response_callback(context)
+
+  #global_statistics:
+    #get: (context) ->
+      #application.global_statistics response_callback(context)
 
 
 
