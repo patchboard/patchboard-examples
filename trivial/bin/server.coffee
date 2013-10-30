@@ -1,15 +1,15 @@
 #!/usr/bin/env coffee
 
 Patchboard = require "patchboard"
-api = require "./api"
-Application = require "./application"
+api = require "../src/api"
+Application = require "../src/application"
 
 [interpreter, script, data_file] = process.argv
 
 application = new Application
   data_file: data_file
 
-handlers = require("./handlers")(application)
+handlers = require("../src/handlers")(application)
 
 server = new Patchboard.Server api,
   host: "127.0.0.1"

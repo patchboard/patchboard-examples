@@ -9,7 +9,7 @@ module.exports = class Application
       # TODO: make this work when passed an absolute path for data_file
       data_file = path.join process.cwd(), @options.data_file
     else
-      data_file = "./data/Mixed.json"
+      data_file = "../data/Mixed.json"
 
     # silly + overkill given that this app is necessarily single process.
     @id_base = [process.pid, Math.floor(Date.now() / 1000)].join(":")

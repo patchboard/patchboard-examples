@@ -1,7 +1,7 @@
 Testify = require "testify"
 assert = require "assert"
 
-Application = require "../../application"
+Application = require "../../src/application"
 app = new Application
   question_ttl: 100
 

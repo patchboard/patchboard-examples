@@ -8,10 +8,6 @@ module.exports =
     resource: "user"
     template: "/users/:id"
 
-  statistics:
-    resource: "statistics"
-    template: "/users/:id/statistics"
-
   questions:
     resource: "questions"
     template: "/users/:id/questions"
@@ -20,5 +16,7 @@ module.exports =
     resource: "question"
     template: "/questions/:id"
 
-
+  #statistics:
+    #resource: "statistics"
+    #template: "/users/:id/statistics"
 
