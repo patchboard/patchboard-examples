@@ -9,12 +9,11 @@ module.exports =
         request_schema: urn "user"
         response_schema: urn "user"
         status: 201
-      login:
+
+  user_search:
+    actions:
+      get:
         method: "GET"
-        query:
-          login:
-            required: true
-            type: "string"
         response_schema: urn "user"
         status: 200
 

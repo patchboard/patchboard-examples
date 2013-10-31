@@ -21,8 +21,10 @@ module.exports = (application) ->
   users:
     create: (context) ->
       application.create_user context.request.body, response_callback(context)
-    login: (context) ->
-      application.login context.request.query, response_callback(context)
+
+  user_search:
+    get: (context) ->
+      application.user_search context.request.query, response_callback(context)
 
   user:
     get: (context) ->

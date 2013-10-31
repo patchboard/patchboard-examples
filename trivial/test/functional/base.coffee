@@ -4,24 +4,39 @@ assert = require "assert"
 {discover, saneTimeout} = require "./helpers"
 
 discover (client) ->
+  {resources} = client
   Testify.test "Trivial API", (suite) ->
 
     suite.test "create a user", (context) ->
 
-      login = new Buffer(Math.random().toString().slice(0, 8)).toString("hex")
-      client.resources.users.create {login: login}, (error, {resource}) ->
+      login = new Buffer(Math.random().toString().slice(0, 6)).toString("hex")
+
+      resources.users.create {login: login}, (error, response) ->
         context.test "Expected response", ->
           assert.ifError(error)
 
         context.test "has expected fields", ->
+          {resource} = response
           assert.equal resource.login, login
           assert.ok resource.url
           assert.ok !resource.email
-        context.test "has expected actions", ->
-          assert.equal resource.questions?.ask?.constructor, Function
+
+        context.test "has expected subresources", ->
+          {resource} = response
+          assert.equal resource.questions.constructor, Function
+
+        suite.test "searching for a user", (context) ->
+          resources.user_search(login: login).get (error, response) ->
+            context.test "Expected response", ->
+              assert.ifError(error)
+
+            context.test "user is good", ->
+              user = response.resource
+              assert.equal user.resource_type, "user"
 
         suite.test "asking for a question", (context) ->
-          resource.questions.ask (error, {resource}) ->
+          {resource} = response
+          resource.questions(category: "Science").ask (error, {resource}) ->
 
             context.test "Expected response", ->
               assert.ifError(error)

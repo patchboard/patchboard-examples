@@ -22,19 +22,12 @@ module.exports =
         email:
           type: "string"
           format: "email"
+        password:
+          type: "string"
+          minLength: 4
+          maxLength: 64
         questions: {$ref: "#questions"}
-        statistics: {$ref: "#statistics"}
-
-    statistics:
-      extends: {$ref: "#resource"}
-      mediaType: media_type "statistics"
-      properties:
-        questions: {type: "integer"}
-        correct: {type: "integer"}
-        incorrect: {type: "integer"}
-        timeouts: {type: "integer"}
-        score: {type: "number"}
-        percentile: {type: "integer"}
+        #statistics: {$ref: "#statistics"}
 
     questions:
       extends: {$ref: "#resource"}
@@ -78,4 +71,14 @@ module.exports =
     global_statistics:
       extends: {$ref: "#resource"}
 
+    #statistics:
+      #extends: {$ref: "#resource"}
+      #mediaType: media_type "statistics"
+      #properties:
+        #questions: {type: "integer"}
+        #correct: {type: "integer"}
+        #incorrect: {type: "integer"}
+        #timeouts: {type: "integer"}
+        #score: {type: "number"}
+        #percentile: {type: "integer"}
 

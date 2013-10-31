@@ -12,7 +12,7 @@ module.exports = class Application
       data_file = "../data/Mixed.json"
 
     # silly + overkill given that this app is necessarily single process.
-    @id_base = [process.pid, Math.floor(Date.now() / 1000)].join(":")
+    @id_base = [process.pid, Math.floor(Date.now() / 1000)].join("-")
     @counter = 0
 
     @users = new UserCollection(@)
@@ -22,11 +22,11 @@ module.exports = class Application
   create_user: (params, callback) ->
     @users.create(params, callback)
 
-  login: ({login}, callback) ->
+  user_search: ({login}, callback) ->
     @users.find {login: login}, (error, user) =>
       if error
         if error.name == "not found"
-          callback {name: "unauthorized"}
+          callback(error)
         else
           callback {name: "internal server error", message: error.message}
       else
@@ -79,7 +79,7 @@ module.exports = class Application
   # Helpers
 
   _generate_id: ->
-    "#{@id_base}:#{@counter++}"
+    "#{@id_base}-#{@counter++}"
 
 
 
@@ -161,7 +161,7 @@ class QuestionCollection
       source_question = @source_questions[qid]
       question =
         type: "question"
-        id: "#{user.id}.#{source_question.id}"
+        id: "#{user.id}-#{source_question.id}"
         source_id: source_question.id
         user_id: user.id
         expires: Date.now() + @ttl
