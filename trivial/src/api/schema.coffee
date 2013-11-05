@@ -68,8 +68,8 @@ module.exports =
         success: {type: "boolean"}
         correct: {type: "string"}
 
-    global_statistics:
-      extends: {$ref: "#resource"}
+    #global_statistics:
+      #extends: {$ref: "#resource"}
 
     #statistics:
       #extends: {$ref: "#resource"}

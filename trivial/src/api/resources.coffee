@@ -1,46 +1,54 @@
-urn = (name) ->
-  "urn:patchboard.trivial##{name}"
+type = (name) ->
+  "application/vnd.trivial.#{name}+json;version=1.0"
 
 module.exports =
   users:
     actions:
       create:
         method: "POST"
-        request_schema: urn "user"
-        response_schema: urn "user"
-        status: 201
+        request:
+          type: type "user"
+        response:
+          type: type "user"
+          status: 201
 
   user_search:
     actions:
       get:
         method: "GET"
-        response_schema: urn "user"
-        status: 200
+        response:
+          type: type "user"
+          status: 200
 
   user:
     actions:
       get:
         method: "GET"
-        response_schema: urn "user"
-        status: 200
+        response:
+          type: type "user"
+          status: 200
       delete:
         method: "DELETE"
-        status: 204
+        response:
+          status: 204
 
   questions:
     actions:
       ask:
         method: "POST"
-        response_schema: urn "question"
-        status: 201
+        response:
+          type: type "question"
+          status: 201
 
   question:
     actions:
       answer:
         method: "POST"
-        request_schema: urn "answer"
-        response_schema: urn "result"
-        status: 200
+        request:
+          type: type "answer"
+        response:
+          type: type "result"
+          status: 200
 
   #statistics:
     #actions:
