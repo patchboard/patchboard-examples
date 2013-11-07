@@ -15,7 +15,6 @@ module.exports =
   user:
     resource: "user"
     template: "/users/:id"
-    associations: ["questions"]
 
   questions:
     resource: "questions"
