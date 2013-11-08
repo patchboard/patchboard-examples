@@ -1,7 +1,6 @@
 media_type = (name) ->
   "application/vnd.trivial.#{name}+json;version=1.0"
 
-
 module.exports =
 
   id: "urn:patchboard.trivial"
@@ -12,7 +11,6 @@ module.exports =
 
     user:
       extends: {$ref: "#resource"}
-      type: "object"
       mediaType: media_type "user"
       properties:
         login:
@@ -31,7 +29,6 @@ module.exports =
 
     questions:
       extends: {$ref: "#resource"}
-      type: "object"
       properties:
         asked:
           type: "object"

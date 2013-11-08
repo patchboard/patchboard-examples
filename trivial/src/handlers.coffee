@@ -1,13 +1,5 @@
 module.exports = (application) ->
 
-  #default_handler = (context) ->
-    #{match: {resource_type, action_name, path}, request: {body, query}} = context
-    #options =
-      #content: body
-      #query: query
-      #identifier: path
-    #application[resource_type][action_name](options, response_callback)
-
   response_callback = (context) ->
     {match} = context
     resource_type = match.resource_type
