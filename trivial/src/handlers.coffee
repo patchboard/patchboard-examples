@@ -1,6 +1,7 @@
 module.exports = (application) ->
 
   response_callback = (context) ->
+    context.set_cors_headers "*"
     {match} = context
     resource_type = match.resource_type
     status = match.success_status || 200
@@ -26,6 +27,7 @@ module.exports = (application) ->
 
   questions:
     ask: (context) ->
+      context.set_cors_headers "*"
       user_id = context.match.path.id
       application.ask user_id, (error, result) ->
         if error
@@ -43,6 +45,7 @@ module.exports = (application) ->
 
   question:
     answer: (context) ->
+      context.set_cors_headers "*"
       id = context.match.path.id
       answer = context.request.body
       application.answer_question id, answer, response_callback(context)
