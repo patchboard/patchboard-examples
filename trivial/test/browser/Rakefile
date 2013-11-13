@@ -1,0 +1,7 @@
+
+
+task "build" do
+  sh "ark ls -m manifest.cson > list.txt"
+  sh "ark package -m manifest.cson -f bundle.js"
+  sh "ls -lh bundle.js"
+end
