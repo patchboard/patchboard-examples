@@ -65,6 +65,6 @@ discover (client) ->
                         assert.ok error
                         assert.equal error.status, 409
                         data = JSON.parse error.response.body
-                        assert.equal data.message,
+                        assert.equal data.reason,
                           "Question has already been answered"
 

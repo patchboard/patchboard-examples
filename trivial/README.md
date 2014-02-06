@@ -31,7 +31,11 @@ demonstrate how Patchboard request dispatching can be glued to a backend.
 
 Run the server:
 
-    bin/server.coffee
+    bin/server.coffee path/to/questions.json
+
+For running the test below:
+
+    bin/server.coffee test/data/questions.json
 
 ## Functional test
 
