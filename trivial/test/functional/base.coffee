@@ -7,6 +7,18 @@ discover (client) ->
   {resources} = client
   Testify.test "Trivial API", (suite) ->
 
+    suite.test "invalid content", (context) ->
+      resources.users.create {name: "foo"}, (error, response) ->
+        context.test "Expected response", ->
+          assert.ok error
+          assert.equal error.status, 400
+
+    suite.test "abusive content", (context) ->
+      resources.users.create {login: "__proto__"}, (error, response) ->
+        context.test "Expected response", ->
+          assert.ok error
+          assert.equal error.status, 400
+
     suite.test "create a user", (context) ->
 
       login = new Buffer(Math.random().toString().slice(0, 6)).toString("hex")

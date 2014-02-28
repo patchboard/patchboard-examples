@@ -6,11 +6,8 @@ module.exports =
   id: "urn:patchboard.trivial"
   definitions:
 
-    resource:
-      extends: {$ref: "urn:patchboard#resource"}
-
     user:
-      extends: {$ref: "#resource"}
+      extends: {$ref: "urn:patchboard#resource"}
       mediaType: media_type "user"
       properties:
         login:
@@ -25,17 +22,13 @@ module.exports =
           minLength: 4
           maxLength: 64
         questions: {$ref: "#questions"}
-        #statistics: {$ref: "#statistics"}
 
     questions:
-      extends: {$ref: "#resource"}
-      properties:
-        asked:
-          type: "object"
-          #items: {$ref: "#answered_question"}
+      mediaType: media_type "questions"
+      extends: {$ref: "urn:patchboard#resource"}
 
     question:
-      extends: {$ref: "#resource"}
+      extends: {$ref: "urn:patchboard#resource"}
       mediaType: media_type "question"
       properties:
         expires:
@@ -66,10 +59,10 @@ module.exports =
         correct: {type: "string"}
 
     #global_statistics:
-      #extends: {$ref: "#resource"}
+      #extends: {$ref: "urn:patchboard#resource"}
 
     #statistics:
-      #extends: {$ref: "#resource"}
+      #extends: {$ref: "urn:patchboard#resource"}
       #mediaType: media_type "statistics"
       #properties:
         #questions: {type: "integer"}

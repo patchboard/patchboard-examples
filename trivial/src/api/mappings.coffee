@@ -5,8 +5,8 @@ module.exports =
     path: "/users"
 
   user_search:
-    resource: "user"
-    path: "/user"
+    resource: "user_search"
+    path: "/users"
     query:
       login:
         required: true
