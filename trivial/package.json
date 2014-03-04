@@ -10,15 +10,10 @@
     "schema.json"
   ],
   "dependencies": {
-    "patchboard": "0.4.0",
-    "patchboard-js": "0.4.0"
+    "patchboard": "0.4.9",
+    "patchboard-js": "0.4.3"
   },
   "devDependencies": {
     "testify": "0.2.x"
   }
 }
-
-
-
-
-

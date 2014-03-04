@@ -22,6 +22,9 @@ module.exports =
           minLength: 4
           maxLength: 64
         questions: {$ref: "#questions"}
+        answered:
+          type: "array"
+          items: {$ref: "#question"}
 
     questions:
       mediaType: media_type "questions"
