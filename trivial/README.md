@@ -29,6 +29,10 @@ demonstrate how Patchboard request dispatching can be glued to a backend.
 
 ## Usage
 
+Install NPM dependencies:
+
+    npm install
+
 Run the server:
 
     bin/server.coffee path/to/questions.json
@@ -41,21 +45,6 @@ For running the test below:
 
     coffee test/functional/base.coffee
 
-
-## APIflow (pseudo synchronous)
-
-``` coffee
-{resources} = Client.discover(url)
-
-user = resources.users.create(params)
-user = resources.users.login(params)
-
-question = user.questions.ask()
-result = question.answer("b")
-
-# can't answer twice
-409_conflict = question.answer("c")
-```
 
 
 ## Acknowledgments
