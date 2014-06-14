@@ -10,7 +10,7 @@
     "schema.json"
   ],
   "dependencies": {
-    "patchboard": "0.4.9",
+    "patchboard": "0.4.11",
     "patchboard-js": "0.4.3"
   },
   "devDependencies": {
