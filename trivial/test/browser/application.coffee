@@ -71,7 +71,6 @@ window.onload = ->
                           assert.ok error
                           assert.equal error.status, 409
                           data = JSON.parse error.response.body
-                          assert.equal data.message,
-                            "Question has already been answered"
+                          assert.equal data.message, "conflict"
 
 

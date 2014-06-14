@@ -8,7 +8,10 @@
   "license": "MIT",
   "dependencies": {
     "testify": "0.2.x",
-    "patchboard-js": "0.4.0rc4"
+    "patchboard-js": "~0.4.4"
+  },
+  "devDependencies": {
+    "ark": "~0.5.1"
   }
 }
 

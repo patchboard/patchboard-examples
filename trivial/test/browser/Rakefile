@@ -1,7 +1,8 @@
 
 
 task "build" do
-  sh "ark ls -m manifest.cson > list.txt"
-  sh "ark package -m manifest.cson -f bundle.js"
+  ark = "./node_modules/.bin/ark"
+  sh "#{ark} ls > list.txt"
+  sh "#{ark} package -o bundle.js"
   sh "ls -lh bundle.js"
 end
