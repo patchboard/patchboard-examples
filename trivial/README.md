@@ -37,14 +37,27 @@ Run the server:
 
     bin/server.coffee path/to/questions.json
 
-For running the test below:
+For running the tests below:
 
     bin/server.coffee test/data/questions.json
 
-## Functional test
+## Functional test with Node.js
 
     coffee test/functional/base.coffee
 
+## Functional test in the browser
+
+The functional tests can also be run in a web browser, using bundled JavaScript.
+
+    cd test/browser
+    rake build
+
+Then serve the files in that directory with any web server.  If you have Python
+installed you can do this:
+
+    python -m SimpleHTTPServer 9000 # or any available port
+
+Then visit http://localhost:9000/ in a web browser.
 
 
 ## Acknowledgments
