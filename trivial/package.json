@@ -11,7 +11,7 @@
   ],
   "dependencies": {
     "patchboard": "0.4.11",
-    "patchboard-js": "0.4.3"
+    "patchboard-js": "0.4.5"
   },
   "devDependencies": {
     "testify": "0.2.x"
