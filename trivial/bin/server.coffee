@@ -29,7 +29,7 @@ handlers = require("../src/handlers")(application)
 
 
 
-server = new Patchboard.Server api,
+server = new Patchboard.SimpleServer api,
   host: "127.0.0.1"
   port: 1979
   url: "http://127.0.0.1:1979/"
